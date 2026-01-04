@@ -1,0 +1,194 @@
+@prefix : <http://www.semanticweb.org/carme/ontologies/2025/9/human_geography_thesis_archive_ontology/> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix bn: <http://babelnet.org/rdf/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix disco: <http://rdf-vocabulary.ddialliance.org/discovery#> .
+@prefix schema: <http://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geonames: <https://www.geonames.org/ontology/> .
+@prefix human_geography_thesis_archive_ontology: <http://www.semanticweb.org/carme/ontologies/2025/9/human_geography_thesis_archive_ontology#> .
+@base <http://www.semanticweb.org/carme/ontologies/2025/9/human_geography_thesis_archive_ontology/> .
+
+<http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology> rdf:type owl:Ontology .
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://www.w3.org/2001/XMLSchema#gYearMonth
+xsd:gYearMonth rdf:type rdfs:Datatype .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://purl.org/dc/terms/hasSubject
+dcterms:hasSubject rdf:type owl:ObjectProperty ;
+                   rdfs:domain human_geography_thesis_archive_ontology:Thesis ;
+                   rdfs:range :ThesisSubject .
+
+
+###  http://purl.org/dc/terms/spatial
+dcterms:spatial rdf:type owl:ObjectProperty ;
+                rdfs:domain human_geography_thesis_archive_ontology:Thesis ;
+                rdfs:range :ThesisSpatial .
+
+
+###  http://www.geonames.org/ontology#parentFeature
+<http://www.geonames.org/ontology#parentFeature> rdf:type owl:ObjectProperty ,
+                                                          owl:TransitiveProperty ;
+                                                 rdfs:domain :ThesisSpatial ;
+                                                 rdfs:range :ThesisSpatial .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#FocusSpatial
+:FocusSpatial rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf dcterms:spatial .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#MentionedSpatial
+:MentionedSpatial rdf:type owl:ObjectProperty ;
+                  rdfs:subPropertyOf dcterms:spatial .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#hasCategory
+:hasCategory rdf:type owl:ObjectProperty ;
+             rdfs:domain :ThesisSubject ;
+             rdfs:range :SubjectCategory .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#hasStudyGroup
+:hasStudyGroup rdf:type owl:ObjectProperty .
+
+
+###  http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+rdf:type rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://purl.org/dc/terms/creator
+dcterms:creator rdf:type owl:DatatypeProperty ;
+                rdfs:domain human_geography_thesis_archive_ontology:Thesis ;
+                rdfs:range xsd:string .
+
+
+###  http://purl.org/dc/terms/issued
+dcterms:issued rdf:type owl:DatatypeProperty ;
+               rdfs:domain human_geography_thesis_archive_ontology:Thesis ;
+               rdfs:range xsd:integer .
+
+
+###  http://purl.org/dc/terms/title
+dcterms:title rdf:type owl:DatatypeProperty ;
+              rdfs:domain human_geography_thesis_archive_ontology:Thesis ;
+              rdfs:range xsd:string .
+
+
+###  http://www.w3.org/2000/01/rdf-schema#label
+rdfs:label rdf:type owl:DatatypeProperty .
+
+
+###  http://www.w3.org/2003/01/geo/wgs84_pos#asWKT
+<http://www.w3.org/2003/01/geo/wgs84_pos#asWKT> rdf:type owl:DatatypeProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/human_geography_thesis_archive_ontology#Thesis
+human_geography_thesis_archive_ontology:Thesis rdf:type owl:Class ;
+                                               rdfs:subClassOf [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty dcterms:hasSubject ;
+                                                                 owl:someValuesFrom :ThesisSubject
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty dcterms:spatial ;
+                                                                 owl:someValuesFrom :ThesisSpatial
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty :hasStudyGroup ;
+                                                                 owl:someValuesFrom :ThesisStudyGroup
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty dcterms:creator ;
+                                                                 owl:someValuesFrom xsd:string
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty dcterms:issued ;
+                                                                 owl:someValuesFrom xsd:integer
+                                                               ] ,
+                                                               [ rdf:type owl:Restriction ;
+                                                                 owl:onProperty dcterms:title ;
+                                                                 owl:someValuesFrom xsd:string
+                                                               ] ;
+                                               rdfs:comment "A historical SGPL thesis" .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#SubjectCategory
+:SubjectCategory rdf:type owl:Class ;
+                 rdfs:comment "Category of a subject." .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#ThesisSpatial
+:ThesisSpatial rdf:type owl:Class ;
+               rdfs:comment "The spatial extent, study area or spatial coverage of the entire thesis, given as a placename or place description." .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#ThesisStudyGroup
+:ThesisStudyGroup rdf:type owl:Class ;
+                  rdfs:comment "The group of persons studied in a thesis." .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#ThesisSubject
+:ThesisSubject rdf:type owl:Class ;
+               rdfs:comment "Concept that is the main subject of the thesis." .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://babelnet.org/rdf/synset/bn:01036688n
+<http://babelnet.org/rdf/synset/bn:01036688n> rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#Focus
+:Focus rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#Jan_de_Vries
+:Jan_de_Vries rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#Mentioned
+:Mentioned rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#industrie
+:industrie rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#industriele_structuur
+:industriele_structuur rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#1971_Abcouwer_NF_Ontwikkelingen_in_de_industriele_structuur_van_zuid-west-Nederland_1945-1970
+<http://www.semanticweb.org/carme/ontologies/2025/9/student-thesis-ontology#1971_Abcouwer_NF_Ontwikkelingen_in_de_industriele_structuur_van_zuid-west-Nederland_1945-1970> rdf:type owl:NamedIndividual ;
+                                                                                                                                                                           dcterms:hasSubject :industrie ,
+                                                                                                                                                                                              :industriele_structuur ;
+                                                                                                                                                                           dcterms:issued 1971 ;
+                                                                                                                                                                           dcterms:title "ONTWIKKELINGEN IN DE INDUSTRIËLE STRUCTUUR VAN ZUID - WEST - NEDERLAND 1945 - 1970" .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
