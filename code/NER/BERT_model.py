@@ -23,6 +23,8 @@ from BERT_settings import checkpoint, epochs_count, LABELS
 from model_helper_functions import compute_metrics, count_entities, compute_ner_metrics
 from plot_loss import plot_learning_curve
 
+from time import time
+
 
 ###################################################################################################
 ## This script:
@@ -31,6 +33,7 @@ from plot_loss import plot_learning_curve
 # 3. Saves the one with the best accuracy
 # 4. Generates a figure with the model performance (loss curve)
 ####################################################################################################
+start_time = time()
 
 tokenizer = AutoTokenizer.from_pretrained(checkpoint, use_fast=True) #TEMP
 
@@ -44,7 +47,6 @@ train_dataloader = DataLoader(
 validation_dataloader = DataLoader(
     tokenized_datasets["test"], batch_size=8, collate_fn=data_collator
 )
-
 
 ###### Setting parameters ######
 
@@ -84,11 +86,13 @@ training_loss_values, validation_loss_values, token_accuracies = [], [], []
 unique_labels = list(set([label.split("-")[1] for label in LABELS if label != "O"]))
 overall_metrics_df = pd.DataFrame(columns=unique_labels)
 
+starting_training_time = time()
+print("Tokenization time: %.2f seconds" % (starting_training_time - start_time))
 ###### Training loop ######
 for epoch in trange(epochs_count, desc="Epoch"):
-    
+    start_epoch_time = time()
     # --- Training ---
-    print("Going through training epoch ", epoch+1)
+    print("\n Going through training epoch ", epoch+1)
     model.train() # Set model to training mode
     total_loss = 0
     total_sequences = 0
@@ -115,7 +119,7 @@ for epoch in trange(epochs_count, desc="Epoch"):
 
     # --- Validation ---
     model.eval() # Set model to evaluation mode
-    print("Going through validation epoch ", epoch+1)
+    print("\n Going through validation epoch ", epoch+1)
     eval_loss = 0
     total_sequences = 0
     correct_tokens = 0
@@ -193,25 +197,30 @@ for epoch in trange(epochs_count, desc="Epoch"):
         best_precision = precision
         best_epoch = epoch
         best_model_state = model.state_dict()
-        
+
+    end_epoch_time = time()
+    print("Epoch time: %.2f seconds" % (end_epoch_time - start_epoch_time))
     print("================= END OF EPOCH ==============\n")
 
 print("Training loss values:", training_loss_values)
 print("Validation loss values:", validation_loss_values)
-print("Token accuracies:", token_accuracies)
+# print("Token accuracies:", token_accuracies)
 overall_metrics_df["training_loss"] = training_loss_values
 overall_metrics_df["validation_loss"] = validation_loss_values
-overall_metrics_df["token_accuracy"] = token_accuracies
+# overall_metrics_df["token_accuracy"] = token_accuracies
 
-output_model = ('C:/Users/carme/OneDrive/Documents/Git_Repos/GIMA_thesis/code/NER/models/model_' + str(best_epoch) +'_precision_' + str(best_precision) + '.pt')
+output_model = ('code/NER/models/model_' + str(best_epoch) +'_precision_' + str(best_precision) + '.pt')
 torch.save(best_model_state, output_model)
+
+print("Total training time: %.2f seconds" % (time() - starting_training_time))
 
 # Visualize the training loss
 print("This is the final metrics df, going into the plot:", overall_metrics_df)
 learning_curve = plot_learning_curve(overall_metrics_df, metric_name="Precision")
-learning_curve.savefig('C:/Users/carme/OneDrive/Documents/Git_Repos/GIMA_thesis/code/NER/Figures/learning_curve_' + str(best_epoch) +'_precision_' + str(best_precision) + '.png', bbox_inches='tight')
+learning_curve.savefig('code/NER/Figures/learning_curve_' + str(best_epoch) +'_precision_' + str(best_precision) + '.png', bbox_inches='tight')
 learning_curve.show()
 learning_curve.close()
+
 
 # # Restore best model
 # model.load_state_dict(best_model_state)
