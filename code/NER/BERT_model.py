@@ -53,6 +53,7 @@ print("Val labels:", count_entities(tokenized_datasets["test"]))
 
 ### Hardware settings ###
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+print(f"Model is on device: {device}")
 
 model = BertForTokenClassification.from_pretrained(
     checkpoint,
