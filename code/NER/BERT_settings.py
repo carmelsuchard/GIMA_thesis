@@ -2,7 +2,7 @@ import pandas as pd
 
 ### Model settings ###
 checkpoint = "GroNLP/bert-base-dutch-cased"
-epochs_count = 8
+epochs_count = 10
 # checkpoint = "bert-base-multilingual-cased"
 
 ### Training settings ###
@@ -29,7 +29,7 @@ LABELS = [
 #         "B-inGroup",
 #         "I-inGroup"
 #     ]
-training_datasets_path = r"C:/Users/carme/OneDrive/Documents/Graduate_Programs/Thesis/code/annotated_conll_files/testing3"
+training_datasets_path = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\annotated_conll_files\testing4"
 
 if __name__ == "__main__":
     print(LABELS)

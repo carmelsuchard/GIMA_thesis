@@ -24,7 +24,7 @@ def compute_metrics(predictions, labels, id2label):
 
     precision = precision_score(true_labels, true_predictions)
     recall = recall_score(true_labels, true_predictions)
-    f1 = f1_score(true_laplot_learning_curvebels, true_predictions)
+    f1 = f1_score(true_labels, true_predictions)
     report = classification_report(true_labels, true_predictions, digits=4)
     return precision, recall, f1, report
 
@@ -44,7 +44,7 @@ def compute_ner_metrics(predictions, labels, id2label):
         true_predictions.append(seq_preds)
         true_labels.append(seq_labels)
         
-    evaluator = Evaluator(true_labels, true_predictions, tags=['title', 'spatial', 'author', 'issued', 'inGroup', 'subject'], loader="list")
+    evaluator = Evaluator(true_labels, true_predictions, tags=['title', 'spatial', 'author', 'issued', 'inGroup', 'subject', 'AUTHOR', 'TITLE', 'ISSUED'], loader="list")
     results = evaluator.evaluate()
         
     metrics_dict = {key: value['ent_type'].precision for key, value in results["entities"].items()}

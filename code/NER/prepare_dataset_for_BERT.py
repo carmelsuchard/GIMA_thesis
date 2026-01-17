@@ -70,7 +70,7 @@ def make_label_dicts():
 def tokenize_and_align_labels(examples):
     print("Tokenizing and aligning labels...")
     tokenized_inputs = tokenizer(
-        examples["tokens"], truncation=True, is_split_into_words=True
+        examples["tokens"], truncation=True, is_split_into_words=True, max_length=512
     )
     labels = []
     for i, label in enumerate(examples["ner_tags"]):
