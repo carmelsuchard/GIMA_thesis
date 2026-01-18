@@ -3,6 +3,7 @@ import pandas as pd
 ### Model settings ###
 checkpoint = "GroNLP/bert-base-dutch-cased"
 epochs_count = 2
+batch_size = 8
 # checkpoint = "bert-base-multilingual-cased"
 
 ### Training settings ###
@@ -29,6 +30,8 @@ LABELS = [
         "B-inGroup",
         "I-inGroup"
     ]
+
+archive_theses_path = r"./code/full_archive/Dutch"
 training_datasets_path = r"./code/annotated_conll_files/testing2"
 
 if __name__ == "__main__":
