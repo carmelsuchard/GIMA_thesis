@@ -4,7 +4,9 @@ import re
 from itertools import product
 from transformers import logging, AutoTokenizer, DataCollatorWithPadding, DataCollatorForTokenClassification
 from BERT_settings import checkpoint, training_datasets_path, LABELS, epochs_count
-
+from model_helper_functions import count_entities
+import sys
+from torch.utils.data import DataLoader
 
 # TAGS_TO_REMOVE = ["summary", "publisher", "dataSource", "method", "question", "goal", "null"]
 # replacement_dict = {identifier + bad_tag: "O" for identifier, bad_tag in product(["B-", "I-"], TAGS_TO_REMOVE)}
@@ -14,7 +16,6 @@ from BERT_settings import checkpoint, training_datasets_path, LABELS, epochs_cou
 tokenizer = AutoTokenizer.from_pretrained(checkpoint, use_fast=True)
 
 def read_conll_file(file_path):
-    # TODO : clearn files for Nulls and weird characters
     training_examples = []
     current_tokens = []
     current_labels = []
@@ -33,7 +34,12 @@ def read_conll_file(file_path):
                     current_labels = []
                 continue
             
-            token, label = line.split()
+            try:
+                token, label = line.split()
+            except Exception as e:
+                print(f"This failed on this line: {line}")
+                sys.exit()
+                
             current_tokens.append(token)
             current_labels.append(label)
     
@@ -64,7 +70,6 @@ def convert_to_dataset(thesis_data, label_map):
 def make_label_dicts():
     label2id  = {label: i for i, label in enumerate(LABELS)}
     id2label = {id: label for label, id in label2id.items()}
-
     return label2id, id2label
 
 def tokenize_and_align_labels(examples):
@@ -117,8 +122,17 @@ if __name__ == "__main__":
     # result = compile_theses(training_datasets_path)
     # label2id, id2label = make_label_dicts()
     # dataset = convert_to_dataset(result, label2id)
-    # print(dataset)
-    print(prepare_dataset())
-    
-    
+    tokenized_datasets, label2id, id2label = prepare_dataset()
+    data_collator = make_collator()
+
+    train_dataloader = DataLoader(
+        tokenized_datasets["train"], shuffle=True, batch_size=8, collate_fn=data_collator
+    )
+    validation_dataloader = DataLoader(
+        tokenized_datasets["test"], batch_size=8, collate_fn=data_collator
+    )
+
+    print("Train labels:", count_entities(tokenized_datasets["train"]))
+    print("Val labels:", count_entities(tokenized_datasets["test"]))
+    print(id2label)
     

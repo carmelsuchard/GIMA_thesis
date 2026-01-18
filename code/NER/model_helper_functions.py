@@ -44,8 +44,17 @@ def compute_ner_metrics(predictions, labels, id2label):
         true_predictions.append(seq_preds)
         true_labels.append(seq_labels)
         
+
+    good_labels = [seq for seq in true_labels if any("I-" in item for item in seq)]   
+    good_predictions = [seq for seq in true_predictions if any("I-" in item for item in seq)]   
+    
+    print(f"\n This is the true labels going into the evaluator: {good_labels[0:20]}")
+    print(f"\n This is the true predictions going into the evaluator: {good_predictions[0:20]}")
     evaluator = Evaluator(true_labels, true_predictions, tags=['title', 'spatial', 'author', 'issued', 'inGroup', 'subject', 'AUTHOR', 'TITLE', 'ISSUED'], loader="list")
     results = evaluator.evaluate()
+
+    print(evaluator.summary_report())
+
         
     metrics_dict = {key: value['ent_type'].precision for key, value in results["entities"].items()}
     metrics_dict["overall"] = results["overall"]["ent_type"].precision
