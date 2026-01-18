@@ -21,7 +21,7 @@ from transformers import get_scheduler
 import torch
 import evaluate
 from BERT_settings import checkpoint
-from model_helper_functions import compute_metrics, count_entities
+from code.NER.BERT_model_helper_functions import compute_metrics, count_entities
 
 
 ###################################################################################################

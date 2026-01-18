@@ -62,3 +62,4 @@ __pycache__/
 venv/
 
 code/annotator_agreement
+code/NER/Gemini_api.py

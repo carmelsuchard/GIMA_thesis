@@ -3,6 +3,7 @@ from nervaluate.evaluator import Evaluator
 from collections import Counter
 import pandas as pd
 from collections import namedtuple
+from BERT_settings import LABELS
 
 def compute_metrics(predictions, labels, id2label):
     print("\n Computing metrics...")    
@@ -72,6 +73,12 @@ def count_entities(dataset):
             if l != -100:
                 counter[l] += 1
     return counter
+
+def make_label_dicts():
+    label2id  = {label: i for i, label in enumerate(LABELS)}
+    id2label = {id: label for label, id in label2id.items()}
+
+    return label2id, id2label
 
 if __name__ == "__main__":
     predictions = [['O'], ['B-title', 'O', 'B-spatial', 'I-title', 'I-title', 'B-author', 'I-title', 'O', 'O', 'I-title', 'I-title', 'O', 'I-title', 'I-title', 'I-title', 'I-issued', 'I-issued', 'I-title', 'O', 'I-title']]

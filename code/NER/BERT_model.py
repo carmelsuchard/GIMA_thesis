@@ -19,8 +19,13 @@ import pickle
 
 from transformers import get_scheduler
 import torch
+<<<<<<< HEAD
 from BERT_settings import checkpoint, epochs_count, LABELS, training_datasets_path
 from model_helper_functions import compute_metrics, count_entities, compute_ner_metrics
+=======
+from BERT_settings import checkpoint, epochs_count, LABELS, batch_size
+from BERT_model_helper_functions import compute_metrics, count_entities, compute_ner_metrics
+>>>>>>> b62e07e9432bbfb8e20bd9fce9eb1e59a34e716e
 from plot_loss import plot_learning_curve
 
 from time import time
@@ -35,17 +40,17 @@ from time import time
 ####################################################################################################
 start_time = time()
 
-tokenizer = AutoTokenizer.from_pretrained(checkpoint, use_fast=True) #TEMP
+tokenizer = AutoTokenizer.from_pretrained(checkpoint, use_fast=True)
 
 ###### Prepare and tokenize dataset ######
 tokenized_datasets, label2id, id2label = prepare_dataset()
 data_collator = make_collator()
 
 train_dataloader = DataLoader(
-    tokenized_datasets["train"], shuffle=True, batch_size=8, collate_fn=data_collator
+    tokenized_datasets["train"], shuffle=True, batch_size=batch_size, collate_fn=data_collator
 )
 validation_dataloader = DataLoader(
-    tokenized_datasets["test"], batch_size=8, collate_fn=data_collator
+    tokenized_datasets["test"], batch_size=batch_size, collate_fn=data_collator
 )
 
 ###### Setting parameters ######
@@ -110,9 +115,9 @@ for epoch in trange(epochs_count, desc="Epoch"):
         scheduler.step()
 
 
-        batch_size = batch["input_ids"].size(0)
-        total_loss += loss.item() * batch_size
-        total_sequences += batch_size
+        size_of_this_batch = batch["input_ids"].size(0)
+        total_loss += loss.item() * size_of_this_batch
+        total_sequences += size_of_this_batch
 
     avg_train_loss = total_loss / total_sequences
     training_loss_values.append(avg_train_loss)
@@ -136,9 +141,9 @@ for epoch in trange(epochs_count, desc="Epoch"):
             loss = outputs.loss
             logits = outputs.logits
 
-            batch_size = batch["input_ids"].size(0)
-            eval_loss += loss.item() * batch_size # Add this batch's loss to the total
-            total_sequences += batch_size
+            size_of_this_batch = batch["input_ids"].size(0)
+            eval_loss += loss.item() * size_of_this_batch # Add this batch's loss to the total
+            total_sequences += size_of_this_batch
 
             predictions = torch.argmax(logits, dim=-1) # Takes the logits (raw scores) and picks the highest one, and get the prediction
             labels = batch["labels"] # Get the true labels from the batch
