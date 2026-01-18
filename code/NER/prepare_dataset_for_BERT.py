@@ -4,13 +4,9 @@ import re
 from itertools import product
 from transformers import logging, AutoTokenizer, DataCollatorWithPadding, DataCollatorForTokenClassification
 from BERT_settings import checkpoint, training_datasets_path, LABELS, epochs_count
-<<<<<<< HEAD
-from model_helper_functions import count_entities
+from BERT_model_helper_functions import count_entities, make_label_dicts
 import sys
 from torch.utils.data import DataLoader
-=======
-from code.NER.BERT_model_helper_functions import make_label_dicts
->>>>>>> b62e07e9432bbfb8e20bd9fce9eb1e59a34e716e
 
 # TAGS_TO_REMOVE = ["summary", "publisher", "dataSource", "method", "question", "goal", "null"]
 # replacement_dict = {identifier + bad_tag: "O" for identifier, bad_tag in product(["B-", "I-"], TAGS_TO_REMOVE)}
@@ -71,14 +67,6 @@ def convert_to_dataset(thesis_data, label_map):
         "ner_tags": [[label_map[l] for l in thesis["ner_tags"]] for thesis in thesis_data]
     })
 
-<<<<<<< HEAD
-def make_label_dicts():
-    label2id  = {label: i for i, label in enumerate(LABELS)}
-    id2label = {id: label for label, id in label2id.items()}
-    return label2id, id2label
-
-=======
->>>>>>> b62e07e9432bbfb8e20bd9fce9eb1e59a34e716e
 def tokenize_and_align_labels(examples):
     print("Tokenizing and aligning labels...")
     tokenized_inputs = tokenizer(

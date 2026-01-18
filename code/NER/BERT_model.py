@@ -19,13 +19,8 @@ import pickle
 
 from transformers import get_scheduler
 import torch
-<<<<<<< HEAD
-from BERT_settings import checkpoint, epochs_count, LABELS, training_datasets_path
-from model_helper_functions import compute_metrics, count_entities, compute_ner_metrics
-=======
-from BERT_settings import checkpoint, epochs_count, LABELS, batch_size
+from BERT_settings import checkpoint, epochs_count, LABELS, batch_size, training_datasets_path
 from BERT_model_helper_functions import compute_metrics, count_entities, compute_ner_metrics
->>>>>>> b62e07e9432bbfb8e20bd9fce9eb1e59a34e716e
 from plot_loss import plot_learning_curve
 
 from time import time

@@ -21,12 +21,13 @@ model = BertForTokenClassification.from_pretrained(
     output_attentions=False,
     output_hidden_states=False,
 )
-model.load_state_dict(torch.load("C:/Users/carme/OneDrive/Documents/Git_Repos/GIMA_thesis/code/NER/models/model_9_precision_1.0.pt"))
+model.load_state_dict(torch.load("C:/Users/5298954/Documents/Github_Repos/GIMA_thesis/code/NER/models/model_cleaned_epoch_2_precision_0.3125.pt"))
 model.to(device)
 model.eval()
 
 
 def read_text_to_list(file_path):
+    print("Reading file...")
     with open(file_path, "r", encoding="utf-8") as f:
         text = f.read()
         # Split the sentences both along new lines and perriods into lists. Then within the lists, split into words.
@@ -37,6 +38,7 @@ def read_text_to_list(file_path):
     return sentences
 
 def prepare_sentence_for_inference(sentence_words, tokenizer, device):
+    print("Tokenizing...")
     # Tokenize the sentence (sentence_words is already split into words)
     tokenized = tokenizer(
         sentence_words, 
@@ -97,6 +99,6 @@ def get_labels_for_thesis(file_path):
 
 if __name__ == "__main__":
     
-    archive_theses_path = "C:\\Users\\carme\\OneDrive\\Documents\\Git_Repos\\GIMA_thesis\\code\\full_archive\\original\\Dutch\\1985_Miltenburg_van_Wouter_Het_verhuisverleden_van_allochtone_huishhoudens_UU.txt"
+    archive_theses_path = "C:/Users/5298954/Documents/Github_Repos/GIMA_thesis/code/full_archive/original/English/1982_Overtoom_Paul_Regional_economic_development_in_northwest_Mexico_UU.txt"
     get_labels_for_thesis(archive_theses_path)
     

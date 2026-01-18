@@ -3,7 +3,7 @@ import os
 
 ### Model settings ###
 checkpoint = "GroNLP/bert-base-dutch-cased"
-epochs_count = 2
+epochs_count = 10
 batch_size = 8
 # checkpoint = "bert-base-multilingual-cased"
 
@@ -33,7 +33,7 @@ LABELS = [
     ]
 
 archive_theses_path = r"./code/full_archive/Dutch"
-training_datasets_path = r"./code/annotated_conll_files/testing2"
+training_datasets_path = r"./code/annotated_conll_files/cleaned"
 
 if __name__ == "__main__":
     # print(LABELS)
