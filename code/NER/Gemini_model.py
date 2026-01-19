@@ -8,10 +8,6 @@ import json
 
 os.environ['GEMINI_API_KEY'] = API_key
 
-training_dir_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\cleaned"
-inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\full_archive\original\Dutch\1956_Daniels_Phil_Religieuze_gezindte_en_politieke_voorkeur_in_de_provincie_Overijsel_UU.txt"
-
-
 class Label(BaseModel):
     spatial: List[str]
     author: List[str]
@@ -118,7 +114,17 @@ def predict_labels(training_dir_path, inference_file_path, type):
 
 
 if __name__ == "__main__":
+
+    training_dir_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\cleaned"
+    # inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation\1994_Slabbertje_Martin_Het_PPP-project.conll"
+    inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation\2007_Jong_de_Stefan_Een_onderzoek_naar_e-commerce_succes_in_de_binnenstad.conll"
+
     predict_labels(training_dir_path, inference_file_path, "zero-shot")
+
+
+
+
+# For env: pip install google-genai
 
 
 
