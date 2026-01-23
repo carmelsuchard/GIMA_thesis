@@ -45,7 +45,7 @@ train_dataloader = DataLoader(
     tokenized_datasets["train"], shuffle=True, batch_size=batch_size, collate_fn=data_collator
 )
 validation_dataloader = DataLoader(
-    tokenized_datasets["test"], batch_size=batch_size, collate_fn=data_collator
+    tokenized_datasets["validation"], batch_size=batch_size, collate_fn=data_collator
 )
 
 ###### Setting parameters ######
