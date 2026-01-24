@@ -158,18 +158,34 @@ for epoch in trange(epochs_count, desc="Epoch"):
             preds = predictions.cpu().numpy()
             labs = labels.cpu().numpy()
 
-            for doc_id, pred_seq, label_seq in zip(doc_ids, preds, labs): # Iterate over the theses  in the batch, getting their id, predictions and labels
+            for doc_id, pred_seq, label_seq, input_id_seq in zip(doc_ids, preds, labs, input_ids): # Iterate over the theses in the batch, getting their id, predictions and labels
+                original_tokens = tokenizer.convert_ids_to_tokens(input_id_seq)
+
+                seq_tokens = []
                 seq_preds = []
                 seq_labels = []
-                
-                for p, l in zip(pred_seq, label_seq):
+
+
+                for token, p, l in zip(original_tokens, pred_seq, label_seq):
                     if l != -100:
                         seq_preds.append(p)
                         seq_labels.append(l)
+                        seq_tokens.append(token)
                 
                 # Collect all predictions and labels for metric computation
-                doc_predictions[doc_id].append(seq_preds)
-                doc_labels[doc_id].append(seq_labels)
+                seq_pred_labels = [id2label[p] for p in seq_preds] # Convert prediction ids to label names
+                seq_true_labels = [id2label[l] for l in seq_labels] # Convert true label ids to label names
+
+                doc_predictions[doc_id].append((seq_tokens, seq_preds))
+                doc_labels[doc_id].append((seq_tokens, seq_labels))
+
+                print("DOC:", doc_id)
+                print("doc_predictions[doc_id][0]:")
+                print(doc_predictions[doc_id][0])
+                # print(doc_predictions[doc_id][1])
+                # for t, l in doc_predictions[doc_id][0][:10]:
+                #     print(f"{t:12} -> {l}")
+                # break
                 
                 # Only print on last epoch
                 # if epoch == epochs_count - 1:
@@ -191,7 +207,7 @@ for epoch in trange(epochs_count, desc="Epoch"):
     token_accuracies.append(token_accuracy)
     print(f"Validation loss: {avg_eval_loss:.4f} | Token accuracy: {token_accuracy:.4f}")
 
-    # Compute F1 metrics
+    # Compute metrics
     metrics_table = compute_ner_metrics(doc_predictions, doc_labels, id2label)
     overall_metrics_df = pd.concat([overall_metrics_df, metrics_table])
     
@@ -228,9 +244,9 @@ learning_curve.show()
 learning_curve.close()
 
 
-# # Restore best model
-# model.load_state_dict(best_model_state)
-# print(f"Best model restored from epoch {best_epoch+1} with Precision = {best_precision:.4f}")
+# Restore best model
+model.load_state_dict(best_model_state)
+print(f"Best model restored from epoch {best_epoch+1} with Precision = {best_precision:.4f}")
 
 
 
