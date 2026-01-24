@@ -5,6 +5,8 @@ from pydantic import BaseModel, Field
 from typing import List, Optional
 import pandas as pd
 import json
+import random
+import time
 
 os.environ['GEMINI_API_KEY'] = API_key
 
@@ -25,7 +27,8 @@ def build_prompt(training_dir_path, inference_file_path, few_shot=True):
 
     if few_shot: # Few-shot version of the prompt
         conlls = [os.path.join(training_dir_path, f) for f in os.listdir(training_dir_path) if os.path.isfile(os.path.join(training_dir_path, f)) and f.endswith(".conll")]
-        conll_training_paths = conlls[2:3]
+        # Take two random conll files as training examples
+        conll_training_paths = random.sample(conlls, 2)
 
         full_text = []
         for indx, conll in enumerate(conll_training_paths):
@@ -85,8 +88,8 @@ def build_prompt(training_dir_path, inference_file_path, few_shot=True):
         """
 
     # Save the prompt to text if needed to see it
-    # with open(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\NER\prompt_preview.txt", "w", encoding="utf-8") as f:
-    #     f.write(prompt)
+    with open(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\NER\prompt_preview.txt", "w", encoding="utf-8") as f:
+        f.write(prompt)
 
     return prompt
 
@@ -102,10 +105,10 @@ def predict_labels(training_dir_path, inference_file_path, type):
     else:
         print("Specify if predict zero-shot or few-shot")
 
-    total_tokens = client.models.count_tokens(
-    model="gemini-2.0-flash", contents=prompt
-    )
-    print("total_tokens: ", total_tokens)
+    # total_tokens = client.models.count_tokens(
+    # model="gemini-3-flash", contents=prompt
+    # )
+    # print("total_tokens: ", total_tokens)
 
     response = client.models.generate_content(
         model="gemini-3-flash-preview",
@@ -130,15 +133,29 @@ def predict_labels(training_dir_path, inference_file_path, type):
     results_df.to_csv(results_csv, index=False)
 
     print(results_df)
+    time.sleep(60)  # Add a delay to avoid hitting rate limits or overwhelming the API
 
 
 if __name__ == "__main__":
+    training_dir_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Training"
 
-    training_dir_path = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Training"
-    # inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation\1994_Slabbertje_Martin_Het_PPP-project.conll"
-    inference_file_path = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation\2007_Jong_de_Stefan_Een_onderzoek_naar_e-commerce_succes_in_de_binnenstad.conll"
+    # # Zero-shot loop
+    # for validation_thesis in os.listdir(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation"):
+    #     predict_labels(training_dir_path, os.path.join(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation", validation_thesis), "zero-shot")
 
-    predict_labels(training_dir_path, inference_file_path, "zero-shot")
+    # Few-shot loop
+    for validation_thesis in os.listdir(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation"):
+        print("Processing file: ", validation_thesis)
+        if "1982_Baten_Henk_Groeikern_oo" not in validation_thesis:
+            predict_labels(training_dir_path, os.path.join(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation", validation_thesis), "few-shot")
+
+    # # Single file prediction
+    # inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation\1982_Baten_Henk_Groeikern_ook_koopkern.conll"
+    # predict_labels(training_dir_path, inference_file_path, "few-shot")
+
+
+
+
 
 
 
