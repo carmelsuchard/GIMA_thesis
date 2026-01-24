@@ -3,7 +3,7 @@ import os
 
 ### Model settings ###
 checkpoint = "GroNLP/bert-base-dutch-cased"
-epochs_count = 10
+epochs_count = 1
 batch_size = 8
 # checkpoint = "bert-base-multilingual-cased"
 
@@ -34,8 +34,8 @@ LABELS = [
 
 archive_theses_path = r"./code/full_archive/Dutch"
 # training_datasets_path = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\annotated_conll_files\BERT_data_IO\Training"
-training_datasets_path = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\annotated_conll_files\cleaned_small\Training"
-validation_datasets_path = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\annotated_conll_files\cleaned_small\Validation"
+training_datasets_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\cleaned_small\Training"
+validation_datasets_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\cleaned_small\Validation"
 
 if __name__ == "__main__":
     # print(LABELS)

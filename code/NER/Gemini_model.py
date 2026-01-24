@@ -44,7 +44,7 @@ def build_prompt(training_dir_path, inference_file_path, few_shot=True):
         Below are {len(conll_training_paths)} examples showing the text of human-geography theses. Each word in the thesis is labeled as a title (Title of the thesis),
         author(Author of the thesis), issued (Time of publication), spatial (The spatial extent, study area or spatial coverage of the entire thesis, given as placenames or place descriptions),
         subject (Concept that is the main subject of the thesis), inGroup (the group of persons studied), or as O (empty label). Non-empty labeled can start with a B- to indicate the beginning of an entity span,
-        or as I- to indicate the inside of an entity span. After reading the examples, extratct the tags from the new thesis text, and return it as a JSON, where each key is a label and each value is a list of entities that have that label.
+        or as I- to indicate the inside of an entity span. After reading the examples, extract the tags from the new thesis text, and return it as a JSON, where each key is a label and each value is a list of entities that have that label.
         Only extract entities that are in the text. Follow the annotation rules.
         
         Annotation rules:
@@ -133,25 +133,24 @@ def predict_labels(training_dir_path, inference_file_path, type):
     results_df.to_csv(results_csv, index=False)
 
     print(results_df)
+    print("Let's sleep for 60 seconds...")
     time.sleep(60)  # Add a delay to avoid hitting rate limits or overwhelming the API
 
 
 if __name__ == "__main__":
     training_dir_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Training"
 
-    # # Zero-shot loop
+    # Zero-shot loop
     # for validation_thesis in os.listdir(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation"):
     #     predict_labels(training_dir_path, os.path.join(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation", validation_thesis), "zero-shot")
 
-    # Few-shot loop
-    for validation_thesis in os.listdir(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation"):
-        print("Processing file: ", validation_thesis)
-        if "1982_Baten_Henk_Groeikern_oo" not in validation_thesis:
-            predict_labels(training_dir_path, os.path.join(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation", validation_thesis), "few-shot")
+    # # Few-shot loop
+    # for validation_thesis in os.listdir(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation"):
+    #     predict_labels(training_dir_path, os.path.join(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation", validation_thesis), "few-shot")
 
-    # # Single file prediction
-    # inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation\1982_Baten_Henk_Groeikern_ook_koopkern.conll"
-    # predict_labels(training_dir_path, inference_file_path, "few-shot")
+    # Single file prediction
+    inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation\1982_Baten_Henk_Groeikern_ook_koopkern.conll"
+    predict_labels(training_dir_path, inference_file_path, "few-shot")
 
 
 

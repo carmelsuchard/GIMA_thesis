@@ -23,15 +23,7 @@ from rapidfuzz import fuzz, distance
 # Write function that can be applied to each one
 # Do some counting
 
-pred = {
-    "title": ['een onderzoek naar de koopgerichtheid van huishoudens in nieuwegein', 'GROEIKERN OOK KOOPKERN ?'],
-    "author": ['Henk Baten'],
-    "issued": ['1982', 'juni 1982'],
-    "spatial": ['nieuwegein', 'Jutphaas', 'Vreeswijk', 'Utrecht', 'IJsselstein', 'Vianen', 'Nieuwegein-Noord', 'Nieuwegein-Zuid', 'Jutphaas-Wijkersloot', 'Batau-Noord', 'Batau-Zuid', 'Zuilenstein', 'Doorslag', 'Fokkesteeg', 'Hoog-Zandveld', 'Lekboulevard', 'Kanaleneiland', 'Utrecht-Centrum', 'Utrecht-Overvecht'],
-    "inGroup": ['huishoudens', 'migranten', 'woonforensen', 'voormalig Utrechtenaren', 'echtparen', 'alleenstaanden'],
-    "subject": ['koopgerichtheid', 'ruimtelijk koopgedrag', 'winkelvoorzieningen', 'koopkrachtbinding', 'distributieve structuur', 'duurzame goederen', 'dagelijks benodigde goederen', 'ruimtelijk beleid', 'ruimtelijke planning']
-    
-}
+
 ref = {
     "title": ['een onderzoek naar de koopgerichtheid van huishoudens in nieuwegein', 'GROEIKERN OOK KOOPKERN?', 'een onderzoek naar de koopgerichtheid van huishoudens in Nieuwegein'],
     "author": ['Henk Baten'],
@@ -41,41 +33,54 @@ ref = {
     "subject": ['ruimtelijk koopgedrag', 'ruimtelijk koopgedrag', 'winkelvoor - zieningen', 'ruimtelijk koopgedrag', 'ruimtelijk koopgedrag', 'ruimtelijk ( koop - ) gedrag', 'ruimtelijk koopgedrag', 'ruimtelijk koopgedrag', 'koopgerichtheid', 'prefe - renties tructuur', 'koopgerichtheid', 'koopgerichtheid .', 'koopgerichtheid .', 'preferentie - structuur', 'koopgerichtheid', 'ruimtelijk koopgedrag', 'distributieve voorzieningen', 'preferentiestructuur', 'preferen - tiestructuur', 'koopgerichtheid', 'winkelvoorzieningen', 'winkelvoorzieningen', 'winkelvoorzieningen', 'winkelvoorzieningen', 'winkelvoorzieningen', 'winkelvoorzieningen', 'distributieve voorzieningen']
 }
 
+pred = {
+    "title": ['een onderzoek naar de koopgerichtheid van huishoudens in nieuwegein', 'GROEIKERN OOK KOOPKERN ?'],
+    "author": ['Henk Baten'],
+    "issued": ['1982', 'juni 1982'],
+    "spatial": ['nieuwegein', 'Jutphaas', 'Vreeswijk', 'Utrecht', 'IJsselstein', 'Vianen', 'Nieuwegein-Noord', 'Nieuwegein-Zuid', 'Jutphaas-Wijkersloot', 'Batau-Noord', 'Batau-Zuid', 'Zuilenstein', 'Doorslag', 'Fokkesteeg', 'Hoog-Zandveld', 'Lekboulevard', 'Kanaleneiland', 'Utrecht-Centrum', 'Utrecht-Overvecht'],
+    "inGroup": ['huishoudens', 'migranten', 'woonforensen', 'voormalig Utrechtenaren', 'echtparen', 'alleenstaanden'],
+    "subject": ['koopgerichtheid', 'ruimtelijk koopgedrag', 'winkelvoorzieningen', 'koopkrachtbinding', 'distributieve structuur', 'duurzame goederen', 'dagelijks benodigde goederen', 'ruimtelijk beleid', 'ruimtelijke planning']
+    
+}
+
+
 def string_similarity(str1, str2):
     dist = fuzz.ratio(str1, str2)
     # print("Calculating string similarity between:", str1, "AND", str2, "GIVES DISTANCE OF:", dist)
 
     return dist
 
-def determine_entity_captured(ref_ent, predicted_entities_in_label, label):
+def determine_entity_captured(entity_to_check, entity_list_to_compare_against, label):
     #  I want to know if the reference entity is similar enough to any of the predicted entities
-    captured_bool = any(string_similarity(ref_ent, pred_ent) > 90 for pred_ent in predicted_entities_in_label)
-    print(f"Reference entity: '{ref_ent}' in predicted_entities_in_label '{predicted_entities_in_label}' captured: {captured_bool}")
+    captured_bool = any(string_similarity(entity_to_check, ent) > 90 for ent in entity_list_to_compare_against)
+    # print(f"Reference entity: '{entity_to_check}' in predicted_entities_in_label '{entity_list_to_compare_against}' captured: {captured_bool}")
     return captured_bool
 
 
 def get_recall(reference_entities_dict, predicted_entities_dict):
-    recall_dict = {}    
+    metrics_dict = {}    
     rates_dict = {}
     
     references_count = len([ent.lower() for sublist in reference_entities_dict.values() for ent in sublist])
 
-    rates_tuple = namedtuple(typename="rates_tuple", field_names=["count", "weight", "TP", "FN"])
+    rates_tuple = namedtuple(typename="rates_tuple", field_names=["count", "weight", "TP", "FN", "FP"])
             
     for label in reference_entities_dict:
         # if label != "spatial":
         #     continue
         
-        predicted_entities_in_label = [ent.lower() for ent in predicted_entities_dict[label]]
-        reference_entities_in_label = [ent.lower() for ent in reference_entities_dict[label]]
+        reference_entities_in_label = list(set([ent.lower() for ent in reference_entities_dict[label]]))
+        predicted_entities_in_label = list(set([ent.lower() for ent in predicted_entities_dict[label]]))
         
         captured_bool_list = [determine_entity_captured(ref_ent, predicted_entities_in_label, label) for ref_ent in reference_entities_in_label]
-        print(captured_bool_list)
+        predicted_in_reference = [determine_entity_captured(pred_ent, reference_entities_in_label, label) for pred_ent in predicted_entities_in_label]
+
         results = rates_tuple(
             count = len(reference_entities_in_label),
             weight = len(reference_entities_in_label) / references_count,
-            TP = sum(captured_bool_list),
-            FN = len(reference_entities_in_label) - sum(captured_bool_list)
+            TP = sum(captured_bool_list), # How many of the reference entities were captured
+            FN = len(reference_entities_in_label) - sum(captured_bool_list) , # How many of the reference entities were NOT captured
+            FP = len(predicted_entities_in_label) - sum(predicted_in_reference) # How many extra entities were predicted that were NOT in the reference (subtraction because we want those not captured)
         )
         
         rates_dict [label] = results
@@ -84,14 +89,29 @@ def get_recall(reference_entities_dict, predicted_entities_dict):
         counts = rates_dict[label].count
         TP = rates_dict[label].TP
         FN = rates_dict[label].FN
+        FP = rates_dict[label].FP
         
         recall = TP / (TP + FN) if (TP + FN) > 0 else 0.0
-        recall_dict[label] = recall
+        precision = TP / (TP + FP) if (TP + FP) > 0 else 0.0
+        f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
+        jaccard = TP / (TP + FP + FN) if (TP + FP + FN) > 0 else 0.0
+
+        metrics_dict[label] = {
+            "recall": recall,
+            "precision": precision,
+            "f1": f1,
+            "jaccard": jaccard
+        }
     
-    recall_dict["weighted_overall"] = sum(rates_dict[label].weight * recall_dict[label] for label in recall_dict)
-    
-    print(recall_dict)
-    return recall_dict
+    metrics_dict["weighted_overall"] = {}
+    metrics_dict["weighted_overall"]["recall"] = sum(rates_dict[label].weight * metrics_dict[label]["recall"] for label in metrics_dict if label != "weighted_overall")
+    metrics_dict["weighted_overall"]["precision"] = sum(rates_dict[label].weight * metrics_dict[label]["precision"] for label in metrics_dict if label != "weighted_overall")
+    metrics_dict["weighted_overall"]["f1"] = sum(rates_dict[label].weight * metrics_dict[label]["f1"] for label in metrics_dict if label != "weighted_overall")
+    metrics_dict["weighted_overall"]["jaccard"] = sum(rates_dict[label].weight * metrics_dict[label]["jaccard"] for label in metrics_dict if label != "weighted_overall")
+
+
+    print(metrics_dict)
+    # return metrics_dict
                 
 
 
