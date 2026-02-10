@@ -1,6 +1,6 @@
 import os
 from google import genai
-from Gemini_api import API_key
+from Gemini.Gemini_api import API_key
 from pydantic import BaseModel, Field
 from typing import List, Optional
 import pandas as pd

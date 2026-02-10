@@ -99,7 +99,7 @@ if __name__ == "__main__":
     g.bind("schema", SCHEMA)
     g.parse(rdf_path)
 
-    files_path = "C:/Users/carme/OneDrive/Documents/Graduate_Programs/Thesis/code/annotated_conll_files/cleaned"
+    files_path = "C:/Users/carme/OneDrive/Documents/Graduate_Programs/Thesis/code/data/cleaned"
     conlls = [os.path.join(files_path, f) for f in os.listdir(files_path) if os.path.isfile(os.path.join(files_path, f)) and f.endswith(".conll")]
 
     could_not_find_geo = []
