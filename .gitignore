@@ -54,7 +54,7 @@ code/NER/models/
 
 # All of the training data and archive
 code/full_archive/
-code/data/
+# code/data/
 *.conll
 
 # Python virtual environment
