@@ -5,6 +5,8 @@ from pydantic import BaseModel, Field
 from typing import List, Optional
 import pandas as pd
 import json
+import random
+import time
 
 os.environ['GEMINI_API_KEY'] = API_key
 
@@ -18,14 +20,15 @@ class Label(BaseModel):
 
 client = genai.Client()
 
-def build_prompt(training_dir_path, inference_file_path, training_examples):
+def build_prompt(training_dir_path, inference_file_path, few_shot=True):
     
     with open(inference_file_path, "r", encoding="utf-8") as f:
         inference_text = f.read()
 
-    if training_examples: # Few-shot version of the prompt
+    if few_shot: # Few-shot version of the prompt
         conlls = [os.path.join(training_dir_path, f) for f in os.listdir(training_dir_path) if os.path.isfile(os.path.join(training_dir_path, f)) and f.endswith(".conll")]
-        conll_training_paths = conlls[:1]
+        # Take two random conll files as training examples
+        conll_training_paths = random.sample(conlls, 2)
 
         full_text = []
         for indx, conll in enumerate(conll_training_paths):
@@ -41,9 +44,18 @@ def build_prompt(training_dir_path, inference_file_path, training_examples):
         Below are {len(conll_training_paths)} examples showing the text of human-geography theses. Each word in the thesis is labeled as a title (Title of the thesis),
         author(Author of the thesis), issued (Time of publication), spatial (The spatial extent, study area or spatial coverage of the entire thesis, given as placenames or place descriptions),
         subject (Concept that is the main subject of the thesis), inGroup (the group of persons studied), or as O (empty label). Non-empty labeled can start with a B- to indicate the beginning of an entity span,
-        or as I- to indicate the inside of an entity span. After reading the examples, extratct the tags from the new thesis text, and return it as a JSON, where each key is a label and each value is a list of entities that have that label.
-        Do not extract anything that is not in the text.
+        or as I- to indicate the inside of an entity span. After reading the examples, extract the tags from the new thesis text, and return it as a JSON, where each key is a label and each value is a list of entities that have that label.
+        Only extract entities that are in the text. Follow the annotation rules.
+        
+        Annotation rules:
 
+        • Don’t tag exhaustively, but only the first 5 mentions (e.g. a particular place, or a particular method) of any given concept in those sections that should be searched 
+        • Restrict search to particular sections: Don’t use TOC, no prefaces. Focus on the main sections (introduction/method/conclusion). Avoid using sections literature review, background, results, or TOC or literature list
+        • If several different concepts are mentioned in a sentence, annotate them separately
+        • inGroup: should be specific for the research design
+        • Subject: Leave out subjects unless there is explicitly a conceptual model (key-concepts)
+        • Spatial: the largest extent of the research area related to a goal/question. Any spatial level that links to a different research goal can appear separately. In case there is no placename available for this, encode the information on most specific level that is there (“plein in Amersfoort”).
+        
         Examples:
 
         {combined_training_text}
@@ -60,14 +72,24 @@ def build_prompt(training_dir_path, inference_file_path, training_examples):
 
         Label each word in this human-geography thesis as a title (Title of the thesis), author(Author of the thesis), issued (Time of publication), spatial (The spatial extent, study area or spatial coverage of the entire thesis, given as placenames or place descriptions),
         subject (Concept that is the main subject of the thesis), inGroup (the group of persons studied), or as O (empty label). Return it as a JSON, where each key is a label and each value is a list of entities that have that label.
-        Do not extract anything that is not in the text.
+        Only extract entities that are in the text. Follow the annotation rules.
         
+        Annotation rules:
+
+        • Don’t tag exhaustively, but only the first 5 mentions (e.g. a particular place, or a particular method) of any given concept in those sections that should be searched 
+        • Restrict search to particular sections: Don’t use TOC, no prefaces. Focus on the main sections (introduction/method/conclusion). Avoid using sections literature review, background, results, or TOC or literature list
+        • If several different concepts are mentioned in a sentence, annotate them separately
+        • inGroup: should be specific for the research design
+        • Subject: Leave out subjects unless there is explicitly a conceptual model (key-concepts)
+        • Spatial: the largest extent of the research area related to a goal/question. Any spatial level that links to a different research goal can appear separately. In case there is no placename available for this, encode the information on most specific level that is there (“plein in Amersfoort”).
+        
+        Please annotated the following student thesis:
         {inference_text}
         """
 
     # Save the prompt to text if needed to see it
-    # with open(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\NER\prompt_preview.txt", "w", encoding="utf-8") as f:
-    #     f.write(prompt)
+    with open(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\NER\prompt_preview.txt", "w", encoding="utf-8") as f:
+        f.write(prompt)
 
     return prompt
 
@@ -84,7 +106,7 @@ def predict_labels(training_dir_path, inference_file_path, type):
         print("Specify if predict zero-shot or few-shot")
 
     # total_tokens = client.models.count_tokens(
-    # model="gemini-3.0-flash", contents=prompt
+    # model="gemini-3-flash", contents=prompt
     # )
     # print("total_tokens: ", total_tokens)
 
@@ -111,20 +133,28 @@ def predict_labels(training_dir_path, inference_file_path, type):
     results_df.to_csv(results_csv, index=False)
 
     print(results_df)
+    print("Let's sleep for 60 seconds...")
+    time.sleep(60)  # Add a delay to avoid hitting rate limits or overwhelming the API
 
 
 if __name__ == "__main__":
+    training_dir_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Training"
 
-    training_dir_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\data\cleaned"
-    # inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\data\Gemini_data\Validation\1994_Slabbertje_Martin_Het_PPP-project.conll"
-    inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\data\Gemini_data\Validation\2007_Jong_de_Stefan_Een_onderzoek_naar_e-commerce_succes_in_de_binnenstad.conll"
+    # Zero-shot loop
+    # for validation_thesis in os.listdir(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation"):
+    #     predict_labels(training_dir_path, os.path.join(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation", validation_thesis), "zero-shot")
 
-    predict_labels(training_dir_path, inference_file_path, "zero-shot")
+    # # Few-shot loop
+    # for validation_thesis in os.listdir(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation"):
+    #     predict_labels(training_dir_path, os.path.join(r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation", validation_thesis), "few-shot")
+
+    # Single file prediction
+    inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation\1982_Baten_Henk_Groeikern_ook_koopkern.conll"
+    predict_labels(training_dir_path, inference_file_path, "few-shot")
 
 
 
 
-# For env: pip install google-genai
 
 
 
