@@ -21,7 +21,7 @@ model = BertForTokenClassification.from_pretrained(
     output_attentions=False,
     output_hidden_states=False,
 )
-model.load_state_dict(torch.load("C:/Users/5298954/Documents/Github_Repos/GIMA_thesis/code/NER/models/model_cleaned_epoch_2_precision_0.3125.pt"))
+model.load_state_dict(torch.load(r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\NER\models\model_cleaned_small_epoch_10_precision_0.pt"))
 model.to(device)
 model.eval()
 
@@ -99,6 +99,6 @@ def get_labels_for_thesis(file_path):
 
 if __name__ == "__main__":
     
-    archive_theses_path = "C:/Users/5298954/Documents/Github_Repos/GIMA_thesis/code/full_archive/original/English/1982_Overtoom_Paul_Regional_economic_development_in_northwest_Mexico_UU.txt"
+    archive_theses_path = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\full_archive\original\Dutch\1954_Koten_ten_FR_De_invloed_van_het_geografische_milieu_op_de_Duitse_veldtocht_in_de_Sovjet_Unie_UU.txt"
     get_labels_for_thesis(archive_theses_path)
     
