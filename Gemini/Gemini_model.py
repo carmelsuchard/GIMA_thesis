@@ -1,6 +1,6 @@
 import os
 from google import genai
-from Gemini_api import API_key
+from Gemini.Gemini_api import API_key
 from pydantic import BaseModel, Field
 from typing import List, Optional
 import pandas as pd
@@ -115,9 +115,9 @@ def predict_labels(training_dir_path, inference_file_path, type):
 
 if __name__ == "__main__":
 
-    training_dir_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\cleaned"
-    # inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation\1994_Slabbertje_Martin_Het_PPP-project.conll"
-    inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\annotated_conll_files\Gemini_data\Validation\2007_Jong_de_Stefan_Een_onderzoek_naar_e-commerce_succes_in_de_binnenstad.conll"
+    training_dir_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\data\cleaned"
+    # inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\data\Gemini_data\Validation\1994_Slabbertje_Martin_Het_PPP-project.conll"
+    inference_file_path = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\data\Gemini_data\Validation\2007_Jong_de_Stefan_Een_onderzoek_naar_e-commerce_succes_in_de_binnenstad.conll"
 
     predict_labels(training_dir_path, inference_file_path, "zero-shot")
 

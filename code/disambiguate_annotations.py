@@ -45,8 +45,8 @@ def find_existence_in_babelnet(lemma, return_language="EN"):
 
 if __name__ == "__main__":
     
-    # conll_path = r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\annotated_conll_files\cleaned\1971_Abcouwer_NF_Ontwikkelingen_in_de_industriele_structuur_van_zuid-west-Nederland_1945-1970.conll"
-    conll_path = r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\annotated_conll_files\cleaned\1974_Harts_Jan_Migratie.conll"
+    # conll_path = r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\data\cleaned\1971_Abcouwer_NF_Ontwikkelingen_in_de_industriele_structuur_van_zuid-west-Nederland_1945-1970.conll"
+    conll_path = r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\data\cleaned\1974_Harts_Jan_Migratie.conll"
     
     reader = conll_annotations_reader(conll_path)
     tags_dict = reader.get_tags_dict()

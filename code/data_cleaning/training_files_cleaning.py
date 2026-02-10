@@ -117,8 +117,8 @@ def propegate_labels(file_path, tags_dict):
 
 
 if __name__ == "__main__":
-    target_dir_path = r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\annotated_conll_files\original"
-    destination_dir_path = r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\annotated_conll_files\cleaned"
+    target_dir_path = r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\data\original_text"
+    destination_dir_path = r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\data\cleaned"
     
     conlls = [f for f in os.listdir(target_dir_path) if os.path.isfile(os.path.join(target_dir_path, f)) and f.endswith(".conll")]
 

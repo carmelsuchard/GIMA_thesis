@@ -33,7 +33,7 @@ LABELS = [
     ]
 
 archive_theses_path = r"./code/full_archive/Dutch"
-training_datasets_path = r"./code/annotated_conll_files/cleaned"
+training_datasets_path = r"./code/data/cleaned"
 
 if __name__ == "__main__":
     # print(LABELS)
