@@ -20,14 +20,32 @@ def compute_metrics(predictions, labels, id2label):
         true_predictions.append(seq_preds)
         true_labels.append(seq_labels)
 
-    print("Here is what's going into the calculation of the metrics:")
-    print(f"Here are the predictions fyi ({len(true_predictions)}): {true_predictions} \n And here are the labels ({len(true_labels)}): {true_labels}\n")
+    # print("Here is what's going into the calculation of the metrics:")
+    # print(f"Here are the predictions fyi ({len(true_predictions)}): {true_predictions} \n And here are the labels ({len(true_labels)}): {true_labels}\n")
 
-    precision = precision_score(true_labels, true_predictions)
-    recall = recall_score(true_labels, true_predictions)
-    f1 = f1_score(true_labels, true_predictions)
-    report = classification_report(true_labels, true_predictions, digits=4)
-    return precision, recall, f1, report
+    # precision = precision_score(true_labels, true_predictions)
+    # recall = recall_score(true_labels, true_predictions)
+    # f1 = f1_score(true_labels, true_predictions)
+    # report = classification_report(true_labels, true_predictions, digits=4)
+    
+    # print("Here is the metrics: ", precision, recall, f1)
+    # return precision, recall, f1, report
+    
+    
+    evaluator = Evaluator(true_labels, true_predictions, tags=['title', 'author', 'issued'], loader="list")
+    results = evaluator.evaluate()
+    
+    # print("results", results)
+    # print(results["entities"].keys())
+
+    metrics_dict = {key: value['strict'].f1 for key, value in results["entities"].items()}
+    metrics_dict["overall"] = results["overall"]["strict"].f1
+    metric_per_label_df = pd.DataFrame([metrics_dict])
+    
+
+    print("This is the metrics metric_per_label_df", metric_per_label_df)
+    return metric_per_label_df
+
 
 # def compute_ner_metrics(true_labels, true_predictions):
 def compute_ner_metrics(epoch_predictions, epoch_labels, id2label):

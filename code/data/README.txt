@@ -10,4 +10,4 @@ Gemini data - in the validation section, there are no labels on the validation s
 pdfs_original - the pdfs as downloaded (not full yet)
 pdfs_shortened - the pdfs with just the sections we're keeping (not prepared yet)
 
-[There are more, on the version that's on the workstation
+There are more, on the version that's on the workstation
