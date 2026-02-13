@@ -6,7 +6,6 @@ import torch
 from collections import defaultdict
 
 from transformers import BertForTokenClassification, BertTokenizer, logging
-from sklearn.model_selection import train_test_split
 from seqeval.metrics import accuracy_score
 from datasets import load_dataset
 from transformers import AutoTokenizer, DataCollatorWithPadding
@@ -46,13 +45,13 @@ train_dataloader = DataLoader(
     tokenized_datasets["train"], shuffle=True, batch_size=batch_size, collate_fn=data_collator
 )
 validation_dataloader = DataLoader(
-    tokenized_datasets["validation"], batch_size=batch_size, collate_fn=data_collator
+    tokenized_datasets["test"], batch_size=batch_size, collate_fn=data_collator
 )
 
 ###### Setting parameters ######
 
 print("Train labels:", count_entities(tokenized_datasets["train"]))
-print("Val labels:", count_entities(tokenized_datasets["validation"]))
+print("Val labels:", count_entities(tokenized_datasets["test"]))
 
 ### Hardware settings ###
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
@@ -80,7 +79,7 @@ scheduler = get_scheduler(
     num_training_steps=num_training_steps,
 )
 
-best_precision = -1
+best_f1 = -1
 best_epoch = 0
 best_model_state = None
 
@@ -101,7 +100,6 @@ for epoch in trange(epochs_count, desc="Epoch"):
 
     for batch in train_dataloader:
         batch = {k: v.to(device) for k, v in batch.items()}
-        doc_ids = batch.pop("doc_id").cpu().numpy()
 
         optimizer.zero_grad()
 
@@ -129,13 +127,11 @@ for epoch in trange(epochs_count, desc="Epoch"):
     correct_tokens = 0
     total_tokens = 0
 
-    doc_predictions = defaultdict(list)
-    doc_labels = defaultdict(list)
+    all_predictions, all_labels = [], []
 
     with torch.no_grad():
         for batch in validation_dataloader:
             batch = {k: v.to(device) for k, v in batch.items()}
-            doc_ids = batch.pop("doc_id").cpu().numpy()
 
             outputs = model(**batch)
             loss = outputs.loss
@@ -158,47 +154,31 @@ for epoch in trange(epochs_count, desc="Epoch"):
             preds = predictions.cpu().numpy()
             labs = labels.cpu().numpy()
 
-            for doc_id, pred_seq, label_seq, input_id_seq in zip(doc_ids, preds, labs, input_ids): # Iterate over the theses in the batch, getting their id, predictions and labels
-                original_tokens = tokenizer.convert_ids_to_tokens(input_id_seq)
-
-                seq_tokens = []
+            for sentence_ids, pred_seq, label_seq in zip(input_ids, preds, labs): # Iterate over the individual sequences in the batch, getting their id, predictions and labels
                 seq_preds = []
                 seq_labels = []
-
-
-                for token, p, l in zip(original_tokens, pred_seq, label_seq):
+                
+                for p, l in zip(pred_seq, label_seq):
                     if l != -100:
                         seq_preds.append(p)
                         seq_labels.append(l)
-                        seq_tokens.append(token)
                 
                 # Collect all predictions and labels for metric computation
-                seq_pred_labels = [id2label[p] for p in seq_preds] # Convert prediction ids to label names
-                seq_true_labels = [id2label[l] for l in seq_labels] # Convert true label ids to label names
-
-                doc_predictions[doc_id].append((seq_tokens, seq_preds))
-                doc_labels[doc_id].append((seq_tokens, seq_labels))
-
-                print("DOC:", doc_id)
-                print("doc_predictions[doc_id][0]:")
-                print(doc_predictions[doc_id][0])
-                # print(doc_predictions[doc_id][1])
-                # for t, l in doc_predictions[doc_id][0][:10]:
-                #     print(f"{t:12} -> {l}")
-                # break
+                all_predictions.append(seq_preds)
+                all_labels.append(seq_labels)
                 
                 # Only print on last epoch
-                # if epoch == epochs_count - 1:
-                #     print("This is epoch ", epoch+1, " validation example:")
-                #     tokens = tokenizer.convert_ids_to_tokens(sentence_ids) # Converts token IDs back to actual words
-                #     clean_tokens = [tok for tok, l in zip(tokens, label_seq) if l != -100]
-                #     clean_preds = [id2label[p] for p in seq_preds]
-                #     clean_labels = [id2label[l] for l in seq_labels]
+            # if epoch == epochs - 1:
+                # print("This is epoch ", epoch+1, " validation example:")
+                tokens = tokenizer.convert_ids_to_tokens(sentence_ids) # Converts token IDs back to actual words
+                clean_tokens = [tok for tok, l in zip(tokens, label_seq) if l != -100]
+                clean_preds = [id2label[p] for p in seq_preds]
+                clean_labels = [id2label[l] for l in seq_labels]
 
-                #     print("TOKENS: ", clean_tokens)
-                #     print("REFERENCE LABELS: ", clean_labels)
-                #     print("PREDICTED LABELS: ", clean_preds)
-                #     print("-" * 60)
+                print("TOKENS: ", clean_tokens)
+                print("REFERENCE LABELS: ", clean_labels)
+                print("PREDICTED LABELS: ", clean_preds)
+                print("-" * 60)
 
     avg_eval_loss = eval_loss / total_sequences # Calculates average validation loss across all batches
     validation_loss_values.append(avg_eval_loss)  # Saves this epoch's validation loss average to tracking list
@@ -207,16 +187,14 @@ for epoch in trange(epochs_count, desc="Epoch"):
     token_accuracies.append(token_accuracy)
     print(f"Validation loss: {avg_eval_loss:.4f} | Token accuracy: {token_accuracy:.4f}")
 
-    # Compute metrics
-    metrics_table = compute_ner_metrics(doc_predictions, doc_labels, id2label)
+ # Compute F1 metrics
+    metrics_table = compute_metrics(all_predictions, all_labels, id2label)
     overall_metrics_df = pd.concat([overall_metrics_df, metrics_table])
     
-    print("Metrics for this epoch:")
-    print(metrics_table)
-    precision = metrics_table["overall"].values[0]
     
-    if precision >= best_precision:
-        best_precision = precision
+    f1 = metrics_table["overall"].values[0]
+    if f1 >= best_f1:
+        best_f1 = f1
         best_epoch = epoch
         best_model_state = model.state_dict()
 
@@ -224,29 +202,23 @@ for epoch in trange(epochs_count, desc="Epoch"):
     print("Epoch time: %.2f seconds" % (end_epoch_time - start_epoch_time))
     print("================= END OF EPOCH ==============\n")
 
-print("Training loss values:", training_loss_values)
-print("Validation loss values:", validation_loss_values)
 # print("Token accuracies:", token_accuracies)
 overall_metrics_df["training_loss"] = training_loss_values
 overall_metrics_df["validation_loss"] = validation_loss_values
-# overall_metrics_df["token_accuracy"] = token_accuracies
 
-output_model = ('code/NER/models/model_' + os.path.basename(training_datasets_path) + "_epoch_" + str(best_epoch+1) +'_precision_' + str(best_precision) + '.pt')
+output_model = ("objective_labels_extraction/NER/Models/model_" + os.path.basename(training_datasets_path) + "_epoch_" + str(best_epoch+1) +'_f1_' + str(best_f1) + '.pt')
 torch.save(best_model_state, output_model)
 
-print("Total training time: %.2f seconds" % (time() - starting_training_time))
-
-# Visualize the training loss
+# # Visualize the training loss
 print("This is the final metrics df, going into the plot:", overall_metrics_df)
-learning_curve = plot_learning_curve(overall_metrics_df, metric_name="Precision")
-learning_curve.savefig('code/NER/Figures/learning_curve_' + os.path.basename(training_datasets_path) + "_epoch_" + str(best_epoch+1) +'_precision_' + str(best_precision) + '.png', bbox_inches='tight')
+learning_curve = plot_learning_curve(overall_metrics_df, metric_name="F1")
+learning_curve.savefig('objective_labels_extraction/NER/Models/learning_curve_' + os.path.basename(training_datasets_path) + "_epoch_" + str(best_epoch+1) +'_f1_' + str(best_f1) + '.png', bbox_inches='tight')
 learning_curve.show()
 learning_curve.close()
 
-
 # Restore best model
 model.load_state_dict(best_model_state)
-print(f"Best model restored from epoch {best_epoch+1} with Precision = {best_precision:.4f}")
+print(f"Best model restored from epoch {best_epoch+1} with F1 = {best_f1:.4f}")
 
 
 

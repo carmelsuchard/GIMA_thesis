@@ -1,12 +1,11 @@
 import os
 from datasets import Dataset, DatasetDict
-import re
-from itertools import product
 from transformers import logging, AutoTokenizer, DataCollatorWithPadding, DataCollatorForTokenClassification
 from BERT_settings import checkpoint, training_datasets_path, validation_datasets_path, LABELS, epochs_count
 from BERT_model_helper_functions import count_entities, make_label_dicts
 import sys
-from torch.utils.data import DataLoader
+# Import test split
+# from sklearn.model_selection import train_test_split
 
 # TAGS_TO_REMOVE = ["summary", "publisher", "dataSource", "method", "question", "goal", "null"]
 # replacement_dict = {identifier + bad_tag: "O" for identifier, bad_tag in product(["B-", "I-"], TAGS_TO_REMOVE)}
@@ -52,24 +51,17 @@ def read_conll_file(file_path):
 
 def compile_theses(dir_path):
     print("Compiling .conll files from directory:", dir_path, "...")
-    conlls = [os.path.join(dir_path, f)
-              for f in os.listdir(dir_path)
-              if os.path.isfile(os.path.join(dir_path, f)) and f.endswith(".conll")]
-
+    conlls = [os.path.join(dir_path, f) for f in os.listdir(dir_path) if os.path.isfile(os.path.join(dir_path, f)) and f.endswith(".conll")]
     all_examples = []
-    for doc_id, conll in enumerate(sorted(conlls)):
+    for conll in conlls:
         examples = read_conll_file(conll)
-        for ex in examples:
-            ex["doc_id"] = doc_id
         all_examples.extend(examples)
-
     return all_examples
 
 def convert_to_dataset(thesis_data, label_map):
     return Dataset.from_dict({
         "tokens": [thesis["tokens"] for thesis in thesis_data],
         "ner_tags": [[label_map[l] for l in thesis["ner_tags"]] for thesis in thesis_data],
-        "doc_id": [thesis["doc_id"] for thesis in thesis_data]
     })
 
 def tokenize_and_align_labels(examples):
@@ -92,34 +84,25 @@ def tokenize_and_align_labels(examples):
             previous_word_idx = word_idx
         labels.append(label_ids)
     tokenized_inputs["labels"] = labels
-    tokenized_inputs["doc_id"] = examples["doc_id"]
     return tokenized_inputs
-
 
 def prepare_dataset():
     print("Preparing dataset...")
-    training_combined_list = compile_theses(training_datasets_path)
-    validation_combined_list = compile_theses(validation_datasets_path)
-
+    combined_list = compile_theses(training_datasets_path)
     label2id, id2label = make_label_dicts()
-    raw_training_dataset = convert_to_dataset(training_combined_list, label2id)    
-    raw_validation_dataset = convert_to_dataset(validation_combined_list, label2id)    
     
-    tokenized_datasets = DatasetDict({
-        "train": raw_training_dataset,
-        "validation": raw_validation_dataset
-    })
-
-    print(tokenized_datasets["train"][0])
+    raw_dataset = convert_to_dataset(combined_list, label2id)
+    
+    # Split dataset
+    dataset_dict = raw_dataset.train_test_split(test_size=0.3, seed=6)
+    
     # Tokenization
-    tokenized_datasets = tokenized_datasets.map(
+    tokenized_datasets = dataset_dict.map(
         tokenize_and_align_labels,
         batched=True,
         remove_columns=["tokens", "ner_tags"]
     )
     
-    # print(tokenized_datasets["validation"][0].keys())
-    # print("Doc ID:", tokenized_datasets["validation"][0]["doc_id"])
     return tokenized_datasets, label2id, id2label
 
 def make_collator():
@@ -127,23 +110,5 @@ def make_collator():
     return data_collator
 
 if __name__ == "__main__":
-
-    # result = compile_theses(training_datasets_path)
-    # label2id, id2label = make_label_dicts()
-    # dataset = convert_to_dataset(result, label2id)
     tokenized_datasets, label2id, id2label = prepare_dataset()
-    
-    # print(tokenized_datasets)
-    # data_collator = make_collator()
-
-    # train_dataloader = DataLoader(
-    #     tokenized_datasets["train"], shuffle=True, batch_size=8, collate_fn=data_collator
-    # )
-    # validation_dataloader = DataLoader(
-    #     tokenized_datasets["test"], batch_size=8, collate_fn=data_collator
-    # )
-
-    # print("Train labels:", count_entities(tokenized_datasets["train"]))
-    # print("Val labels:", count_entities(tokenized_datasets["test"]))
-    # print(id2label)
-    
+    print(id2label)
