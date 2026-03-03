@@ -1,0 +1,1 @@
+It was done with multi-modal. we used Gemini 2.5 because of the paper cited here (https://idp-leaderboard.org/key-extraction-benchmark/), is ranked the highest in Key Information Extraction.
