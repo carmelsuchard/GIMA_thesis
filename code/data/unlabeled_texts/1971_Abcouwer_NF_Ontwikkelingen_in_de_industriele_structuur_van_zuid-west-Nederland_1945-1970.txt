@@ -1,0 +1,3583 @@
+﻿ONTWIKKELINGEN IN DE INDUSTRIËLE
+STRUCTUUR VAN ZUID-WEST-NEDERLAND
+1945-1970
+een sociaal-geografische verkenning
+N. F. Abc ouwe r
+Utrecht, februari 1971
+'J fl Q V ’ l 1
+ONTWIKKELINGEN IN DE INDUSTRIËLE
+STRUCTUUR VAN ZUID - WEST - NEDERLAND
+1945-19 7 0
+een sociaal-geografische verkenning
+N. F* Abcouwer
+Utrecht, februari 1971
+-1-
+VOO^.'OORD
+Alle mensen, die me hebben geholpen bij het maken van deze
+doctoraal-scriptie door het geven van informatie en adviezen,
+ben ik daarvoor zeer dankbaar. Met name drs. A.G. van der Veen,
+directeur van het ETI-Zuid-Holland, die de belangrijkste gegevens
+heeft verstrekt.
+De vrijheid, die drs. M. de Smidt, wetenschappelijk medewerker
+van het Geografisch Instituut van de Rijksuniversiteit Utrecht,
+me heeft gegeven, de belangstelling en de tijd die hij voor me
+heeft gehad, heb ik als buitengewoon plezierig ervaren.
+Utrecht, 15- februari 1971.
+-2-
+INHOUDSOPGAVE
+Voorwoord 1
+Inhoudsopgave 2
+hoofdstuk 1 INLEIDING 4
+par.1,Voorgeschiedenis 4
+par. 2.Probleemstelling 4
+par.3.Hypothesen 6
+hoofdstuk 2 VOORBEREIDENDE VERKENNINGEN 8
+par. 1.Wat is industrie? 8
+par. 2.Industrie en industriële geografie 11
+DEEL I THEORETISCH GEDEELTE 14
+hoofdstuk 3 HET INDIVIDUELE BEDRIJF 14
+par. 1.Initiatiefnemers, oprichters en 14
+ondernemers
+par» 2. Ondernemersdoelen 16
+par. 3. Benaderingswijzen ven het individu- 16
+ele bedrijf
+par.4. Produceren is kiezen 18
+par.5.Het individuele bedrijf intern 19
+a.	Algemene opmerkingen 19
+b.Schaal van de productie 21
+c.	Fusies en overnames 21
+' d. Ondernemings- of rechtsvormen 22
+e.De grootte van een onderneming 22
+hoofdstuk 4 HET INDIVIDUELE BEDRIJF EXTERN:
+DE MARKTEN 23
+par.1.Inleiding 23
+par.2.Producten (afzet) markt 25
+par.3.De vervoersmarkt 26
+par.4. De technologische markt 28
+par.5.De arbeidsmarkt 29
+par.6.De grond- en hulpstoffenmarkt 30
+par.7.De energiemarkt 31
+par.8.De dienstenmarkt 32
+par.9.De (industrie) bouwmarkt 32
+par.10.De grond- en terreinenmarkt 33
+par. 11. De. kapitaalmarkt 35
+par. 12. Slotopmerkingen 36
+hoofdstuk 5 INDUSTRIËLE STRUCTUUR 39
+par. 1. Inleiding 39
+por. 2. Analyse van industriële structuren 40
+par. 3. Industrieel-geografische begrippen 41
+hoofdstuk 6 VESTIGING. VERPLAATSING EN OPHEFFING
+VAN INDUSTRIËLE BEDRIJVEN 50
+par.1.Vestiging van nieuwe "bedrijven 50
+par. 2. a. Verplaatsing 50.
+b» Klasseringsmoeilijkheden 53
+par.3. Opheffing 54
+PEET; II OMWIKKELINGEN IN DE INDUSTRIËLE STRUCTUUR
+hoofdstuk 7 INDUSTRIËLE ONTWIKKELINGEN IN NEDERLAND
+NA 1800 55
+par.1.Inleiding 55
+par.2.De periode tot 1850 56
+par.3.1850-1870 eerste industrialisatie
+golf 57
+par.,4.1870-1914 modern kapitalisme 58
+par. 5.1914—1940 tweede industrialisatie
+golf . 59
+par.6.De periode 1940-1945 . 60
+par.7.1945-1950 de wederopbouw 60
+hoofdstuk 8 NEDERLAND 1950-1970 62
+par. 1. Economie, techniek en vervoer 62
+par. 2.De arbeidsmarkt 64
+par.3.De overige markten 65
+par. 4.Bedrijfsgrootte-ontwikkeling, indices
+arbeiders-overig personeel 68
+par. 5.De industriële structuur van Neder-
+land 1950-1970 69
+\ par. 6.Opheffing, vestiging en verplaatsing 71
+hoofdstuk 9 DE ZUIDELIJKE RANDSTAD 75
+par.1.Rotterdam, complexe industriel? 75
+par, 2.Rijnmond, de markten 76
+hoofdstuk 10 DE INVLOEDEN VAN RIJNMOND OP ZUID-WEST
+NEDERLAND 81
+par.1.Inleiding 81
+p ar. -2. He t basismateriaal go
+par.3.Verplaatsingen in en vanuit Rijnmond 85
+par.4.De Drechtsteden 87
+hoofdstuk 11 GEDEELTELIJKE SAMENVATTING EN CONCLUSIES 89
+BIJLAGEN 92
+kaarten . 94
+tabellen 95
+geraadpleegde literatuur 101
+-4-
+_Inlciding.
+pnr.1. Voorgeschiedenis*
+In het kader van een reeks onderzoeken, die allen min of meer
+in verband staan met de dissertatie van drs.M. de Smidt, is er
+midden 1969 besloten tot een arbeidsmarktonderzoek in het
+Drechtstedengebied. Samen met de heren F.H.R.A.Lybaart en
+W.Verzuu heb ik eerst meegewerkt aan het opstellen, houden
+en uitwerken van een zeer breed opgezette enquête van twintig
+industriële bedrijven. Deze moest de achtergrond verschaffen
+aan het arbeidsmarktonderzoek. Ieder van de deelnemers heeft
+als opdracht gekregen een aspect van de enquête uit te werken,
+en door nader onderzoek grondiger te analyseren.
+Mij vielen de industrie-locatie, linkages e.d. toe. Gezien
+het kleine aantal bedrijven kan hierover weinig zinnigs gezegd
+worden. Nu werd er in de werkgroep herhaaldelijk gesproken
+over de verhouding Dordrecht-Rotterdam. Drs. De Smidt hanteerde
+daarbij termen als frontregio en Randstadeffecten. Wanneer
+Rotterdam een groeipool is, dan moeten er uitstralingseffecten
+zijn. Zo kwam ik, vrij ongemerkt, van een micro probleem op
+een meso/macro probleem.
+par.2. Probleemstelling.
+De vraag die ik wil trachten op te lossen is:
+Heeft de industrie van Rijnmond invloed op de industrie in
+Zuid-West Nederland. Waaruit blijkt die invloed en hoe sterk
+is de invloed. N. e. a. voor de periode na V/. 0. II.
+Hierbij wil ik het niet zoeken in het constateren van een
+bepaald patroon van relaties, b.v. door het analyseren van
+leveranties visa-versa. Wanneer Rijnmond een soort groeipool
+is dan zullen zich daar nieuwe bedrijven vestigen, die o.a.
+grote kapitaalsinvesteringen gebruiken, hoog gekwalificeerde
+arbeid nodig hebben enz. Minder rendabele, oudere bedrijven
+zullen via arbeidsmarkt, grondprijzen e.d. onder druk komen
+te staan. Uit Rijnmond zullen dus eerder bedrijven geheel of
+gedeeltelijk vertrekken of er zullen eerder bedrijven lipuideren
+die elders langer zouden bestaan. In de omgeving van Rijnmond
+zouden zich wel eens vrij veel ruimte vragende bedrijven en
+bedrijven met een slechtere winstcapaciteit kunnen vestigen;
+bedrijven die voordien in Rijnmond een plaats zouden hebben
+gezocht. Men kan ook denken aan vestiging van filiaalbedrijven,
+hulpbedrijven en proeffabrieken in Rijnmond’s ommelanden»
+Uit een vergelijking van vestiging, verplaatsing en opheffing
+van industriële bedrijven in Rijnmond en in de omgeving ver-
+wacht ik de waarschijnlijk bestaande invloed te kunnen afleiden,
+1)	Rijnmond-Zuid-West Nederland. Vanneste heeft voor West-
+Vlaanderen aangetoohd dat deze intermediaire vraag niet zo
+vreselijk veel verklaarfr. Industriële structuren en gedeelten
+daarvan wil hij meer verklaren vanuit de arbeidsmarkt.
+De intermediaire vraag is analytisch beter bruikbaar op een
+veel groter gebied. Hij noemde tijdens de studiedag van de
+VUGS op 21 febr. 1969 als voorbeeld het West-Europese kerngebied.
+Dit zou inhouden dat er industriële structuren bestaan op
+verschillende niveau’s. Zie in lijst graadpleegde literatuur:
+Vanneste; Ottens, Verkoren, Verzuu; Verkoren.
+-6- ' •
+Voor daartoe te kunnen overgaan, is het nodig uit de bestaande
+inzichten van de industriële geografie en de in gebruik zijnde
+termen een overzicht te hebben en de voor dit werkstuk meest
+geschikte uit te kiezen. Dat dit nodig is, komt doordat op
+industrieel-geografisch gebied nauwelijks handboeken bestaan
+en zeker geen moderne.
+Dit theoretische deel wordt voorafgegaan door een poging te
+omschrijven wat industrie is. Daaraan aansluitend heb ik getracht
+het object van de specialistische tak van de sociale geografie,
+industriële geografie, te benaderen.
+Natuurlijk kan men Rijnmond»s invloeden op andere manieren
+constateren. Beperkt men zich bovendien niet tot dë invloed
+op de industrie, dan kan men talloze verschijnselen en processen
+als uitgangspunt nemen, b.v. het agrarisch bodemgebruik,
+migratie, forensisme, vervoersstromen, e.d.
+par.3. Hypothesen.
+Men zou naar aanleiding van de probleemstelling o.a. de volgende
+hypothesen kunnen formuleren:
+1.	Zuidelijke Randstad is een gebied van een hoger sociaal-
+geografisch (desgewenst sociaal-economisch) niveau en wordt
+daarbij gekenmerkt door een grotere dynamiek. E. e.a. vooral
+t.o<>v. de gebieden ten zuiden en oosten ervan. Opheffing,
+verplaatsing en vestiging moeten gezien worden als een deel van
+de dynamiek. Deze blijkt uit een aantal:
+a.	vestigingen van relatief grote, op hoog technisch niveau
+staande ondernemingen met een hoge winstverwachting,
+b.	opheffingen van bedrijven waarvoor de uit de locatie in
+dit gebied voortvloeiende hogere kosten een vroegtijdiger
+liquidatie betekent dan een locatie in een gebied van
+lager niveau te zien zou geven.
+c.	verplaatsingen naar gebieden van een lager niveau van
+■bedrijven die zo een liquidatie kunnen ontlopen.
+2.	De Zuidelijke Randstad is een gebied dat zich uitbreid
+m. n. naar het zuiden en oosten. Dit is een proces van schaal-
+vergroting, (liever structuurvergroting), wat kan blijken uit
+vestiging aldaar van bedrijven die zich ook nog in de eigenlijke
+Randstad vestigen. Ook ziet men verplaatsingen over en weer.
+Liquidaties moeten in beide gevallen voorkomen.
+3.	Een combinatie van structuurvergroting en niveauverschillen.
+4.	Een concentratie of hergroepering van bepaalde industriële
+activiteiten door opheffing enz., waardoor regionale eenzijdig-
+heid ontstaat. Dit is mogelijk weer te combineren met 1, 2, of 3.
+5.	Opheffing.enz. zijn louter toevallig, er’is geen sprake van
+een werkelijke verandering.
+Vanzelfsprekend zijn er veel meer hypothesen mogelijk. Bij m.n.
+de eerste en de tweede hypothese wordt verondersteld, dat de
+invloeden zich vooral in zuidelijke en oostelijke richting
+doen voelen. Dit omdat volgens rijks- en provinciale planologen
+het groene hart groen dient te blijven. Of dat door ver-
+plaatsingen vanuit Rijnmond niet een illusie zal blijken
+te zijn, wordt in deel 2 vluchtig bekeken. Vestiging vanuit
+andere gebieden dan wel "spontane” vestiging blijven hier
+m,b.t. het groene hart buiten beschouwing. Dit gebied heeft
+natuurlijk ook opheffingen en verplaatsingen. Belangrijke
+grondgebruikers zullen trouwens de "normale” uitbreidingen
+van de industrie, de woning- en wegenbouw zijn.
+HQ0.£datuk_2.____YQQChereidendc verkerninr>-cr.
+— —•— — — — —. — _— — _. _» _ _ — zz zz zz —— zz zz zz zz zz ;z zz. zz zz zz zz——• — — —
+par.1. Wat is industrie»
+Een etymologische verklaring van het van oorsprong latijnse
+woord, industrie is nijverheid, maakt het "begrip niet duidelijker."''
+Koenen en Endepols omschrijft Industrie (L. indüstria=nijverheid)
+als nijverheid, fabriekswezen, productief-technisch bedrijf.
+Een encyclopedie3^ verheldert de zaak iets: "Dat deel der maat-
+schappelijke voortbrenging dat grondstoffen omvormt tot voor het
+gebruik geschikte goederen." V.H.M.0.-leerboeken zitten in de
+zelfde hoek:"Nijverheid of industrie is de bewerking van on de
+natuur veroverde grondstoffen."4) en in Hadderingh en Lamain la
+omschrijft men industrie als secundaire productie. Productie
+omschrijft men als het geven van nieuwe nuttige eigenschappen
+aan reeds bestaande goederen. De term secundair wil zeggen dat
+de grondstoffen uit de primaire sector afkomstig zijn, dus door
+primaire productie aan de grond zijn onttrokken.5)
+Het‘..merkwaardige is, dat bij het doorbladeren van collegediktaten
+en nederlandstalige studieboeken geen sociaal-geografische
+definitie van industrie te lezen valt.6) Buitenlandse boeken
+laat ik buiten beschouwing omdat het vertalen van termen
+(b.v. the industry) aparte problemen geeft»
+1)
+2)
+3
+4)
+5)
+6)
+zie Prisma Vreemde woordenboek, 4de druk, pag. 165.
+zie Koenen en Endepols, 22ste druk, pag. 429.
+zie Kleine Oosthoek I, 1ste druk, pag. 571.
+zie Bredemeyer, Kruyt en Tosseram Kerngeografie 5b 13de druk,
+pag. 122.
+zie Hadderingh enz. 2de druk, pag. 149, 248, 249, 250.
+zie o.a. eerstejaars college Verduin.
+Sluit men aan "bij door sociaal geografen e. a. gebruikte benade-
+ringen van industrie, dan kan men het beste uitgaan van de
+indeling van "werken” in sectoren.De secundaire sector omvat
+dan het be- en verwerken van stoffen, direct of indirect afkomstig
+uit de primaire sector, tot dingen met nieuwe eigenschappen.
+Door de primaire sector zijn de stoffen aan de natuur onttrokken.
+Met een dergelijke omschrijving van industrie is men nog veel
+te vaag. Zó omschreven immers, is er industrie geweest zolang
+de mens bestaat, De ambachten van vroeger en nu, kan men geen
+ind. werkzaamheden noemen, de prehistorische en de huidige
+werkplaatsen geen fabrieken. Het handigst lijkt het daarom om
+de term industrie te gebruiken voor activiteiten die tot doel
+hebben om m.b.v. grondstoffen en halffabriekaten, eventueel ook
+hulpstoffen, nieuwe voorwerpen (producten) te maken. Hierbij
+I
+moet het om meer dan één product gaan. Industrie is dus serie-
+of massafatricage.^Zo niet dan is het ambacht? Verder moet er
+sprake zijn van het gebruik van gereedschappen en machines.
+Er moet een vrij grote mate van werkverdeling zijn. De diverse
+werkzaamheden moeten min of meer ruimtelijk geconcentreerd zijn
+en zullen zich vaak voor een groot deel in één of meer gebouwen
+afspelen. Duidelijk is dat men voor industrie dus nodig heeft
+arbeid, ruimte, machines en gereedschappen, grondstoffen en
+kapitaal. Om de zaak nog wat ingewikkelder te maken heeft iedere
+producerende activiteit behoefte aan een aantal andere activiteiten.
+Heel concreet: een productieafdeling van een bedrijf heeft nodig
+de bedrijfsleiding, mensen voor planning, teken- en laboratorium-
+werk, mensen voor onderhoud en reparatie, werksters, een bedrijfs-
+arts, koffiejuffrouwen, portiers en bewakers, een personeelschef,
+een kassier enz. Niet elke taak hoeft door het bedrijf zelf te
+worden verricht. Duidelijk is dat naast productiepersoneel er
+1)	zie o.a. Colin Clark en Fourastié.
+2)	Industrie houdt zich meer dan ambacht met productie van
+kapitaalgoederen bezig.
+3)	in ’t ambachtsbedrijf kan men een industriële organisatie
+techniek en ”'7irt schaf t Ggeist" aantreffen.
+4D--
+overig personeel is. Zij voeren een soort tertiaire werkzaam—
+heden uit. Soms is deze groep van groot belang. Een feit is dat
+bij de vestigingsplaatskeuze het dus niet alleen gaat om locatie
+van de productie—puur.Hoe groter het belang van "overig perso-
+neel" hoe meer kans er is dat men bij vestiging of verplaatsing
+gaat kijken naar m.n. het woonmilieu. Soms ook scheidt men
+bepaalde taken af en brengt die onder op een andere locatie.
+Dit gebeurt veel met topmanagement, research e.d.
+Een conclusie hieruit is dat de aldus omschreven industrie
+eigenlijk vrij recent is. Je kunt zelfs niet zeggen "de activi-
+teiten zoals die tijdens en na de ind. revolutie zijn ontstaan",
+want vele bedrijven die zich industrie noemen doen niet aan
+serie- of massafatricage en zijn dus per definitie ambachtelijk.
+Vgl. opmerkingen over Nederlandse scheepsbouw van Commissie
+Nederlandse Scheepsbouw 1965, die stelt dat die scheepsbouw
+vaak ambachtelijk is.
+Bovenstaande definitie is natuurli jk:.-niet dezelfde als b.v. die
+van het CBS. Daar kent men de term nijverheid, die men weer
+onderverdeelt in delfstoffenwinning, bouwnijverheid, industrie
+en ambacht en openbare nutsbedrijven. Zodat men bij het gebruik
+van de officiële statistieken een totaalbeeld van industrie en
+ambacht krijgt. Ambacht is meestal iets totaal anders; het houdt
+zich vaak bezig met het maken van "maatwerk" en met reparatie.
+in ieder geval stelt het totaal andere eisen en heeft dus andere
+vestgingsfactoren. Opgemerkt moet worden dat de scheiding tussen
+de 3 (desgewenst 4) sectoren van "het werken" lang niet altijd
+duidelijk zijn.
+1)	"One of the Basic weakness of industrial location theory is
+that it refers solely to production units and therefore is rot.
+applicnble to modern mnnufnctuving firms that Pre<’uently consist
+of spatially separate but locationelly intcrdenerdont ndministra-
+tivc-G research and developement, sales and oroduction units."
+Allen Pred: Behavior and location. Lund 1967, ong. ül.
+-11-
+nar. 2., Industrie en Industriële Geografie.
+Is in hooidstuk 2 parol getracht duidelijk te maken wat industrie
+is, de vraag wat industriële geografie is moet nop; beantwoord
+worden. De wetenschap sociale geografie houdt zich bezig met de
+studie en beschrijving van de bestaanswijzen van de mensen.
+Deze omschrijving is erg vaag» Bij een nadere omschrijving
+ontstaan problemen, want dan gaan de meningen divergeren. Zeker
+in de sociale geografie geldt zoveel hoofden zoveel zinnen.
+Vaak zijn die individuele accenten te verklaren uit persoonlijke
+gerichtheid, opleiding (deze of gene school) e.d. maar ook het
+soort werk dat een geograaf doet zal zijn privé definitie be-
+ïnvloeden.''-^ Al het gekibbel, uitvoerig beschreven in oraties,
+openbare lessen en afscheidscolleges, heeft gedeeltelijk een
+belangrijke functie: het meer bewust zijn van de ware aard van
+de geografie.
+Een beschrijving vanwat sociale geografie is, die het dichtst
+komt bij wat in de volgende hoofdstukken is gedaan, geeft
+o '
+Hoëkveld in "Over de theorie en de stand van de stadsgeografie. "
+Wel benadrukt hij, net als vele anderen m.1. teveel het ruimte-
+lijke.1 * 3^ De geograaf onderzoekt volgens Hoekveld de geografische
+structuur. Deze bestaat uit de sociaal-ruimtelijke structuur en
+de artefactiëel-morfologische strctuur. De sociaal-ruimtelijke
+1)	Overzichten van de tegenwoordige opvattingen van sociale
+geografie vindt men o.a. in: drs.J.Hauer:"Een poging tot plaats-
+bepaling van de nieuwe geografie"; Amsterdam 1971.
+2)'in TESG 1968 no. 1 pag. 1-12,
+3)	Het kiezen van "de ruimte" als het specifiek geografische
+object komt veel voor; b.v. prof. dr. J.Hinderink zegt ruimtelijk
+situationeel. Veel mathematisch geografen beoefenen een soort,
+ruimtekunde.
+-12-
+structuur "bestaat uit elementen,(dat zijn huishoudens, "bedrijven
+en instituties), die ruimte-huishoudingen voeren. Hier vzordt H. ’ s
+"betoog zwak, hij stelt dat ruimte-huishoudingen er zijn doordat
+de elementen relaties hebben met andere elementen. Hij geeft als
+voorbeeld van elementen waarmee een bedrijf te maken heeft,
+toeleverende of grondstof verschaffende bedrijven, afnemers, de
+overheid. Als voorbeeld van relaties werknemers, afnemers.(al of
+niet potentieel.) Moet men dit nu lezen als, dat de plaats in de
+ruimte toegang geeft tot kwaliteiten van andere elementen?1
+Hoekveld noemt ook nog Rouwe’s conditiesysteem, een nog zeer
+theoretisch begrip, wat mijns inziens gedeeltelijk overeenkomt
+2)
+met mijn markten. '
+Wat industriële geografie is wordt:nog wat moeilijker. De studie
+velden van de geografie zijn op
+in te delen:
+1.	naar het doel; regionaal,
+2.	naar de manier waarop men
+3.	naar de manier waarop men
+* 3)
+tisch, niet-mathematisch.
+veel manieren te beschrijven en
+thematisch, regionaal-thematisch.
+werkt; vergelijkend, beschouwend.
+zijn gegevens verwerkt; mathema-
+Industriële geografie rekent men traditioneel tot de economische
+geografie zoals b.v. ook agrarische geografie. Wanneer men
+economische geografie opvat als die tak van de geografie die
+4)
+alles in kostprijselementen tracht uit te drukken,"' dan hoort
+1) vergelijk hfd.4 par.10. De establisment met zijn interrelaties
+van Lambooy e.a. is m. i. beter bruikbaar, zie hfd.5 par.1.
+2)	zie hfd.4 par.1.
+3)	zie hiervoor o.a. R.Tamsma: De Moshav Ovdiem. 1S'66 pag.2-b.
+4)	de vraag is of het in de praktijk nu, in Nederland mogelijk
+is om werkelijke kostprijzen te berekenen en het is m. i. helemaal
+twijfelachtig of men geconstateerde kostprijsverschillen kan
+verklaren uit b.v. verschillen in locatie, in bedrijfsorganisatie,
+in de management, om de doodeenvoudige reden dat de ervaring is
+dat bedrijven niet over dusdanig nauwkeurige berekeningen be-
+schikken. Dit is o.a. gebleken bij bedrijfsenquète in Dordrecht
+en omstreken.
+-13"
+-cle industriële geografie er grotendeels niet onder. Wanneer
+economische geografie hot onderdeel van de soc. geografie is
+dat de nadruk legt op "het werken" en men dit werken ziet als
+een resultante van o.a. "Wirtschaftsgeist", arbeidsverdeling,
+techniek, behoeften van de mens en de mogelijkheden van het
+fysisch milieu, dan kan ik daarmee instemmen. Dat houdt dan in
+dat, afgezien van verschillen in onderzoekmethode, de specialismen
+binnen de geografie het object verschillend benadrukken of een
+bepaald gedeelte ervan kiezen. Dit betreft dan de thematische
+specialisaties.
+Bij industriële geografie kan men m. i. het best uitgaan van het
+individuele bedrijf. Product, productiemethode, omvang en ligging
+zijn bij ieder bedrijf weer anders.1) Natuurlijk is het mogelijk
+om dan één of meer aspecten uit te kiezen en niet alle, omdat dat
+een veel te breed terrein wordt. Het is dan wel mogelijk dat men
+puur economisch, of puur ruimtelijk enz. aan het werk gaat.
+Vanzelfsprekend is industrie iets waarmee zich meer wetenschappen
+bezighouden dan de sociale geografie, o. a. economie, sociale
+psychologie, sociologie en technische wetenschappen.
+1)	vergelijk H.J.Keuning: Ontwikkelingstendenties tot een
+modernisering van de sociale geografie.TAG 1963 m.n. pag. 451.
+en M.J.Wise: Industrial location. London 1959. pag.8.
+-14-
+D F. F, L 1.
+Deel 1 bevat een theoretische benadering van het industriële
+bedrijf en de industriële structuur.
+hoofdstuk 3. Het individuele bedrijf.
+par. 1. Initiatiefnemers, oprichters en ondernemers.
+De initiatiefnemers komen met het idee een activiteit te beginnen.
+Vaak zullen zij ook de stichters in de juridische zin zijn. Dat
+hoeft niet natuurlijk. Het feitelijk opbouwen en laten draaien van
+een bedrijf gebeurB. door de bedrijfsleiding die zich ook wel onder-
+nemer (s) noemt. Een ondernemer is letterlijk echter iemand die voor
+eigen rekening iets doet; dus ook het kapitaal verschaft» Kapitaal
+wordt vaak echter door anderen verschaft. -Er zijn natuurlijk
+allerlei combinaties denkbaar: initiatiefnemer-stichter, stichter-
+bedrijfsleider, bedrijfsleider-aandeelhouder enz. De activiteiten
+die ondernomen worden kunnen zijn:
+1.	activiteiten die (elders) al bestaan
+2.	nieuwe activiteiten
+In beide gevallen kan men naar de plaats van ontstaan of bestaan
+kijken en zo de activiteit typeren. Betreft het een nieuwe
+activiteit dan is er nog de uitvinder/ontdekker. Dat kan een
+persoon of instelling zijn.
+-15
+’-oging tot benaming van activiteiten die op een plaats begonnen
+worden.
+activiteit
+plaats	oud	nieuw
+op deze plaats ont- staan	productie is: lokale traditie	productie van lokale uitvinding
+in deze streek ontstaan	regionale traditie	regionale uitvin- ding
+in dit land ontstaan	nationale traditie	nationale uitvin- ding
+in het buitenland	een	land	een ..... land uit-
+ontstaan	traditie	vinding
+komt overal voor	traditie	algemene uitvin- ding
+Wie zijn nu de stichters en ondernemers en waar komen zij van-
+daan? Het kunnen privé personen, bestaande of nieuwe rechts-
+personen (w.o. de overheid) zijn. Zij kunnen van lokale, regio-
+nale, nationale of buitenlandse herkomst zijn. Het kunnen
+nieuwe vestigingen of verplaatsingen van bedrijven zijn. Williams
+stelt dat men op de plaats waar men werkt of woont z'n ideeën
+zal trachten te verwezelijken tenzij die plaats totaal onge-
+schikt is.1) Bak zegt dat vooral uittredende medefirmanten van
+bestaande bedrijven of oud-werknemers vaak initiatieven ontwik-
+kelen.2) M. i. hebben die bedrijven die van groot belang zijn
+voor de industriële structuur en voor de werkgelegenheid - in
+Nederland anno 1971 - andere initiatiefnemers: bestaande binnen-
+en buitenlandse ondernemingen.3) Van den Berg stelt dat "steden
+de zetels van regionale initiatieven plegen te zijn".4-)
+1) G.Williams: Economics of everyday life. London, 1950. pag.70.
+2)	dr.L.Bak: Het industrieel terreingebruik in Nederland. Den
+Haag, 1961. pag.11Ü.
+3)	zie o.a. drs. «T. R. Bramer: De betekenis van de buitenlandse
+industriële vestigingen voor de regionale arbeidsmarkt in
+hoord-Brabant; M. de Smidt: Foveign industrial establishments
+located in the Netherlands. In TESG jan.-febr. 1966. pag. 1-19.
+4)	G. J.van den Berg: Het regio-begrip in de geografische plan-
+ning. In TAG jan.,~febr. 1966. pag. 24-39.
+•-1G-
+nar. 2o
+Ondernemersdoelon.
+Dit is een onderwerp vzanr zeer veel over te zeggen is, maar dat
+toch wel "bulten het door mij gestelde kader valt. Toch enige
+opmerkingen. Er zullen vandaag de dag nog maar weinig ondernemers
+zijn, die het maken van winst als enige doel zien. Daarvoor is in
+de plaats gekomen de continuïteit van de onderneming, waarvoor
+natuurlijk het maken van winst één van de vereisten is. • -• ;
+Sommige ondernemers stellen de bevrediging van behoeften primair
+en zien zich als zodanig dus meer in een sociale dan economische
+rol. Dit is b.v. het geval bij ''moderne” ondernemers en bij
+overheidsbedrijven.
+De gewone, gemiddelde ondernemer in Nederland is overigens niet
+vrij in het bepalen van zijn ondernemersdoel. Behalve vzat hij
+zelf wil en van de wetgever mag, heeft hij door persoonlijke
+relaties verplichtingen aan zijn staf en andere werknemers en
+aan de bevolking van de plaats of streek.
+par. 3. Benaderingswijzen van het individuele bedrijf.
+De vestigingsplaats van een bedrijf is een onderwerp dat zowel
+economen als geografen al vele generaties boeit. Er zijn hele
+"scholen” aan te wijzen. Een overzicht van diverse opvattingen
+geeft o.a. "Criteria for location of industrial plants”, New York,
+1967. Townroe geeft een bibliografie van recente voornamelijk
+angel-saksische en amerikaanse literatuur.1) Veel onderzoekers
+gaan uit van kostenminimalisatie (b.v. Weber) of winstmaximalisatie
+(b.v. Lösch). Behalve de praktische moeilijkheden zoals het
+berekenen van de kostprijs en van de kostprijsverschillen bij een
+1)	P. M.Townroe: Industrial location and Regional Economie Policy.
+Birmingham, 1968.
+-17-
+aantal alternatieve locaties, hebben die onderzoekers een aantal
+vooronderstellingen die hun theorieën minder bruikbaar maakt.
+Het uitgangspunt, de homo economicus met zijn alleswetende ratio-
+naliteit, bestaat niet. Be wereld van die homo wordt vaak als
+statisch gezien. Ook dat is onjuist. Met de mogelijk bestaande
+onderdelen elders van de onderneming (productiebedrijven, hoofd-
+kantoren, laboratoria e.d. ) en met de aanwezigheid van concurrerende
+ondernemingen, houdt men te weinig of geen rekening. De beschik-
+baarheid van kapitaal beschouwt men ten onrechte van weinig of
+geen invloed. Pred wil daarom uitgaan van de interpretatie door
+de mens/onderneming van de werkelijke economisch-geografische
+spreidingspatronen.1) Vestigingsplaatskeuze is volgens hem een
+van de vele vormen van besluiten nemen. Hij stelt daarom een be-
+havioral matrix op. Tussen die matrix en de klassieke opvattingen
+blijken verschillen te bestaan die Pred terugvoert op:
+1.	bestaan van niet-economische motieven
+2.	verschillen in spreiding van het ondernemerschap
+3.	het korte-termijn plannen
+4.	niveauverschillen in informatie.
+Volgt men Pred dan krijgt men een nauwkeuriger benadering van de
+werkelijkheid. Het zal dus moeilijken zijn wetmatigheden te ont^-
+dekken en locaties.te meten i.v.m. de grotere aandacht psycho-
+logische, sociale en culturele factoren. ' Pred is aan het eind
+van zijn boek niet helemaal tevreden maar denkt op de goede weg
+te zijn.
+1}-Allan Pred:Behavior and location; Lund 1967.
+2)	zie ook J.A.Sporck: Le róle croissant des facteurs “humains"
+dans la localisation des industries. In Travaux Gcographioues dc
+Liège. 1£63, pag. 165-191.
+Het forum,tijdens het congres van de VUGS ”De stad in nieuwe vormen”
+over het werken, legde de nadruk vrij sterk op de economische
+rationaliteit van de ondernemer bij de keuze van de vestigingsplaats
+In TA.G no.2. 1163, Pag. 48-52.
+-18-
+^anneer je zijn ideeën geheel of gedeeltelijk overneemt, dan kom
+je met het probleem van operationalisering te zitten: gezien het
+verkennend karakter van mijn scriptie,wil ik me beperken tot een
+aanduiding van de gebieden, de velden, waarin gekozen moet worden.
+Wat moet er gekozen worden?
+par.4. Produceren is kiezen.
+In het voorgaande is gesteld dat ondernemen het maken van keuzen
+is. In deze scriptie gaat het over industrieel ondernemen: pro-
+duceren. Produceren is dus ook kiezen. Kr moeten door een produ-
+cent zeer veel keuzen gemaakt worden. Bekijkt men wat produceren
+eigenlijk is, wat men er voor nodig heeft, de manier waarop e.d.
+dan moet men zich realiseren dat alles kan veranderen: ondernemer,
+ondernemersdoel, product, productiemethode, leveranciers, afnemers,
+productielocatie enz. Sommige keuzen maakt men vaak, (dagelijks,
+wekelijks, maandelijks) andere niet vaak, (jaarlijks) en weer
+andere incidenteel, (bij bijzondere omstandigheden b.v. locatie).
+Het\kiezen doet men zowel binnen het bedrijf als erbuiten zodat
+het m. i. nuttig is de interne en externe kanten afzonderlijk te
+bespreken. Natuurlijk beïnvloeden de interne en externe kanten
+elkaar; neem b.v. de efficiency van het bedrijf, die doorwerkt
+in winstcapaciteit. Deze bepaalt mede de plaats op de afzetmarkt
+en op de arbeidsmarkt (betere secundaire arbeidsvoorwaarden).
+De grens tussen intern en extern is ook hier arbitrair.
+1) het is misschien juister om in plaats van produceren
+fabriceren te zeggen omdat produceren ook voor o.a. landbouw
+gebruikt wordt.
+-19- '
+y f' r» 5» Heb industr iele _b edr ij f in t e r n.
+a.	Algemene opmerkingen.
+Al eerder zijn opmerkingen gemaakt dat hoewel het om produceren
+gaat men niet alleen te maken heeft met productie--puur.(zie hfd.2
+par.1.) ïïen bedrijf of vestiging bestaat uit één of meer productie-
+afdelingen of technische eenheden. Enkelvoudige vestigingen
+zijn bedrijven met één technische eenheid. Samengestelde vesti-
+gingen zijn bedrijven met meer technische eenheden..CBS onder-
+scheidt dan nog hoofd- en neven technische eenheden op grond van
+personeelsbezetting. Dat criterium kan een vertekend beeld ople-
+veren. De vestiging is als geheel een ruimtelijke eenheid. Behalve
+de technische eenheden vindt men er waarschijnlijk:
+1.	magazijnen, opslag
+2.	onderhoud en reparatie afdeling
+3.	event. laboratorium (research en controle)
+4.	inkoop en verkoop afdeling
+5.	expeditie
+6.	administratie
+7.	"huishoudelijke"diensten (kantine e.d. )
+8.	bedrijfsleiding.
+Soms is er bij grotere bedrijven een bedrijfsschool.
+Dit alles vraagt ruimte. Die ruimte is ingericht. De situering
+van de diverse onderdelen t.o.v. elkaar en het eventuele wegennet
+noemt men wel de lay-out. Het merendeel van de activiteiten zal
+zich in gebouwen afspelen. Productie en niet-productie bezigheden
+vragen ook mensen, hulpmiddelen en machines. Productie vraagt
+weer om grond- en hulpstoffen en energie. Dat zijn dingen die m. i.
+beter bij de externe kant bekeken kunnen worden. Alles moet ge-
+kocht, gehuurd, gepacht of in dienst genomen worden. Daarvoor is
+kapitaal nodig. Daarbij bestaan voor ieder bedrijf specifieke
+1)	Voor bedrijf mag men lezen vestiging en voor productieafdeling
+technische eenheid. Dat zijn de termen die het CBS bij de bedrijfs-
+telling hanteert. Zie Derde algemene bedrijfstelling 1933 deel 1.
+-20-
+problemen. De verhouding eigen en vreemd vermogen dient
+goed te zijn. Wat het geleende geld betreft onderscheidt
+men leningen op korte, middellange en lange termijn. Hierbij
+moet de termijn in overeenstemming zijn met de bestemming.
+De ondernemer (bedrijfsleiding) moet alles organiseren, plaat-
+sen en op elkaar afstemmen. Voortdurend is hij aan het kiezen.
+De juistheid of beter de mate van juistheid van die interne
+keuzen bepaalt gedeeltelijk of en in welke mate het onder-
+nemersdoel wordt bereikt. De "buitenwereld" bepaalt dat voor
+het andere deel, maar bedrijven kunnen zeker ook door interne
+'oorzaken (b.v. verkeerde financiering en slechte organisatie)
+liquideren.
+Neemt men een aantal gegevens van het bedrijf en relateert
+men die, dan krijgt men indices. Hierbij dient men er op
+bedacht te zijn dat bij dat relateren vanuit beide gegevens
+gewerkt kan worden (b.v. het aantal m2 per werknemer of het
+aantal werknemers per ha). In onderstaand schemaatje zijn
+de meest gebruikelijke indices opgenomen. De open vakjes heb-
+ben betrekking op de "opgedraaide" indices.
+	gerelateerd aan:			
+	opp. in m‘4	kapitaal	uotaal pers.	toegevoeg- de waarde
+opp. in m2	X		1)	
+kapitaal	2)	X	3)	
+totaal perso- neel			X	
+toegevoegde waarde	4)	5)	6)	X
+1) aantal m2 per werknemer (terreinciuotient).
+2)	investeringen per m2 (knpitaal= geïnvesteerd kapitaal).
+3)	investeringen per werknemer.
+4)	toegevoegde waarde per m2.
+5)	rendement.
+6)	toegevoegde waarde per werknemer.
+-21-
+De diverse gegevens kan men nog verder splitsen (b.v. opper-
+vlakte in oppervlakte "bruto en netto, "bebouwd en onbebouwd
+enz.). De indices worden dan steeds nauwkeuriger. Men dient
+bij het maken en interpreteren van indices wel op de aard van
+het bedrijf te letten.1)
+De indices die ontstaan zijn opzich nutteloos. Door ze te ver-
+gelijken met indices van een bedrijf of bedrijven met de zelf-
+de activiteit, kan men wellicht conclusies trekken m.b.t. al-
+lerlei vormen van efficiency.
+Twee eigenschappen van de onderneming, die hier om een behan-
+deling vragen - schaal van de productie en rechtsvorm - vallen
+allebei een beetje tussen de interne en externe kanten van het
+bedrijf of beter gezegd: ze behoren tot beide kanten.
+b.Schaal van de productie. ' '■ -
+De productie-schaal heeft gevolgeh voor de omvang van o.a.
+personeel, oppervlakte, investeringen en rendement. Dat laat-
+ste kan men vaalt verhogen door het tpepassen van een econo-
+mische wetmatigheid: scale economiesS). Men zoekt een optimale
+omvang van de productie. Dit betekent vaak een verhogen ervan.
+Dat heeft gevolgen voor arbeidsbestand enz. Nieuwe machines
+hebben vaak een grotere capaciteit dan de oudere. Dan moet
+men wel meer gaan produceren. Voor uitbreiding van de produc-
+tie ontbreekt vaalt het benodigde kapitaal. Uitgifte van nieuwe
+aandelen of van obligaties zijn niet altijd mogelijk. Den op-
+lossing is dan een fusie (d.w. z. twee of meer ondernemingen
+besluiten tot een juridisch en financieel samenwerken waarbij
+de partners min of meer gelijk zijn) of een overname (een of
+meer ondernemingen kopen een andere op). Fusies en overnames
+worden om veel meer redenen gepleegd (zie pag. 22). De gevolgen
+van de schaalvergroting zijn moeilijk meetbaar omdat ze vaalt
+samengaan met andere wijzigingen.
+c.	Fusies en overnames,.
+Fusies en overnames komen hoe langer hoe meer voor in Neder-
+land. Vaak zijn de oorzaken duidelijk maar het is ook een mode
+geworden in het bedrijfsleven zodat sommigen spreken van "de
+klonterziekte. 1 2
+1) zo zijn m.i. terreinquotienten voor vestigingen van o.a.
+taxi-bedrijven, afdelingen plantsoenen en gemeentewerken
+en van sleepdiensten overbodig. Zie voor tegengestelde op-
+vatting het rapport "Vondelingenplart-Botlek-DuropQort",
+Rotterdam, 1970.
+2) zie hiervoor o.a. M.Chisholm: Geography and.econornics.
+London, 196b. m.n* hoofdstuk 4.
+-22-
+Econóuien zijn nof; niet erg lang bezig met de studie van
+fusies en overnames.-*-)
+Het gaat na fusies en overnames lang niet altijd goed, laat
+staan beter met de betrokken bedrijven.2)
+dat de gevolgen zijn voor de industriële structuur is bij
+mijn weten nog nooit onderzocht. Mogelijke gevolgen zijn:
+1.	geen veranderingen (wel potentiële)
+2o wel veranderingen w. o. : a. versnelde groei of afname
+b. specialisatie of juist een
+groter assortiment
+c. verplaatsing of opheffing.
+Het meten van de gevolgen van fusies voor m. n. de werkgelegen-
+heid is erg moeilijk.3)
+d.	Ondernemings of rechtsvormen.
+Vele ondernemingen hebben een juridische vorm die alleen
+historisch verklaarbaar is. Wijzigingen komen enorm veel voor:
+1.	velé vennootschappen onder firma en besloten vennootschap-
+pen worden n.v. ’s, vaak i.v.m. een toekomstig beroep op de
+kapitaalmarkt;
+2.	grote ondernemingen, concerns e.d. passen vrij .vaak de
+organisatie van afdelingen en dochterondernemingen aan.
+Daarbij kan om allerlei redenen w. o. fiscale en i.v.m.
+de aansprakelijkheid ook de juridische vorm gewijzigd
+worden.
+e.De grootte van een bedrijf.
+Als maatstaf voor de bepaling van de omvang van een bedrijf
+kan men eventueel de oppervlakte nemen of de omvang van het
+kapitaal. Heel vaak kiest men de omzet en het aantal werknemers.
+In de toekomst zal men in West Europa i.p.v. omzet waarschijn-
+lijk de toegevoegde waarde nemen. De keuze van de maatstaf
+hangt af van het beschikbare materiaal en het doel van de
+informatie.
+1)	zie voor de resultaten o. a. :
+1. H. J. Noordewier: Fusies: feiten na fabeltjes. In Inter-
+mediair van 4- sept. 1970.
+2.	J. J. Wouterse: Fusierage en fusierijpheid. In Interme-
+diair van 23 okt. 1970.
+3.	drs. W. J. R. Rozenbroek: Bedrijven in de gevarenzone:
+1. Het sein op rood. In Intermediair van 11 dec. 1970.
+2. De impasse doorbreken. In Intermediair van 18 dec.
+1970.
+3.	Directies voor dilemma's. In Intermediair van 24-
+dec. 1970.
+4.	Stichting Maatschappij en Onderneming: Fusies, een
+terreinverkenning. Den Haag, 1970.
+2)	zie artikel in'tParool van 13 febr. 1970 "Moeilijkheden ko-
+men pas na fusie" en in het Parool van 24- dec» 1970 het
+artikeltje over drs.W.de Jong (V.U.) "Fusies leiden tot
+weinig resultaat".
+3)	zie hier o.a. voor "Ontwikkelingen in de structuur van het
+br.abants industriële bedrijfsleven" in "Noord-Brabant"
+1969 no.4. pag.229-263.
+-23-
+Grote industriële "bedrijven groeien sneller clan kleinere.
+Zij worden voor de werkgelegenheid on de productie relatief’
+steeds belangrijker. Sommigen zien daarom het einde van het
+klein- en middengroot bedrijf naderen; Kenneth Gnlbraith: The
+ne'.7 industrial state. Anderen w. o. prof. dr. S. Cambion in het
+Alg. Handelsblod van 25 nov.1969 achten het middelgroot bedrijf
+uitstekend geschikt om vele initiatieven zich te laten ontwik-
+kelen. Zie ook drs. J. E. Hagen: Het krijttijdperk van het kleine
+bedrijf, in Intermediair van 16 okt.1970.
+Hoofdstuk 4. Het individuele bedrijf extern: de markten.
+par.1. Inleiding.
+Een industrieel bedrijf is door zijn relaties met zijn
+"buitenwereld" opgenomen in een bepaalde bestaanswijze-struc-
+tuur. Bestaanswijze-structuur of sociale geografie»1) Daarbij
+kan men natuurlijk een schaal invoeren; lokaal, regionaal,
+nationaal, "continentaal" en mondiaal. Zo’n bestaanswijzestructuur
+is zeer complex en een volledige beschrijving ervan is vrijvzel
+onmogelijk. Maar dat is ook niet nodig; het industriële be-
+drijf is uitgangspunt. Hoe dat functioneert in en terzelfder-
+tijd deel uit maakt van de bestaanswijzestructuur, is de vraag
+die hier beantwoord moet worden.
+Dat wil ik trachten te doen door de factoren die van externe
+aard zijn en die mede de productie bepalen, gedeeltelijk op
+een iets andere manier dan gebruikelijk te benaderen. De be-
+schrijving van "de arbeidsmarkt" van Davelaar, Slagter en
+De Smidt heeft me op dat idee gebracht. Zij stellen dat de
+arbeidsmarkt "de konfrontatie van een gestruktureerde vraag
+1) Het gebruik van de term sociale geografie op deze manier
+is aantrekkelijk. Het wordt o. a. gedaan dooi’ Pierre Gourou
+in de "Tropical world" en door R.Tamsma in "De L'oshav
+Ovdiem. Invloeden op de sociale geografie van Israël’s
+kleine-boerendorpen zonder loonarbeid". Assen, 1966.
+-24-
+naar en aanbod van arbeidskrachten” is "waarbij we een on-
+derscheid maken tussen potentiële - , feitelijke - en latente
+vraag resp. aanbod”.In feite stellen ze dus dat de arbeids-
+markt al het (betaalde) werk is dat gedaan moet worden (gedaan
+zou moeten worden) en alle mensen die dat werk doen (zouden
+kunnen doen). Die markt moet nog ruimtelijk begrensd worden.
+Dat kan men doen b.v. door forensenstromen te analyseren. Het
+is mogelijk om binnen de markt deelmarkten te onderscheiden
+door op de aard van het werk te letten.
+Markt heeft dus een veel wijdere betekenis gekregen dan kopen-
+verkopen. De bedoeling is nu om ook de andere externe relaties
+van bedrijven te beschrijven als "markten” zodat niet alleen
+een relatie maar ook de achtergrond ervan duidelijk wordt. De
+dynamiek van de relaties komt zo meer tot zijn recht.
+Van zo'n markt, die in zekere mate een eigen leven leidt (auto-
+noom is) wordt nagegaan of hij ruimtelijk is, of er sprake is
+van verschillende schalen. D. w. z. door te kijken naar verschil-
+len. in intensiteit van relaties een markt ruimtelijk af te
+X
+grenzen en na te gaan of de markten van een zelfde soort samen
+niet ook een markt' vormen. B.v. de (stads)gewestelijke arbeids-
+markten vormen in Nederland samen de nationale arbeidsmarkt.
+Is er wanneer op de kwaliteit gelet wordt sprake van niveau
+verschillen en valt er binnen een markt een hiërarchie te ont-
+dekken?
+Deze benadering, die dus veel ruimer is dan het nagaan van
+vestigings(plaats)factoren, is een voorlopige. Hij is onvol-
+ledig en ongetwijfeld in zijn uitvoering hier, gebrekkig.
+Er is steeds uitgegaan van het secundaire bedrijf. Ook pri-
+1) zie drs.P.Davelaar, H. C. A. Slagter, drs. M. de Smidt: Arbeids-
+markt: struktuur, mobiliteit'en participatie. Bulletin no.7
+van het Geografisch Instituut van de P.U. Utrecht. Utrecht,
+dec. 196U.
+-25-
+maire en tertiaire bedrijven spelen op de diverse "merkten"
+mee. Men kan de volgende markten onderscheiden:
+1. producten (afzet) markt
+2o vervoersmarkt
+3.	technologische markt
+4.	arbeidsmarkt
+5» grond- en hulpstoffenmarkt
+6.	energiemarkt
+7.	dienstenmarkt
+8.	(industrie) bouwmarkt
+9.	grond- en terreinenmarkt
+10.	kapitaalmarkt
+De volgorde waarin de markten behandeld zouden kunnen worden
+hangt af van het te kiezen uitgangspunt. Wanneer men op de fre-
+quentie van de keuzen door ondernemer of bedrijf let, dan zal
+de volgorde anders zijn dan wanneer op het niveau (belang) van
+de keuzen of b.v. de financiële gevolgen gelet wordt.
+Een apart probleem vormt het verschil tussen een bedrijf dat
+al produceert en een bedrijf dat men gaat vestigen. Gezien de
+vele mogelijkheden wordt bovenstaande, willekeurige volgorde
+aan gehouden.
+par.2.De producten (afzet) markt.
+Bedrijven.zetten hun producten af. De aard van het product
+bepaalt de soort koper. Er bestaan kapitaal - , duurzame •
+consumptie - en consumptie goederen. Er is behalve finale
+1
+vraag en aanbod ook intermediaire vraag en aanbod. De inter-
+mediaire leveringen zijn vaak zeer omvangrijk.1) Het gaat
+niet alleen om feitelijke vraag en aanbod maar ook om poten-
+tiële. Er zit een duidelijke ruimtelijke kant aan de markt;
+vragers en aanbieders zijn gelocaliseerd. Vooi’ vele bedrijven
+1) Voor Nederland zijn geen cijfers bekend. Drs.R.Ronteltap
+vermeldt in "De industriële ontwikkelingsmogelijkheden in
+Noord-Hollands Noorderkwartier" (Amsterdam, 1968) uit USA
+onderzoekingen 80%. Dr.Olivier Vanneste geeft in deel II
+hoofdstuk 2 van "Het groeipoolconcept en de regionale eco-
+nomische politiek" (Antwerpen, 1967) een groot aantal cij-
+fers per bedrijfsgroep en bedrijfsklasso.
+-26- .
+is de afzetmarkt een erg 'belangrijke keuze. De ruimtelijke
+plaats "binnen de grenzen ervan wordt door andere markten
+(vervoersmarkt, arbeidsmarkt e.d. ) bepaald. Men kan, wanneer
+op de aard van het product gelet wordt, deelmarkten onder-
+scheiden en door de freouentie van de leveranties na te gaan
+(ook hun plaats) schalen constateren?^Deelt men producten naar
+belangrijkheid in, dan blijken niveauverschillen binnen de
+markt te bestaan.
+Wat de intermediaire leveringen betreft: er bestaan twee
+vormen van vrij permanente relaties, die tot gevolg hebben
+dat bedrijven eikaars ruimtelijke nabijheid zullen zoeken,
+te weten:
+1. bedrijven, die in een productiekolom op elkaar volgen;)
+2. bedrijven die regelmatig veel (half)producten van andere
+bedrijven betrekken.3)
+par. 6.De vervoersmarkt»
+Het bedrijf dat zijn producten af wil zetten is afhankelijk
+van de vervoersmogelijkheden. Dat geldt natuurlijk ook voor
+aanvoer van grond- en hulpstoffen, halfproducten en de afvoer
+van sommige afval. Het verkeer van en naar het bedrijf van
+werknemers enz. valt n.m.m. niet onder de vervoersmarkt. Aan
+de ene kant staat de potentiële en feitelijke vraag naar ver-
+voer en aan de andere kant is er een potentieel en feitelijk
+aanbod. Iedere vervoerssoort heeft z’n eigen vervoermiddelen,
+z’n eigen wegennet en is op een eigen wijze geregeld. In de
+1) locale, regionale, bovenregionale, nationale en internatio-
+nale markten.
+2)	zie Hstall en Buchanan: Industrial activity and economie
+geography. London, 1961. pag. 109. Zij noemen het "vertical
+linkage".
+3)	zie Estall en Buchanan o. c. pap;. 109. Zij noemen het "late- ‘
+ral" of "horizontal" linkage. Verder vermelden ze o. a. de
+‘’diagonal" linkage. Dit zijn meer de indirecte relaties
+of de minder freouente b.v. een gereedschapsfabriek. Als
+laatste vermelden ze volledig indirecte relaties, die b.v.
+via de arbeidsmarkt lopen.
+-27-
+organisatie van zo 'n vervoerssysteem valt soms een hiërarchie
+te ontdekken.
+Voor een deel vallen personen- en goederenvervoer samen.
+Het bedrijf dat iets moet laten (moet) vervoeren kiest een
+soort vervoer op grond van de bestaande mogelijkheden en de
+aard van hetgeen getransporteerd moet worden, de beschikbare
+tijd en prijs. Dikwijls moet men een combinatie kiezen.
+soort vervoer	vervoerder		
+	1) bedrijf zelf	2) onderneming	overheid
+wegvervoer	komt veel voor	komt veel voor	in Ned. indirect
+spoorwegver- voer	—	niet in Ned.	komt veel voor
+binnenvaart	komt voor	komt veel voor	niet in Ned.
+zeevaart	komt voor	komt voor	niet in Ned.
+luchtvaart	—	komt voor	niet in Ned.
+1) eigen vervoer
+2) als er sprake is van een vaste relatie dan wordt dit con-
+tract vervoer genoemd
+De vervoersmarkt is ruimtelijk, wat b.v. duidelijk blijkt bij
+de wegennetten?^Er ‘is m.i. ook sprake van niveauverschillen,
+die samenhangen met aard van de goederen, afstand vervoer,
+snelheid, prijsvervoer en belang van vervoer.
+Er treden zeer veel veranderingen op op de vervoersmarkt, voor-
+al technisch en organisatorisch. Er komen zelfs nieuwe trans-
+portmiddelen bij (o.a. pijpleiding).
+1) lokaal, regionaal, bovenregionaal, nationaal en intbrnatio-
+naal.
+-r?8-
+pnr.4. De technologische markt.
+Deze bestaat uit aan de ene kant machines en procédé’s, die
+gebruikt worden. Aan de andere kant staan uitvinders en ver-
+kopers van machines (resp. fabrikanten) en technische kennis
+(ideeën). Het onderscheid tussen feitelijk en potentieel is
+m.i. bruikbaar.
+Men kan machines of procédé's (octrooien en licenties) kopen
+of laten ontwikkelen. Iemand die een machine koopt, koopt be-
+halve materie technische kennis. Het verwerven van technische
+kennis door het in dienst nemen van mensen, wordt meer tot de
+arbeidsmarkt gerekend.
+Het kopen van machines kan gebeuren via vertegenwoordigers, \
+jaarbeurzen e.d. Voor de machine-fabrikant is de technologische
+markt een deel van de producterunarkt. De handel in patenten
+en licenties is onoverzichtelijk. Overeenkomsten komen vaak
+door directe contacten tussen bedrijven tot stand.
+Ook 'de technologische markt is ruimtelijk: machines, machine-
+fabrieken enz. zijn gelokaliseerd. Er zijn schalen aan'te
+brengen; m.i. zijn de schalen de regio en de grotere ruimte-
+lijke eenheden. Door op de trap van de techniek te letten en
+door machines en procédé’s een waarde toe te kennen zou men
+niveau’s kunnen onderscheiden. Ook hier is een indeling in
+deelmarkten mogelijk, b.v. voedsel- en petro-chemische tech-
+nologische markt.
+Natuurlijk verandert er op deze markt zeer veel. In de tijd
+én in de ruimte kan er tussen de gebruikte en de mogelijke
+technologie een groot verschil ontstaan. Daarvan is de "tech-
+nological gap” (op een aantal deelmarkten!) tussen de USA en
+West-Europa een voorbeeld.
+-29-
+par. 5. De arbeidsmarkt.
+Voor dit onderwerp wil ik voornamelijk verwijzen naar het
+artikel van Davelaar, Slagter en De Smidt.1)
+Aan de arbeidsmarkt zitten ruimtelijke kanten: arbeidsplaat-
+sen (functies) en functievervullers zijn gelokaliseerd. Er zijn
+m. i. niveau's te onderscheiden die samen kunnen hangen met die
+schalen, die men kan constateren. Een lokale, resp. (stads)ge-
+westelijke of regionale arbeidsmarkt is voor een aantal be-
+roepen zoals ongeschoold werknemer een vrijwel gesloten sys-
+teem. De hoog gekwalificeerde kan in een veel groter gebied
+werkzoekende zijn. Voor allerlei specialisten is er zelfs een
+internationale markt. Eventueel kan men ook yan deelmarkten^)
+spreken. x
+Er zijn zeer veel factoren, die de arbeidsmarkt bepalen. Aan
+de ene kant staat de werkgelegenheid, die a.h. w. het saldo is
+van vestiging, verplaatsing, opheffing, uitbreiding en inkrim-
+ping van bedrijven. Aan de andere kant vindt men werknemers
+en vzerkgevers: feitelijke, potentiële en latente. ' De omvang
+van de groep "werkers" wordt o. a. bepaald door migratie, foren-
+sisme en participatiemobiliteit-). De kwalitatieve kant van de
+arbeidsmarkt wordt gevormd door mate en aard van scholing (al
+dan niet formeel) en verder o.a. (werk)mentaliteit.
+Werkgelegenheidsstructuur.
+Een beschrijving van de aantallen mensen, eventueel onderschei-
+den naar geslacht, plaats binnen het bedrijf e.d., in de be-
+drijf sklassen en -groepen binnen een ruimtelijke eenheid, noemt 1 2 3 4
+1) zie ook pag.24.
+2) Davelaar c.s., o.c. pag.13, definiëren deelmarkt als "een
+deel van de arbeidsmarkt waar vraag en aanbod van arbeids-
+krachten in kwalitatieve zin en binnen een bepaald ruimte-
+lijk kader op elkaar- zijn afgestemd".
+3)	latent=potcntieel~feitelijk.
+4)	partieipatiemobiliteit is het deel gaan nemen aan de pro-
+ductie van mensen die al zouden hebben kunnen werken, en
+het tegengestelde.
+-30-
+cle werkgelegenheidsstructuur. Wanneer men die op twee of meer
+tijdstippen met elkaar vergelijkt, dan zal men "bepaalde ver-
+anderingen kunnen constateren. Deze veranderingen zijn een
+saldo van groei en afname van bedrijven en van vestiging, op-
+heffing en vertrek. De werkgelegenheid kan men binnen een wijk,
+gemeente, openbaar lichaam, e.g.g. , G. A. B.-gebied, provincie,
+landsdeel of land bekijken?^Kiest men zijn ruimtelijke een-
+heid klein (wijk) en. bekijkt men de werkgelegenheid per bedrijfs-
+(sub)groep door bedrijfstellingen te raadplegen, dan benadert
+men "van boven af" wat iemand •; vanuit het individuele be-
+drijf door enquête "van onder af" waarneemt. De laatste methode
+is nauwkeuriger en biedt de mogelijkheid tot diepgaander onder-
+zoek. Helaas is de enquête een tijdrovend en dus kostbaar kar-
+wei.
+Onderzoekt men de hele werkgelegenheid van een gekozen gebied
+dan onderzoek men de functionele structuur. Eén stap verder
+en men onderzoekt bovendien hoe het niet-werkend deel van de
+bevolking bestaat: de bestaansstructuur.
+nar. 6. De grond- en hulpstoffenmarkt ♦.
+Over de grond- en hulpstoffenmarkt vallen voor een groot deel
+dezelfde opmerkingen te maken als bij de productenmarkt. De
+aanbod kant is echter de primaire sector en soms direct het
+fysisch milieu (m.n. voor lucht, vaak ook voor water). De aan-
+bod zijde is in hoge mate plaatsgebonden.
+1) Bij deze opsomming- is vooral aan Nederland gedacht. Een
+probleem van de administratieve indelingen in Nederland is
+dat ze niet steeds samenvallen. De indelingen hebben
+trouwens vaak weinig of geen relevatie voor het betrokken
+verschijnsel.
+-31-
+pnr.7.De energiemarkt.
+Produceren vraagt energie. Ook huishoudens, vervoer e.d. ge-
+bruiken energie maar die blijven nu buiten beschouwing hoewel
+ze deeluitmaken van de energiemarkt. Ook op deze markt kan men-
+producenten en consumenten onderscheiden. Zij kunnen feitelijke
+en potentiële vervaardigers en verbruikers zijn. Vele bedrijven
+produceren zelf gedeeltelijk hun energiek^De rest kopen ze van
+(energieproductiebedrijven. Deze zijn heel vaak in handen van
+de overheid. In federland zijn het soms wel n.v. ’s maar het
+aandelenkapitaal is dan in handen van rijk, provincie of ge-
+meente. Voor de producenten is de energiemarkt de producten-
+(afzetJmarkt.
+Men kent primaire en secundaire energie. In de EEG werd in
+1967 80^ van de primaire energie in secundaire omgezet.2)üe
+bedrijven die de omzetting verzorgen zijn afhankelijk van hun
+plaats op de grondstoffen- en vervoersmarkt. Daardoor wordt
+hun locatie wat meer bepaald door de ligging van de grondstof-
+fen al is in vele gevallen geen sprake van een grondstoffen-
+locatie. De energie die geleverd wordt (m.n. electriciteit en
+motorbrandstoffen), heeft.’ de industrie erg vrij gemaakt bij
+de vestigingsplaatskeuze, ook al omdat de prijs van energie
+in grote gebieden hetzelfde is.
+De markt is ruimtelijk, er zijn deelmarkten (b.v. voor steen-
+kool) en er zijn niveauverschillen*
+1) Ze zijn dan wat dit betreft een onderdeel van de producten-
+(resp. grond- en hulpstoffen-) markt en de vervoersmarkt.
+Primaire energie wordt geleverd door.
+1 bruinkool, steenkool, aardgas en aardolie, kernenergie;
+2* water- en windkracht, zonnestraling, eb en vloed, aard-
+Secundaire energie is stroom,cokes, gassen (niet aardgas)
+stookolie en motorbrandstoffen.
+-32-
+par. 8. De dienstenmarkt.
+Veel van de potentiële en feitelijke dienstenverleners en
+-vragers zijn of worden elders 'behandeld, Hen aantal soorten
+is nog buiten beschouwing gebleven b.v. accountancy, verzeke-
+rings- en bankwezen. Hierover kan men opmerken dat de markt
+ruimtelijk is; er zijn schalen en niveau’s te constateren.
+En men kan van deelmarkten spreken in het geval van b.v. het
+geven/kri jgen van organisatie-adviezen of huren/verhuren
+computers.
+par.9,De industrie bouwmarkt.
+Het ontwerpen en neerzetten van gebouwen zal vaak in combi-
+natie gaan met het kiezen en het installeren van machines en
+apparaten. M. n. in de chemische en petro-chemische industrie
+is het installeren het voornaamste deel van het bouwen.
+Voor een ondernemer of bedrijf zouden de keuzeproblemen
+bij het zelf ontwerpen en uitvoeren in vele gevallen te
+groot worden. Vandaar dat ze dit meestal aan gespecialiseerde
+firma's overlaten: o. a. ingenieursbureau ' s, architectenbureau ’ s
+aannemings- en constructiebedrijven.
+Het bouwen en installeren moet zeer snel gaan in heb algemeen.
+Ronteltap schat de tijd die een ondernemer nodig heeft voor
+het nemen van de beslissing te gaan bouwen op vijf maal die
+van de bouwtijd.
+De bouwmarkt is ruimtelijk; de locatie van de bouwers is een
+tijdelijk zodat het een wat ongrijpbaar geheel wordt. Er zijn
+schalen en niveau’s aan te brengen.
+1)	Ronteltap, o.c., stelt dit wanneer hij over verplaatsingen
+spreekt. Bij uitbreidingen en nieuwe vestigingen zal de
+bedenktijd m.i. korter zijn.
+-33-
+p~r. 10, De grond- en terreinenmarkt.
+Grond heeft een aantal kvzaliteiten. Een ervan is dat er een
+ruimtelijke kant aan zit. Het heeft een vaste locatie. Het
+heeft weinig zin een deel van de ruimte puur ruimtelijk te
+bekijken b.v. t.o.v. andere ruimtes; het gaat juist om de
+"gevulde" ruimte. De ruimte is gevuld met fysisch en sociaal
+geografische verschijnselen. Bij deze laatste reken ik ook
+de artefacten. Een deel van de ruimte staat in verbinding met,
+of heeft relaties met andere delen van de ruimte.
+Kijkt men eerst naar de fysisch geografische kanten van de
+ruimte, dan onderscheidt men vaak site en situation. De site
+wordt gevormd door de fysische eigenschappen van een bepaald
+(klein) gedeelte van het aardoppervlak. De situation geeft
+de fysisch geografische eigenschappen van een (klein) deel
+t.o.v. een groter gebied. Het is de ligging in een groter
+geheel. Helaas gebruikt men de termen vaak ook met een fysisch
+én sociaal geografische inhoud, soms zelfs alleen sociaal geo-
+grafisch. Daardoor worden de termen site en situation eigen-
+lijk schaalbegrippen.
+Doordat men fysische kwaliteiten aanpast of verandert, b.v.
+het bevaarbaar maken van rivieren, het ophogen van terreinen
+heeft men niet meer met oorspronkelijke fysisch geografische
+kwaliteiten te maken. Hier valt de grens tussen sociale en
+fysische geografie moeilijk te trekken.
+De belangrijkste sociaal geografische kanten van een stuk
+grond vallen via het ruimtelijk aspect te constateren. De in
+•dit hoofdstuk beschreven markten hebben allemaal een ruimte-
+lijke kant. Een stuk grond geeft zodoende a.h.w. toegang tot
+die markten hoewel, het er zelf geen deel van hoeft uit te
+maken. Hierbij dient men in de gaten te houden dat de markten,
+-34-
+en dan niet alleen op de industrie gericht, niet de gehele
+sociale geografie van
+een gebied of plaats
+vormen.
+Grond kan wel of niet gebruikt worden on als het gebruikt wordt
+dan kan dat zijn om er te wonen, om er te werken, om er zich
+te ontspannen of om er een weg te hebben. De mens moet dus ook
+hier kiezen. Dat kiezen is een ingewikkeld proces waarbij in
+Nederland de overheid een centrale rol speelt. De bevolking en
+vele soorten belangen-groepen kunnen via hun gekozen vertegen-
+woordigers en hoorzittingen de bestemming van de grond beïn-
+vloeden. M.b.t. de industrie kan gezegd worden dat de overheid
+de keuzemogelijkheden beperkt en tracht de keuzen te beïnvloe-
+den. Via de grond- en terreinenmarkt probeert de overheid zelfs
+een industrie-politiek te voeren door bedrijven met de gewenste
+kwalitatieve en kwantitatieve eigenschappen wel grond te ver-
+kopen (verpachten) en aan andere (verkeerde) niet
+Er bestaan potentiële en feitelijke grond- en terreinenge-
+bruikers. Er bestaan zelfs potentiële en feitelijke producen-
+ten* van ruimte als men ontginning en landaanwinning produc-
+tie noemt. Aanbieders van ruimte zijn behalve de producenten
+ook gebruikers die het gebruik beëindigen. Er zijn, wanneer
+men fysisch en sociaal geografische criteria aanlegö schalen
+te onderscheiden. Er is duidelijk sprake van deelmarkten b.v.
+de aan diepvaarwater gelegen terreinen.
+Bij het zoeken naar een geschikt terrein onderscheidt Holmes
+drie fasen:
+1.	keuze van het vestigingsgebied (general terrltory)
+2.	keuze van een bepaalde plaats (particular community)
+3.	keuze van het terrein (plant-site)
+1) W.G.Holmes: Plant location. New York, 1930. Geciteerd in
+Bak, o.c., pag.116.
+-35-
+Waarschijnlijk zullen niet altijd deze Panen onderscheiden
+leunnen worden en mogelijke zoekt een ondernemer eerst een ge-
+bied waar de markten voor hem gunstig zijn en gaat dan meteen
+op zoek naar een terrein zodat fase 2 wordt overgeslagen.
+par. 11.De kapitaalmarkt.
+Elk bedrijf heeft kapitaal nodig. Uitgaande van de n.v. , kent
+men eigen vermogen (aandelen) en vreemd vermogen. Dit laatste
+bestaat uit obligaties en leningen op korte of middellange
+termijn. Leveranciers geven krediet maar op zijn beurt zal
+het bedrijf ook weer (afnemers)krediet moeten geven.
+Er bestaan een aantal bedrijfs-economische ‘regels over finan-
+ciering. Een erven, namelijk dat kapitaalgoederen niet met„kort-
+lopende leningen mogen worden gefinancierd (maar bij voorkeur
+met eigen vermogen) kost menig snel groeiend bedrijf de kop
+wanneer er i.v.m. de conjunctuur krediet-beperkende maatregelen
+worden genomen.
+Er-zijn potentiële en feitelijke aanbieders en gebruikers van
+kapitaal. De vraagkant zoekt of heeft een locatie. Dat is bij
+de aanbodkant erg ingewikkeld. Banken zijn kapitaalverschaf-
+fers (leningen op korte en middellange termijn) en zijn ook
+behulpzaam bij de emissie van aandelen en obligaties.
+Vaalt denkt men dat de kapitaalverschaffers geen invloed heb-
+ben op de locatie van een bedrijf, Pred stelt dat men de in-
+vloed van kapitaal op de locatie verwaarloosd heeft.De
+actieradius van banken is zowel in ruimtelijk opzicht als naar
+soort activiteiten soms beperkt» Dat kan men zien aan de op-
+richting van banken voor speciale gebieden (b.v. "uid Italië)
+en b.v. de industrie-banken die pas geld lenen nadat de over-
+1) zie Pred o.c.
+-36-
+heid zich voor de terugbetaling garant heeft gesteld.
+Soms is er een lokale kapitaalmarkt omdat familiebedrijven
+hun winst ter plaatse v/illen investeren (buiten het eigen be-
+drijf).
+Er is dus een ruimtelijke kant aan de markt, er zijn schalen
+aan te brengen, er zijn niveau's en er zijn duidelijk deel-
+markten (b.v. risico-dragend kapitaal en risico-mijdend)
+nar. 12. Slotopmerkingen.
+De markten beïnvloeden elkaar vaak en dat maakt de zaak nog
+wat complexer.1)
+Elk bedrijf stelt andere eisen aan de markten. Sommige mark-
+ten zijn belangrijken dan andere. Een aanwijzing daarvoor
+krijgt men bij vragen als "Waarom bent u nu juist hier gaan
+zitten?" (met de onderneming). '
+Bij soortgelijke bedrijven zou men de positie op de markten
+van die bedrijven met elkaar kunnen vergelijken door een nauw-
+keurige analyse van de kostprijs-opbouw. Op pag.12 is al ge-
+steld dat dat in de praktijk - nu, in Nederland - niet moge-
+lijk is i.v.m. het ontbreken van een gedetailleerd inzicht
+in de werkelijke kostprijzen bij de bedrijven zelf.
+Wie zich afvraagt welke van de markten nu uitsluitend voor 1 2
+1) "There is no doubt that in reality the Principal factor
+influencing location is alwsys inter-related with other
+factors, v.'hich jointly create o complex reflecting the
+technological, economie and social conditions of a pnr-
+ticular country." In "Criteria for the location of industrial
+plants".New York, 1960. pag.5.
+2)	Zie voor een vergelijking van die factoren Rontelbap, o.c.,
+pag.31 en 32. En ook "Criteria for the location of indus-
+trial plants" waarin op pag.3 gesteld wordt dat de factor
+arbeid de laatste 30 jaar steeds belangrijker is geworden,
+i.t.t. transport. In "Bestemming en ontsluiting van indus-
+trieterreinen" pag.37 constateert men een afname van de
+"natuurlijke" afhankelijkheid behalve bij do basisindustrie
+-37-
+een sociaal geografische benadering in aanmerking komen, dient
+m. i. als antwoord te krijgen dat men de markten o. n- vanuit
+een sociaal geografisch standpunt kan bekijken. Het doel van
+een onderzoek bepaalt vanuit welk standpunt men een markt het
+best kan benaderen.
+De-werkelijke keuzen op de markten.
+De ondernemer die een bedrijf wil vestigen of verplaatsen zal
+naar een aantal markten gewoon niet kijken omdat hij veronder-
+stelt dat de omstandigheden ter plaatse er gelijk zullen zijn
+aan wat hij van elders kent. M. n. bij verplaatsingen kijkt
+men of de nieuwe locatie(s) niet de moeilijkheden hebben van
+de oude. Sommige markten zal hij zich niet eens realiseren om
+de doodeenvoudige reden dat die markt binnen zijn gezichts-
+kring (schaal!) overal hetzelde is. Krusel stelt dan ook dat
+vestigingsplaatskeuze vaak niet rationeel economisch gefun-
+deerd is: men kijkt naar vestigingskosten en niet naar toe-
+komstige productiekosten (in het geval van het bestaan van
+alternatieve locaties kijkt men naar verschillen in vestigings-
+kosten en niet naar verschillen in productiekosten).1)
+Ook De Smidt, die in de na-oorlogse periode als belangrijkste
+vestigingsfactoren het transport-minimaal-punt, de nabijheid
+van de markt (afzet), een gunstig arbeidsaanbod en goede ter-
+reinen ziet, acht de vestigingsplaatskeuze vaak niet duide-
+lijk. 1 2 3) Chisholm veronderstelt dat de ondernemer de locatie
+vrij grof bepaalt omdat een erg nauwkeurige bepaling veel tijd
+en geld kost. ' Ronteltap veronderstelt dat door het inkrimpen
+1) G.R.Krusel: De industriële vestigingsplaats. Leiden, 1956.
+2) M. de Smidt: Regionale aspecten van het sociari-economir.ch
+beleid t.n.v. de ruimtelijke ordening in Nederland. Utrecht,
+1970.
+3)	Micbnel Chisholm: Geogrnphy and economics. New Yorl;., 1965.
+pag. 32.
+-Ö8-
+tegenwoordip-; in Nederland, de juiste keuze van de vestigings-
+plaats ‘belangrijken wordt.") Dit is m. i. geen aan Chioholm
+tegengestelde opvatting, het gaat om de mate van nauwkeurig-
+heid bij de keuze, die in minder gunstige tijden groter moet
+zijn.
+Van een bedrijf* dat normaal draait, zal de leiding in zeer
+veel gevallen een voripje keuze a.h. w. herhalen. Dit omdat het
+bedrijf op vele markten een vrij permanent relatiepatroon zal
+hebben. Alleen in geval van moeilijkheden of veranderingen
+moet de onderneming nieuwe (bewuste) keuzen doen. Door de
+enorme dynamiek op vele markten zal er echter tussen een be-
+drijf dat gevestigd wordt en een reeds langere tijd producerend
+bedrijf in feite alleen een verschil in tempo tussen de bewuste
+nieuwe keuzen bestaan. Het tempo ligt bij het nieuwe en het
+zich verplaatsende bedrijf zeer hoog.
+De omstandigheden waarin een bedrijf werkt zijn nu geschetst:
+de interne kanten en de externe relaties. De ondernemer doet
+allerlei keuzen. Dat kiezen is gedeeltelijk van belang voor
+het begrijpen van het bedrijf. Wanneer men niet zozeer op zoek
+is naar ieder individueel geval maar naar mogelijke wetmatig-
+heden zoekt in de industriële ontwikkeling, dan kan men vol-
+staan met vrij grove generalisaties.
+1) Ronteltan, o.c., pag.29.
+-39-
+hoofdstuk 5. Industriële structuur
+par.1. Inleiding.
+De volgende stap is natuurlijk het bekijken niet rnecr van éen •
+(theoretisch) industrieel bedrijf maar alle industriële be-
+drijven binnen een te kiezen gebied. Al die bedrijven hebben
+een plaats in de ruimte en samen vormen ze, voor een deel, de
+hiervoor beschreven markten. Men kan ze ook zien als het ge-
+volg van de markten.^) Die markten zullen vaak grotere ruimten
+innemen dan het gekozen gebied. Bovendien verschillen ze waar-
+schijnlijk in schaal.
+De industriële bedrijven vormen samen industriële structuren.
+Die structuren zijn niet alleen het spreidingspatroon van de
+industrie maar ook het relatiepatroon van de bedrijven. Hier
+gaat het dan niet om het relatiepatroon van één van de markten,
+maar van de bedrijven als geheel. ' Anders gezegd zo ’n struc-
+tuur bestaat uit establishments of desnoods functiedragers en
+inter-relaties.~) De reikwijdte en intensiteit van de (inter)
+relaties zullen verschillen. Daardoor is het mogelijk een struc-
+tuur op een bepaald tijdstip af te grenzen en een zekere hiër-
+archie binnen de structuur te constateren. Dit kan gepaard
+gaan met het aanbrengen van sub-structuren.
+Binnen het gebied van een structuur zullen zich bedrijven be-
+1)
+3)
+AÏ
+■ — /
+Mensen die bij het lezen van het woord structuur aan iets
+statisch denken, dienen hier systeem te lezen. Vergelijk
+de opmerkingen van drs.J.G.Lambooy tijdens zijn openbare
+les "Het geografisch systeem en de groeipooltheorie". Lom-
+booy ziet structuur als iets statisch. Hij acht de proces-
+sen van groot belang. Structuur -i- processen noemt hij sys-
+teem.
+"Any location pattorn of economie activities arise as the
+result of innumerable individual dacisions taken over
+a longer or shorter period of time", Chisholm, o. c. , pas-,
+96. •
+In dit totale relatiepatroon vindt men de markten gedeelte-
+lijk terug. Sommige blijken hier bclnngrijker dan andere
+te zijn.
+Lambooy, o.c., pag.17-D3.
+-40-
+vinden die geen directe relaties hebben de bedrijven vnn de
+onderzochte structuur b.v. een confectie-atelier met de vlieg-
+tuigindustrie. Er zullen binnen één gebied dus meer industriële
+structuren zijn die qua schaal, niveau en aard enorm kunnen
+verschillen.
+par.2. Analyse van de industriële structuur.
+Een volledige analyse van alle industriële bedrijven is natuur-
+lijk niet mogelijk: men zou te veel moeten onderzoeken en later
+enorm moeten generaliseren en synthetiseren. Het werk zou niet
+door één man op niveau gedaan kunnen worden en het is de vraag
+of de uitkomsten, gezien hun korte praktische bruikbaarheid,
+*
+hoge investeringen rechtvaardigen.
+Voor sneller en goedkoper onderzoek moet de aandacht dus ge-
+richt worden op bepaalde kanten. Welke kanten dat zijn hangt
+van het onderzoeksdoel af. Voor de hand ligt dan dat men de
+knelpunten onderzoekt. In Nederland is dat vooral de arbeids-
+markt. I.p.v. een arbeidsmarkt-analyse voert men een werkge-
+legenheids tructuur onderzoek uit^Het verkregen beeld wordt
+dan aangevuld met informatie uit vakliteratuur, kranten e.d.
+De industriële structuren worden gekenmerkt door een enorme
+dynamiek. In het tweede deel van deze scriptie wordt de nadruk
+gelegd op de dynamiek zoals die blijkt uit vestigen, verplaat-
+1)	Het klasseren van bedrijven door bedrijfstakken, -klassen,
+-groepen en -subgroepen te onderscheiden, levert aanwijzin-
+gen op voor de industriële structuur. Niet meer dan aanwij-
+zingen ook al omdat de indeling op verschillende gronden
+geschiedt: soms zijn de grondstoffen uitgangspunt, dan '"eer
+de producten of de productiewijzen. Daar komt nog bij dat
+de indeling vnn een individueel bedrijf vnnk op arbitraire
+gronden gebeurt. De grenzen tussen de soorten zijn soms
+onduidelijk b.v. voedings- en genotmiddelen- en chemische
+industrie.
+-41-
+sen en opheffen omdat m. i. dit de dynamiek verhevigd ' 'eergoeft,
+Helaas schrijft niemand hierover zodat het voorlopig een onbe-
+wezen stelling is.1)
+De dynamiek blijkt verder o» a. uit groei (afname) productie
+en groei (afname) werkgelegenheid. Deze wordt grotendeels
+gerealiseerd in bestaande bedrijven.
+par.&. Industrieel geografische begrippen.
+Verspreid in een omvangrijke vakliteratuur treft men allerlei
+begrippen aan, die het mogelijk maken om industrie te klasseren
+en te beschrijven. Het navolgend schema geeft een aantal van die
+begrippen ingedeeld naar hun betekenis en is zodoende een (onvol-
+ledig en gebrekkig) analytisch instrument bij structuuronderzoek.
+Het is bij het maken van het schema nuttig gebleken de indus-
+triële structuur op één bepaald tijdstip (dus zonder dynamiek)
+en in de loop der tijden (dus met dynamiek) te onderscheiden.
+Via de voetnoten wordt men, . indien nodig verwezen naar het derde
+deel van de paragraaf: een aantal kort omschreven en alfabetisch
+gerangschikte begrippen, waarvan er een aantal niet in het sche-
+ma staan.
+Het schema kan op drie manieren gebruikt worden:
+1.	vanuit het begrip;
+2.	horizontaal (van linies naar rechts);
+3.	van boven naar beneden.
+1) Een uitzondering vormt in ze.eere zin Gunnar Alexnnderson
+in z ’n "Geography of manufacturing" (Englewood Gliffs H.J. ,
+1967) :"Interest is focused on recent and planred change
+since they reven]. present location tendencies" , (pag.G)
+S CH.EÏ.ZA
+termen ingedeeld naar
+functies
+locatie
+markten)
+verspreid
+£
+o.
+verspreid
+£
+c
+O «U
+geconcentr□
+Ai
+O
+rö
+c3
+cd
+cd
+(functies
+zie voor
+ra
+£
+£
+ra
+ra
+ra
+ra
+£
+c
+•H
+ra
+£
+£
+ra
+ra
+54
+ra
+t>
+dit
+plaats veranderin-
+gen van ’dë markten
+£
+Tj
+e
+J CC
+£
+ijdigheid
+ophef-
+4
+development block
+ra
+u
+ra
+0.'
+o
+£
+d
+ft
+ra
+ind □ s bê
+rt
+o
+£
+1 - toe- of afname een-
+
+nomogene ind
+zone of regio
+der insr van ïo-
+2 ■» . f irg
+veranderingen lokaal
+oncentratie en
+indv.striedicht—
+9)
+itennen ingedeel
+0)
+:ra
+termen ingedeeld naar
+locatie en relaties
+termen ingedeeld naar
+establishment of
+f uncti edrager
+begrippen met EEN VERKLARING VAK DIE BEGRIPPEN
+groei- en sneerpunt
+hiërar-
+chie be-j
+drijven
+CL Is geheel;
+de afzon-
+functies de
+roei en af nam e
+lokaal, regio- en
+bovenregio.) func-
+maustriestaaz
+o
+industrie
+proefvestiging (testen
+Lgheden
+1. mate van
+diversi-
+catie
+2» mate van
+integra-
+tie (om-
+vang en
+intensi-i
+bij vestiging
+_o nt f .unct i e;
+functies kunnen
+in omvang en inten-
+siteit groeien en ’
+afnemen
+2
+s t erk er of zwakk er
+10) -
+3- hiërarchie veran-
+(lokaal •
+|bovenregio»)
+stu-vena oï
+£
+£
+£
+■P
+o
+£
+£
+CD
+en
+£
+£
+ttf)
+C'
+£
+£
+ra
+ra
+£
+industriële
+constellati
+foyer Indus-
+trie! 5)
+industrieel
+complex 5)
+nodale ind-
+5)
+löcatj.on leader- 8)
+opheffing- ,
+verplaatsing- (10-
+regio- en bo-
+ra
+£
+„ra
+£
+ra
+£
+regionaal
+i uiubrei
+uitbreiding en inkrim-
+ping 12)
+industrialiseren
+herstructureren
+groeipool
+ontwikkelingsas
+-43-
+Voebnoton bij schema.
+1)	voor het hele schema geldt dat bij (het bekijken van) ver-
+schijnselen binnen een ruimtelijke eenheid men bij de be-
+naming vaak terugvalt op kleinere ruimtelijke eenheden.
+2)	industriestad (een ook andere termen) is een term die op
+verscheidene manieren gebruikt wordt.
+3)	men kan bij alledrie de schalen alledrie de eigenschappen
+van relaties meten.
+ad 1. bij de mate van diversicatie kan men spreken van veel-
+■ zijdig of eenzijdig. In het laatste geval geeft men dat
+vaak aan met termen als "een echte staalstad" of "tex-
+tiel streek";
+ad 2. de integratie kan sterker of zwakker zijn;
+ad 3. sommige bedrijven nemen een meer centrale positie in:
+basisindustrie en sleutelindustrie. Hoofd- en neven-
+bedrijf en filiaalbedrijven kunnen veel relaties met
+elkaar hebben; soms zijn de banden alleen juridisch
+en financieel.
+4)	een industriële structuur (hier dus zonder dynamiek) is een
+geheel dat in zekere mate autonoom is. In welke mate, kan
+men zelf kiezen. Ook wanneer men die mate zeer laag kiest
+dan zal er vaak geen sprake zijn van een lokale of regio-
+nale industriële structuur en moet men de regio of plaats
+zien als een deel van een structuur (structuren).
+5)	in "Bestemming en ontsluiting van industrieterreinen" wor-
+den op pag. 39-45 o.a. onderscheiden:
+1.	industriële constellatie, dat is in een min of meer ge-
+schikt milieu verspreid voorkomen van industrie. Ben van
+de voorbeelden is Nederland;
+2.	nevelkernen. Als bij 1 maar met grotere tussenruimten.
+Modale industrie reprio. Dit is een industrie gebied met een
+duidelijk industrieel centrum. Zie voor verdere beschrijving
+J. G. Lambooy: Het begrip "regio" in de geografische theorie
+en methode. In TAG 1966 pag. 15-23.
+Industrieel complex. Zie begrippenlijst pag.47 en 48.
+Jean Chardonnet noemt op pag. 338 e.v. van z'n "Géographie
+industrielle" (deel 2 1'Industrie) nog de "foyer industri-
+elle". Dit is het industrie-centrum dat men binnen een streek
+kan onderscheiden. Het wordt nu i. meer bedoeld als industrie-
+concentratie dan als "node". Ben "foyer" kan uitgroeien tot
+een industrieel complex
+6)	vanuit de regio kan men zeggen "Dat is een industriestad".
+De nederlander kent de Zaanstreek of Twente als industrie-
+gebied. Ben eoropeaan noemt de Bondsrepubliek een industrie-
+staat.
+7)	Hvoel- en speerpunt industrieën betekenen een duidelijke
+verandering in de relaties in een industriële structuur
+zovzel naar omvang als intensiteit. Zie begrippenlijst pag.
+46 en 49.
+8)	Bstall and Buchannn, o.c., png. 167 kennen bepaalde .(b-'sls)
+bedrijven een bijzondere plaats toe omdat wanneer zij zich
+vestigen andere ‘bedrijven zullen volgen: locntion leaders.
+9. het gaat niet alleen om het spreidingsp°troon in de zin van
+onderlinge ligging van "bedrijven, dan kijkt men naar con-
+centratie en deconcentratie maar ook om het toe- of afnemen
+dan wel gelijk blijven van het aantal vestigingen.
+10. integratie kan sterker •"orden doordat er een tendens tot
+schaalvergroting is. Deze kan zich manifesteren in de vorm
+van fusies en overnames
+11.
+13.
+14.
+15.
+F. Dahmen onderscheidt het "development block11 waaraan elke
+ruimtelijke inslag ontbreekt. Vanneste noemt het groeiblok.
+Men zou het een niet-ruimtelijke groeipool kunnen en om-
+schrijven als een aantal bedrijven (gezien als economische
+eenheden) die door hun onderlinge relaties een versnelde
+groei vertonen. Zie verder Olivier Vanneste, o.c., pag. 19.
+zie begrippenlijst pag.47.
+zie begrippenlijst pag.46.
+zie begrippenlijst pag.47.
+_/ 12. uitbreiding en inkrimping van bestaande bedrijven is ver-
+schillend o.a. t.g.v. vrasgverschillen. Thompson, o.c., pag.
+356, noemt dit ”the differential growth theory".
+par. -3. IITDUSTRIEFJ,-GEOGRAFISCHE BEGRIPPEN IN ALFABETISCHE VOLGORDE.
+L
+-46-
+BASISINDUSTRIE
+die industrie, die door de anrd van z'n pro-
+ducten de eerste stap is van een reeks be-
+langrijke (nroductio)activiteitcn; b.v. hoog-
+ovens, aardolierafflanderijen en zoutindustrie.
+Volgons Chardonnet is een basisindustrie een
+machtige staal-, nonferro-, machine- of* che-
+mische industrie, 1)
+zie ook sleutelindustrie.
+CYCLETHEORY
+zie groeipool.
+GROEIINDUSTRIE dat zijn die bedrijven die gedurende langere
+tijd voortdurend groeien qua toegevoegde waarde
+en personeelssterkte. Die groei moet boven de
+gemiddelde groei van de industrie liggen. 2)
+GROEIPOOL
+"Een geheel van economische elementen gecon-
+centreerd in een geografische ruimte, waar-
+tussen bepaalde bindingen bestaan die de groei
+ondersteunen." 3) Centraal hierbij is de
+"unité motrice" die Baillargeon omschrijft als
+een onderneming die door investeringen en tech-
+nologische vernieuwingen ook andere bedrijven
+op een hoger plan brengt. 4)
+Er vallen te constateren: •
+1.	een groeielement (unité motrice)
+2.	technische bindingen
+3.	een multiplicatoreffect,
+Deze eigenschappen van de groeipool vertalen
+Davin en Vanneste in vormen van polarisatie:
+1.	technische polarisatie
+2.	inkomenspolarisatie
+3.	psychologische polarisatie
+4.	geografische polarisatie.
+Gevolgen van de groeipool zijn:
+1.	migratie en forensisme
+2.	urbanisatie en agglomeratievorming
+3.	dualisme oude en nieuwe structuur
+4.	diversiteit en conjuncturele gevoeligheid.
+Vanneste onderscheidt de eigenlijke groeipool
+en de gepolariseerde zone of economische streek.
+Daarbij behoeven tussen de groeipool en de zone
+geen technische bindingen te bestaan. Massacesi
+gebruikt hier de term ontwikkelings as, die hij
+beschrijft als een soort im’igatie (van indus-
+trie) kanalen in een gebied. 5)
+Thompson noemt een cycletheory die inhoudt dat
+vzanneer men een industriegebied in de tijd
+"volgt" er achtereenvolgens sprake is van een
+jong, rijp, overrijp en rot industriegebied. 6)
+1)	Jean Chardonnet: Géographie industrielle. Tomé II. Paris,
+1965. pag. 308.
+2)	zie R.Tamsma: Groei-industrieën in de USA. In TE3G 1970 pag.
+312-313.
+3)	Olivier Vanneste: Het groeipoolconcept en de regionaal-eco-
+nomische politiek. Antwerpen, 1967. pag.22.
+4)	cit. Vanneste.
+5)	EGKS/Hoge Autoriteit: Bestemming on ontsluiting van indus-
+trieterreinen. Deel 1. Deventer/Antwerpen, ? . pag. 39-45.
+6)	J. TI. Thompson: Som.e theoretical considerations for mnnufnc-
+turing geography. In Econ. Geography 1966 pag.355-365.
+Een groeipool zou dus wel eens een krimp-
+pool - een term door dr.J.Buit gebruikt
+tijdens de discussie op de p;rocipooldag van
+de VUGS 21 februari 1969 - kunnen worden of
+een historische groeipool in het geval dat
+de dynamiek wel sterk vermindert rnanr toch
+nog niet van een negatieve groei sprake is.
+HERSTRUCTURERING
+INDUSTRIALISATIE
+INDUSTRIEEL
+COMPLEX
+dit is een proces waarbij een oud industrie-
+of mijribouwgebied andere activiteiten krijgt.
+Dit zal gedeeltelijk spontaan gaan, m.n. de
+liouidatie van bedrijven. Het creëren van vol-
+doende vervangende werkgelegenheid - vooral
+in de secundaire en tertiaire sector - ge-
+schiedt vaak met overheidssteun. Allerlei
+subsidies moeten eventuele minder goede ves-
+tigingsfactoren of een ongunstige image van
+het gebied neutraliseren.
+dit is een proces dat de totstandkoming of
+de vergroting van de industriële productie door
+de vestiging van industriële bedrijven tot
+gevolg heeft. Het houdt verder in dat een
+steeds groter deel van het - lokale, regio-
+nale, bovenregionale of nationale - inkomen
+in de industrie wordt verdiend en dat een
+steeds groter deel van de beroepsbevolking,
+van de gekozen ruimtelijke eenheid, er zijn
+werk in vindt.
+Thompson noemt "the cha^ing role tbeory", die
+inhoudt dat er verschuivingen in de werkge-
+legenheid van de secundaire naar de tertiaire
+sector optreden. Industrie wordt minder be-
+langrijk, hoewel de industriële productie
+zal blijven stijgen. 1)
+Men zou dit proces de-industrialisatie kunnen
+noemen.
+dit bestaat uit één of meer basisindustrieën
+met daarnaast andere bedrijven die economisch
+minstens zo belangrijk zijn. De voornaamste
+bedrijven hebben onderling relaties - tech-
+nische en/of economische - en relaties met
+de buitenwereld b.v. afhankelijkheid van ener-
+• giebron, afhankelijkheid van afzetmarkt. 2)
+Chardonnet onderscheidt verder nog afhanke-
+lijkheid van economische osmose. Dit is af-
+hankelijkheid van dienstverlening, arbeids-
+markt e. d.
+Een ind.complex is ruimtelijk tamelijk gecon-
+centreerd:
+-zeer geconcentreerd i.v.m. transportkosten e.d.
+b.v. Ruhrgebied,
+-minder geconcentreerd i.v.m.:
+1.	het verspreid voorkomen grondstoffen
+2.	transportmogelijkheden zijn zeer goed
+(Eriemeer)
+3.	verspreide arbeidsmarkt (Lille-Tourcoing-
+Roubaix).
+1) John H.Thompson o. c.
+2)	J. Chardonnet: Les grands types de complexes industriels.
+Paris, 1953. pag. 2-22.
+-48-
+Ind.complexen hebben een eng-mazig en goed
+geregeld bank-, handels- en verkeerssysteem.
+Volgens Chardonnet kan men de complexen niet
+indelen naar dominerende bedrijfstak, indus-
+trieel vermogen en financiële concentratie
+omdat hiervoor meestal de gegevens ontbreken.
+Ze zijn wel in te delen naar stuwende fac-
+toren. Chardonnet noemt als zodanig:
+1.	grondstoffen en energiebronnen,
+2.	verbindingen,
+3.	macro-economische omstandigheden,
+4.	politieke omstandigheden.
+Chardonnet ziet 3 en 4 als een geheel.
+'V. Isard en E. W. Schooier kennen het "indus-
+trial complex" wat vrijwel overeenstemö met
+het "complexe industriel". 1)
+In later werk 2) onderscheidt Chardonnet de
+volgende typen:
+1.	complexe industriel portuair,
+2.	complexe industriel urbain,
+3.	complexe industriel a base houillère,
+4.	les types rares de complexes industriels
+basés sur:
+a. 1’hydroélectricité,
+b. une matière première lourde,
+c.	les hydrocarbures,
+d.	les carrefours ferroviaires,
+5.	les types mixtes.
+INDUSTRIEEL
+KLIMAAT
+INDUSTRIEEL
+MILIEU
+dat is volgens Bouman "het complex van fac-
+toren dat binnen een sociale structuur be-
+vorderlijk is voor opkomst, behoud of uit-
+breiding van industrie". 3)
+Bouman ziet die sociale structuur uit 5
+lagen bestaan (diepte-sociologie):
+1.	het geografische vlak,
+2.	organisatievormen,
+3.	groepsverbanden,
+4.	zeden en gewoonten,
+5.	onbewuste gevoelswaarden.
+Bouman heeft het hier over een klimaat dat
+gunstig is. Een klimaat kan natuurlijk ook
+minder gunstig zijn of worden.
+Industrieel klimaat heeft dus te maken met
+de instelling van de bewoners van een gebied.
+De term is m.i. vergelijkbaar met Alfred
+Rühl’s ",virtschaftsgeist", waarbij die
+"Wirtschaft" dan industrie is
+een term, die o.a. Lukkes gebruikt. 4)
+Het is een vrij vaag begrip waarbij het
+gaat om de omstandigheden binnen een gebied
+1) zie Vanneste o.c. pag.19.
+2) «Tean Chardonnet: Géographie industrielle. Tomé II. Paris.
+pag. 308-341.
+3)	prof. dr. P. J. Bouman: Industrieel klimaat. Assen, 1961. pag.
+14-19.
+4)	P. Lukkes: Industrialisatie- en migratieproblemen van Fries-
+land. Leeuwarden, 1964. pag.3 en 4.
+	-41- die bestaan door de beschikbaarheid van ind. terrein, van krachtbronnen, van woningen voor werknemers - m. n. de staf’ - door do infra- structuur en door het scholingsniveau»
+PEAKINDUSTRY	zie speerpunt-industrie.
+ONTWIKKELINCtS AS	zie groeipool.
+SLEUTELINDUSTRIE	volgens sommige schrijvers is dat hetzelfde als basisindustrie, iü. i. is het in ieder geval gedeeltelijk iets anders: die industrie die door toelevering en/of afzet een belangrijke (centrale) plaats in de industriële structuur inneemt b.v. de autoindustrie.
+SPEERPUNT INDUSTRIE	deze industrie (in het engels peak industry) gebruikt zeer moderne techniek, z’n producten erg belangrijk en hij heeft relaties van een hoog niveau b.v. ruimtevaartindustrie.
+-50-
+Hoofdstuk 6. Vestiginp;, verplaatsing en opheffing van industriële
+■bedrijven.
+Een "bedrijf vestigen, opheffen of verplaatsen, wil zeggen het.
+maken van de interne en externe keuzen. Door de vestiging, op- .
+heffing en verplaatsing veranderen alle markten.
+par.1. Vestigen van (nieuwe) "bedrijven,.
+Er zijn een aantal soorten nieuwe vestigingen, lokaal, regionaal
+of "bovenregionaal "bezien.
+1.	nieuwe "bedrijven die op veel markten (vooral afzet en ar-
+beid) concurreren met bestaande bedrijven.
+2.	nieuwe bedrijven met nieuwe activiteiten. ’Vat de afzet
+betreft vaak niet concurrerend. (Het kan wel producten-
+substitutie inhouden)
+3.	nieuwe bedrijven die geliquideerde vervangen. Juridisch-
+economisch is hier wel, industrieel-geogrsfisch nauwelijks
+sprake van een nieuw bedrijf.
+4.	proefvestigingen. Dit zijn bedrijven, meestal gesticht
+door grotere ondernemingen die hierdoor de mogelijkheden
+van een locatie in de praktijk proberen, Proefvestigingen
+zijn moeilijk van gewone nevenvestigingen te onderscheiden.
+5.	filiaal- en nevenvestigingen. In de praktijk betreft dit
+\ bedrijven die dezelfde producten maken als de hoofdvesti-
+ging: a. zelfde afzetgebied hebben: productie uitbreiding
+op andere locatie dus partiële verplaatsing,
+b. ander afzetgebied;dan is het 1. of 2.
+en bedrijven die ander producten maken; dan is het 1. of 2.
+6.	een bestaande onderneming kan geleidelijk zo veranderen
+dat op het laatst misschien alleen de naam en locatie aan
+de oude herinnert. Industrieel-geografisch is er dan eigen-
+lijk sprake van een nieuw bedrijf, statistisch (voor CES)
+soms wel, soms niet.
+par.2. Verplaatsingen industriële bedrijven.
+a. Verplaatsingen.
+Verplaatsen wil zeggen het krijgen van een nieuwe locatie.Theo-
+retisch kan een verplaatsing toevallig zijn, maar dat is i.v.m.
+de kosten onwaarschijnlijk. Men kent partiële on integrale ver-
+plaatsingen. Bij een partiële verplaatsing gaat een deel van hot.
+bedrijf naar elders, bij integrale verplaatsing het hole bedrijf.
+-51-
+De oorzaken v-^n verplaatsing zijn een te slechte positie op éen
+of meer markten, of interne, problemen, (oorzaken). I.Ien zoekt op
+die markten door het kiezen van een andere locatie een betere
+positie* Concreet zijn de spanning op de arbeidsmarkt, ruimte-
+gebrek en saneringsplannen de oorzaken van de huidige verplaat-
+singen in Nederland.1) Erg belangrijk is de afstand waarover
+een bedrijf zich verplaatst. Veel van de verplaatsingen zijn
+2)
+intra lokaal. J De in zeker opzicht interessantste verplaatsingen
+gaan tussen locaties die duidelijk anders zijn. Dat is in geringe
+mate intra regionaal en vrijwel altijd bovenregionaal het geval.
+Wat wordt er verplaatst? Er kunnen één of meer afdelingen (tech-
+nische eenheden) verhuizen.(mogelijke benaming activiteitsver-
+plaatsing) Het is ook mogelijk dat van alle afdelingen een deel
+wordt verplaatst: capaciteitsverplaatsing. Als alles wordt ver-
+plaatst is het een integrale verplaatsing.
+	lokaal, regionaal of bovenregionaal
+partiële verplaatsing	capaciteitsverplaatsing activiteitsverplaatsing combinatie
+integrale verplaatsing	combinatie
+Verplaatsingen kan men ook karakteriseren door de aard van hun
+gemeente van vertrek (b.v. urbanisatiegraad) te vergelijken met
+die van vestiging. In het SISWO rapport is dit gedaan door
+1) Ronteltap, o. c. pag. 25-26 stelt dat de slechte bedrijven uit
+de gebieden van hoog niveau verdwijnen naar de gebieden van
+lager niveau (o. a. Hollands Hoorder Kwartier) en dat zo’n ge-
+bied vaak z’n betere bedrijven naar de Randstad ziet gaan.
+2) m. n. binnen de Nederlandse grote steden verplaatsen kleinere
+bedrijven zich i.v.m. sanering, ruimtegebrek, beëindiging
+huurcontract e.d. veelvuldig. Dit blijkt o.a. uit het onder-
+zoek van Reindert J.Brandsmn: De Amsterdamse confectie-indus-
+trie. Amsterdam, 1970, pag. 55. Sn uit het onderzoek Gemeente
+Rotterdam, (niet gepubliceerd) Dit is een belangrijk gegeven
+voor de (gemeentelijke) planologen.
+
+agglomeraties en niet-agglomerrties te onderscheiden.-^' De
+schrijvers onderscheiden dan:
+1.	blijvers (d.w. z. verplaatsingen van de ene naar de andere
+agglomeratie)
+2.	vlieders (d.w. z. verplaatsingen uit een agglomeratie)
+3.	buitenblijvers (d.w. z. van niet-agglomeratie naar niet-
+agglomeratie.)
+b. Klasseringsmoeilijkheden.
+Er doet zich bij de bestudering van verplaatsingen een probleem
+voor; in hoeverre is iets dat een verplaatsing lijkt, werkelijk
+een verplaatsing.
+Integrale verplaatsingen. Hierbij is het probleem vaak het ge-
+makkelijkst op te lossen. Het oude en nieuwe bedrijf moeten met
+elkaar worden vergeleken naar (o.a. ) aard en omvang van de pro-
+ductie, werkgelegenheid en afzetgebied. Er kan "onderweg" van
+alles veranderen. Voor de hand ligt de afstoting van onrendabele
+activiteiten zodat er niet alleen sprake is van een verplaatsing
+maar ook van een partiële opheffing. Verder zal een bedrijf up-
+to-date willen worden, wat vaak een capaciteitsvergroting en een
+andere arbeidsbehoefte (omvang en kwaliteit) tot gevolg heeft.2)
+Ook kan er mogelijk met nieuwe activiteiten begonnen worden; in
+dit geval is er sprake van een (partiële) nieuwe vestiging.
+Voor een inzicht hierin moeten de zich verplaatsende bedrijven
+geënquêteerd worden.
+Partiële verplaatsingen. Deze zijn moeilijk te achterhalen. De
+enige werkelijke partiële verplaatsing is het overbrengen van
+1) SISWO: Verplaatsing industriële bedrijven. Amsterdam 1967 k
+pag.43-46. De naamgeving (blijvers enz.) is niet erg gelukkig
+evenals het uitgangspunt, de agglomeraties. Die agglomeraties
+verschillen namelijk enorm van niveau en plaats in de indus-
+triële structuren. Zodra die beter en verder is (zijn) onder-
+zocht, zou men uitgaande van hiërarchische indelingen van
+plaatsen en gebieden de verplaatsingen kunnen karakteriseren.
+2) te denken valt aan een organisatorische en technologische
+modernisering.
+-53-
+bestaande activiteiten of capaciteit naar een andere plaats.
+Het verwezenlijken van nieuwe activiteiten of het vergroten v^n
+de productiecapaciteit elders is geen partiële verplaatsing.
+KIen kan dit nieuwe filiaal- of nevenvestigingen noemen. In hoe-
+verre partiële verplaatsingen aan integrale voorafgaan is een .
+ander probleem. Soms kan er een lange tijd tussen de "beide ver-
+plaatsingen zitten; de eerste afdelingen van C.Jamin zijn in
++ 1959 uit Rotterdam naar Oosterhout gegaan, de laatste in 1968.
+Proefvestigingen (hfd. 5 par.1) kunnen partiële vestigingen of
+nieuwe (neven-) vestigingen zijn. Het is duidelijk dat een onder-
+zoek "bij de individuele onderneming naar partiële verplaatsing
+dan wel filiaalvestiging een moeilijke zaak is gezien de vele
+gegevens (o. a. productieomvang) die hiervoor, nodig zijn.
+Er "bestaan een aantal verschijnselen die op partiële verplaat-
+sing of op filiaalvestiging lijken.
+1.	het gaan uitbesteden van één of meer onderdelen van het
+productieproces, onderaanneming e.d., als dit tenminste
+een vrij permanent karakter heeft.
+2.	fusies of overnames die gevolgd worden b.v. door onder-
+linge taakverdeling waarbij met activiteiten of capacitei-
+ten "geschoven"wordt. Duidelijk voorbeeld is de verplaat-
+sing van de biotex productie van Kortman & Schulte n.v. te
+Rotterdam naar Dobbelman in Nijmegen. Dit wasmiddel is het
+belangrijkste product van Kortman. I.v.m. de enorme pro-
+duct ieuitbreiding was het verplaatsen naar een ander bedrijf
+binnen hetzelfde concern een oplossing voor o.a. ruimte-
+en arbeids markt problemen.
+Ook hier is dus onderzoek ter plaatse nodig om de veranderingen
+te kunnen beoordelen. Vele van de veranderingen zullen zelden
+achterhaald worden omdat er geen informatie over gegeven wordt.
+De juridische status van filiaal- (neven) vestigingen of ver-
+plaatste bedrijven is een apart probleem. Evenals de naamgeving
+aan deze bedrijven, die hier soms mee samenhangt.
+-54-
+pnr, '5o Opheffingen.
+Een bedrijf kan geheel of gedeeltelijk verdwijnen door:
+1.	gehele of gedeeltelijke verplaatsing (zie partiële en
+integrale verplaatsing)
+2.	gehele of gedeeltelijke liquidatie
+Vanuit een bedrijf gezien bestaat er dus vestiging, verplaatsing
+en opheffing en vanuit een locatie gezien bestaat er vestiging
+en opheffing. De opheffingen zijn het gevolg van interne of
+externe moeilijkheden. Dit moeten dan wel markt-structurele
+moeilijkheden zijn. Tijdelijke of conjuncturele externe problemen
+kan men op een andere manier oplossen b.v. onderbezetting, ver-
+laging gebruik productiecapaciteit, genoegen nemen met minder
+winst e.d. Interne oorzaken kunnen foutieve.financiering en
+falend ondernemerschap zijn. Opheffingen hebben gevolgen voor
+”de markten”.
+Liquidatie wordt soms voorafgegaan door fusie of overname
+(zie hfd. 3 par. 5 c) of verplaatsingen. Heel vaak gaat er een
+inkrimping van de productie (en werknemersbestand enz. ) aan
+vooraf, soms geleidelijk soms sprongsgewijs.
+partiële opheffingen	capaciteit activiteit combinatie
+integrale opheffingen	combinatie
+Tussen het tijdstip van vestiging en liquidatie kunnen vele
+tussenstapjes liggen; verplaatsingen, (partieel of integraal),
+uitbreidingen en inkrimpingen en partiële liquidatie
+-55-
+D E ii I> 2:Ontwikkelingen in do industriële struduur vsn
+Zuid-West Nederland 1945-1970.
+Opzet deel 2.
+Op pap;, qo-mis gesteld dat opheffing, verplaatsing en vestiging de
+dynamiek van de ind. structuur a.h.w. verhevigd weergeven. Dat is
+dus maar een deel var de dynamiek. De veranderingen moeten worden
+afgezet of tegen de structuur op een te kiezen ogenblik of tegen
+de historische ontwikkeling tot een zeker tijdstipl' Ik kies voor
+de tweede mogelijkheid, waarbij vooral de ind. geografische ont-
+wikkeling, maar soms ook de gehele ontwikkeling ter sprake komt.
+Tot en met V/. 0. II gaat de summiere beschrijving van de ind. ont-
+wikkeling in Nederland en de Zuidelijke Randstad samen. Daarna
+worden de nationale ontwikkelingen en die van de Zuidelijke Rand-
+stad afzonderlijk behandeld. Zeeland’s industriële ontwikkeling
+blijft grotendeels buiten beschouwing.
+Hoofdstuk 7. Industriële ontwikkelingen in Nederland na 1800.
+par.1. Inleiding.
+De bestaansstructuur van een dorp, stad, streek of land kan men
+op twee manieren trachten te verklaren:
+1. door historische of zo men wil historisch-geografische
+methoden te gebruiken; in ieder geval door het heden te ver-
+klaren uit het verleden,
+2. door de structuur zelf te onderzoeken.
+In feite zal vrijwel bij ieder onderzoek beide methoden gebruikt
+worden en kan men beter van accentverschillen spreken.
+Wie te rade gaat bij historici om de industriële structuur van
+Nederland nu, te begrijpen, zal niet zo vreselijk veel wijzer
+worden. Dat de laatste 20 a 25 jaar nog onvoldoende zijn onder-
+zocht, ligt voor de hand. Deze recentste onwikkelingen worden
+door economen, technici en geografen bekeken. Wat de tijd voor
+1)	zie ook Gunnar Alexanderson o.c. psg. 6. en de openbare les
+Lnmbooy pag.13.
+-56-
+’de W.0. II betreft; bij het weer eens doorlezen van de sociaal-
+economische handboeken1 komt men tot dezelfde conclusie als
+prof. dr.J.H.Kernkamp tijdens zijn colleges: de handboeken zijn
+.(te) vaak fragmentarisch en descriptief i.p.v. analyserend. Als
+achtergrond voor het begrijpen van de Nederlandse industrie zijn
+ze matig bruikbaar.
+par.2. De periode tot 1850.
+Tijdens de Gouden Eeuw hebben zich een aantal vormen van nijver-
+heid ontwikkeld, die vrijwel allemaal met de scheepvaart en de
+stapelmarkt (dé stuwende activiteiten van Nederland in die dagen)
+te maken hadden. In de 18e eeuw raakte Nederland op het tweede
+plan. De Franse tijd betekende voor de stapelmarkt, die al van
+minder belang aan het worden was?t.g.v. het continentale stelsel,
+een niet te stuiten neergang. Doordat de Nederlanders via belas-
+tingen en leningen aan Frankrijk, die t.g.v. de tiërcering maar
+gedeeltelijk werden terugbetaald, gedwongen zijn geweest de Franse
+oorlogvoering mee te helpen financieren, hadden ze toen niet
+alleen een slechte economische structuur en een verlopen buiten-
+landse handel, maar ook nog weinig kapitaal. Brugmans karakteri-
+seert de eerste helft van de 19e eeuw als een periode van rela-
+tieve achteruitgang als men kijkt naar G. B. , Duitsland en België.
+Als oorzaken ziet hij:
+1. opkomst van de abstracte internationale goederenmarkt; de
+stapelmarkt verdwijnt vrijwel geheel.
+2. de concurrentie van buitenlandse ind. producten.
+3.	de importbeperkende maatregelen t.b.v. de binnenlandse ind,
+waren, op de lange termijn gezien, funest.
+1) prof. dr. I. J. Brugmans: Paardenkracht en Mensenmacht, sociaal-
+economischc geschiedenis van Nederland 1795-1940, Den Haag 1961.
+dr. P. J. Bonman: Economische en sociale geschiedenis in hoofdlijnen,
+Groningen 1962.
+-57-
+4- t.g. v. de T.R. waren in G. B. totaal andere sociaal-econo-
+mische verhoudingen gegroeid.
+Bat neemt niet weg dat er wel veranderingen in de soc.-econ.
+structuur, technisch niveau, Wirtschaftsgeist enz. waren, alleen
+het tempo lag erg laag. Sommige schrijvers, waaronder Bouman,^)
+laten deze periode doorlopen tot 1860.
+3 )
+par.3. 1850-1870 eerste industrialisatiegolf.
+Be noodzakelijke nationale herstructurering gaat sneller verlopend
+Dit gebeurt volgens B. zo laat door een samenwerking van "econo-
+mische” en psychologische factoren als:
+1. het (vrijwel) ontbreken van kolen en ertsen; op de kolen
+zit tot 1865 een hoge accijns.
+2. de machine ind. komt laat op; in G. B. kopen van machines
+is tot 1843 i.v.m. exportbeperking moeilijk.
+3.	goed waterwegennet, maar onderontwikkeld land- en spoor-
+wegnet.
+4.	de geest van oom Stastok, d.w. z. de mentaliteit van liever
+geen risico’s. Het liberalisme kweekt de noodzakelijke, meer
+• 5)
+kapitalistische instelling. '
+1)	zie Brugmans o.c. pag. 66-69.
+2)	zie Bouman o. c. pag. 195.
+3)	een bron voor verdere studie van de periode 1850-1914 is
+J. A.de Jonge: De industrialisatie in Nederland tussen 1850 en
+1914. ? . 1968. en Historisch-Bconomische Atlas, Den Haag, 1912.
+Hierin staan kaarten van vestigingen van een aantal bodrijfs-
+klassen in Nederland in 1858 en 1906. T.o.v. 1858 is de industrie
+in Nederland geconcentreerd.
+4)	Brugmans ziet het als een versnelling en niet zo zeer als een
+revolutie, o.c. pag.201. Een opvatting die Bak ook heeft:"Voorts
+kan worden opgemerkt dat de veranderingen meestal een geleidelijk
+en vloeiend verloop hebben. De ontwikkeling draagt geen substi-
+tutief maar een cumulatief karakter; elke ontwikkelingsfase voegt
+nieuwe elementen toe aan de werkelijkheid, maar doet de bestaarde
+elementen niet geheel verloren gaan." Toynbee’s term I.R. is on-
+gelukkig, Sir William Ashley’s omschrijving een snelle en onwcer-
+staanbare evolutie veel beter. Fag. 10-11.o. c.
+5)	zie hiervoor Brugmans o.c. pag.213.
+-58-
+Tn deze tijd worden de bestaande bedrijven, manufactuur en huis-
+industrie, vervangen door industriële productie. Men rnoct dan
+denken aan de textiel-nijverheid, (w. o. wol), er komen brood-
+fabrieken, sigarenfabrieken, schoen- en kledingfabrieken. Daar-
+naast komen er in diezelfde takken nieuwe ondernemingen. Een reeks
+nieuwe producten die industriëel geproduceerd worden; bietsuiker,
+aardappelmeel, strokarton, gas. Er ontstaan waterleidingbedrijven.
+par.4. Het moderne kapital_isme^ 1870-1914.
+Het gaat goed met de economie en met de industrie. Gevolg is,
+weinig overheidsbemoeiing en dus....weinig informatie. Van deze
+periode is de geschiedenis nog nooit geschreven volgens Brugmans^
+Als vestigingsplaatsfactoren van de industrie ziet Brugmans:
+1. de beschikbaarheid van ertsen en steekool (zeehavens en
+binnenhavens? N. F. A. )
+2. goede spoor- en waterwegen
+3.	voldoende loonarbeiders
+In Nederland zijn geen Ruhr- en Black Country gebieden ontstaan,
+omdat er geen steenkool, waterkracht of ertsen als magneet werken
+en er zijn geen fysisch-geografische omstandigheden die tot be-
+paalde locaties dwingen. Wel is er sprake van concentratie in
+bepaalde streken. Tot industrievestiging wordt vaak besloten i.v.m.
+ruime arbeidsmarkt. M. i. stelt Brugmans de zaken hier wat al te
+eenvoudig voor. Begrippen als site, situation, verklaring van
+concentratie in bepaalde streken blijven buiten zijn beschouwing.
+Gevolgen van de structuurveranderingen en productiemethoden zijn
+o. a. dat ambachtelijke ledernijverheid in Groningen en Friesland,
+textielnijverheid in Groningen, Friesland, Drente, Zeeland en
+Limburg verdwijnt en bierbrouwerijen in Friesland, Groningen en
+1} zie Brugmans o.c. pag. 312.
+Drente verdwijnt. De ondernemingen gaan zich specialiseren b.v.
+scheopswerf-machinefabriek wordt of een motorenffbrick of een
+nieuwbouwwerf enz. De grof- of kleinsmederijen "vallen uiteen"
+in "buizen-, moeren-, brandkasten- enz- fabrieken. Er blijven
+nieuwe producten bijkomen b.v. kunstmest en margarine.
+par.5. 1914—1940., Tweede industrialisatiegolf.
+De gebeurtenissen in de economische conjunctuur zijn op zich
+minder belangrijk voor dit overzicht. De militair-politieke en
+de handels-politieke "moeilijkheden" zijn van veel groter belang.
+Hoewel men zou kunnen zeggen dat de import-vervangende industrie,
+zoals die tijdens W. 0.1 en in de protectionistische jaren 30 ont-
+staat, moet verdwijnen zodra men terugkeert naar de vrijhandel
+van voor 1914. Tot en met 1945 is van die vrijhandel en inter-
+nationale economische samenwerking weinig of niets te bespeuren.
+De oprichting van de OEES (nu OECD) in 1948, de in werking treding
+van de Benelux douaneunie in 1948, het sluiten van het GATT ak-
+koord in 1947, de oprichting van de EGKS in 1953, de EEG in 1957,
+de Kennedyronde in 1967, en de wereldhandelsconferentie 2. (1968)
+in mindere mate, hebben veel protectionistische maatregelen ver-
+zacht of doen verdwijnen. Het tij lijkt echter nu wat te keren.
+De techniek blijft voor nieuwe producten zorgen. De electriciteit
+vindt steeds meer toepassing.(gloeilampen- electromotorenfabrieken)
+In 1920 wordt de eerste raffinaderij, BPM, Rotterdam, gesticht.
+De kunstzijde industrie komt op. Na 1920 ontwikkelt zich de
+pharmaceutische industrie sterk. De betonwaren industrie komt op.
+Het ontstaan van de zout- en zoutchemie industrie doet de oude
+ambachtelijke zoutziederijen verdwijnen. Ook het aantal brouwerijen
+1) zie Brugmens pag.311-353
+-GO-
+■blijft nfnemen. Be hoogovens en staalfabrieken bepirnen. (1918)
+Fusies (scale econoinies) vindt men bij scheepswerven ('ïilton-
+Feyenoord) en margarinefabrieken (Jurgens en Van den Berg). TCr
+zijn ook opheffingen en verplaatsingen. Brugmnns spreekt gezien
+de enorme veranderingen van de tweede industriële revolutie.) •
+par.6. Periode 1940-1945.
+De Nederlandse industrie heeft het zwaar te verduren gehad.
+Behalve verwoestingen van gebouwen en machines is er ook veel
+van de voorraden en machines door de Duitsers gestolen. In vele
+fabrieken daalde de productie sterk of werd stilgelegd. Research
+stond op een laag pitje. Het kapitaal teerde- in. Daarbij kwam
+nog de schade aan de infrastructuur, energiebedrijven enz. Dat
+is dan alleen de materiële schade. De verliezen aan mensenlevens
+zijn van een heel andere orde. Het belang ervan is niet te schat-
+ten en varieert van bedrijf tot bedrijf.
+par.7. De wederopbouw 1945-1950.
+Het tijdvak tot + 1950 wordt gekenmerkt door de wederopbouw van
+ons land. Woningbouw, oprichting en herbouw fabrieken, herstel
+verschillende vervoersnetten enz. Dit alles geschiedt onder vrij
+moeilijke omstandigheden door deviezengebrek, rantsoenering van
+vele grondstoffen en machines enz, en vergunningenstelsels. De
+consumptieve vraag en -bestedingen zijn hoog t.g.v. psychologische
+veranderingen, (mensen zijn meer consumptief ingesteld) De onder-
+nemingen kunnen, omdat de besparingen gering zijn, uitbreidingen
+veel minder dan voor 1940 door zelffinanciering tot stand brengen.
+De arbeidsproductiviteit neemt af, niet door een geringere in-
+spanning van de werknemer, maar door een andere maatschappelijke
+1)zie Brugmens o.c. pag. 471-498 >
+-61-'
+organisatie. ' De Marshall hulp in de vorm van geldschenkingen
+en leningen, benevens de komst van "product! vit?/ teams”, is van
+enorm belang geweest. Conjunctureel gezien is er van 1945 tot
+1951 een hausse.
+De opbouw van de industrie geschiedt volgens de lijnen die voor
+1940 al zichtbaar waren. Dit is een opvatting die men ook aan-
+treft in de Nederlandse Industrie en bij Bak. ' Hij vergelijkt
+de periode 1899-1947 met de periode 1947-1957. Het groeitempo
+van de industriële beroepsbevolking blijft ongeveer gelijk. In de
+eerste periode zitten de aardewerk-, diamant-, bouw-, hout-, kle-
+ding-, en voedingsindustrie onder het gemiddelde i.t.t. metaal-,
+chemie-, papier- en grafische industrie die er met mijnbouw boven
+zitten. In de tweede periode hetzelfde beeld met een nog meer
+uitgesproken groei voor metaal en chemie. Dr. J.’Yinsemius stelt in
+"The Dutch industrial development since the war”, in het TESG
+van 1965, echter, dat "The whole development of the Netherlands
+in the period prior to 1940 vzas directed in essence towards an
+expansion of the trade and traffic sector.” Na ’Y. 0. II zou de
+industrialisatie in Nederland pas vergelijkbaar worden met die
+in b.v. Engeland waar die ind. eerder begon. Het ligt m. i. voor
+de hand om te veronderstellen dat de industriële ontwikkeling
+bepaalde drempels heeft overschreden en toen in een aantal ge-
+vallen (en op bepaalde plaatsen) autonoom is geworden o. a> t.g. v.
+de agglomeratievoordelen. Bak’s standpunt hoeft dus niet strijdig
+met dat van V/insemius te zijn.
+1)	De Nederlandse Industrie sinds 1945, een wereld van groei.
+Leiden, 1952, pag.6.
+2)	- o. c. pag. V.
+5) o.c.pag.18-19.
+4; o. c. pag.53.
+-62-
+Noofdstuk 8. Nederland 1950-1970.
+per.1. Economie, techni clx on yorvoov*
+Economisch is dit een periode van voortdurende croei al treden er
+vertragingen en versnellingen op. De Koreaanse oorlog (1950-1953)
+heeft economische repercussies. 1953-1954 zijn expansiejaren. De
+hoogconjunctuur eindigt in 1956. De recessie (bestedingsbeperking)
+van 1956-1957 wordt in 1959 gevolgd door een nieuwe expansiefase
+die tot de hausse van 1962-1965 leidt. 1965-1966 toont weer een
+teruggang die minder groot is en zich vooral uit in een investe-
+ringsbeperkingo De vraag, vooral uit het buitenland, naar producten
+blijft groot}^De Nederlandse economie is in die periode in hoge
+mate afhankelijk van het buitenland. Dat is gezien de relatief
+2'1
+grote im- en exporten niet verwonderlijk. ‘ De grote afhankelijk-
+heid van West-Duitsland blijkt o.a. uit de handelsrelaties en het
+gelijktijdig revalueren in maart 1961. Nederland gaat meer kapi-
+taalgoederen produceren. Het assortiment wordt dus uitgebreider.
+De inkomsten en uitgaven van particulieren, bedrijfsleven en
+overheid stijgen voortdurend.^^ De binnenlandse productie, de
+invoer en de uitvoer groeit steeds. De groei is een zeer be-
+langrijke factor bi’j de verklaring van de ontwikkelingen in de
+industriële structuur.
+Het goederenvervoer verandert reusachtig. In de eerste plaats
+naar volume. Dat was gezien de toename van de productie te ver-
+1) prof.dr.E.J.Andriessen: Economie in theorie en praktijk,
+'msterdam 1967, pag. 104- e.v.
+f) Andriessen o.c. pag, 130.
+3)	Andriessen o.c. pag.128. •
+4)	zie voor toeneming toegevoegde waarde tabel 6 van J. Ilauer e. a. :
+Veranderingen in het spreidingsortroon van de industriële werk-
+gelegenheid enz. (periodes 1958-1963, 1963-1968 en 1968-1973).
+-63-
+chten. In het binnenland gaat men steeds meer gebruik maken
+van de vrachtauto en van pijpleidingen. Het aandeel van snoor-
+wegen en binnenvaart neemt af. De gevolgen hiervan laten zich
+raden; spoorwegen en binnenvaart komen beide in structurele moei-
+lijkheden. Aan de andere kant verloopt de wegenbouw te traag.
+Dat neemt niet weg dat er enorm veel wegen, tunnels en bruggen
+zijn gebouwd. Wat het verkeer met het buitenland betreft vallen
+eveneens grote veranderingen te constateren. Bij het vliegverkeer
+gaat dat vooral om kwaliteitsproducten die pas na 'Y. O.II in steeds
+grotere hoeveelheden worden vervoerd. De groei van Schiphol en
+Zestienhoven als vliegvelden én als handels- en productiecentra
+is spectaculair. Opvallender nog is de groei van het zeescheep-
+vaartverkeer. Opvallend omdat alles steeds groter wordt; de sche-
+pen, de vaarwegen en de vervoersproductie. Daarbij komt nog een
+grote specialisatie; schepen ingericht voor specifiek vervoer.
+Technologisch verandert er in de periode 1950-1070 zo veel, dat
+het moeilijk is, zich dat te realiseren. Talrijke dingen die nu
+gewoon zijn bestonden in 1950 niet. 3en gevolg is dat het machine-
+park totaal anders is; mechanisering is vanzelfsprekend geworden,
+automatisering vindt iedereen nodig, Nen onderneming is verouderd
+voor men het weet. Met name geldt dit voor electro-tcchniek en
+chemie. Natuurlij< heeft dit gevolgen. In de eerste plaats vraagt
+een hoger technisch niveau beter geschoolden. Alle soorten tech-
+nisch onderwijs groeien, zowel voor de research en ontwerpkant
+als voor het bedienen. Aan de andere kant staat dat de bedrijven
+kapitaalintensiever worden. Men houdt veel winst in. maar moet
+in toenemende mate een beroep op de kapitaalmarkt doen.
+-64-
+
+De arbeidsmarkt.
+De arbeidsmarkt wordt voornamelijk bepaald door de (gelokaliseerde)
+werkgelegenheid en de (wonende=gelokaliseerde) beroepsbevolking.
+Beide wijzigen zich naar plaats, ornvang en aard. De werkgelegen-
+heid groeit van 3.690.000 personen in 1953 naar 4.450.0^0 in 1969.
+Het aandeel van de landbouw loopt in die tijd achteruit van 14,9%
+tot 7,7%. Industrie gaat van 41,5% in 1953 via 43,1% in 1963 naar
+41,6% in 1969. De diensten groeien duidelijk; 1953 43,6% en in
+1969 50,6% De feitelijke arbeidsmarkt is in Noord- en Zuid-
+Holland en Utrecht van voor 1960 tot nu toe constant overspannen.
+De rest van hederland kent voor medio 1966 een tekort, maar erna
+2)
+een overschot tot eind 1969. ' Hoewel de conjunctuur dus al weer
+goed is, blijft er een overschot bestaan in streken en steden met
+een verouderde industrie. Gezien de geringe neiging tot forensisme
+over langere afstand, en de weinig omvangrijke migratie, lost men
+locale arbeidstekorten vaak op door het aantrekken van buitenlandse
+3 ’)
+arbeiders. ' Deze groep is steeds omvangrijker geworden; in 1966
+50.000 man. Arbeidsoverschotten tracht men d.m.v. eventueel gesub-
+sidieerde, vestiging van bedrijven en instellingen op te vangen.
+Dat de industriële productie na 1960 blijft groeien ondanks een
+stagnerende groei van de industriële werkgelegenheid, vindt zijn
+oorzaak in productiviteitsverhogingen en door vermindering van de
+werkgelegenheid in stagnerende bedrijven (bedrijfstakken). Deze
+laatste zijn juist de arbeidsintensievere bedrijven.
+De werkgelegenheids structuur moet nog nader bekeken worden.
+Aan-
+gezien dit een onderwerp op zich is, wil ik hierbij verwijzen raar
+1) CBS Statistisch Bulletin, jan. 1970.
+2)	KRO 26 febr. 1971.
+3)	zie J. L’. Waalwijk: Buitenlandse arbeiders
+no.4. Geogr. Inst. Utrecht pag.99-125.
+in rederland. Bulletin
+-65-
+het artikel van J. Hauer, G.A. van der Knaap en M. do Smidt:
+Veranderingen in het spreidingspatroon van de industriële wcrk^.
+gelegenheid en verschuivingen in de industriële structuur in
+Nederland, dat in 1971 in het TF.SG zal verschijnen.* 1) Tabel 10
+daarvan geeft de groei van provincies in de periode 1955-1969
+voor de industrie. De groei van de werkgelegenheid is het grootst
+in het noorden en in Zeeland en Brabant. Tabel 4 geeft de ont-
+wikkeling van bedrijfsklassen en groepen, (periode 1955-1969).
+De ontwikkeling loopt nogal uiteen. Sterk groeien o. a. de cement-
+de grafische, de petroleum-, en de metaalindustrie en de nuts-
+bedrijven. Steenbakkerijen, aardewerkindustrie, kleding en reini-
+ging, leerindustrie, mijnbouw, scheepsbouw, textiel en vele groe-
+pen van de voedings- en genotmiddelenklasse nemen af. Tabel 1 van
+deze scriptie (zie bijlage) geeft o.a. de ontwikkeling van de
+verschillende bedrijfsklassen in de periode 1951-1968 in Nederland.
+par.5. De overige markten.
+De grond- en hulpstoffenmarkt heeft in de periode ook de nodige
+wijzigingen ondergaan. Dit terrein is veel te breed om er iets
+diepgaands over te zeggen. Een land als-Nederland is voor veel
+grondstoffen afhankelijk van het buitenland. De vele veranderin-
+gen binnenslands blijken o.a. bij de aan de delfstoffenwinning
+verbonden industrie. Zoutvondsten bij Winschoten zijn de oorzaak
+van chemische industrie in Delfzijl. I.v.m. het hfbouwen va.n de
+steenkolenmijnen in Limburg schakelen de chemische bedrijven
+van de DSM over op aardolie en aardgas. De aardgas-vondsten zijn
+(geweest) op de vestiging van bedrijven in Nederland als geheel
+1)	zie ook dr. H. C. W. Roemen: De groei van de personeelsbezetting
+der industrie in de nederlandse provincies gedurende de pe-
+riode 19 50-1958. In TESG- 1959 pag. 241-045.
+-6G-
+omdat er (meer) energie vrij goedkoop beschikbaar komt. De prij-
+zen zijn uniform in het hele land zodat de vindplaatsen niet van
+lagere tarieven kunnen profiteren. Er heeft daar dan ook geen
+industrie-vestiging plaatsgevonden. Er bestaat wel een "aard-
+gaspotje" waaruit in incidentele gevallen bepaalde bedrijven
+gas tegen lagere prijzen kunnen krijgen. Dit hoort dan al meer
+bij de energiemarkt. Daarvan moet vooral gezegd worden dat de
+energie-consumptie per hoofd van de bevolking en per bedrijf
+enorm is gestegen. De energie-opwekking geschiedt in de periode
+steeds minder met kolen en steeds meer met olie en aardgas. 1)
+De hulpstof water is van ubiauiteit in een economisch goed ver-
+anderd en dus duur geworden. Het kwijt-raken van chemisch of
+termisch verontreinigd water is een moeilijk en kostbaar pro-
+bleem geworden. E.e.a. i.v.m. de belangstelling van de bevolking
+en de overheid voor het (fysieke) milieu.
+Van de dienstenmarkt is eigenlijk maar weinig bekend. Veronder-
+steld. mag worden dat naar omvang, kwaliteit en "assortiment"
+deze markt reusachtig gegroeid is. Dat is wat de "vraagkant"
+betreft duidelijk genoeg; de enorme groei van de productie en
+de snelle technische ontwikkeling veroorzaken steeds meer dienst-
+verlening. Het "aanbod" is minder makkelijk. Dat komt o. a. door-
+dat bestaande firma's uitbreiden of diensten gaan leveren. De
+computercentra van de NS en de Heidemij zijn van dit laatste
+een mooi voorbeeld. De veranderingen zijn niet zo opvallend
+(ook in het landschap!). Diensten op zeer hoog niveau worden
+vaak door Internationale firma's verleend. Soms hebben die hier
+1) zie voor een overzicht: Europa en Energie. Luxemburg, 19o7.
+-67-
+ecn vestiging maar dat zegt niet zo veel want ze gebruiken hun
+personeel nu eens hier dan eens daar.
+De overheid treedt op de bouwmarkt regulerend op. D.m.v. vergun-
+ningen bepaalft ze hoeveel, wat en in welke gebieden er gebouwd
+mag worden. Doordat de woningbouw in zekere mate voorrang heeft
+valt het lang niet altijd.mee om op de industr i c-bouv~mnriet. iets
+te realiseren.
+Grond- en terreinenmarkt. Ruimte is in Nederland een zeer schaars
+goed. Vooral in het westen. Daar de overheid ruimtelijk laat
+ordenen, wordt de ruimte die door industrie gebruikt mag worden
+lokaal en soms ook regionaal vaak zeer beperkt en dus duur.
+Een uitzondering vormen de stimulerings- en herstructurerings-
+gebieden. 1) Via de grond- en terreinenmarkt tracht de over-
+heid ook zijn industrie-politiek te verwezelijken m.b.t. de
+aard en kwaliteit van de bedrijven. Kon een aantal jaren geleden
+vrijvzel iedere industrie zich vestigen, nu is men zich, vooral
+in het westen des lands kwaliteitsbewust geworden, wen wil nu
+bedrijven met een hoge toegevoegde vzaarde per eenheid product.
+Deze bedrijven hebben meestal goed betaald personeel nodig.
+Bovendien stelt men als eis dat het schone industrieën zijn.
+ia
+Vooral als de overheid eigenaar van de grond is^invloed op het
+soort industrie mogelijk. De toepassing van de hinderwet is
+een andere mogelijkheid tot beïnvloeding.
+De kapitaalmarkt. De toename van de kapitaal-intensitelt en het
+verminderen van de winstmarges veroorzaken een steeds grotere
+externe financiering. 2) Andriessen stelt dat in de jaren 60
+1) zie voor een overzicht van deze gebieden: Voordelig vestigen
+buiten het westen. Den Haag, ?
+2) zie Bak o.c. pag.19-20
+-68-
+meer interne financiering is. Of Andriossen dat nu absoluut of
+relatief bedoelt, is niet duidelijk. 1) De laatste tijd blijkt
+uit krantenberichten dat interne financiering vaak niet mogelijk
+is. Het lenen van geld is door de permanente en vrij hoge infla-
+tie kostbaar.
+par.4. Bedrijfsgrootte ontvzikkeling, indices arb./oyerig personeel.
+	vestigingen	% .	uersoneel	vest,
+vestiging met:	1950	1963	1950	1963
+1 pers.	29	20	3	1
+2 pers.	20	18	4	2
+3-5 pers.	27	27	9	7
+6-10 pers.	11	14	8'	7
+11-20 pers.	6	9	8	8
+21-49 pers.	4	7	13	14
+50 en meer pers.	3	5	55	61
+totaal %	100	100	100	100
+totaal absoluut	150.500	126.300	1.575.800	1.959.100
+bron1: de staten 26 en 27 deel 2 van de Algemene bedrijfstelling
+1963.
+In bovenstaande staat zitten ook niet-industriële bedrijven.
+De bedrijven kleiner dan 11 personen blijken voor de werkgelegen-
+heid van vzeinig belang. De schaalvergroting blijkt duidelijk.
+Hauer e. a. geven de veranderingen in de verhouding arbeiders/
+overig personeel in een aantal bedrijfsklassen gedurende de
+periode 1963-1968 in Nederland. 2) In al die bedrijfsklassen
+wordt het overig personeel relatief en meestal ook absoluut,
+belangrijken. Dit geldt voor het tijdvak 1950-1970 als geheel
+ook en kan verklaard worden uit de mechanisering en automati-
+1) zie prof. dr. .T. E. Andriessen o.c. pag. 184-185.
+2)	J.Hauer o. a. o.c. tabel 7.
+-69-
+sering van de productie waardoor relatief minder (productie-)
+arbeiders nodig zijn. De niet-productie afdelingen zoals ont-
+werp en research of onderhoud en reparatie (veel meer machines!)
+groeien juist wel.
+Onderstaande tabel geeft de percentages van in de nijverheid
+werkzame personen naar positie in het bedrijf in 1950 en 1963.
+positie	1950	1963
+hoofden	11	8
+medewerkende gezinsl.	3	3
+adm.personeel	7	10
+overig personeel	13	11
+pers. eig. bedrijf	66	68
+totaal %	100	100
+totaal absoluut	1.575.800	1.959.100
+"bron: staat 36 deel 2 van de Algemene bedrijf stelling 1963.
+Ook hier zitten niet-industriële bedrijven in. Het is een wat
+andere indeling zodat geen vergelijking met de resultaten van
+Hauer e. a. mogelijk is.
+par.5. De industriële structuur van Nederland 1950-1970.
+Buit stelt m. i. terecht dat Nederland als geheel tot de west-
+europese "manufacturing belt" behoort. 1) Binnen Nederland
+komen echter vrij grote verschillen voor in industrie-dichtheid. 2)
+1) J.Buit: Het industriële locatiepatroon. Leiden, 1967. pag.75.
+De term wordt meestal gebruikt om de ruimtelijke concentratie
+van industrie binnen eenheden van zeer grote omvang aan te
+geven.
+2) zie hiervoor de Atlas van Nederland, kaart XI-12, kaart Xl-lö
+no.2, kaart XV-1 (plaatselijke werkgelegenheid) en kaart XV-2
+(forensisme v.vz.b. de industrie) Dit betreft dus do spreiding
+van werknemers in de industrie. De industrio-dichthedon zijn
+nog niet in kaarten van de Atlas verwerkt/gepubliceerd.
+■■■
+-70-
+De industrie is 'binnen Nederland geconcentreerd in de Randstad,
+Arnhem-Nijmegen, de Bandstad, Zuid-Limburg, Breda-TiIburg-Eind-
+hoven. Er moet niet alleen naar de locaties van bedrijven gekeken
+worden maar ook naar de relaties (zie hoofdstuk 5 par.1), dan pas
+kan de omvang (grens) van een structuur vastgesteld worden. Nu
+zijn ind.bedrijven vaak min of meer toevallig juist op een be-
+paalde plaats gevestigd. Ze zijn vrij zelden daar gelocaliseerd
+i.v.m directe relaties met andere bedrijven ter plaatse. Er zal
+binnen één gemeente m. i. dan ook nooit sprake zijn van een ind.
+structuur die afgerond geheel van vrij intensieve relaties omvat.
+Bedrijven zijn onderdelen van structuren van regionale, nationale
+of internationale omvang. Binnen een gebied kan dus sprake zijn
+van meerdere industriële structuren, die weinig of niets direct
+met elkaar te maken hebben. Wel indirect via b.v. de arbeidsmarkt
+en de grond- en terreinenmar kt» Het bestaan van verschillende
+structuren binnen Nederland is duidelijk waarneembaar’ wanneer
+men b.v. de conservenindustrie vergelijkt met de meet- en regel-
+apparatuur industrie. Van directe relaties van de industrie is
+echter zeer weinig bekend zodat de omvang van de structuren
+verder buiten beschouwing moet blijven. Wel zijn er binnen Neder-
+land een aantal plaatsen aan te wijzen die door de omvang en
+intensiteit van de relaties van hun industrieën een centrum,
+nodel zijn. Chardonnet noemt zowel Amsterdam als Rotterdam een
+complexe industriel. Dit zijn z. i. relatief afgeronde complexen
+omdat het complexe portuair door zijn haven zo veel industriële
+mogelijkheden heeft. Antwerpen is ook een complexe industriel. 1)
+Vanneste noemt zelfs Brugge een ind.complex, maar foyer indus-
+triel (= industriecentrum) lijkt me in dit geval oen betere
+term want in verhouding tot Rotterdam is er sprake sprake van
+1) Jean Chardonnet: Géographie industrielle. Tomé II. pag.Ö16..
+-71-
+duidelijk niveau verschil. Be aanwezigheid van Philips en DAF
+heeft van Eindhoven ook een foyer industriel gemaakt, Br zijn
+toeleveringsbedrijven in oostelijk Noord-Brabant op gericht en
+de werkgelegenheid is er dan ook door autonome oorzaken sterk
+gestegen. 1)
+Het bestuurscentrum, de research en ontwikkelingsafdelingen
+van vele bedrijven buiten het vzesten zijn vrij vaak in de Rand-
+stad gevestigd. 2)
+nar.6. Opheffing, vestiging en verplaatsing in de periode
+1950-1970 in Nederland.
+Opheffingen zijn er na 1965 relatief veel. Op grond van primaire
+gegevens kan men hierin geen inzicht krijgenl Een onderzoek naar
+collectieve ontslagen (dus inkrimping en opheffing) in de perio-
+de 1965-1969 door het Wetenschappelijk en Scholingsinstituut van
+het heeft aangetoond dat van de 35 500 werknemers die col-
+lectief zijn ontslagen (verloop en ontslag i.v.m. natuurlijke of
+persoonlijke omstandigheden blijven buiten beschouwing) , 1 werk-
+5
+zaam is geweest in de textiel- en kleding industrie en 1 in de
+3
+metaalindustrie. De meeste ontslagen zijn gevallen in Brabant,
+gevolgd door Noord- en Zuid-Holland. Oorzaken van de ontslagen
+zijn voor ongeveer 50% reorganisaties. Sluitingen, faillissemen-
+ten en fusies zijn minder belangrijk. In hoeverre door verloop
+en ontslag i.v.m. natuurlijke of persoonlijk redenen bedrijven
+ophouden te bestaan is niet bekend.
+Het ministerie van Sociale Zaken heeft geconstateerd dat er in
+1970 minder bedrijfssluitingen (opheffingen) zijn geweest als
+in 1969. Samen met de inkrimpingen waren daar in 1970 ca. 10. 000
+1)	zie "De ontwikkelingen in de structuur’ van het brabantse
+industriële bedrijfsleven" in "Noord-Brabant" 1969 no.4-.
+pag.229-263.
+2) zie o. a. J. Buit o-, c. pag. 80-81.
+-72-
+mensen bij betrokken tegen 14.000 in 1969 en 12.500 in 1968.
+Hierbij waren in 1970 steeds meer handelsondernemingen maar de
+metaal-, textiel-, confectie- en leerindustrie ondergaan nog de
+meeste veranderingen. Opheffingen en inkrimpingen kwamen in 1970
+het meest voor in Noord- en Zuid-Holand, Gelderland en Noord-
+Brabant. 1)
+Over vestiging is meer bekend. Voor een landelijk overzicht van
+het aantal arbeidsplaatsen ontstaan door (nieuwe) vestigingen
+verwijs ik naar tabel 8 van het artikel van Hauer c. s. De tabel
+geeft de cijfers uitgesplitst naar bedrijfsklasse. Tabel 9 geeft
+vestigingsjaar, gebied (het Westen en overig Nederland) en de
+groei van die nieuwe bedrijven tot en met 1967. De gegevens
+van deze beide tabellen kon of wilde het CBS niet uitsplitsen
+(meer dan 2 gebieden) en ook niet combineren (in dat jaar groeit
+die bedrijfsklasse daar sterk door oprichting bedrijven). Een
+conclusie uit het aangehaalde artikel is dat in het westen re-
+latief meer werkgelegenheid wordt geboden door nieuwe vestigin-
+gen. 2) De Smidt en Buit hebben beide op het grote belang van
+de buitenlandse vestigingen gewezen. 5) Dit komt vooral door de
+kwaliteit van die bedrijven. De Smidt heeft geconstateerd dat
+de USA ondernemingen (ca. 50% van de buitenlandse bedrijven) voor-
+al in het westen gevestigd worden, de skandinavische (12%) vooral
+in het noorden en de west-duitse (8%) in het oosten. 4) De USA
+investeringen in Nederland zijn kort geleden onderzocht door
+Frank Stubenitsky. 5)
+1^ Handelsblad/NRC 31 dec.1970.
+2) zie Hauer e. a. o.c.
+3)	M. de Smidt: Foreign industrial establishments located in the
+Netherlands. In TESG 1966 pag. 1-19.
+J. Buit o.c.
+4)	zie wat dit betreft ook het SISWO-rapport "Verplaatsing in-
+dustriële bedrijven". Amsterdam, 1967. hfd.XII.
+5)	Frank Stubenitsky: De Amerikaanse uitdaging in Nederland. Dit
+artikel in Intermediair van 6 nov.1970 is gebaseerd op z’n
+dissertatie "American direct investment in the Netherlands”.
+Rotterdam, 1970.
+-73-
+Verplnatsingen. Het merendeel van de verpl natsingen zal van
+nationaal en regionaal standpunt "bezien van geen belang zijn
+omdat ze intra-lokaal zijn. Iedere plaats van enige omvang heeft
+zijn industrieterrein (en) waarop men nieuwe "bedrijven en ver-
+plaatste "bedrijven ziet. Die verplaatste "bedrijven komen vaak
+uit de saneringswijken of moeten omdat ze niet meer kunnen
+uitbreiden, een ander terrein zoeken en dat doen ze vaak ter
+plaatse. Een industrieterrein kan concentratie van lokale ind.
+tot gevolg hebben. Helaas zijn de prijzen ervan vrij hoog zodat
+allerlei marginale en vaak ambachtelijke bedrijven er geen ge-
+bruik van kunnen maken.
+De verplaatsingen over de gemeentegrenzen heen zijn voor de
+periode 1950-1962 door het SISWO onderzocht. 1) Het gaat hierbij
+om beide soorten verplaatsingen.
+Onderstaande tabel geeft de verplaatsingen onderscheiden naar
+bedrijfsklasse.
+"oedri jfsklasse	aantal ver- plaatsingen	mobiliteit verpl.bedrijven	partiële verpl.in $ tot.
+chem. ni jv,	79	11,4	48,1
+papier	30	11,1	56,7
+confectie	277	11,0	79,4
+leder	65	10,6	52,3
+metaal	459	10,3	47,3
+aardewerk	70	9,8	65,7
+textiel	67	8,5	79,1
+hout	88	7,3	46,6
+voeding	96	3,4	58,3
+grafische nijv.	20	2,3	46,6
+tótaal/gem.	‘ 1251	8,4	58,4
+Bedrijven tussen de 20-200 werknemers verplaatsen zich relatief
+meer dan men oï> grond van hun aandeel in de groottcklassën zou
+verwachten. Vooral bedrijven met een arbeidsintensief productio-
+1)	3ISV/0: Verplaatsing industriële bedrijven. Amsterdam, 1967
+-74- •
+proces verplaatsen zich. Als oorzaken van verijlentsingen zijn
+vooral genoemd, de arbeidsmarkt (44,9%), ruimte (20,8%), en be-
+staand pand (15,2%). Van de 1251 verplaatste bedrijven zijn er
+111 weer ongeheven, waarbij de confectie een relatief te groot
+aandeel heeft.
+Wat de ruimtelijke structuur van de verplaatsingen betreft;
+763 bedrijven (61%) verplaatst zich binnen het landsdeel. Het
+SÏSWO-rapport noemt dit expansie. Verplaatsingen van het ene
+naar het andere landsdeel noemt het decentralisatie. Dit geschiedt
+voornamelijk van west naar de andere landsdelen:
+west-noord 117
+west-oost 159
+west-zuid 114
+overige 98
+Oost en zuid kennen een relatief grote expansie. Noord en oost
+een relatief groot aantal gedecentraliseerde bedrijven. "Bij de
+expansie van Zuid en de decentralisatie uit West naar Zuid vinden
+we significant meer partiële verplaatsingen. Deze verplaat-
+singen zijn vooral door ruimtegebrek veroorzaakt.
+Let men op de aard van de gemeente van vertrek en van vestiging,
+dan kan men blijvers, vlieders en buitenblijvers onderscheiden.
+Partiële verplaatsingen betreffen significant meer vlieders.
+Kijkt men naar aantallen verplaatsingen en spanning op de arbeids-
+markt dan blijkt er een hoge correlatie te bestaan. Er blijken
+vier periodes te zijn:
+1.	1951-1954. aanloopperiode
+2.	1955-1957. sterke mobiliteit (en grote spanning op de
+arbeidsmarkt)
+3.	1958-1959. afname aantal verplaatsingen (en economische
+■ teruggang)
+4.	1960-1962. weer sterke mobiliteit (en spanning arbeidsmarkt)
+1)	o.c. pag. 34.
+-75-
+Er zijn twee groepen van verschijnselen, ("clusters")» ver-
+schijnselen binnen de groep hangen samen:
+lo partieel verplaatsen; decentraliseren vanuit het westen;
+vlieden uit agglomeraties; arbeidsmarkt is vestigingsreden
+2.	integraal verplaatsen: verplaatsen binnen het westen;
+blijven in agglomeraties; ruimte is verplaatsingsniotief
+Het tweede deelrapport van het SISWO over "Verplaatsing Indus-
+triële Bedrijven" betreft een onderzoek naar overwegingen van
+151 metaalbedrijven die zich in de periode 1959-1962 verplaatsten.
+Het rapport heet sociaal-psychologisch te zijn, maar men zou het
+even goed sociaal-geografisch kunnen noemen. Alleen de manier
+van vragen is misschien "psychologisch". 1)
+Hoofdstuk 9. De Zuidelijke Randstad.
+par.1» Rotterdam, complexe industricl?
+Chardonnet stelt dus dat Rotterdam een industrieel complex is. •
+"A la sidérurgie pres, que d'ailleurs le port a songé a créer
+sur sa nouvelle extension de 1'Europoort, Rotterdam offre 1'image
+d’une aussi totale variété,...." 2) Chardonnet denkt hierbij
+niét alleen aan de gemeente Rotterdam maar aan het gehele Water-
+weggebied. Wever heeft getracht na te gaan of hier sprake is van
+een industrieel complex?)Aan een aantal criteria voldoet Rotter-
+dam volgens Wever evident:
+1.	een grote industriële activiteit die blijkt uit:
+a.	een hoge productie,
+b.	een grote werkgelegenheid,
+c.	hoge investeringen.
+1) Deze case study gaat dieper op hot verschijsel verplaatsingen
+in. De conclusies blijven hier buiten beschouwing.
+2)	Jean Chardonnet: Géographie industrielle. Tomé*II. pag.512.
+5) E. Wever: Fernis-Botlek-Europoort, un complexe a base de
+pétrole? In TESG 1966 pag. 131-140.
+-76-
+2.	een of meer "basisindustrieën,
+3.	een zekere mate van diversicatie,
+5.	een zekere ruimtelijke concentratie,
+6,	een hoog ontwikkelde infrastructuur en goede economische
+dienstverlening.
+Een vierde criterium : "dependency relations”, moeten onder-
+zocht worden. Deze relaties zijn te verdelen in:
+a.	technische afhankelijkheid,
+b.	economische afhankelijkheid,
+c.	afhankelijkheid van dezelfde vestigingsfactor,
+d.	afhankelijkheid van osmose (economische) (zie ook hfd. 5 par. ö)
+Wever gaat eigenlijk alleen de technische afhankelijkheid na en
+komt dan tot de conclusie dat er sprake is van een havenindus-
+triegebied. Wel ontstaan er steeds meer "petroleum-relaties".
+Toch kan Rijnmond m. i. best als een, zij het jong, industrieel
+complex getypeerd worden. Chardonnet geeft meer industriële
+activiteiten aan als mogelijke basis: scheepswerven, voedings-
+en genotmiddelenindustrie en "les gammes les plus variées d’in-
+dustries mécaniques"?^De ontwikkelingen na 1965 - oprichting en
+uitbreiding van raffinaderijen en petro-chemische industrie -
+maken het waarschijnlijk dat men zelfs van een "complexe a base
+, 2 \
+de petrole” kan spreken. '
+par.2. Rijnmond, de markten.
+Dit gedeelte zal vrij fragmentarisch zijn i.v.m. het ontbreken
+van gegevens, de noodzaak de omvang van de scriptie te beperken
+en ook omdat een aantal markten in heel Nederland ongeveer het-
+zelfde is . Odell en Tamsma achten Nederland ook te klein voor
+vele vormen van ruimtelijke differentiëring.
+De productie en de afzet zoals deze binnen Rijnmond bestaat is
+tot op heden twee maal geanalyseerd. Slechts écn van deze input-
+1) Jean Chardonnet: Géographle industrielle. Tomé II. pag.312.
+2)	De vraag of Rijnmond (Rotterdam) een groeipool is, kan niet
+beantwoord worden omdat een inzicht in de muitiplicn lorei’ i’ec-
+ten ontbreekt. Het is m. i. wel waarschijnlijk.
+output analyses is gepubliceerd. Een reeks analyses zou een
+belangrijk hulpmiddel zijn. Een andere, onvolledige benadering
+is het analyseren van de linkages. Behalve door Wever is hier
+bijzonder weinig aan gedaan. Dat er veel intermediaire rela-
+ties zullen bestaan is waarschijnlijk. Omvang, intensiteit
+en reikwijdte zijn echter niet bekend. Van de linkages met de
+omgeving van Rijnmond kan dus ook weinig gezegd worden. Veel
+meer dan van de afzetmarkt is bekend over de vervoersmarkt.
+Een analyse hiervan zou te ver voeren.
+Juist wat deze markt betreft is Rotterdam een felbegeerde ves-
+tigingsplaats; de rest van Rijnmond minder. Wat nu precies de
+gevolgen zijn van de haven op de localisatie is niet duidelijk.
+Vele bedrijven willen aan diep vaarwater liggen maar slechts
+weinige moeten dat. Bij scheepsbouw en scheepsreparatie, voor
+zover het schepen van een groot tonnage betreft, is dat het
+geval. Voor hoogovens is een diep vaarwater-locatie een vervoers-
+kosten minimaalpunt; dat is het voor olieraffinaderijen al niet
+meer. Technologisch is Rijnmond wat de aanbodkant betreft sterk
+afhankelijk van de buitenwereld. Wat de olieraffinaderijen en
+de petro-chemische. industrie betreft zijn constructiebedrijven
+uit Rijnmond vaak bij de bouw van installaties ingeschakeld.
+Ingenieursbureau* s ervoor vindt men vooral in Schiedam en Den
+Haag. ) De research en de topmanagement zit vaak elders:
+Shell plastic laboratorium te Rijswijk, Shell laboratorium in
+Amsterdam, Shell management in Den Haag en in U. K. Chevron heeft
+1) E. Wever o. c.
+o) zie D. Krafft: DerEinfluss eines Hafens nuf die Wirtschafts-
+struktur und die Wirtschaftskrnft seiner Hafcnstadt. 1966.
+•3) in Schiedam o.a. Delta Engineering (Rijn-Scheldegroep) en Prc-
+tech International (gedeeltelijk van VF;iF)»Tn Den Haag o.a.
+Bad.ger n.v. (USA).Frederic C.Hnrris (USA).Lummus Nederland. n.v.
+(USA),Selas of America (Nederland' n.v. (USA), Tébodir (Ned?)
+Het ingenieursbureau van Dow Chemical is in Rotterdam.
+-Vó-
+in Rotterdam een laboratorium, (waarschijnlijk alleen een pro-
+ductie-contröle lab.) Esso-rcsearch zit in Brussel.
+De arbeidsmarkt, Rijnmoncls grootste probleem.
+Voor *7.0.11 heeft men in het Nieuwe Waterweg gebied vrijwel al-
+tijd kunnen voldoen aan de feitelijke vraag op de arbeidsmarkt.
+Erna zijn er steeds spanningen geweest. Zo zijn de tekorten in:
+1964- - 18.457
+1965	- 20.068
+1966	- 18.732
+1967	- 12.449 -1)
+Voor de gemeente Rotterdam, die zichzelf al jaar en dag aanprees
+als dé vestigingsplaats, is dat natuurlijk vervelend omdat juist
+de arbeid een van de belangrijkste vestigingsfactoren is. In
+Rotterdam bedraagt het tekort aan mannelijke werknemers in:
+1957	- 8.400
+1958	- 1.850 (bestedingsbeperking!)
+1959	- 5.600
+1960	- 10.900
+1961	- 13.400
+1962	- 14.400 .
+1963	- 13.900
+Er is dus geen sprake van een conjunctureel maar van een struc-
+tureel tekort. Als oorzaken noemt Welters o. a. :
+1...teruglopende geboortecijfer^
+2- negatieve migratiesaldo’s .
+3.	afname van werkforensi^me (in ieder geval relatief)"-'
+4.	toename woonforensisme 1 2 3 4
+1) uit drs. L.A.Welters: Productiviteit en regionale arbeidsver-
+houdingen deel III; Stichting tot Onderzoek van de Arbeidssituatie
+in het Rijnmond gebied. ? . febr.1969, pag.13.
+2)	dr. P. van Berkel: Spanning on de arbeidsmarkt. L'epnel, 1965 pag. 97
+3)	zie hiervoor ook het Gemeentelijk rapport: De Trek uit Rot-
+terdam, van 30-11-1960. Hierin wordt geconstateerd dat al vanaf
+1950 er een negatief saldo is. I.ien heeft degenen die de gemeente
+Rotterdam in de periode 1959-1966 verlaten hebben, geënouëteerd.
+Enige conlusies zijn:
+1.	gedeeltelijk gaan de emigranten vlak over de gemeentegrens
+wonen.
+2.	de mensen met hogere inkomens gaan naar aantrekkelijker
+woongebieden. (Pijnacker, Ridderkerk, "”’ijndrecht»)
+3.	14,7/ó van geënquêteerden verhuisde op verzoek werkgever
+4.	35,7'"j migreert i.v.m. nieuwe werkkrinn-, 33,0;> i.v.m.
+woning problemen.
+4)	zie hiervoor ook het rapport van do gemeente Rotterdam:
+Pendelbewegingen» 6-2-1964.
+'Vat het forensisme betreft; cle relaties tassen de gemeentes in
+het Rijnmond gebied zijn wederzijds. Het forensisme is dus niet
+eenzijdig op Rotterdam gericht en wat dit betreft kan men rustig
+spreken van "de arbeidsmarkt Rijnmond". Men spreekt vaak van
+interne forensen (=woon- en werkgemeente verschillen maar liggen
+beide in Rijnmond. ) Het saldo van het forensisrne tussen Rotterdam
+en Rijnmond bedraagt in 1960 8.000 in het voordeel van Rotterdam.
+Wat het externe forensisme betreft; het forensensaldo is in 1960
+voor Rijnmond + 23.000 . Daarvan komen:
+7.000 uit de agrarische gemeenten van het Zuid-Hollands Ri-
+vierengebied
+4.500 uit noord-west Noord-Brabant (=15^ beroepsbev. n.w. M. Br. )
+5.500 uit de steden van N.Br. (= sted. ber.bev. )
+6.000 uit Groene Hart. 1)
+Omstreeks 1960 gaat het forensisme uit Brabant afnemen.
+Voor de ontwikkeling van de industriële werkgelegenheid onder-
+scheiden naar bedrijfsklasse wordt verwezen naar tabel 2 van de
+bijlage. 2)
+De achtergrond van de vooral voor Rotterdam negatieve ontwikke-
+lingen v.w.b. het arbeidsaanbod moeten gezocht worden in het feit
+dat niet alleen gekeken wordt naar loon of salaris maar ook naar
+werk- en woonomstandigheden. 3) De leefbaarheid van Rijnmond
+is volgens vele bewoners niet groot. Dat wordt m. i. gedemonstreerd
+door b.v. het grote aantal klachten over milieuvervuiling en de
+omvangrijke participatie van de bevolking bij velerlei planning. 4
+1) deze cijfers hebben betrekking op een iets groter gebied dan
+Rijnmond. Bron: DTI Kwartaalbericht (Z.-H. ) no.54 1965.
+2) voor een verdere detaillering van de arbeidsmarkt zie:
+dr.P. van Berkel: Spanning op de arbeidsmarkt. Meppel, 1965.
+-m. n. hoofdstuk IV;
+L. A.Welters: Wonen, leven en werken in Rijnmond. Rotterdam,
+1969;
+L. A. Welters: Productiviteit en regionale arbeidsverhoudingen.
+deel III. ? , febr.1969.
+3)	zie hiervoor Van Berkel o.c. en ’Yelters o.c. Zie ook drs.R.P.
+Gcyer: Den onderzoek naar de woon- en werkaspecten van de
+leefbaarheid van het Rijnmondgebied. ? , 1969.
+4)	dit zowel op lokaal niveau (b.v. stadsnnoring in het Oude Wes-
+ten, een Rotterdamse wijk) als regionaal (b.v. hoogovenves-
+tiging op de Maasvlakte)
+-80-
+Daarnaast is er vooral in Rotterdam sprake: van onvrede /net de
+gang van zaken binnen de ind. bedrijven. De staking van 25 aug.
+t/m 15 sept. 1970 (vooral in de haven, scheepsbouw en metaal)
+en de diverse sleepbootstakingen zijn, daarvan een uiting. Hier
+staat op de achtergrond de werknemersv'ens tot betere werkomstan-
+digheden waarbij de looneisen niet primair zijn. O
+Gevolg van een en ander zou wel eens kunnen zijn, dat de span-
+ning op de Rijnmondse ind. arbeidsmarkt blijft bestaan en zelfs
+vergroot wordt door een verder teruglopen van de immigratie en
+een af nemen van het forenseren naar Rijnmond. Misschien zal het
+vooral moeilijk worden om hoger personeel te krijgen. Dan zal niet
+alleen'de groei van de werkgelegenheid afnemen, maar zal die
+werkgelegenheid zelfs gaan teruglopen.
+Wat de grondstoffen betreft; wereldhaven no. I is geen (directe)
+grondstoffenlocatie, tenzij men het beetje aardolie dat er opge-
+pompt wordt voldoende vindt om daarvan te spreken. Toch heeft
+Rijnmond een zeer gunstige positie dankzij zijn plaats op de
+vervoersmarkt die toegang geeft en keuze mogelijk maakt oo de
+grondstoffenmarkt. Water is in Nederland een schaars goed. Vloei-
+baar en vast afval ‘kwijt kunnen raken is in Rotterdam en omgeving
+vaak een probleem. De nieuwe vuilverbranding is voor de industrie
+een gedeeltelijke oplossing.
+Als laatste markt iets over de grond- en terreinenmarkt. Gezien
+de opeenhoping van allerlei activiteiten in Rijnmond zou men
+iedere vierkante centimeter drie maal moeten overwegen voor dat
+hij zijn definitieve bestemming krijgt. Zeker nu de Rijks en
+Provinciale overheid en de bevolking het maar uitdijen van haven-
+en industriegebieden willen stoppen. TSr vallen geen grote ter-
+reinen meer uit te geven. Het feit dat Shell-chemie bezuiden de
+Moerdijk een terrein heeft gekregen mag voor Rotterdamse haven-
+uitbreiders-door-dik-en-dun toch vel een zeer duideli'ke waar-
+-81-
+schw'ing zijn dat de bestaande terreinen niet verder zullen
+worden vergroot. Als troostprijs zit er misschien rog een uit-
+breiding van de Maasvlakte in. 1' Geen uitbreiding of in ieder
+geval geen grote, van de haven- en industrieterreinen. Rotterdam
+gaat nu waarschijnlijk een tijd tegemoet van industriële her-
+verkaveling. Door opheffingen en verplaatsingen moet er ruimte
+komen voor de uitbreiding van bestaande bedrijven en voor nieuwe
+bedrijven die aan een lange reeks kwaliteiten kunnen voldoen.^)
+Voor een locatie van havens en
+industrieterreinen wordt hier
+verwezen naar:
+1.	kaart 1 (zie bijlagen)
+2.	Bosatlas kaart 34 en 35B (havenbekken .van Nieuwe Waterweg
+en Nieuwe Maas)
+Hoofdstuk 10. De invloeden van Rijnmond op Zuid-West Nederland.
+par.1. Inleiding.
+Werd in het voorgaande Rijnmond beschreven en kwamen er al een
+aantal relaties tot uiting, men moet zich de vraag stellen wat
+Rijnmond nog meer voor zijn omgeving betekent. "In het Delta-
+gebied is het Rijnmondgebied het belangrijkste knooppunt. Van-
+daar uit lopen de verkeers- en economische relaties naar diverse
+richtingen, waarbij zich de zone langs Maas, Rijn en Waal wel
+3)
+het duidelijkst demonstreert. " '
+1) zie ook M.de Smidt: Het veranderde structuurbeeld van de
+havens. G. 0. juni 1968 en M.de Smidt: Expanderende havenacti-
+viteiten: konsentreren of spreiden? G. C.okt. 1966,
+2) interessant zijn wat dit betreft twee artikelen van drs.J.Run-
+ken: Geen rem op Rijnmondexpansie (ondertitel: verdere ont-
+plooiing van de zeehavenindustrie in de Europoort is een na-
+tionaal belang) in Intermediair 6 nov.1970 en do reactie daar-
+op van drs.A.ten Ka te: Do Rijnmondexpansie en de rem erop.
+In Intermediair 12 febr.1971. Ranken pleit voor een industrie?-
+lier structurering.
+3)	uit Schets Ruimtelijke Structuur”, Schiedam, 1970 pag. Ag.
+-82-
+'Dc rivieren zouden dus een soort ontwikkelingsusscn zijn. Dit is
+een aantrekkelijke maar onbewezen stelling. Kcuning ziet de ves-
+tiging van scheepsbouw met aanverwante bedrijven langs die ri-
+vieren als een voortzetting van het Rotterdamse. Op grond van de
+markt van geschoold personeel, langs de rivieren, zijn ook andere
+metaalverwerkende bedrijven gekomen. Deze arbeidsmarkt beïnvloedt
+de beroepsstructuur van de meer binnenwaarts gelegen gebieden
+sterk.1)
+Of er van een idustriële overloop of deconcentratie vanuit Rijn-
+mond sprake is in de periode 1960-1970 zal in het volgende wor-
+den geanalyseerd. Het is o. a. op grond van het SIS'70-rapport
+wel waarschijnlijk. 2)
+par. 2. Het basismateriaal.
+Men heeft voor de bedoelde analyse gegevens nodig over individu-
+ele bedrijven. Deze worden niet gepubliceerd. Dus is er in 1970
+een speurtocht naar gehouden:
+1. Rijks Planologische Dienst. Deze houdt van tijd tot tijd een
+krantenknipsel-archiefje bij en had dus geen bruikbaar mate-
+riaal;
+2. Centraal Bureau voor de Statistiek. Het CBS mag geen gegevens
+over individuele bedrijven verschaffen. Wanneer de Dienst zelf
+de analyse zou uitvoeren zou dit veel geld en nog meer tijd
+kosten;
+3.	Centraal Instituut voor de Industrieontwikkeling te Den Haag.
+Het heeft dit soort gegevens niet. Tegenwoordig geeft het
+vooral economische en technische adviezen aan bedrijven;
+4.	Rijnmond heeft deze gegevens niet. Het laat wel de zogenaamde
+zeehavenindustrieën inventariseren en de vestigingsfactoren
+ervan nagaan; 1 2
+1) H. J. Keuning: Het Nederlandse volk in zijn woongebied. Den Haag,
+1965. pag.313-314.
+2) drs. Bruin van de Dienst van Stadsontwikkeling van de gemeente
+Rotterdam, veronderstelde in een gesprok (.juni 1970) dat er
+sprake is van een deconcentratie vanuit Rotterdam. Ca. 1950
+beginnen de voedings- on genotmiddelen bedrijven zich te ver-
+plaatsen. Sinds 1955 vertrekken ook vuimte-eisende bedrijven
+(bouwmaterialen e.d.) en vanaf 1965 komt daar de lichte metaal
+bij.
+-83-
+5.	Economisch-technologisch Instituut voor Zuid-Holland.
+Het ETI heeft de gebruikte gegevens f'rotendeels verstrakt.
+6.	Prov. Planologische Dienst van Zuid-Holland. De PPD "bezit
+geen bedri jfskartotheek.
+7.	Gemeente Rotterdam. De Dienst van Stadsontwikkeling heeft een
+bedrijfsregistertje. Het is slecht bijgehouden en bevat alleen
+naam, adres, aard en oppervlakte van de bedrijven. Het bij-
+houden van het register is in de loop van 1970 gestaakt omdat
+het Gemeentelijk Energie Bedrijf, dat de gegevens doorgaf,
+voor zijn tariefberekeningen nu van een andere grondslag uit-
+gaat en de gegevens niet meer verzamelt
+De conclusie uit deze speurtocht is dat vrijwel alle beleids-
+adviserende diensten geen primaire bedrijfsgegevens beschikbaar
+hebben. Wanneer ze moeten adviseren over industriële structuur
+e.d. dan moeten ze eerst die gegevens gaan verzamelen (zie Rijn-
+mond) of werken met bestaande statistieken (vaak gebaseerd op
+te oude gegevens en vrijwel altijd te sterk generaliserend) dan
+wel de methode van de natte vinger toepassen.1)
+In 1970 is door Stadsontwikkeling in Rotterdam de ontwikkeling
+van het aantal vestigingen over de periode 1951-1970 onderzocht.
+Dit. is gebeurd aan de hand van de ETI-adresboeken. Aan deze me-
+thode kleeft een reeks bezwaren. De voornaamste zijn wel het ont-
+breken in adresboeken van bedrijven, die hun medewerking weige-
+ren, het niet precies kunnen dateren (in het jaarboek 1970 bij-
+1) Mijn opvatting is in overeenstemming met die van L.A.'Velters
+in deel III van "Productiviteit en regionale arbeidsverhou-
+dingen" waarin hij op pag.350 stelt: "De registratie ten aan-
+zien van het gebeuren op de werkgelegenheidsmarkt is onvolle-
+dig, inconsistent en vaak zelfs irrelevant. Ook zijn zeer veel
+gegevens niet of slechts zeer moeilijk toegankelijk. " Om de
+markt te kunnen beschrijven en verklaren zal de registratie
+volgens hem moeten worden herzien.
+Het ontbreken van gegevens over individuele bedrijven of al-
+thans het niet beschikbaar zijn (gesteld worden) uit publieke
+bronnen is een internationaal verschijnsel. Zo stolt Joo S.
+Bain in "International differences in industrial structure"
+(New Haveri/London, 1966) op pag. 7 nadat hij één jaar lang
+industriële basisstatistieken van 21 landen + de USA heeft
+verzameld en onderzocht dat die bepaald niet beter zijn on
+meestal veel slechter dan die van de USA ("with far the best
+general industrial data of any country on carth") én. dut die
+van de USA ook niet ideaal en vol ledig zijn.
+-84—
+voorbeeld waarschijnlijk veel gegevens van 1969) en het moeilijk
+kunnen vergelijken i.v.m. het ontbreken van cijfers, gebaseerd
+op adresboeken, voor andere provincies of het hele land. De re-
+sultaten van het Rotterdamse onderzoek zijn opgenomen in do bij-
+lage (tabel 3). Zij wijken vrij sterk af van die welke uit de
+Algemene Industrie Statistiek zijn te halen, (zie tabel 3b. )
+Dit geldt zowel absoluut als procentueel.
+Op basis van de door het ETI-Zuid-Holland verstrekte gegevens,
+die uit allerlei andere bronnen zijn aangevuld zal getracht wor-
+den de verplaatsing van industriële bedrijven van 10 of meer
+werknemers te analyseren. De bedrijven zullen niet naar grootte
+v. w.b. het aantal werknemers bekeken worden,, de cijfers blijken
+niet zo betrouwbaar. Omdat het om kleine aantallen gaat, kunnen
+geen statistische methoden worden toegepast. Men dient de ge-
+geven cijvers als indicaties te zien en niet als een volledig
+beeld. Buiten beschouwing blijven natuurlijk de bouwnijverheid
+en de openbare nutsbedrijven. Vestiging en opheffing worden als
+achtergrond bij de interpretatie van de verplaatsingen gebruikt.
+Rijnmond komt eerst aan de orde, daarna wordt enige aandacht
+aan de Drechtsteden besteed.
+n.b. het betreft uitsluitend integrale verplaatsingen, (zie hoofd-
+stuk 6 par. 2.b.
+1) zie voor namen, bevolkingsomvang en oppervlakte van de Riju-
+mondgemeenten kaart 1 in de bijlage.
+De Drechtsteden zijn Alblasserdam, Dordrecht, Dubbeldam (nu
+bij Dordrecht), 's Gravendeel, Pnpendrecht, Puttershoek, Slie-
+drccht. Hendrik Ido Ambacht en Zwijndrecht.
+-85-
+nnr. 5. Verplaatsingen in en vanuit Ri. jnüipndL_“
+In de periode 1960-1970 zijn er maar vanuit 5 van de 23 Rijn-
+mond-gemeenten verplaatsingen gevzeest. Dit betreft 34 gevallen.
+tabel 4 - verplaatsingen Rijnmond in de periode 1960-1970 naar
+gemeente van vertrek en plaats van vestiging.
+	alle vernl.	interne_ vernl.	vernl. vanuit Rj		Ljnmond "vlieder"
+			totaal	”bli jver "	
+gemeente van vertrek	1	2	3	4	5
+Capelle a/d IJssel	2	1	1	—	1
+Ridderkerk	1	—	1	1	—
+Rotterdam	21	3	18	10	8
+Schiedam	7	2	• 5	• 2	3
+Vlaardingen	3	1	2	—	2
+totaal	34	7	27	13	14
+12e—at süagen binnen_Ri jnmond of_interne_verplaatsi_ngen.
+Vanuit Rotterdam gaat in 1966 een meetapparatenfabriek naar Rid-
+derkerk. Dit bedrijf gaat in 1967 door naar Dordrecht. In 1968
+gaat vanuit R'dam een asbestpakking bedrijf naar Vlaardingen en
+in 1970 een kindercpnfectiebedrijf naar Krimpen. In 1961 gaat er
+een machinefabriek van Schiedam naar Vlaardingen en vandaar in
+1966 een scheepswerf naar Schiedam. In 1964 gaat er een metaal-
+warenfabriek van Schiedam naai1 Maassluis. Van Capellc naar Krim-
+pen a/d IJssel gaat in 1961 een (pijpleiding)constructiebedrijf.
+Men kan hier een tendens, verplaatsing naar de periferie, uit
+af lezen. Wel is het aantal waarom het hier gaat zo klein dat
+men geen redelijke mate van zekerheid heeft voor zo'n conclusie.
+»
+1) de intra-lokale verplaatsingen blijven buiten beschouwing.
+I
+-86-
+Verplant s_ i ngen_vanu i t R ijnmorkL
+tabel 5 - verplaatsingen vanuit Rijnmond in de periode 1960-1970
+naar gemeente van vertrek en gemeente (streek) van
+vestiging.
+vertrek vanuit
+vestiging in <	Cnpelle	R idderkerkRo 11 e rd a. aS	ichiedam Vlanrrling. tot.
+Delft		1	1 2
+Den Haag		2	2
+Dordrecht		1 2	1 4
+rest Drechts.		2	2
+rest Z.-H.		1	1 2
+West Brabant		2	2 4
+rest Brabant		1	1 2
+Zeeland		1	1
+Limburg		2	2
+Gelderland		2	1 3
+Overijssel	1		1
+i			
+Amsterdam		2	2
+			
+totaal	1	1 18	5 2 27
+Zie voor tijdstip verplaatsing tabel 6 (bijlage) en voor de
+bedrijfsklassen tabel 7 (bijlage).
+Van de 27 niet-interne verplaatsingen vinden er 10 plaats in
+de Zuidelijke Randstad en 19 binnen en straal ven 50 km. van
+Rotterdam. Vier maal is de plaats van vestiging een stimulerings-
+kern o. i.d. (Etten-Leur, St. Maartensdijk, Eygelshoven, Heerlen).
+Met de nodige voorzichtigheid gezien het kleine aantal, kan men
+stellen dat op grond van de verplantsingscijfers Rijnmond en
+daarvan m. n. Rotterdam hun industriële bedrijven vooral naar
+de Drechtsteden en West Brabant afstoten. Dat afstotingsnroces
+-87-
+vindt na 1965 versneld plaats evenals het proces van opheffing
+(zie tabel 6). Ziet men daarnaast nog dat vestigingen voor 1965
+relatief vaker voorkomen dan komt men tot de conclusie dat de
+industriële groei van voor 1965 erna gedeeltelijk verandert in
+een herstructurering. De selectie wordt scherper. Deze gang van
+zaken mocht men, gezien de economische teruggang in 1965-1966
+verwachten. Dat het proces aanhoudt wanneer de investeringsbe-
+perking ophoudt en de consumptie weer stijgt, vindt m. i. onder
+andere zijn oorzaak in de verminderde winstmarges. De verplaat-
+singen binnen Rijnmond betroffen vooral metaal, naar buiten ver-
+plaatsen zich vooral voedings- en genotmiddelen bedrijven en
+metaal bedrijven.
+Een kan zich afvragen of er tussen tijdstip en bedrijfsklasse
+nog relaties zijn. Gezien de aantallen is een dergelijke inter-
+pretatie niet verantwoord. Mogelijk verplaatst een metaal be-
+drijf eerder. Mogelijk ook is men het na 1965 verderweg gaan
+zoeken.
+par.4. De Drechtsteden.
+Hoewel er vanuit Rotterdam vrij veel bedrijven naar de Drecht-
+steden gaan, is het niet zo dat die plaatsen geen eigen indus-
+triële dynamiek kennen. De ETI structuurnota over de Drecht-
+steden constateert in de periode 1960-1968 een groei van de
+werkgelegenheid in de chemische en metaalnijverheid.1^ De ver-
+plaatste bedrijven (uit Rijnmond) betekenen voor de lokale
+werkgelegenheid niet veel. Zie tabel 6 en 7 in de bijlage.
+Ook de Drechtsteden kennen verplaatsingen naar elders, (zie
+kaart 2 in de bijlage. Van Dordt gaat een sigaretten?abriek
+naar Amsterdam en een vleeswarenfabriek naar Rijsbergen (K. B. ).
+Uit Zwijndrecht vertrekt n.v. Rotterchim-Holland (aluminiumconstr. )
+1) ETI-Zuid-Hollniid: Drechtsteden, structuurnota ’öC. Rotterdam,
+1969. pag. 12. Vooral de groei van de chemie (Dupont de iXemours
+in Dordrecht) is spectaculair.
+-88-
+naar Limburg en drie groentenconservenfabrieken naar 'Vest Bra-
+bant (Etten-Leur, Bergen op Zoom en Rucphen). Be tijdstippen
+van vertrek liggen hier niet duidelijk anders verdeeld dan in
+Rijnmond maar mogelijk begint het wat eerder. Be opheffingen
+voor 1966 betreffen de beide confectie-liouidatics, 7 van de 13
+metaalbedri jf-opheff ingen en 4 van de 7 voedings- en genot-
+middelen-sluitingen. Alle opheffingen in hout, kurk en stro
+vallen na 1965. Een mogelijke verklaring voor het eerder begin-
+nen van de herstructurering is het vroeger optreden van (te)
+gering aanbod van arbeidskrachten door het wegblijven van de
+Brabanders, die tot ca. 1960 veel meer pendelden.
+De vestigingen vertonen qua tijdstip het beeld van Rijnmond
+maar wanneer men naar de bedrijfsklassen kijkt vestigt chemische
+industrie zich veel minder dan in Rotterdam (Rijnmond).
+Het ontbreken van een inzicht in de partiële verplaatsingen,
+die volgens het SIS’YO rapport vaker over kortere afstanden gaan,
+heeft mogelijk tot gevolg dat het bovenstaande beeld - geringe
+beïnvloeding van de industriële structuur van de Brechtsteden
+door verplaatsingen vanuit Rijnmond - niet geheel juist is. Daar
+komt nog bij dat het niet bekend is welke bedrijven eigenlijk
+liever in Rijnmond zouden zitten maar dat i.v.m. o.a. de grond-
+... 1)
+en terreinenmarkt niet kunnen.
+1) De gemeente Rotterdam stelt wel eens dat Rotterdam voor
+5 miljard gulden aan investeringen heeft gemist omïnt er
+geen plaats meer is. De vraag is «zoor hoeveel procent dat
+reëel is want een onderneming van enig niveau zal een aan-
+tal locaties overwogen er er een uitkiezer zodat de burger-
+meesters uit de andere plaatsen zich kunnen gaan beklagen,
+r/.io hiervoor o. o. het rapport over de "Ochavenontwi k'.nlinp’
+in de "Gouden Delta".
+-89-
+Gedeeltelijke samenvatting en conclusies.
+1.	Zovzel industrie als industriële geografie zijn "begrippen,
+die nauwkeurig gedefinieerd moeten worden, wil men "bij onder-
+zoeken zoals deze scriptie een "behoorlijk resultaat krijgen,
+2.	Voor een dieper industrieel-geografisch inzicht moet men uit-
+gaan van het individuele industriële "bedrijf. Dit bedrijf kan
+verklaard worden uit zijn interne structuur en zijn relaties
+met de ''markten1’. De eigenschappen van het bedrijf zijn het
+gevolg van keuzen van de ondernemer, respectievelijk het bedrijf.
+3.	Door het invoeren van het begrip "markt" voor alle productie-
+bepalende factoren, komt het accent op de achtergrond en de
+dynamiek van de vestigingsfactoren te liggen.
+4.	Het begrippenapparaat dat het mogelijk maakt delen of aspec-
+ten van de industriële structuren industrieel-geografisch
+te analyseren en te beschrijven is onvolledig en vaak gebrek-
+kig.
+5.	De dynamiek van industriële structuren blijkt vooral uit ves-
+tiging, verplaatsing on opheffing, hoewel groei en afname van
+reeds bestaande, zich niet verplaatsende bedrijven,absoluut
+gezien, voor de werkgelegenheid belangrijken is.
+6.	Gedurende de hele periode 1795-1970 zijn er veranderingen in
+de industriële structuur. Vooral in dc eerste eeuw vervangen
+industriële bedrijven ambachts bedrijven en komen er vaak
+uit voort.
+Sommige vormen van nijverheid verdwijnen, nieuwe (zowel am-
+bachtelijk als industrieel) komen op. Br gaan ook allerlei
+bedrijven door interne (o. n. bedrijfs-economische) oorzaken
+failliet. Er zijn voortdurend verplaatsingen (integraal en
+partieel). De product je neemt por werknemer en per hoofd vsn
+-90-
+de bevolking enorm toe door mechanisering on werkverdeling.
+De bedrijven worden steeds groter.
+Al deze veranderingen vinden voortdurend plaats alleen de
+mate waarin verschilt in de tijd. Neemt de frequentie toe
+en is er sprake van een behoorlijke groei dan spreekt men
+van Industriële Revolutie (no. 1. 1850-1870 en minder duide-
+lijk no. 2. 1920-1940). Na W. 0. II is er ook een snelle in-
+dustrialisatie. Deze verandert ca. 1965 in een herstructu-
+rering.
+De veranderingen in de industrie verschillen ook in de ruim-
+te; dus van plaats tot plaats. Dat kan verklaard worden uit
+een combinatie van verschillen die locaties hebben door hun
+ligging op of toegang tot de "markten”.
+7.	Het is juist om Rotterdam (Rijnmond) een complexe industriel
+te noemen. Dat is het niet alleen op grond van de raffinade-
+rijen en de petro-chemische industrie maar ook van de metaal-
+en voedings- en genotmiddelenindustrie e. a.
+Deze activiteiten groeien voortdurend, ontwikkelen intensi-
+vere relaties en roepen nieuwe activiteiten in het leven
+zodat op grond hiervan Rotterdam ook een groeipool genoemd
+kan worden.
+8.	Informatie over individuele bedrijven is uit officiële bron-
+nen niet of nauwelijks te krijgen. Ook de overheid zelf be-
+schikt hier niet over. Van de industriële structuur is dus
+niet'alleen om de redenen genoemd bij punt 4. maar ook hier-
+door weinig bekend.
+9.	De integrale verplaatsingen in de periode 1960-1970, de enige
+verplaatsingen die bekend zijn, zijn uitgangspunt voor een
+verplaatsingsanalyse in de Zuidelijke Randstad. Deze analyse
+is afgezet tegen de vestigingen en opheffingen. Voor 1965
+kent Rijnmond een vrijwel algemene groei, erna is er sprake
+-91-
+van herstructurering, die "blijkt uit relatief rninder vestig-
+ingen en meer opheffingen en verplaatsingen, De verplaatsingen
+komen in alle bedrijfsklassen voor. Er valt geen opeenvolging
+(golven) te constateren. De verplantsingsrichting is vooral
+zuid-oost: Drechtsteden en West Brabant.
+10.	Op grond van de verplaatsingsanalyse en het feit dat de Drecht
+steden en waarschijnlijk ook West Brabant, gedeeltelijk een
+autonome ontwikkeling hebben, moet m. i. hypothese 3 (struc-
+tuurvergroting en het bestaan van niveauverschillen) als
+juist aangenomen worden. Voor een redelijke mate van zeker-
+heid is meer onderzoek nodig.
+11.	De uitkomsten van elk industrieel-geografisch onderzoek, ook
+dit, zijn maar korte tijd van praktisch belang gezien de
+enorme dynamiek van de industrie.
+-92-
+BIJLAGEN
+kaarten:
+kaart 1 - Rijnmondgemeenten, oppervlakte en bevolkingsomvang
+kaart 2 - verplaatsingen Rijnmond
+en Brechtsteden 1960-1970
+tabellen:
+tabel 1 - de ontwikkeling van het aantal ind. vestigingen en
+de ind. werkgelegenheid in Nederland 1951-1968
+tabel 2 - de ontwikkeling van de werkgelegenheid in de in-
+dustrie in Rijnmond 1958-1967
+tabel 3 - de ontwikkeling van het aantal vestigingen in Rot-
+terdam volgens de ETI-adresboeken 1951-1970
+tabel 3b- de ontwikkeling van het aantal vestigingen in Rot-
+terdam volgens de A. I.S 1951-1968
+tabel 6 - tijdstip van verplaatsing, vestiging en opheffing
+van ind. bedrijven in Rijnmond en de Brechtsteden
+ir. de periode 1960-1970.
+tabel 7 - de bedrijfsklassen van verplaatste, opgeheven en
+gevestigde ind. bedrijven in Rijnmond’en de Orecht-
+steden in de periode 1960-1970
+gerapdpieegde literatuur
+NOORDZEE
+óvesteI
+J| 26..54W,
+KINDERDIJK
+IQZENBÜRtf,'
+©483'irv>k’ ƒ
+OOSTVQORNE
+l.Ö99inw>:5
+[JTINTE
+IECHT
+BARl
+RpÓRTÖGAAI,
+RHOON
+ISDAM
+HEINENOORD
+IEIJERIAND
+HÈkElil
+ERSHOEK '■
+GEMEENTEGRENZEN
+‘WESTMAAS
+^PIERSHIL
+'goudswaard
+STELLENDAM
+] UITBREIDINGSPLANNEN
+] BESTAAND WATER
+] TOEKOMSTIG WATER
+• GRENS RIJNMOND
+] BESTAANDE BEBOUWING [
+] REKREATIEGEBIED [
+] INDUSTRIEGEBIED [
+OVERZICHT VAN DE GEMEENTEN
+R IJ N M O N D
+’7O: 1.071.295 inw.;
+van HOUAWfr.^'
+NIEUW^NHOORl
+■7 GEERVLIET ;
+>tQ4-2^nw ||~r|l
+22152 km2
+Oudenhoorn
+1.185inw
+14,88
+ZUIDLAND
+3.237 inw/
+22,23 km*
+ABBENBR*
+1.047»}
+HELIEVÖETSLUIS.
+9.653 mw,
+" 46(23W
+rockanje
+' 4.342 inw
+<30,84 km^
+ZWARTE WAAL
+1.063 irlvt /
+3,37 krnfeï
+VIERPOLDERS.
+1.61 6ïqw
+I
+KAART 2 - VERPLAATSINGEN RIJNMOND EN DRECHTSTEDEN 1960-1970
+bron: TiTI-KH
+TABEL 1
+- BE ONTWIKKELING VAN HET AAI,TAL IND. VESTIGINGEN EN DE
+IND. WERKGELEGENHEID IN 11EDERLAED 1951-1968 (/ie kwar-
+taal) ABSOLUUT EK PROCENTUEEL, EN ONDERSCHEIDEN NAAR
+BEDRIJFSKLASSE.
+bedrijfsklasse	1951 .			1954 .	1958 .	1960 .	1962 .	1966 .	1968 .
+I. aardewerk	V	a	664	656	735	741	771	808	773
+		/°	100	102	114	115	120	125	120
+	P	a	44641	46543	46917	49099	50158	50106	48184
+		/°	100	104	105	110	112	112	108
+III. grafische	V	a	556	610	832	854	886	912	949
+.nijverheid		fff /O	100	110	148	154	' 158	164	171
+	p	a	27224	30595	39129	41889	45518	49397	49428
+		%	100	112	144	154	167	181	182
+V.chemische	V	a	551	550	577	640	645	732	758
+nijverheid		cf z°	100	100	105	116	117	133	138
+	p	a	48008	56069	63955	70774	76324	83393	87678
+		fff	100	117	133	147	159	174	183
+VI.hout, kurk,	V	a	1086	1056	1082	1092	1158	1204	1191
+stro		z°	100	97	100	101	107	110	110
+	p	a	37181	40235	38677	41572	43302	46489	46471
+		%	100	108	104	112	116	125	125
+VII.kleding	V	a	1581	1478	1664	1669	1704	1703	1582
+enz.		c/ /°	100	93	105	106	108	108	100
+	p	a	65286	74046	75933	81326	86074	85263	77685
+		%	100	113	116	125	132	131	119
+IX.leder	V	a	530	535	575	610	601	542	503
+		%	100	101	108	115	113	102	95
+	p	a	30844	38560	39471	42131	41674	37639	34956
+		%	100	125	128	137	135	122	113
+X.mijnbouw	V	a	90	89	87	85	80	76	72
+		%	100	99	97	94	89	84	80
+	p	a	54970	58538	60917	55705	53764	47522	33990
+		%	100	107	111	101	98	86	69
+XI.metaal	V	a	2089	2404	2858	2955	3139	3571	3586
+		c/ /□	100	115	137	141	150	171	172
+	p	a	279029	322386	341875	378163	402574	423128	421970
+			100	116	123	136	144	152	_151
+XIV.papier	V	a	356	366	279	293	309	327	309
+nijverheid		cZ	100	103	78	82	87	92	87
+	p	a	26503	29208	27102	29726	32600	35740	33897
+		cï	100	110	102	112		1_23_		JJi5_	
+XV.textiel	V	a	638	611	632	630	638	621	575
+		et	100	96	99	99	100	97	90
+	p	a	114009	124117	116210	121182	119405	103598	89905
+			100	109	102	106	105	91		79
+XVI.gas enz.	V	a	221	189	148	124	121	4b9	467
+		at /Q	100	86	67	56	55	221	211
+	p	a	26066	27504	28266	26783	27629	43255	43043
+		jL a	100	106	108	103	106	166	165
+XVII.voedings	V		2283	2007	1913	1924	2096	2018	1964
+en genotm.		%	100	: 88	84	84	92	88	86
+	p	a	129375	139815	144066	153850	149818	159777	158482
+			100	108	111	119	_116	123		132
+v = vestigingen
+p = werkgelegenheid
+a =; absoluut
+% = procentueel
+bron: Algemene Industrie Statistiek van hot CBS, bewerkt dooi’ Stads-
+ontwikkeling van de Gemeente Rotterdam
+TABEL
+DE ONTWIKKELING VAN DE WERKGELEGENHEID IE DE INDUSTRIE
+IN RIJNMOND 1958-1967 PROCENTUEEL EN 1967 ABSOLUUT (m+v)
+MET EEN ONDERSCHEID HAAR BEDRIJF3KLASSEK.
+1958=100
+absoluut
+in nercentages
+"bedrijf sklasse	1958	1959	1960 1961		1962	1963	1964	1965	1966	1967	1967	
+aardewerk	100	101	102	114	124	140	160	162	162	167	2	819
+.grafische mijverheid	100	101	102	101	119	119	117	120	121	121	6	137
+'bouwnijverheid	100	106	105	102	106	115	117	115.	117	114	35	400
+•chemische mi jverheid	100	105	116	129	141	152	162	162	170	173	19	384
+Ihout, kurk, :stro	100	100	101	98	106	105	106	105	103	102	6	387
+Ikleding en meiniging	100	101	102	78	75	75	78	79	79	73	10	116
+rmetaalind.	100	103	105	104	106	108	109	110	111	111	77	327
+woedings-	100	102	103	106	105	106	108	109	108	107	22	650
+een genot-
+middelen
+Ibron: drs. L. A. Welters: Productiviteit en regionale arbeidsverhoudingen.
+Deel III. ? > febr.1969 pag.27.
+tabel '■) - oettikkblikg va?: het aantal vestigingen, absoluut Ei, PROCEN-
+TUEEL, IN ROTTERDAM VOLGENS DE ETI-ADRESBOEKEN 1951-1970.
+1951=100
+bedr i j fsklasse	abs. /%	1951	1954	1958	1960	1962	1966	1968	1970
+I. aardewerk	abs.	21	16	13	13	14	15	19	17
+	%	100	76	62	62	67	71	90	81
+III. grafische	abs.	55	61	71	71	73	75	72	71
+nijverh.	%	100	111	129	129	133	136	131	129
+V. chemische	abs.	68	73	70	79	84	100	107	103
+nijverh.	%	100	107	103	116	124	147	157	151
+Vlo hout, kurk,	abs.	81	77	76	75	76	70	61	62
+stro	%	100	95	94	93	94	86	75	75
+VII.kleding en	abs.	125	137	137	131	125	109	97	87
+reiniging	%	100	110	110	105	100	87	78	70
+IX.leder, was-	abs.	11	15	16	15	16	14	13	12
+doek	%	100	136	145	136	145	127	118	109
+X. mijnbouw	abs. 0/ z°	—	—	—	—	1	1	1	2
+XI.metaal	abs.	305	323	319	317	323	321	330	321
+nijverheid	cZ /°	100	106	105	104	106	105	108	105
+XIV.papier	abs.	43	35	28	27	26	22	21	22
+nijverheid	cZ /°	100	81	65	63	60	51	49	51
+XV. textiel	abs.	7	8	6	5	5	4	A	3
+nijverheid	%	(100)	(114)	(86)	(71)	(71)	(57)	(57)	(43)
+XVI.gas, elec- triciteit	abs. %	—	—	—	—	—	—	2	0
+XVII.voedings-	abs.	175	179	169	166	167	150	140	141
+en genotm.	z°	100	102	97	95	95	86	82	81
+bron: "berekeningen Stadsontwikkeling Gemeente Rotterdam (niet gepubli-
+ceerd) .
+_C
+TABEL Sb - DE nï’T’ÏIKKSLIiXr VAK HET AANTAL V •’.lï niuGE; , ATJOLUU J ?h. PRO-
+CENTUEEL, IN ROTTERDAM VOLGENS DE A.I. S. 1V51-19G6.
+1951=100
+bedrijfsklassen	abs. /%	1951	1954	1958	1960	1962	196G	1968
+I. aardewerk	abs.	8	8	7	7	6	10	12
+	%	(100)	(100)	(88)	(88)	(75)	(125)	(150)
+III. grafische	abs.	44	50	63	67	64	66	66
+nijverheid	0/ /°	100	114	143	152	145	150	150
+V. chemische	abs.	39	41	42	45	42	50	52
+nijverheid	%	100	105	108	115	108	128	133
+VI.hout, kurk,	abs.	53	52	48	48	47	38	33
+stro	%	100	98	91	91	89	72	62
+VII.kleding en	abs.	109	100	103	93	83	73	63
+reiniging	%	100	92	94	85	76	67	58
+IX.leder enz.	abs.	8	6	9	11	12	9	7
+	c/	(100)	(75)	(113)	(138)	(150)	(113)	(88)
+X., mijnbouw	abs. C? /°	—	—	—	—	—	—	-
+XI. metaal	abs.	179	199	219	213	208	220	209
+nijverheid	%	100	111	122	119	116	123	117
+XIV. papier	abs.	30	26	18	1b	16	13	13
+nijverheid		100	87	60	60	53	43	43
+XV.textiel nijverheid	abs, %	6	6	4	4	4	—	—
+XVI. gas enz.	abs» %	—	—	—	—	—	—	—
+XVII.voedings en	abs.	.157	139	122	119	110	108	104
+genotm.	r/ /°	100	89	78	76	70	69	66
+bron: A. I. S.-gegevens uit interne publicatie Stadsontwikkeling
+Gemeente Rotterdam.
+o
+VESTIGTKG
+BEDRIJVEN IN RIJ
+1	ra I		60	61	62>-	63	64	65	66	67,	68	69	70	totaal
+	rj	1	binnen Rijnmond	2			1		2		1		1	7
+	P-4 C_,	2	buiten R. binnen Z.I-I.		1	1	2			3	2	3		12
+1	S>	•>	buiten Zuid-Eolland	3			1		3	3	2	2	1	15
+I		4	in Rotterdam 8	•’4	2	3	1	4	2	5	1	2		32
+1	y •H	5 6	in rest Rijnmond 1 totaal Rijnmond 9	4	2 4'	2 5	1 2	3 7	2	2 7	2 3	3 5		16 46
+G	.2»	7	metaal 5	1	3	2		3		2	2			18
+I-		L__	o	<D •H <L‘ Ó	3		1	2	2	1	3	1	1		17
+|« i-’ l-H	1 r? i d	i ? I10	in Rotterdam 1 in rest Rijnmond	1	1	3 2	1 1		3 3	3 4	4	5 3	2	24 1 3
+'P	r <->	h.i	totaal Rijnmond 1	1	1	5	2		6	7	4	8	2	37
+: 1	| G	i-2	metaal		1	2	2			1	2	5		13
+	1 c 		 -	ll 3	chemie						1					1
+fr.	i r	L 4 I • *T	totaal	1		1	1 t	1	1			1		/* o
+1 c	c >	Il5	• c t-J 'J ij’ CJj l-J •D O :v Ct'	1					1					2
+Li	! ra	16	totaal 4	1	8	q	3	6	1	5	. 8	9	1	55
+i-	c; >	17	vz.v. Dordrecht 1		6	3	3	2	1	2	2	1		21
+ó 1 c : f-1	* <-i	18	totaal		1	4	6	2	2	2	4	4		25
+l-'J 		o	•	. v. Dor dr echt			3	4				2	2		11
+TABEL 7 - DE BEDRIJFSXLASSEN VAN VERPLAATSTE, OP GEHEVEN EN GEVESTIGDE INDUSTRIËLE BEDRIJVEN IN RIJNMOND
+EN DE DREOHTSTEDEN IN DE PERIODE 1960-1970.
+
+		I •	II.	III-	IV.	v.	VI.	VII.	VIII. IX.	vo	XI. XIV.	XV.	XVII.	o c+ P |-J
+1 1	verplaatsing.			2			1	2	1		g		6	21
+2	opheffingen						2	4			10	1	7	24
+	vestigingen	2				13	1				1 4		2	32
+4	verplaatsing.			1							5		1	7
+5	opheffingen					1	1	2			3			7
+c	vestigingen	1											1	2
+7	verplaatsing»										4		2	Q
+8	opheffingen						1		1		2	1	1	6
+9	vestigingen	1				4	2	1			4	2		14
+• 10	verplaatsing.				•								2	2
+11	opheffingen			1			1	1			3		5	11
+12	vestigingen	2		2		1	1	4		2	7		2	21
+13	verplaatsing.										1	•	3	A
+14	opheffingen					1	2	1			8	1	2	14
+15	vestigingen ' --Z	2		1		4	1	2			20 . 1		3	34
+-ooi-
+bron: ETI-Zri net eigen aanvul linden
+-101-
+GERAADPLEMGDE LITÏÏR ATUUR
+gebruikte afko r tingen:
+TBSG is Tijdschrift voor Economische en Sociale Geografie.
+TAG is Tijdschrift van het Koninklijk Nederlandsch Aardrijks-
+kundig Genootschap.
+GC is Geografen Contact.
+1. Achtste nota inzake de industrialisatie van Nederland.
+Den Haag, 1965.
+2. Streekplan Alblasserwaard en Vijfheerenlanden. Den Haag (?),
+1969.
+3* Gunnar Alexanderson; Geogranhy of manufacturing. Englewood
+Cliffs (N. J. J, 1967.
+4.	profo dr.J. E.Andriessen: Economie in theorie en praktijk.
+Amsterdam/Brussel, 1967.
+5.	Joe S.Bain: International differences in industrial struc-
+ture: eight nations in the 1950’s. New Haven/London, 1966.
+6.	dr. L. Bak: Het industriële terreingebruik in•Nederland,
+een planologische facetstudie. Den Haag, 1961.
+7.	G. J. van den Berg: Over de bruikbaarheid van het regio-begrip
+in de geografische planning. In TAG jan. 1966 pag. 24-39.
+8.	drso J.Go Borchert en drs.M, de Smidt: Nederland steeds minder
+industrieland? In Mondiaal no. 2 aug.1970 pag.24-29.
+9.	prof, dr. P. J. Bouman en W. H. Bouman: De groei van de grote
+werkstad. Assen, 1952.
+10.	P. J.Bouman: Industrieel klimaat. Assen, 1961.
+• X
+11.	P. J. Bouman: Economische en sociale geschiedenis in hoofd-
+lijnen. Groningen, 1962.
+12.	drs. J. R. Bramer: De betekenis van de buitenlandse industri-
+ële vestigingen voor de regionale arbeidsmarkt in Noord-
+Brabant. In tijdschrift "Noord-Brabant" 1966 pag. 14 e.v.
+13.	Reindert J.Brandsma.: De Amsterdamse confectieindustrie,
+een economisch-geografische studie over decentralisatie-
+structuur. Amsterdam, juni 1970.
+14.	Marcel Broennle: Rotterdam - Von der Entstehung bis zur
+rezenten Entwicklung. Basel, maart 1970.
+15.	prof. dr. T. J. Brugmans: ' Paardenkracht en mensenmacht, sociaal-
+economische”geschiedenis van Nederland 1795-1940» Den Haag,
+1961.
+16» J.Buit: Het industriële locatiepatroon. In "Ruimtelijke
+ordening en geografie". Leiden, 1967.
+17. CBS: Algemene bedrijfstelling 1963. Deel 1, 2, 3. Den Haag.
+ly. J. Chardpnnet: Les gr raids types des complexes industriële.
+Paris, Ï955
+19. tTe u' 1 J/h?rdonnet: Ge.ographie industrielle. Tornt? II, L’indus-
+trie. Paris. 1965.
+-] 02-
+20. 2jC2jZIÜ!: Criteria for location of industrial plaats.
+New York, 1967.
+21- EGKS/.H ofze Autoriteit: Bestemming en ontsluiting van indus-
+trieterreinen. Deel 1 - ervaringen in de landen van de Euro-
+pese Gemeenschap, in Groot-Brittannié en de Verenigde Staten.
+De ven ter/Antwerpen, jaartal onbekend.
+22.	R. C. Estall en R. Ogilvie Buchanan: Industrial activity and
+economie geography. London, 1961.
+23.	Kwartaalberichten van het Economisch Technologisch Instituut
+van Zuid-Holland.
+24.	ETI-ZH: Drechtsteden, structuurnota '69. Rotterdam, 1969.
+25.	Eur. Gemeenschap: Europa + Energie. Luxemburg, 1967.
+26.	J. Hauer: Een poging tot plaatsbepaling van de nieuwe
+geografie. Amsterdam, 1971.
+27.	Hauer, G. A. van der Knaap en M. de Srnidt: Veranderingen in
+het spreidingspatroon van de industriële werkgelegenheid en
+verschuivingen in de industriële structuur in Nederland.
+Artikel wordt medio 1971 in TESG gepubliceerd.1)
+28.	A. C. M. Jansen: De industrialisatie van Nederland; recente
+en toekomstige ontwikkelingen. Syllabus PAV-lezing van het
+KNAG, okt. 1970.
+29.	H» J. Keuning: Ontwikkelingstendenties tot een modernisering
+van de sociale geografie. TAG oktober 1963 pag. 447-457.
+30.	D. Kr af ft: Der Einfluss eines Hafens auf die Wirt s schaf ts-
+struktur und die Wirtschaftskraft seinen Hafenstadt.
+1966.
+31.	dr.A. Kuklinski: zie ECE/UN.
+32.	J. G.Lambooy: Het begrip "regio" in de geografische theorie
+en-.methode. In TAG jan. 1966 pag. 15-23.
+33.	drs. J. G, Lambooy: Het geografisch systeem en de groeipool-
+theorie; enkele beschouwingen over een ontmoetingsveld
+tussen economie en geografie. Assen, 1969.
+34.	P.Lukkes: Industrialisatie- en migratieproblemen van Fries-
+land. Leeuwarden,'1964.
+35.	M. Massacesi: zie EGKS/Hoge Autoriteit.
+36.	"Noord-Brabant",. tijdschrift uitgegeven door het ETI Noord-
+Brabant.
+37.	H» F- L» Otters, 0. Verkoren en W. J. il. Verzuu: Het groeipool
+concept. Utrecht, 1969.
+38.	Allnn Pred: Behavior and Location. Part 1 and 2. Lund, 1967.
+39.	Afdeling Struktuuronderzoek en Programstudie van Gemeente
+Rotterdam: Rijnmond, bevolkingsprognose op basis van do te
+verwachten ontwikkeling van de werkgelegenheid. Rotterdam,
+1966-1967.
+40.	Rijnmond: Schets ruimtelijke structuur. Schiedam, 1970.
+1) zie neg. 104.
+-103-
+41.	ƒ7. Roemen: De groei van de personeelsbezetting dor
+industrie in de Nederlandse provincies gedurende de periode
+1950-1950- In TESG 1959 pag.241-245.
+42.	drs. R. Rontcltao: Industriële ontwikkelingsmogelijkheden in
+Hollands Noorderkwartier. Amsterdam, 1968.
+43.	Stadsontwikkeling Rotterdam: De trek uit Rotterdam. Rotterdam,
+1960.
+44.	Stadsontwikkeling Rotterdam: Pendelbewegingen in het Nieuwe
+Waterweggebied. Rotterdam, 1964.
+45.	Stadsontwikkeling Rotterdam: Vondelingenplaat-Botlek-Europoort;
+resultaten van de 8e personeelsenquête 2e kwartaal 1969. Rot-
+terdam, 1970.
+46.	Stadsontwikkeling Rotterdam; Notitie registratie vertrokken
+bedrijven. Rotterdam, 1970.
+47.	SISWO: Verplaatsing Industriële Bedrijven. Deel 1 en 2.
+Amsterdam, 1967.
+48.	Mo de Smidt: Haven en werken; do plaats van de haven in de
+functionele structuur van de gemeente Dordrecht. Doctoraal-
+scriptie Geografisch Instituut Utrecht, 1965.
+49.	M. de Smidt: Foreign industrial establishments located in the
+Netherlands. In TESG jan.-febr. 1966.
+50.	M.de Smidt: Het veranderende struktuurbeeld van de havens.
+In GC juni 1968.
+51.	M. de Smidt: Expanderende havenaktiviteiten: konsentreren
+of spreiden? In GO oktober 1968.
+52.	M. de Smidt: Regionale aspecten van het sociaal-economische
+beleid t.a.v. de ruimtelijke ordening van Nederland. Utrecht,
+1970.
+53.	Tamsma: De Moshav Ovdiem. Invloeden op de sociale geografie
+van Israël’s coöperatieve kleine-boerendorpen zonder loonar-
+beid. Assen, 1966.
+54.	John H.Thompson: Some theoretical considcrations for manufac-
+turing geography. In Economie Geography 1966 pag.356-365.
+■
+55.	P. M. Townroe: Industrial Location and Regional Economie Poli-
+cy; a selected bibliography. Birmingham (U.K.), 1968.
+56.	dr. 0. Vanneste: Het groeipoolconcept en de regionaal-econo-
+mische politiek. Toepassing op de Westvlaamse economie.
+Antwerpen, 1967.
+570 O» Verkoren: Geografie en Groeipool. In GC mei 1969 pag. 9-14.
+58.	drs. M.C.Verburg: Nederland in de Europese ruimte. Amsterdam,
+1966.
+59.	drs. M. C. Verburg: Industriële ontwikkeling, regionaal beleid
+en de nationaal-economische doelstellingen. Syllabus lezing
+PAV-cursus van het KNAG. sept.1970.
+60.	Voorde1ig ve stijten in een aantal gebieden buiten de Randstad.
+Brochure min.Neon.Zaken, Den Haag, 1969 (?).
+-IfV-
+61.	'Ir s. L, A. '7 e 1t e r s: Productiviteit en regionale nrbeiclü ver hou-
+dingen. Deel III on IV. ? , febr.1969.
+62.	E,Wever: Pernis-Botlek-Huroooort, un complex n "base de pe-
+trol©? In TESG 1966 pars 161-140.
+63.	dr. J. Winsemlus: Vestigingstendenzen van do Nederlandse nij-
+verheid. Deel II. Den Haag, 1945.
+64.	dr. J. Winsemius: Vestigingstendenzen in de Nederlandse nij-
+verheid. Deel I. Den Haag, 1949.
+65,	dr. J. Winsemius: The Dutch industrial development since the
+war. In TESG 1963 pag.52-59.
+66.	LI. J. Wise: Industrial location. London, 1959.
+erratum:
+G-. A. Hoekveld: Over de theorie en de stand van de stadsgeografie.
+In TESG 1968 pag.1-12.
+erratum:
+De Nederlanse Industrie sinds 1945. Een wereld van groei. Leiden,
+september 1952.
+7l) definitieve titel van no. 27 is: Changes in industrial geo-
+graphy in the Metherlands in the sixties. In TESG no.3. 1971.

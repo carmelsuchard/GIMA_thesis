@@ -1,0 +1,24 @@
+ 'Kenmerken klanten',  'Kenmerken onderneming', 'Kenmerken ondernemer', 'Concurrentiepositie', 'Omzet', 'Kosten besparing', 'Kosten stijging', 'Relatie met de klant', 'Kennis over klanten', 'e-commerce strategie', 'kwaliteit van de website', 'kenmerken van de ondernemer', 'kenmerken van de onderneming', 'marktomgeving', 'e-commerce strategie', 'concurrentiepositie', 'omzet', 'kostendaling', 'kostenstijging', 'kennis over klanten', 'Kwaliteit van de website', 'kenmerken van de ondernemer', 'kenmerken van de onderneming',
+
+'e-commerce strategie'
+e-commerce strategieën,
+Marktomgeving
+
+^ For this one, I might need to read it and figure out what are the acutual subjects. Then
+Add that to the annotation manual and use that as guidelines, and write taht it's already
+been fixed in the ones that I did manually.
+
+
+
+For the second one:
+,""('angstgevoelens', 'angst', 'de maatregelen', 'individuele gedragsstrategieën', 'angst', 'Angst', 'angstgevoelens', 'angst', 'angst')"
+
+DONE
+
+For the third one:
+
+'regio', 'watersysteem', 'regionale watersystemen', 'ruimtelijke structuren', 'De ruimtelijke structuren', 'ruimtelijke structuur', 'ruimtelijke structuren', 'regio', 'regio', 'regio', 'gebied', 'gebieden', 'systeem', 'regio', 'proces .', 'ruimtelijke structuren', 'grens', 'grens', 'grens'
+
+
+TO WRITE:
+" Genetic terms that did not clearly relate to the topoic at hand were dropped, such as "grens" and "de maatregelen" were dropped.

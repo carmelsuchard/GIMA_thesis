@@ -1,0 +1,1984 @@
+﻿E-commerce in de binnenstad
+Een onderzoek naar e-commerce succes onder winkeliers in de
+binnenstad
+Universiteit Utrecht
+Stefan de Jong
+Augustus 2007
+Faculteit Geowetenschappen
+D S Universiteit Utrecht
+W
+E-commerce in de binnenstad
+Een onderzoek naar e-commerce succes onder winkeliers in de
+binnenstad
+Augustus 2007
+Instelling:	Universiteit Utrecht Faculteit Geowetenschappen
+Begeleider:	Prof. Dr. R.A. Boschma
+Student:	Stefan de de Jong
+Studentnummer:	9723110
+Email:	sbdejong@gmail.com
+2
+Voorwoord
+Na een periode van 10 jaar komt er dan eindelijk een einde aan mijn studieperiode.
+Ik in deze periode veel geleerd, zowel op de Universiteit maar ook vooral ernaast. Ik heb
+veel mensen ontmoet, leuke dingen gedaan en een aantal vrienden voor het leven erbij
+gekregen.
+Maar ook de mindere tijden moet ik niet vergeten. Het uren staren naar een beeldscherm of
+een stapel papieren en geen flauw benul hebben waar je mee bezig bent. Om vervolgens
+maar weer opnieuw te beginnen. Ik heb het over het schrijven van een scriptie. Het
+lastigste dat ik ooit heb moeten doen. Tijdens het schrijven van je scriptie worden al je
+karaktertrekken nog eens extra benadrukt. De slechte, maar gelukkig uiteindelijk ook de
+goede. Ik heb er weer een berg zelfkennis bij.
+Ik wil graag iedereen bedanken mij die mij de afgelopen jaren heeft geholpen, gemotiveerd,
+voor afleiding heeft gezorgd en zelfs aan het huilen gemaakt heeft. In het bijzonder wil ik
+bedanken: Willem Jan Harleman, Jeroen Niemans, Wouter Jan Strietman en Ramon
+Ellenbroek. Zonder jullie hulp had ik nog veel meer met mezelf en de scriptie geworsteld.
+Verder wil ik mijn begeleiders Ron Boschma en Jesse Weltevreden bedanken. Jesse omdat
+hij al snel zag dat het verzamelen van data samen met een groep mijn motivatie aanzienlijk
+verhoogde en Ron omdat hij er in kort tijd voor gezorgd heeft dat er een scriptie met
+structuur ligt, in plaats van een verzameling tekst en data.
+De studie is nu afgerond, het is de hoogste tijd voor de volgende fase van het leven....
+3
+Samenvatting
+In deze scriptie staat e-commerce succes onder winkeliers in de binnenstad centraal.
+Het onderzoek vindt plaats in acht Nederlandse binnensteden: Alkmaar, Almere,
+Amersfoort, Haarlem, Hilversum, Purmerend, Utrecht, Veenendaal. Doel van dit onderzoek
+is te bepalen in welke mate winkeliers in de binnenstad succesvol een e-commerce strategie
+geadopteerd hebben en welke factoren van invloed zijn op dit succes. Vanuit dit doel kan de
+volgende probleemstelling geformuleerd worden:
+Welke factoren zijn van invloed op het e-commerce succes van een door een winkelier in de
+binnenstad geadopteerde e-commerce strategie?.
+De probleemstelling wordt behandeld aan de hand van vijf deelvragen die verdeeld zijn over
+de hoofdstukken. In het eerste hoofdstuk is de centrale vraagstelling terug te vinden,
+evenals de deelvragen en de opbouw van het rapport.
+In het tweede hoofdstuk wordt de relevante literatuur met betrekking tot e-commerce
+adoptie en e-commerce succes besproken. In dit hoofdstuk worden vier deelvragen
+behandeld. De eerste luidt: "Wat houdt e-commerce adoptie in en welke factoren spelen
+een rol in het adoptieproces?" E-commerce adoptie is niets anders dan "het gebruik maken
+van e-commerce door een bedrijf". E-commerce kan kort samengevat worden als
+"zakendoen op internet". Factoren die van invloed zijn op de adoptie zijn onder andere de
+kenmerken van de ondernemer, de kenmerken van de onderneming, de locatie, de klanten
+en de marktomgeving. Niet ieder bedrijf die een website ontwikkeld zal er hetzelfde doel
+mee hebben.
+De volgende deelvraag is dan ook "Welke e-commerce strategieën zijn er?" In dit hoofdstuk
+wordt een groot aantal e-commerce strategieën besproken die winkeliers kunnen adopteren.
+Voor dit onderzoek zijn echter alleen de strategieën van belang die betrekking hebben op
+bestaande bedrijven die een actieve website hebben. Uiteindelijk blijven er dan acht e-
+commerce strategieën over. Vier waar er uitsluitend informatie op de website te vinden is
+en vier waar er ook daadwerkelijk online verkoop plaatsvindt.
+Het tweede deel van hoofdstuk 2 behandelt de literatuur met betrekking tot e-commerce
+succes. De deelvraag die daar bij hoort is: "Hoe kunnen de prestaties van e-commerce
+gemeten worden?" Er volgt in dit hoofdstuk een overzicht van beschikbare methode, van
+4
+zeer eenvoudig tot geavanceerd. Omdat dit onderzoek betrekking heeft het succes van e-
+commerce onder winkeliers met een fysieke winkel in de binnenstad is gezocht naar een
+methode om de invloed van de website op het bedrijf te meten. Dit kan het best gedaan
+worden met behulp van een aantal factoren binnen het bedrijf en in de directe omgeving
+ervan.
+In het derde hoofdstuk wordt het conceptueel model gepresenteerd zoals dat op basis van
+de literatuur is samengesteld gevolgd door een uitwerking ervan. Allereerst volgen de
+prestatie-indicatoren. Deze worden gebruikt om het succes van e-commerce te meten. Dit
+zijn: de Concurrentiepositie, omzet, kostenstijging, kostendaling, klantenbinding en kennis
+over de klant" Daarna worden de onafhankelijke variabelen besproken, de e-commerce
+succesfactoren. Deze kunnen ingedeeld worden in zes klassen. De kwaliteit van de website,
+kenmerken van de ondernemer, kenmerken van de onderneming, klanten, marktomgeving
+en e-commerce strategie. In het laatste deel van dit hoofdstuk volgt dan een beschrijving
+van hoe de data voor dit onderzoek verzameld is.
+In het vierde hoofdstuk volgt het empirisch onderzoek. Er zal hier antwoord gegeven
+worden op de laatste deelvraag: Welke factoren zijn van invloed op de e-commerce
+prestaties zoals deze waargenomen zijn door winkeliers in de binnenstad? In dit hoofdstuk
+volgt eerst op basis van beschrijvende statistieken een verkenning van de data. Dit wordt
+gevolgd door verschillende logistische regressie analyses om de relaties tussen de
+afhankelijke variabelen, de prestatie-indicatoren en de onafhankelijke variabelen, de e-
+commerce succesfactoren te toetsen. Op basis van deze analyses zijn de volgende factoren
+gevonden die van invloed zijn op het succes van e-commerce: de updatefrequentie van de
+website, de leeftijd en het geslacht en de internetkennis van de winkelier, de
+ondernemingsvorm, het producttype, leeftijd van de klanten en de geadopteerde e-
+commerce strategie. Na dit hoofdstuk, volgt nog hoofdstuk vijf met daarin conclusies en
+aanbevelingen
+5
+Inhoud
+Lijst van tabellen en figuren.......................................................7
+1	Inleiding.......................................................................8
+1.1	Relevantie..................................................................8
+1.2	Probleemstelling en vragen..................................................10
+1.3	Inhoud van dit rapport......................................................12
+2	E-commerce strategie adoptie en E-commerce succes...............................13
+2.1	Inleiding...................................................................13
+2.2	Adoptie van e-commerce strategieën..........................................13
+2.2.1	E-commerce adoptie......................................................14
+2.2.2	Overzicht van E-commerce strategieën....................................16
+2.3	E-commerce succes...........................................................18
+2.3.1	E-commerce succes: Prestatie-indicatoren................................23
+2.3.2	E-commerce succes: Succes factoren......................................24
+2.4	Conclusie...................................................................28
+3	Onderzoeksopzet.................................................................31
+3.1	Inleiding...................................................................31
+3.2	Conceptueel model...........................................................31
+3.3	Afhankelijk Variabelen: Prestatie-indicatoren...............................32
+3.4	Onafhankelijke variabelen: E-commerce succes factoren.......................32
+3.5	Data verzameling............................................................35
+3.6	Conclusie...................................................................36
+4	Resultaten......................................................................37
+4.1	Beschrijvende statistiek....................................................37
+4.2	Multivariate statistiek.....................................................45
+4.2.1 Resultaten logistische regressie analyses.................................46
+4.3	Conclusie...................................................................53
+5	Conclusies en aanbevelingen.....................................................55
+5.1 Tekortkomingen................................................................56
+5.2	Aanbevelingen...............................................................57
+Literatuur..........................................................................58
+Bijlage 1: Correlatiematrix.........................................................64
+6
+Lijst van tabellen en figuren
+Figuren
+Figuur 3-1: conceptueel model.......................................................31
+Figuur 4-1: Waargenomen invloed van de updatefrequentie van de website op de
+klantenbinding (%)..................................................................38
+Figuur 4-2: Aantal bedrijven met waargenomenomzettoename als percentage van het
+totaal, gesorteerd naar de omvang van het bedrijf (in fte)..........................40
+Figuur 4-3: Waargenomen verbetering in de concurrentiepositie van het bedrijf, ingedeeld
+naar organisatietype................................................................41
+Figuur 4-4: Waargenomen verbetering van de klantenbinding, ingedeeld naar
+organisatietype.....................................................................42
+Figuur 4-5: Waargenomen verbetering van de klantenbinding naar geslacht.............42
+Tabellen
+Tabel 4-1: Waargenomen verandering in de prestatie-indicatoren als gevolg van de adoptie
+van e-commerce......................................................................37
+Tabel 4-2: Waargenomen verandering in prestatie-indicatoren van het bedrijf, ingedeeld
+naar website ontwikkelaar...........................................................38
+Tabel 4-3: Waargenomen verandering in prestatie indicatoren van het bedrijf, ingedeeld
+naar organisatietype................................................................41
+Tabel 4-4: Waargenomen verandering in prestatie-indicatoren van het bedrijf, ingedeeld
+naar leeftijdscategorie.............................................................43
+Tabel 4-5: Waargenomen verandering in prestatie indicatoren van het bedrijf, ingedeeld
+naar e-commerce strategie...........................................................44
+Tabel 4-6: Output Multiple logistische regressie deel 1.............................47
+Tabel 4-7: Output multiple logistische regressie deel 2.............................48
+7
+1	Inleiding
+E-commerce maakt in Nederland momenteel een grote groei door. In 2005 bedroegen de
+totale online bestedingen van de Nederlandse consument € 2,2 miljard, een groei van 32%
+ten opzichte van het jaar ervoor. Naast de omzet neemt ook het aantal mensen dat online is
+toe. In 2005 telde Nederland 10,1 miljoen actieve internetters waarvan ruim 6 miljoen ooit
+iets via Internet heeft aangeschaft (Thuiswinkel.org, 2006).
+Ook het aantal online winkels groeit sterk, van 1500 in 2002 tot 5100 in 2005 (Kamer van
+Koophandel Nederland, 2006). Naast de bedrijven die uitsluitend via internet verkopen heeft
+inmiddels ook een groot deel, ongeveer 27%, van de bestaande detailhandel in Nederland
+een website geopend (Hoevenagel & Melchior, 2003). Sommigen met ook daadwerkelijk
+online verkoop, anderen met slechts een website waarop de adresgegevens vermeld staan.
+Dit onderzoek richt zich op deze laatste categorie: winkelbedrijven met een website welke
+een vestiging hebben in de Nederlandse binnenstad. Inmiddels zijn er verschillende
+onderzoeken gedaan naar welke bedrijven een website hebben en welke factoren daarbij
+een rol gespeeld hebben. Onbekend is echter in welke mate deze bedrijven e-commerce
+succesvol geadopteerde hebben en welke factoren van invloed zijn op dit succes. Dit
+onderzoek probeert hier meer duidelijkheid in te geven.
+1.1	Relevantie
+Naar de opkomst van internet en e-commerce en de effecten die dit heeft op de bestaande
+detailhandel zijn inmiddels verschillende onderzoeken gedaan. In het bijzonder vanuit de
+marketing sector is hier veel al veel aandacht aan besteed. Zo is er al vrij veel bekend over
+welke factoren bepalen waarom consumenten online winkelen (Keen et al., 2004);(Liao &
+Chueng, 2001).
+Daarnaast zijn er recentelijk ook verschillende studies verschenen over welke gevolgen
+Internet en e-commerce hebben voor de individuele detaillist. Zo hebben verschillende
+auteurs hebben onderzoek gedaan naar de factoren die de adoptie van Internet door
+bedrijven bepalen (Doherty, Ellis-Chadwick, & Hart, 2003; Zhu, Kraemer, & Xu, 2002; Lee &
+Chueng, 2004; Dholakia & Kshetri, 2004). Ook hebben diverse auteurs strategieën
+beschreven waar winkeliers kunnen uit kunnen kiezen op het moment dat ze besluiten
+8
+gebruik te gaan maken van e-commerce (Hoevenagel & Melchior, 2003); Venkatesh,1999 in
+(Steinfeld et al., 2001).
+Ook over de invloed van de adoptie van e-commerce op prestaties van bestaande bedrijven
+was tot voor kort weinig bekend. Het merendeel van de onderzoeken met betrekking tot het
+meten van e-commerce prestaties richt zich uitsluitend op de website zelf. Het aantal
+bezoekers of de kwaliteit van de website wordt hierbij vaak als meeteenheid gebruikt
+(Wikipedia, 2006; Liu & Arnett, 2000). Deze meeteenheden geven echter onvoldoende
+inzicht in de bijdrage van e-commerce op de prestaties van een bedrijf.
+Bestaande onderzoeken welke wel gericht zijn op invloed van e-commerce op de prestaties
+van bedrijven zijn ook vrij beperkt. De meerderheid van deze onderzoeken bestaat namelijk
+uit casestudies of is verkennend van aard. Daarnaast wordt voor het meten van de
+prestaties in deze onderzoeken slechts gebruik gemaakt van één of enkele prestatie-
+indicatoren. Een uitgebreid overzicht van deze studies wordt gegeven door Quaddus en
+Achjari (2005).
+Recentelijk zijn er enkele onderzoeken verschenen welke gebruik maken van een veelvoud
+van factoren om de prestaties van een e-commerce strategie te meten (Levenburg & Magal,
+2004 ; Quaddus & Achjari, 2005 ). Ondanks dat deze onderzoeken een beter inzicht geven
+in de prestaties van e-commerce kennen zij ook verschillende beperkingen. Zo maken zij
+bijvoorbeeld geen onderscheid tussen b2c en b2b (business to business) e-commerce, is de
+onderzochte populatie klein en wordt er geen rekening gehouden met demografische
+gegevens, de omvang van het bedrijf of de markt waarin men actief is.
+Ook in Nederland hebben inmiddels diverse onderzoeken plaatsgevonden met betrekking tot
+de adoptie van e-commerce door winkeliers. Zo is er inmiddels bekend welke factoren van
+invloed zijn op de adoptie van e-commerce, welke strategieën winkeliers geadopteerd
+hebben en wat het effect van deze strategieën is op de e-commerce prestaties van
+bedrijven(Boschma & Weltevreden, 2006; Weltevreden et al., 2005; Weltevreden, Atzema,
+&	Boschma, 2005; Weltevreden & Boschma, 2006).
+Dit onderzoek is nauw verwant aan bovenstaande onderzoeken. Allen hebben
+plaatsgevonden in dezelfde Nederlandse binnensteden. De reden dat als locatie van deze
+onderzoeken voor de binnenstad is gekozen, is dat hier de grootste concentratie in de
+detailhandel te vinden is. Ongeveer 51% van alle winkels in Nederland is in deze gebieden
+gevestigd (Locatus, 2002).
+9
+Verder wordt in dit onderzoek gebruik maakt van de dezelfde dataset waar ook Weltevreden
+en Boschma (2006) gebruikt van gemaakt hebben. Er is echter een belangrijk verschil
+tussen beide onderzoeken. Weltevreden en Boschma richten zich op de invloed, zowel
+positief als negatief, van geadopteerde internetstrategieën op de prestaties van winkeliers.
+Centraal in dit onderzoek staan echter succesvolle e-commerce strategieën van
+winkelbedrijven met een vestiging in een Nederlandse binnenstad. Getracht wordt factoren
+te identificeren welke van invloed zijn op dit succes.
+Inzicht in de factoren welke van invloed zijn op het succes van e-commerce kan detaillisten
+in binnensteden helpen bij het nemen van investeringsbeslissingen in e-commerce. Door te
+investeren in de juiste factoren kunnen bedrijven het succes van de geadopteerde e-
+commerce strategie vergroten.
+De reden dat er met dit onderzoek meer inzicht gekregen kan worden in welke factoren
+bijdragen aan het succes van een e-commerce strategie is dat vergeleken bij andere
+onderzoeken er veel meer omgevingsvariabelen per winkelier bekend zijn.
+Het merendeel van de bestaande onderzoeken naar het succes van e-commerce strategieën
+van winkeliers beperken zich tot het meten van prestaties maar houden niet of slechts
+beperkt rekening met de factoren welke van invloed zijn op deze prestaties.
+De wetenschappelijke relevantie van dit onderzoek ligt in het feit dat dit onderzoek inzicht
+geeft in welke factoren een rol spelen in het succes van e-commerce strategieën welke door
+winkeliers geadopteerd zijn. Op dit moment zijn er al verschillende onderzoeken gedaan
+naar de succesfactoren van internetstrategieën. Bestaande onderzoeken maken echter geen
+onderscheid tussen "pure play " en "click and mortar " winkeliers (Zhuang & Lederer, 2006),
+richten zich slechts op en beperkt aantal factoren (Zhu, 2004) of hebben geen betrekking
+op de retailsector (Huang, Wang, & Zhao, 2005).
+1.2	Probleemstelling en vragen
+Zoals hierboven beschreven is kunnen de prestaties van e-commerce invloed hebben op de
+prestaties van het bedrijf als geheel. Deze e-commerce prestaties worden op hun beurt
+beïnvloed door verschillende factoren binnen het bedrijf en uit de omgeving van het bedrijf.
+Om de invloed van e-commerce op een bestaand winkelbedrijf te begrijpen is het is daarom
+ook noodzakelijk die factoren te identificeren welke van invloed zijn op het succes van een
+e-commerce strategie. Verder kan identificatie van de succesfactoren kan ook helpen bij het
+verklaren van verschillen in de mate van succes tussen verschillende bedrijven.
+10
+Doel van dit onderzoek is te bepalen welke mate winkeliers in de binnenstad succesvol een
+e-commerce strategie geadopteerd hebben en welke factoren van invloed zijn op dit succes.
+Vanuit dit doel kan de volgende probleemstelling geformuleerd worden:
+Welke factoren zijn van invloed op het e-commerce succes van een door een winkelier in de
+binnenstad geadopteerde e-commerce strategie?
+Uit deze probleemstelling volgt een vijftal deelvragen:
+Wat houdt e-commerce adoptie in en welke factoren spelen een rol in het adoptieproces?
+In hoofdstuk twee wordt besproken wat e-commerce inhoudt, wat belangrijke redenen voor
+adoptie zijn en welke factoren van invloed zijn op het adoptieproces.
+Welke e-commerce strategieën zijn er?
+Ook worden in het tweede hoofdstuk strategieën beschreven welke winkeliers mogelijk
+kunnen adopteren. Eerst wordt een overzicht gegeven van bestaande onderzoeken met
+betrekking tot e-commerce strategieën en vervolgens volgt een beschrijving van de
+strategieën die relevant zijn voor dit onderzoek.
+Hoe kunnen de prestaties van e-commerce gemeten worden?
+Een beschrijving van de bestaande meeteenheden met betrekking tot het meten van de
+prestaties van e-commerce is ook terug te vinden in hoofdstuk twee.
+Welke factoren spelen een rol in het succes van e-commerce?
+Ook de factoren welke van invloed zijn op het succes van e-commerce worden in het tweede
+hoofdstuk behandeld. Dit betreft zowel bedrijfsinterne als ook bedrijfsexterne factoren
+Welke factoren zijn van invloed op de e-commerce prestaties zoals deze waargenomen zijn
+door winkeliers in de binnenstad? Deze vraag zal beantwoord worden aan de hand van de
+resultaten van het empirisch onderzoek en besproken worden in hoofdstuk 4.
+11
+1.3	Inhoud van dit rapport
+Na dit inleidende hoofdstuk volgt in hoofdstuk twee een overzicht van voor dit onderzoek
+relevantie literatuur. In dit hoofdstuk komt literatuur aan bod met betrekking tot de adoptie
+van het succes van e-commerce. Besproken wordt wat e-commerce adoptie inhoudt, welke
+factoren van invloed zijn als ook de verschillende adoptiestrategieën waar winkeliers voor
+kunnen kiezen. Verder komt in dit hoofdstuk aan bod hoe e-commerce gemeten kan worden
+en welke factoren van invloed zijn. In het derde hoofdstuk volgt het conceptueel model en
+de operationalisering van dit model. Ook is in dit hoofdstuk een overzicht te vinden van de
+methoden en technieken die gebruikt zijn bij het verzamelen van de data. Het laat zien hoe
+de selectie van de doelgroep tot stand is gekomen, hoe de informatie verzameld is en welke
+technieken er gebruikt worden bij het verwerken van de data.
+In hoofdstuk vier zijn dan vervolgens de uitkomsten van het onderzoek te vinden. Het vijfde
+en laatste hoofdstuk bevat ten slotte de conclusies van het onderzoek als ook enige
+tekortkomingen en aanbevelingen.
+12
+2	E-commerce strategie adoptie en E-commerce succes
+2.1	Inleiding
+In dit hoofdstuk volgt een overzicht van de relevante literatuur met betrekking tot e-
+commerce adoptie en e-commerce succes. Er zal in dit hoofdstuk antwoord gegeven worden
+op de volgende deelvragen: "Wat houdt e-commerce adoptie in en welke factoren spelen
+een rol in het adoptieproces?", "Welke e-commerce strategieën zijn er?", "Hoe kunnen de
+prestaties van e-commerce gemeten worden?" en "Welke factoren spelen een rol in het
+succes van e-commerce?". De adoptie van e-commerce strategieën door winkeliers
+besproken in paragraaf 2.2. In deze paragraaf wordt besproken wat e-commerce adoptie
+inhoudt, met welke redenen bedrijven een strategie adopteren en welke factoren van
+invloed zijn op de adoptie. In paragraaf 2.3 komt e-commerce succes aan bod. In deze
+paragraaf volgt een overzicht van methodes met betrekking tot het meten van de
+prestaties. In paragraaf 2.4 worden indicatoren voorgesteld om het succes van e-commerce
+bij winkeliers te kunnen meten. In paragraaf 2.5 volgt een overzicht van de factoren die
+mogelijk van invloed zijn op de prestaties van e-commerce.
+In paragraaf 2.5 volgt ten slotte een conclusie.
+2.2	Adoptie van e-commerce strategieën
+Het begrip "e-commerce" kent vele verschillende vormen en vele verschillende definities
+(Carter, 2001). Deze definities lopen uiteen van zeer ruim "alle economische activiteiten
+welke plaatsvinden via elektronische verbindingen" (Wigand, 1997)en "Bedrijfsactiviteiten
+welke plaatsvinden op het internet" (Zhu, 2004) tot zeer tot eng "Verkoop via internet" In
+dit onderzoek wordt de definitie gebruikt zoals opgesteld door de OECD. E-commerce
+betekent "zaken doen via internet, het verkopen van goederen en diensten welke offline
+geleverd worden als ook producten welke gedigitaliseerd kunnen worden en Online geleverd
+kunnen worden" (Coppel, 2000).
+E-commerce kan ook nog verder onderverdeeld worden In verschillende sectoren,
+waaronder business-to-consumer (b2c ) gericht op de consument, business-to-
+business(b2b) gericht op andere bedrijven en business-to-administration (b2a) gericht op
+de overheid (Dixon & Marston, 2002; Carter, 2001; Wigand, 1997; Coppel, 2000). Dit
+onderzoek richt zich uitsluitend op winkeliers met een website, welke gericht zijn op de
+13
+consument. Als in deze studie over e-commerce gesproken wordt dan heeft dit dan ook
+uitsluitend betrekking op business-to-consumer (b2c) e-commerce.
+2.2.1	E-commerce adoptie
+De term adoptie is afkomstig uit de innovatieliteratuur, welke zich bezighoud met het
+ontstaan en de verspreiding van technologische innovaties. (Garcia & Calantone, 2001;
+Fagerberg & Verspagen, 2001; Freeman, 1991). Wanneer personen of bedrijven gebruik
+gaan maken van een dergelijke technologische innovatie spreekt men van adoptie.
+Internet en e-commerce kunnen gezien worden als technologische innovaties (Burt &
+Sparks, 2003; Levenburg & Magal, 2004). E-commerce adoptie betekent dan ook niets
+anders dan het gebruik maken van e-commerce door bedrijven.
+Er zijn verschillende redenen waarom bedrijven e-commerce adopteren. Verreweg de
+belangrijkste reden is het behalen van concurrentievoordelen (Levenburg & Magal, 2004).
+Door gebruik te maken van e-commerce hopen bedrijven bijvoorbeeld kosten te besparen,
+hun reputatie te verbeteren en hun marktbereik te vergroten (Quaddus & Achjari, 2005).
+Verder vormen ook het verbeteren van de relaties met de klant als ook het verkrijgen van
+meer kennis verkrijgen over de klant belangrijke redenen voor bedrijven om e-commerce te
+adopteren (Levenburg & Magal, 2004; Doherty, Ellis-Chadwick, & Hart, 1999).
+Of en hoe bedrijven daadwerkelijk een e-commerce strategie adopteren is verder
+afhankelijk van een veelvoud aan factoren. Een zeer belangrijke factor voor adoptie van e-
+commerce is ondersteuning van het management en een positieve kijk van het
+management op het mogelijkheden die het Internet biedt (Doherty, Ellis-Chadwick, & Hart,
+2003). In kleine en middelgrote bedrijven is de eigenaar over het algemeen degene die de
+belangrijkste beslissingen neemt. Zijn houding ten opzichte van nieuwe technologieën is
+met betrekking tot de adoptie van internet door het bedrijf dan ook van groot belang (Lee &
+Chueng, 2004).
+Naast de ondernemer zelf spelen ook andere factoren binnen het bedrijf een rol bij de
+adoptie van e-commerce. Van belang zijn onder andere de aanwezige IT infrastructuur en
+de aanwezige technologische kennis (Doherty, Ellis-Chadwick, & Hart, 2003). Ook heeft de
+ervaring met relevante technologieën, zoals de computer en fax, een positieve invloed op de
+adoptie van e-commerce door bedrijven (Dholakia & Kshetri, 2004) . De invloed van de
+omvang van het bedrijf op de adoptie is tweeledig. Doordat kleine bedrijven minder goed in
+14
+staat zijn de kosten te dragen die gepaard gaan met het gebruik van internet, is de kans
+dat zij tot adoptie overgaan minder groot dan bij grote bedrijven (Dholakia & Kshetri, 2004;
+Zhu, Kraemer, & Xu, 2002). Hoe groter het bedrijf hoe beter het in staat is nieuwe
+technologieën te adopteren. De adoptie van e-commerce in grote bedrijven kan echter ook
+geremd worden door bijvoorbeeld bureaucratie en specialisatie binnen deze bedrijven
+(Boschma & Weltevreden, 2006).
+De bereidheid van klanten om online te gaan winkelen is de volgende centrale factor die de
+adoptie van Internet beïnvloed (Lee & Chueng, 2004; Zhu, Kraemer, & Xu, 2002). Zhu,
+Kraemer en Xu definiëren de bereidheid van klanten om online te gaan winkelen als een
+combinatie tussen de welwillendheid van de klanten en de Internet penetratie.
+De welwillendheid geeft weer tot in welke mate consumenten bereid zijn online aankopen te
+doen en de Internet penetratie geeft de verspreiding van computers en Internet binnen de
+samenleving aan. De bereidheid tot het doen van online aankopen kan ook in verband
+gebracht worden met de ervaring die de consument heeft met computers en Internet.
+Leeftijd en geslacht spelen ook hierbij een rol. Verder speelt de sociaaleconomische
+achtergrond van klanten een belangrijke rol bij de penetratie van internet in de samenleving
+(Doherty & Ellis-Chadwick, 2003).
+Ook de markt waarin het bedrijf actief is speelt een rol bij de adoptie van een e-commerce
+strategie. Zo is het belangrijk dat het een sector betreft waarin het mogelijk is het
+marktbereik te vergroten door middel van e-commerce (Doherty, Ellis-Chadwick, & Hart,
+2003).
+Verder speelt de marktomgeving een rol bij de keuze voor een bepaalde strategie. Drie
+factoren zijn hier bepalend: de omvang van de markt, de mate van volwassenheid van de
+markt en de online activiteiten van andere retailers (Doherty, Ellis-Chadwick, & Hart, 2003;
+Doherty & Ellis-Chadwick, 2003; Min & Wolfinbarger, 2005). Ook de competitieve druk van
+andere spelers in de markt zet bedrijven ertoe aan een nieuwe technologie te adopteren.
+Bedrijven doen dit om geen achterstand op hun concurrenten op te lopen (Zhu, Kraemer, &
+Xu, 2002).
+De factor locatie beïnvloed op diverse manieren de adoptie van Internet. Van invloed zijn de
+stad waar het bedrijf gevestigd is, de directe omgeving van het bedrijf, maar ook de
+vestigingslocatie zelf. Allereerst speelt de omvang van de stad een rol bij de adoptie van
+nieuwe technologieën (Hagerstrand, 1967; Brown, 1968). Steden met een hoger aantal
+15
+inwoners hebben een grotere kans informatie over een innovatie te ontvangen (Babtista,
+1999). Daarnaast bepaald de omvang van de stad het marktpotentieel en de adoptietijd van
+een innovatie (Brown, 1975). Hoe groter de stad, hoe groter dus de kans is dat een
+winkelier Internet adopteert.
+2.2.2	Overzicht van E-commerce strategieën
+Een detaillist die de mogelijkheden die het Internet biedt wil gaan gebruiken binnen zijn
+bedrijf zal ook moeten beslissen op welke manier hij dit doet. Wil hij zijn website alleen
+gebruiken als visitekaartje, als reclamefolder of als volwaardige online winkel? Diverse
+auteurs hebben met betrekking tot het gebruik van Internet door de detailhandel hebben
+mogelijke adoptiestrategieën beschreven. Hieronder volgt een overzicht.
+Doherty, Ellis-Chadwick en Hart (2003) beschrijven in hun artikel het adoptieproces van
+online bestelmogelijkheden door detaillisten in het Verenigd Koninkrijk.
+De Kare-Silver (2000) richt zich vooral op de relaties tussen de website en de fysieke
+winkel. De onderzoekers onderscheiden tien strategieën waarbij uitgegaan wordt van een
+(geleidelijke) overgang van offline naar online verkopen. In de laatste fase is de fysieke
+winkel compleet verdwenen.
+Ook de zes verschillende strategieën die Venkatesh (1999 in (Steinfeld et al., 2001))
+onderscheidt richten zich allen op de relatie tussen de fysieke winkel en de website. Hij
+onderscheid daarin twee typen strategieën: de strategieën waarbij de website de winkel
+aanvult en de strategieën waar beide onafhankelijk van elkaar opereren. In alle zes gevallen
+is echter wel sprake van online verkoop.
+Hoevenagel en Melchior (2003) daarentegen onderscheiden vijf verschillende strategieën die
+zich voornamelijk richten op het verstrekken van informatie aan en het communiceren met
+klanten.
+Weltevreden et. al. (2005) hebben de strategieën zoals die onderscheiden worden door deze
+auteurs op een nieuw continuüm gezet. Op dit continuüm staan twaalf strategieën welke
+uiteenlopen van pre-internet strategieën, zonder actieve website, tot en met een volledige
+virtuele winkel. Met betrekking tot het succes van e-commerce onder winkeliers in de
+binnenstad zijn echter alleen de strategieën van belang waarbij de detaillist zowel een
+fysieke winkel als een website bezit. De pre Internet strategieën en de volledige virtuele
+strategie zullen hier dan ook verder buiten beschouwing gelaten worden. De strategieën
+16
+zoals ze door Weltevreden et. al. onderscheiden worden, vallen uiteen in twee groepen:
+Informatiestrategieën en verkoopstrategieën.
+2.2.2.1 Informatiestrategieën
+"Billboard" strategie: De ondernemer gebruikt de website voornamelijk om
+bedrijfsinformatie weer te geven en productinformatie is dan ook niet aanwezig.
+Op dit soort websites zijn vaak naam en adres van het bedrijf maar vaak ook zaken als een
+routebeschrijving en de openingstijden te vinden.
+"Brochure" strategie: Bij deze strategie is naast de bedrijfsinformatie ook productinformatie
+te vinden. Het gehele assortiment staat niet online maar wel bijvoorbeeld nieuwe producten
+en aanbiedingen.
+"Catalogue" strategie: Naast de zaken die bij bovenstaande strategieën online te vinden zijn
+biedt de "catalogue" strategie (vrijwel) het gehele assortiment ter inzage aan op de website.
+"Customer Service" strategie: Doel van deze strategie is de bevordering van de interactie en
+communicatie tussen het bedrijf en de klanten. De website van de detaillist kan in dit geval
+op verschillende manieren gebruikt worden. Een detaillist moet wel minimaal twee van de
+volgende diensten aanbieden om in deze categorie te vallen. De Helpdesk is eigenlijk een
+online klantenservice. Mensen kunnen hier terecht met vragen en klachten. De website kan
+ook gebruikt worden om een betere band te verkrijgen met de klanten. Mensen kunnen zich
+bijvoorbeeld opgeven voor e-mailnieuwsbrieven of een klantenkaart aanvragen.
+2.2.2.2	Verkoopstrategieën
+"Export" strategie: De "export" strategie is er vooral op gericht het marktbereik van de
+winkel te vergroten. Dit kan zowel het geografische marktbereik als het product marktbereik
+(nieuwe producten) zijn. De website heeft verder ook geen relaties met de eigenlijke winkel.
+De naam van de winkel, het webadres (URL1) en het assortiment komen niet overeen met
+de fysieke winkel.
+1 Uniform Resource locator: een label dat verwijst naar een informatiebron, bijvoorbeeld een website.
+(nl.wlklpedia.org, 2007)
+17
+Mirror strategie: De uiterlijke kenmerken van deze website komen overeen met die van
+de offline winkel. Het is duidelijk dat de website bij de winkel hoort, maar verder gaat de
+relatie niet. De website wordt vooral gezien als extra winkel.
+"Synergy" strategie: Een website in deze categorie hoort duidelijk bij de fysieke winkel. Zo
+kan het bijvoorbeeld zo zijn dat op de website het volledige assortiment te verkrijgen is,
+terwijl dit in de winkel niet het geval is. Producten kunnen ook bijvoorbeeld online besteld
+worden en vervolgens afgeleverd worden in de winkels. Daarnaast biedt de website vaak
+één of meerdere diensten zoals deze beschreven zijn bij de "Customer Service" strategie.
+"Anti-mirror" strategie: Bij deze strategie is de website het belangrijkst en de offline winkel
+dient ter ondersteuning van de website. Vaak is er weinig te koop in de winkel, maar wordt
+de fysieke locatie voornamelijk voor promotie gebruikt.
+2.3	E-commerce succes
+Bestaande studies met betrekking tot e-commerce succes richten zich voornamelijk op twee
+aspecten: de meeteenheden aan de hand waarvan het succes bepaald kan worden en de
+factoren welke van invloed zijn op dit succes. Echter, het merendeel van deze studies richt
+zich maar op een van beide aspecten. In dit onderzoek komen beide aan bod.
+Voor het meten van de prestaties van een website bestaat geen eenduidige methode.
+In het verleden werd het aantal bezoekers van een website, uitgedrukt in verschillende
+meeteenheden, als maatstaf genomen (Wikipedia). De oudste methode die gebruikt werd
+om het aantal bezoekers te meten is de 'hit'. Iedere keer dat er een bestand van een
+website opgevraagd wordt dit aangemerkt als 'hit'. Nadeel van deze methode is dat één
+pagina uit meerdere bestanden (foto's etc.) kan bestaan en dat één pagina dus meerdere
+hits oplevert. Door gebruik te maken van de 'pageview' als meeteenheid wordt dit probleem
+verholpen, deze telt iedere pagina als één bezoeker. Het probleem met deze methode is
+echter dat één bezoeker een pagina meerdere keren op kan vragen en dat iedere keer dat
+dit gebeurd wordt gezien als een extra bezoek.
+Om aan dit probleem voorbij te gaan kan gebruik worden gemaakt van de pagevisit of
+session als meeteenheid. Deze meet de bezoeken vanaf één IP-adres binnen een bepaald
+18
+tijdsbestek als één bezoek. Ook deze aan deze methode kleven echter nadelen. Binnen
+bedrijven en instellingen wordt één IP adres vaak gedeeld door meerdere, soms enkele
+tientallen, pcs tegelijk. Verder zegt deze meeteenheid alleen iets over het aantal bezoekers,
+maar niet over de doelgerichtheid ervan. Een deel van de bezoekers heeft bijvoorbeeld
+helemaal niet de intentie gehad de site te bezoeken en verlaat de site na een kort bezoek.
+Om de doelgerichtheid van de bezoeken aan een website te meten wordt vaak de
+conversion rate als meeteenheid gebruikt. Deze deelt het aantal bezoekers door het aantal
+bezoekers dat tot actie over is gegaan. Deze actie kan bijvoorbeeld zijn het doen van een
+aankoop, een inschrijving voor een nieuwsbrief of het opvragen van informatie (Gurley,
+2000).
+Daar waar bovenstaande methoden slechts gebruik maken van één enkele meeteenheid om
+de prestaties van een website te meten maken Liu en Arnet (2000) gebruik van een
+veelvoud van factoren. Zij identificeren twee groepen factoren welke van invloed zijn op het
+succes van website: factoren gerelateerd aan het informatiesysteem (de website) en
+marketing gerelateerde factoren. De kwaliteit van het informatiesysteem (IS), de kwaliteit
+van de informatie, het gebruik van het IS, de kwaliteit van de ondersteuning, eenvoud in
+gebruik als ook de aantrekkelijkheid van de website staan in deze studie centraal.
+Toch zegt ook de methode van Liu en Arnet slechts iets over de prestaties van een website
+op zich. Deze methode is echter te beperkt om de invloed van een website op de prestaties
+van een bedrijf te bepalen. Om deze invloed te kunnen bepalen moet e-commerce niet
+gezien worden als een op zichzelf staand fenomeen, maar als een regulier onderdeel van
+het bedrijf. Recentelijk zijn verschillende onderzoeken naar het succes van e-commerce
+verschenen welke veelal gebruik maken van bestaande modellen met betrekking tot het
+meten van bedrijfsprestaties.
+DeLone en McLean (1992) maken in het door hun ontwikkelde model met betrekking tot het
+bepalen van het succes van een informatiesysteem gebruik van zes verschillende dimensies.
+De kwaliteit van het systeem, de kwaliteit van de informatie, het gebruik, tevredenheid van
+de gebruiker, individuele invloed en invloed op het bedrijf staan hierin centraal. In 2002
+presenteerden DeLone en McLean een doorontwikkelde versie van hun model waarin de
+kwaliteit van het systeem, de kwaliteit van de informatie, de kwaliteit van de service, het
+gebruik, tevredenheid van de gebruiker en de netto voordelen van het systeem de basis
+vormen (DeLone & McLean, 2002).
+19
+Met de opkomst van het Internet zijn onderzoekers van informatie systemen zich ook gaan
+richten op het meten van E-commerce succes. Zo hebben Molla en Licker (2001) het
+originele model van DeLone en McLean aangepast en uitgebreid met de dimensies
+vertrouwen en ondersteuning en service. DeLone en Mclean zelf passen de doorontwikkelde
+versie van hun model toe op e-commerce systemen (DeLone & McLean, 2004).
+Bremser en Chung (2005) maken gebruik van een model dat in 1992 gepresenteerd werd
+door Kaplan en Norton (1992), genaamd "The Balanced Scorecard". Het model wordt
+gebruikt bij het implementeren van bedrijfsstrategieën vanuit vier verschillende
+perspectieven. Namelijk: financieel, de klant, interne bedrijfsprocessen en innovatie/groei.
+Naast de implementatie van nieuwe strategieën kan met behulp van dit model ook bepaald
+worden in welke mate strategische doelen gehaald worden. Het model is dus een
+hulpmiddel voor het vertalen van strategische doelen in meetbare prestaties. Bremser en
+Chung hebben aan het bestaande model meeteenheden toegevoegd welke de prestaties van
+een e-commerce strategie bepalen. Vervolgens wordt bepaald in welke mate e-commerce
+bijdraagt aan het behalen van de door een bedrijf gestelde doelen.
+Levenburg en Magal (2004) maken gebruik van een Important-Performance analyse (IPA)
+om de invloed van e-commerce op de prestaties van een bedrijf te meten. Deze methode
+biedt bij het evalueren of bepalen van een strategie de mogelijkheid alle relevante
+elementen van deze strategie te beoordelen op zowel de mate van belang als de prestaties.
+Centraal in het onderzoek van Levenburg en Magal staan drijfveren van de adoptie van e-
+commerce door kleine bedrijven. Deze drijfveren worden gevormd door de voordelen die
+ondernemers verwachten te behalen door gebruik te maken van e-commerce. Het belang
+van verschillende adoptie drijfveren wordt hierbij gekoppeld aan de tevredenheid over de
+prestaties zoals dat door de ondervraagde ondernemers is aangeven.
+Ook Quaddus en Achjani (2005) hebben op basis van bestaande modellen een denkraam
+voor het meten van e-commerce prestaties gecreëerd. In lijn met de ideeën van
+Venkatraman en Ramanujam (1986) en Kaplan en Norton (1992) hebben zij een model
+ontwikkeld dat de prestaties van een e-commerce strategie zowel vanuit operationeel als
+ook vanuit strategisch perspectief beoordeeld. Evenals Levenburg en Magal maken Quaddus
+en Achjani gebruik van drijfveren van e-commerce adoptie bij het bepalen van het succes
+van e-commerce strategieën. De drijfveren vormen in het laatste onderzoek echter een
+combinatie van de verwachte als ook de werkelijk gerealiseerde voordelen van e-commerce.
+20
+Daarnaast houden Quaddus en Achjani ook rekening met factoren welke de adoptie van e-
+commerce kunnen belemmeren. Ook deze bestaan uit een combinatie van zowel
+waarschijnlijke als ook waargenomen belemmeringen. Naast het onderscheid tussen
+drijfveren en belemmeringen wordt ook onderscheid gemaakt tussen bedrijfsinterne en
+bedrijfsexterne factoren. Het succes van een strategie wordt bepaald aan de hand van deze
+vier groepen factoren. Hoe groter de interne en externe drijfveren en hoe kleiner de interne
+en externe belemmeringen hoe groter het succes van een strategie.
+Madeja (2003) stelt het behalen van concurrentievoordelen, het creëren van toegevoegde
+waarde en de prestaties van het bedrijf als indicatoren voor e-commerce succes. Het meten
+van de prestaties gebeurd aan de hand van dertien meeteenheden waaronder het
+bedrijfsimago, toegenomen marktaandeel, marketing kosten en klanttevredenheid.
+Weltevreden en Boschma (2006) stellen in hun onderzoek naar de invloed van
+Internetadoptie op de prestaties van winkeliers in Nederlandse binnensteden de gekozen
+Internet strategieën centraal. De auteurs onderscheiden zes verschillende strategieën aan
+de hand waarvan zij onderzoeken of de adoptie van een meer geavanceerde strategie ook
+leidt tot betere prestaties. De prestaties van de bedrijven worden bepaald aan de hand van
+negen verschillende prestatie-indicatoren waaronder omzet, kosten, de behoefte aan
+winkel- en distributieruimte en klantenbinding.
+Een theorie die door verschillende auteurs gebruikt wordt bij het bepalen van de invloed van
+e-commerce op bedrijven is de Resource Based View (Barney, 1991).
+Deze theorie, afkomstig uit het strategisch management, stelt de middelen en kennis die
+een bedrijf tot zijn beschikking heeft centraal in het succes van de onderneming. Echter niet
+alle middelen die een bedrijf tot zijn beschikking heeft zijn van invloed op het succes. De
+Resource Based View (RBV) biedt een denkraam waarbinnen het mogelijk is middelen te
+identificeren en categoriseren die van belang zijn (Barney, Mata, & Fuerst, 1995). Wade
+(2006) maakt gebruik van deze theorie bij het ontwerpen van een meetinstrument met
+betrekking tot de e-commerce prestaties van bedrijven die uitsluitend op Internet actief zijn
+(Pure Play) als ook de e-commerce prestaties van bestaande, multichannel 2, bedrijven. De
+mate waarin bedrijven in staat zijn Informatie Systemen (zoals een website) te ontwerpen,
+te adopteren en te managen bepalen in deze studie de prestaties.
+2 Bedrijven die via meerdere kanalen, zoals een fysieke winkel, postorder en Internet actief zijn.
+21
+In het onderzoek van Zhuang en Lederen (2006) staat het succes van e-commerce centraal.
+De RBV wordt door hen gebruikt als leidraad bij het identificeren van kennis en middelen
+binnen een bedrijf welke verantwoordelijk zijn voor dit succes.
+Uit dit onderzoek blijkt onder andere dat e-commerce van invloed is op de prestaties van
+een bedrijf als geheel. Verder concluderen Zhuang en Lederer dat, naar verwachting,
+bedrijfsspecifieke kenmerken wel en technische factoren niet van invloed zijn op het succes
+van een e-commerce strategie. Uitgaande van de RBV zijn ook menselijke factoren van
+invloed op het succes van een onderneming. Uit dit onderzoek bleek echter de invloed met
+betrekking tot het succes van e-commerce slechts gering.
+Zhu (2004) richt zich op de toegevoegde waarde van e-commerce en IT infrastructuur voor
+bedrijven. Uitgangspunt is dat de juiste combinatie van de beschikbare IT infrastructuur
+binnen bedrijven en de aanwezige kennis en middelen met betrekking tot e-commerce in
+positieve zin bijdragen aan de prestaties van het bedrijf.
+De RBV vormt in deze studie de basis bij het identificeren van combinaties van de
+beschikbare middelen welke leiden tot hogere opbrengsten.
+Zhu, Kraemer en Dedrick(2004) bekijken naast de invloed van bedrijfsinterne factoren op
+de toegevoegde waarde van e-commerce ook bedrijfsexterne factoren.
+Op basis van het Technology Organization Environment Framework identificeren de
+onderzoekers verschillende factoren welke van invloed zijn waaronder: technologische
+kennis, de omvang van het bedrijf, de aanwezige concurrentie en de aanwezige wetten en
+regelgeving.
+De toegevoegde waarde van e-commerce voor bedrijven is ook onderwerp in de studies van
+Amit en Zott (2001) en Cristensen en Methlie (2003). Beide studies zijn gefundeerd op
+ideeën uit diverse economische theorieën waaronder Transaction Costs Economics, de
+Resource Based View en Strategie Networks. De toegevoegde waarde van e-commerce
+wordt bepaald aan de hand van verschillende factoren, zogenaamde e-value drivers.
+Innovatie, mate van efficiency, complementariteit van producten, diensten en informatie
+zijn hier voorbeelden van.
+22
+I
+2.3.1 E-commerce succes: Prestatie-indicatoren
+Zoals in de vorige paragraaf beschreven is kan het effect van website voor een bestaand
+bedrijf het best gemeten worden aan de invloed die de website heeft op het bedrijf als
+geheel. Op basis van verschillende studies worden de volgende indicatoren voorgesteld om
+het e-commerce succes van winkeliers in de binnenstad te kunnen meten.
+De eerste prestatie indicator is de concurrentiepositie (Zhuang & Lederer, 2006). Met
+betrekking tot de deze positie zijn er twee belangrijke redenen waarom bedrijven een e-
+commerce strategie adopteren. Ten eerste wordt Internet door bedrijven gezien als een
+technologische innovatie welke een strategisch voordeel kan bieden(Levenburg & Magal,
+2004). Door een e-commerce strategie te adopteren probeert men dus de eigen positie ten
+opzichte van de concurrent te verbeteren. De tweede reden om e-commerce te adopteren is
+dat men bang is achter te blijven bij de eerste groep. Het online gaan van deze bedrijven
+heeft ervoor gezorgd dat de concurrentie toegenomen. De angst om achter te raken op de
+concurrentie is voor een groot aantal bedrijven dan ook een reden om online te gaan
+(Whewell & Souitaris, 2001).
+Volgens Porter (2001) kan de invloed van e-commerce op een bedrijf het best gemeten
+worden aan de hand van verbeterde financiële prestaties. Een manier om deze prestaties te
+verbeteren is het verhogen van de omzet van het bedrijf (Christensen & Methlie, 2003;
+Huang, Wang, & Zhao, 2005; Zhuang & Lederer, 2006; Apigian et al., 2005; Levenburg,
+2005). Dit is dan ook één van de belangrijkste reden voor retailers om voor retailers om tot
+de adoptie van e-commerce over te gaan (Whewell & Souitaris, 2001).
+De financiële prestaties kunnen verder ook verbeteren doordat er als gevolg van de adoptie
+van e-commerce kosten besparing mogelijk zijn. Kosten die mogelijk kunnen dalen zijn
+bijvoorbeeld de marketingkosten (Burt & Sparks, 2003; Amit & Zott, 2001). Een website
+biedt immers de mogelijkheid consumenten informatie te verschaffen over producten en
+diensten tegen relatief lage kosten (Quaddus & Achjari, 2005).
+Voor bedrijven die online verkopen geld dat ook verkoopkosten dalen (Huang, Wang, &
+Zhao, 2005; Zhu, 2004; Apigian et al., 2005; Amit & Zott, 2001). Klanten kunnen immers
+een product bestellen en afrekenen zonder tussenkomst van een medewerker. Doordat dit
+proces volledig geautomatiseerd is, kunnen daarnaast ook de administratiekosten dalen
+(Apigian et al., 2005). Verder kan er bespaard worden op de distributie en voorraadkosten
+(Amit & Zott, 2001). Goederen hoeven immers niet fysiek aanwezig te zijn op het moment
+23
+dat ze betaald worden. Daarnaast kan de adoptie van een e-commerce strategie ook leiden
+tot lagere kosten met betrekking tot de inventaris, winkelruimte en magazijn (Burt &
+Sparks, 2003).
+Naast een kostendaling kan de adoptie van e-commerce ook leiden tot een stijging van de
+kosten. Het ontwikkelen en het bijhouden van de website, de hosting en de integratie van
+de strategie in de organisatie brengen allen kosten met zich mee (Adelaar, Bouwman, &
+Steinfield, 2003; Whewell & Souitaris, 2001). Verder zal de online verkoop van goederen
+ook leiden tot het stijgen van de verzendkosten. Goederen zullen immers vaker dan
+voorheen bij de klant thuisbezorgd moeten worden. (Burt & Sparks, 2003; Whewell &
+Souitaris, 2001).
+Het verbeteren van de relaties met de klant is voor veel ondernemers een reden om online
+te gaan (Levenburg & Magal, 2004). Een verbeterde relatie is dan ook de volgende indicator
+van e-commerce succes. Via een website is een bedrijf 24 uur per dag bereikbaar, in plaats
+van alleen tijdens openingstijden. De adoptie van een e-commerce strategie kan dan ook
+een positief effect hebben op de relatie tussen bedrijf en de klant (Apigian et al., 2005).
+Bedrijven kunnen via de website bijvoorbeeld een de mogelijkheid bieden vragen te stellen
+en klachten in te dienen via een formulier of door een lijst met veelgestelde vragen (FAQ) te
+plaatsen (Quaddus & Achjari, 2005; Huang, Wang, & Zhao, 2005). Daarnaast kan een
+bedrijf actief informatie verstrekken via een online catalogus, een nieuwsbrief of een RSS-
+feed. De interactie tussen bedrijf en klant kan dus worden vergroot zonder dat dit extra
+kosten met zich meebrengt (Adelaar, Bouwman, & Steinfield, 2003).
+Ook het vergroten van de kennis over klanten is een reden om een website te ontwikkelen.
+Internet biedt winkeliers de mogelijkheid om heel gericht met verschillende groepen te
+communiceren (Doherty, Ellis-Chadwick, & Hart, 1999). Gegevens kunnen verkregen
+worden door middel van registratie voor nieuwsbrieven of bij online verkopen. Ook via
+online enquêtes kan de informatie over klanten toenemen. (Quaddus & Achjari, 2005).
+Toegenomen kennis over klanten is dan ook een indicatie van e-commerce succes.
+2.3.2 E-commerce succes: Succes factoren
+De website is het eerste dat een consument ziet, het visitekaartje van het bedrijf. De
+eigenaar van een website heeft slechts 50 milliseconden de tijd om indruk op een bezoeker
+te maken (Lindgaard et al., 2006). Het uiterlijk van de website, het ontwerp, is dus erg
+belangrijk. Ook de toegankelijkheid van de website voor minder validen(accessibility) en
+24
+een logische, gebruiksvriendelijke indeling van de site (usability) spelen een rol. Tevens
+moet de website vertrouwen uitstralen, zeker als er sprake is van online verkoop. (Liu &
+Arnett, 2000; Molla & Licker, 2001; Weathers & Makienko, 2006). Naast het de interface
+speelt ook de inhoud, de kwaliteit van de informatie, een rol in het succes van e-commerce.
+De relevantie, compleetheid, maar ook de actualiteit van de gegevens zijn hierbij van
+belang (Molla & Licker, 2001). Verwacht mag worden dat een website die gebouwd is door
+een professioneel bureau beter van kwaliteit is en dan een website die door de ondernemer
+zelf of bekenden van hem ontworpen is. De kwaliteit en de actualiteit van de gegevens is
+onder andere afhankelijk van hoe vaak de website wordt bijgewerkt.
+Ook de ondernemer zelf is van invloed op het succes van e-commerce. Uit een studie van
+Prabhu (2000) blijkt bijvoorbeeld dat de toegewijdheid van de manager een van de
+belangrijkste factoren in het succes van e-commerce is. In eerdere onderzoeken naar de
+adoptie van internet is verder gebleken dat de houding van de ondernemer ten opzichte van
+nieuwe technologieën grotendeels afhangt van zijn persoonlijke kenmerken zoals leeftijd,
+geslacht en sociaaleconomische achtergrond (Doherty & Ellis-Chadwick, 2003). Naar mate
+de leeftijd van een persoon toeneemt, heeft hij meer kennis en ervaringen opgedaan en zal
+dan ook minder snel gebruik maken van een nieuwe technologie. Verder is er tussen
+mannen en vrouwen een verschil in het gebruik van Internet. Mannen maken meer gebruik
+van het Internet, hebben meer ervaring met de technologie en dus is de kans dat zij een
+positieve kijk op het gebruik van e-commerce hebben ook groter. Ook de sociaal
+economische achtergrond speelt een rol in het gebruik van Internet. Uit verschillende
+onderzoeken is gebleken het internet gebruik onder mensen met lage inkomens en lager
+opgeleiden lager ligt dan dat onder mensen met een gemiddeld of hoger inkomen en/of een
+hoge opleiding (Hoffman, Novak, & Schlosser, 2000; Selhofer & Hüsing, 2002).
+De mate waarin bedrijven in staat zijn een website te ontwerpen en te managen is van
+grote invloed op de prestaties (Wade & Nevo, 2006). De aanwezige kennis en ervaring met
+betrekking tot computers en informatie technologie is dan ook de volgende factor in het
+succes van e-commerce (Zhu, 2004; Liu & Arnett, 2000; Quaddus & Achjari, 2005) . Hoe
+meer kennis en ervaring een ondernemer heeft met betrekking tot nieuwe technologieën,
+hoe groter de kans op e-commerce succes (Zhu, Kraemer, & Dedrick, 2004).
+Naast de kenmerken van de ondernemer zijn er ook andere factoren binnen bedrijven te
+vinden die van invloed zijn op het succes van e-commerce. Grotere bedrijven hebben vaker
+25
+toegang tot de benodigde financiële middelen en de benodigde kennis en vaardigheden (Rao
+Kowtha &. Whai lp Choon, 2001). Hoe meer werknemers een bedrijf heeft, hoe groter de
+kans is dat het een geavanceerdere strategie adopteert (Boschma & Weltevreden, 2006).
+Onderzoek van Zhu, Kraemer en Dedrick (2004) toont echter aan dat er een negatief
+verband bestaat tussen de bedrijfsgrootte en de mate waarin bedrijven in staat zijn
+toegevoegde waarde te creëren met behulp van e-commerce. Een mogelijke verklaring voor
+dit negatieve verband kan zijn dat de bestaande structuren, routines en bureaucratie een
+obstakel vormen voor het gebruik van nieuwe technologieën en het succes ervan (lock-in)
+(Levitt & March, 1988; Silverberg, Dosi, & Orsenigo, 1988). Wat het effect van de leeftijd
+van een bedrijf op succes van e-commerce is, is vooralsnog niet duidelijk. Wel is het zo dat
+naarmate een bedrijf langer bestaat, er meer kennis en vaardigheden op een bepaald
+gebied zijn opgebouwd maar dat het risico op lock-in ook groter is
+Daarnaast speelt ook het feit of een bedrijf een specialist of generalist is een rol in het
+succes. Een specialist richt zich slechts op één of enkele productcategorieën, terwijl een
+generalist een grote verscheidenheid aan productcategorieën in het assortiment heeft.
+Generalisten, vaak winkelketens, hebben als voordeel dat ze de kosten van een e-
+commerce strategie kunnen spreiden over een groot aantal productencategorieën.
+Specialisten, over het algemeen zelfstandige ondernemers, echter hebben het voordeel dat
+ze producten aanbieden die offline, dus in een fysieke winkel, niet overal gemakkelijk te
+verkrijgen zijn. Doordat hun marktbereik vergroot wordt hebben specialisten daarnaast ook
+de mogelijkheid een dieper assortiment te bieden dan dat normaal gesproken mogelijk zou
+zijn gezien de omvang van het bedrijf (Min & Wolfinbarger, 2005). De verwachting is dat
+zelfstandigen wel eerder de impact van e-commerce op hun bedrijf zullen bemerken.
+Het type product dat een bedrijf verkoopt is de volgende factor welke van invloed is op het
+succes van een e-commerce strategie. In het bijzonder de mate waarin een product vooraf
+beoordeeld kan woorden is hierbij van belang. Nelson (1974) maakt onderscheid in twee
+typen producten: "search goods" en "experience goods". Search goods zijn producten
+waarvan de belangrijkste eigenschappen bekend zijn voor aanschaf van het product.
+Experience goods zijn producten waarvan de belangrijkste eigenschappen voor aanschaf
+niet bekend kunnen zijn, of waarvan het zoeken naar informatie meer moeite kost dan het
+direct aanschaffen van het product (Nelson, 1974). Onderzoek van Weathers en Maktenko
+(2006) toont aan dat de kans op succes kleiner is als een bedrijf" experience goods"
+verkoopt. Op basis van de ideeën van Klein (1998) stellen Weltevreden et. al (2005) een
+26
+onderscheid voor in convenience (dagelijkse) goederen en goederen die minder vaak
+gekocht worden, search en experience goods. De auteurs stellen deze nieuwe
+productclassificatie voor omdat op basis hiervan de adoptie van e-commerce beter verklaard
+kan worden dan op basis van de traditionele classificaties. Ook in dit onderzoek zal deze
+classificatie aangehouden worden.
+Zoals eerder vermeld blijkt uit onderzoek van Lee & Chueng (2004 ) en Zhu (2002) dat de
+bereidheid van klanten om gebruik te maken van e-commerce een belangrijke factor is in
+het adoptieproces van e-commerce door winkeliers. De bereidheid tot het doen van online
+aankopen kan ook in verband gebracht worden met de aanwezige kennis en ervaring met
+betrekking het gebruik van Internet en computers (Liao & Chueng, 2001).
+Doherty en Ellis-Chadwick (2003) tonen aan dat leeftijd, geslacht maar ook de
+sociaaleconomische achtergrond van klanten een belangrijke rol speelt bij het gebruik van
+internet door consumenten. Zo maken jongeren vaker dan ouderen en mannen vaker dan
+vrouwen gebruik van internet. Daarnaast beschikken mensen met hogere inkomens vaker
+over computers en snelle internetverbindingen dan mensen met lagere inkomens.
+Uit een studie van Barua (2001) blijkt dat deze bereidheid van klanten om gebruik te maken
+van e-commerce, ook één van de belangrijkste is voorwaarden is voor het creëren van
+toegevoegde waarde door middel van e-commerce en dus het succes ervan.
+De invloed van de marktomgeving op het uiteindelijke succes van een gekozen strategie is
+tweeledig. Allereerst speelt de marktomgeving een rol bij de keuze voor een bepaalde
+strategie. Drie factoren zijn hier bepalend: de omvang van de markt, de mate van
+volwassenheid van de markt en de online activiteiten van andere retailers (Doherty, Ellis-
+Chadwick, & Hart, 2003). Verder oefent ook de marktomgeving invloed uit op het gebruik
+van e-commerce door winkeliers. De druk van concurrenten is voor veel bedrijven een
+reden om nieuwe technologieën, zoals e-commerce, te adopteren en zo een achterstand op
+de concurrentie te voorkomen (lacovou, Benbasat, & Dexter, 1995; Rao Kowtha & Whai lp
+Choon, 2001; Zhu, Kraemer, & Xu, 2002). In Nederland blijkt echter dat locale concurrentie
+onder winkeliers een negatief effect heeft op de adoptie van e-commerce. (Boschma &
+Weltevreden, 2006). Uit onderzoek van Zhu, Kraemer en Dedrick (2004) binnen de
+financiële dienstensector komt verder ook naar voren dat de marktomgeving een factor is in
+e-commerce succes. De onderzoekers tonen aan dat er een verband is, zij het vrij zwak,
+tussen de hevigheid van de concurrentie en de mate waarin e-commerce bijdraagt aan de
+prestaties van een bedrijf.
+27
+Er is nog weinig informatie bekend over de relatie tussen e-commerce succes en de
+geadopteerde strategie van bedrijven. Onderzoek van Weltevreden en Boschma (2006)
+toont echter wel aan dat de adoptie van een meer geavanceerde strategie leidt tot betere
+prestaties. De keuze voor een bepaalde strategie bepaalt immers de mogelijkheden die de
+ondernemer heeft om de website te laten bijdragen in de prestaties van de onderneming.
+Hoe geavanceerder de strategie, hoe meer mogelijkheden de ondernemer heeft om de
+prestaties te verbeteren.
+2.4	Conclusie
+In dit hoofdstuk zijn verschillende studies met betrekking tot e-commerce adoptie en e-
+commerce succes besproken. Op basis van deze bestaande onderzoeken is een antwoord
+gezocht op een viertal vragen. De eerste vraag luidt: "Wat houdt e-commerce adoptie in en
+welke factoren spelen een rol in het adoptieproces?" Van e-commerce adoptie is sprake
+wanneer bedrijven of instellingen gebruik maken van e-commerce.
+Er zijn verschillende redenen waarom bedrijven besluiten tot adoptie over te gaan. Het
+behalen van voordelen ten opzichte van de concurrentie vormt hierbij de voornaamste
+reden. Verder bestaan er verschillende factoren welke de uiteindelijke adoptie van e-
+commerce beïnvloeden. Bedrijfsinterne factoren zijn onder andere de kijk van het
+management op e-commerce, de aanwezige technologische kennis binnen het bedrijf en het
+type product dat men verkoopt. Daarnaast zijn klanten, de marktomgeving en de locatie
+waar het bedrijf gevestigd is factoren die de adoptie positief of negatief kunnen
+beïnvloeden.
+Verder is in dit hoofdstuk getracht een antwoord te vinden op de vraag "Welke e-commerce
+strategieën zijn er?" Op basis van de bestaande onderzoeken kunnen een groot aantal
+strategieën onderscheiden worden. Deze hebben zowel betrekking op bedrijven zonder
+actieve website, bedrijven met een actieve website en ook bedrijven welke zelfs uitsluitend
+op internet actief zijn. Met betrekking tot dit onderzoek zijn uitsluitend strategieën van
+belang welke betrekking hebben op een bedrijf met zowel een fysieke als ook een online
+aanwezigheid. Winkeliers in de binnenstad hebben een keuze uit acht verschillende
+strategieën wanneer zei tot adoptie overgaan. Deze strategieën staan op een continuüm
+waarbij aan de ene kant slechts summiere bedrijfsinformatie op de website te vinden is en
+28
+aan de andere kant vind er verkoop plaats via de website en is deze volledig geïntegreerd
+met de fysieke winkel.
+Ook is in dit hoofdstuk antwoord gezocht op de vraag "Hoe kunnen de prestaties van e-
+commerce gemeten worden?" Er bestaat een grote verscheidenheid aan methoden met
+betrekking tot het meten van de prestaties van e-commerce. Deze kunnen grofweg
+ingedeeld worden in twee groepen: de eerste groep meet uitsluitend de prestaties van een
+website op zich, de tweede groep meet de invloed van de website op de prestaties van het
+bedrijf als geheel. De eerste groep maakt bijvoorbeeld gebruik van het aantal bezoekers of
+de conversion rate als meeteenheid om de prestaties van een website te meten. Deze
+meeteenheden kunnen goed gebruikt worden om de prestaties van websites onderling te
+vergelijken of om de effectiviteit van een website te bepalen. Voor bedrijven die uitsluitend
+op internet actief zijn is deze methode wellicht voldoende, voor bedrijven met naast de
+website ook een fysieke vestiging niet. Winkeliers kunnen de effecten van de website
+bijvoorbeeld ook terugzien in het aantal klanten dat de winkel bezoekt of in een verandering
+in de marketing en vestigingskosten. De modellen welke in de tweede groep vallen maken
+het wel mogelijk dit soort effecten te meten. E-commerce wordt in deze modellen als
+onderdeel van de bedrijfsstrategie gezien. De mate van succes van e-commerce wordt in
+deze onderzoeken bijvoorbeeld bepaald door de bijdrage aan de omzet, de verbetering van
+de concurrentiepositie of een verbetering van het imago.
+Met betrekking tot het meten van e-commerce succes onder winkeliers in de binnenstad
+worden zes verschillende prestatie indicatoren voorgesteld, te weten: omzet, gedaalde
+kosten, gestegen kosten, concurrentiepositie, kennis over klanten en klantenbinding.
+De laatste vraag die in dit hoofdstuk beantwoordt wordt is: "Welke factoren spelen een rol
+in het succes van e-commerce?" Op basis van de bestaande literatuur kan een groot aantal
+factoren onderscheiden worden. De invalshoek van de onderzoeken en daarmee ook de
+factoren die genoemd worden lopen zeer uiteen. Daarnaast spreken de verschillende studies
+spreken elkaar ook regelmatig tegen met betrekking tot de invloed die deze factoren op het
+succes van e-commerce hebben. Factoren welke van invloed zijn, zijn allereerst de
+technische factoren. De kwaliteit van de website maar ook de aanwezige IT infrastructuur
+worden regelmatig genoemd. Ook bedrijfsspecifieke factoren zoals de omvang van het
+bedrijf en het type product dat een bedrijf levert kan van invloed zijn op het succes.
+Menselijke factoren, zoals de technische kennis van de winkelier als ook de sociaal
+29
+economische achtergrond van hem en zijn klanten zijn van invloed. Daarnaast speelt ook de
+gekozen strategie een rol in het succes evenals de aanwezige concurrentie.
+30
+3	Onderzoeksopzet
+3.1	Inleiding
+Dit hoofdstuk geeft weer hoe het onderzoek is opgezet en welke methoden gebruikt zijn.
+Al eerst volgt in paragraaf 3.2 het conceptueel model, gevolgd door een uitwerking daarvan
+in de daaropvolgende subparagrafen. In paragraaf 3.2.1 zijn de factoren terug te vinden
+welke van invloed zijn op het succes van e-commerce , gevolgd door indicatoren aan de
+hand waarvan het succes bepaalt word in paragraaf 3.2.2. In paragraaf 3.3 volgt een
+overzicht van de methoden en technieken die gebruikt zijn in dit onderzoek. De methode
+met betrekking tot de dataverzameling, een beschrijving van de variabelen en een
+beschrijving van de totstandkoming van de onderzoeksgroep komen allen in deze paragraaf
+aan bod.
+3.2	Conceptueel model
+Bestaande studies op het gebied van e-commerce succes vormen de basis voor het
+volgende conceptueel model. Dit model geeft het denkraam weer op basis waarvan
+onderzocht wordt welke factoren van invloed zijn op het succes van e-commerce zoals dit
+geadopteerd is door winkeliers in de binnenstad. Centraal in dit onderzoek staat het e-
+commerce succes. De mate van succes wordt beïnvloed door de factoren welke terug te
+vinden zijn aan de linkerkant van het model. Aan de rechterkant van het model zijn de
+indicatoren terug te vinden aan hand waarvan het succes van e-commerce gemeten kan
+worden.
+Figuur 3-1: conceptueel model
+Marktomgeving
+I Kenmerken klanten
+i .
+Kwaliteit van de website
+■
+I E-commerce Strategie
+i
+; Kenmerken onderneming
+Kenmerken ondernemer
+-
+Concurrentiepositie
+• Omzet
+-__ _________________
+' Kosten besparing
+__
+1 Kosten stijging
+Relatie met de klant
+■_j__ i.'■ ....__________i
+Kennis over klanten
+31
+3.3	Afhankelijk Variabelen: Prestatie-indicatoren
+In paragraaf 2.3.1 zijn zes prestaties indicatoren gepresenteerd welke samen het succes
+van een e-commerce strategie bepalen. Dit zijn de concurrentiepositie, totale omzet, kosten
+stijging, kostendaling, klantenbinding en kennis over klanten. Om te bepalen of deze
+indicatoren gewijzigd zijn als gevolg van de adoptie van e-commerce is gebruik gemaakt
+van subjectieve prestatie-indicatoren. Deze methode is in lijn met andere studies met
+betrekking tot e-commerce succes (Huang, Wang, & Zhao, 2005; Zhuang & Lederer, 2006;
+Christensen & Methlie, 2003). De belangrijkste reden dat voor deze methode gekozen wordt
+is dat objectieve gegevens met betrekking tot de financiën van een bedrijf niet beschikbaar
+of niet openbaar zijn. In dit onderzoek is de respondenten expliciet gevraagd of de
+prestatie-indicatoren gewijzigd zijn sinds zij een website online hebben.
+Als respondenten niet zeker waren of de indicatoren gewijzigd zijn als gevolg van de adoptie
+is genoteerd dat deze geen effect hebben op de prestaties.
+Met betrekking tot de concurrentiepositie, de totale omzet en klantenbinding is winkeliers
+gevraagd of het de website een positief, negatief of neutraal effect had op deze indicatoren.
+Verder is de respondenten gevraagd of zij meer kennis over klanten hebben gekregen en of
+er kosten gestegen of gedaald zijn sinds het online van de website. Deze vragen konden
+uitsluitend met "ja"en "nee" beantwoord worden.
+Voordat met toetsen begonnen is zijn alle variabelen omgezet naar dummy variabelen met
+twee categorieën: "0" nee en "1" is ja. In het geval van de concurrentiepositie , de totale
+omzet en de klantenbinding zijn negatief en neutraal samengevoegd in de categorie "0"en
+positief in categorie "1" Alleen de variabele kostenstijging is een uitzondering, hier is "0" ja
+en "1" De waarde 1 vertegenwoordigd nu in alle dummy's een positief effect op e-commerce
+succes.
+3.4	Onafhankelijke variabelen: E-commerce succes factoren
+De e-commerce succesfactoren zoals ze hier gepresenteerd worden zijn allen gebaseerd op
+de factoren zoals deze in paragraaf 2.3.2 genoemd worden. Deze factoren die van invloed
+zijn op het succes van e-commerce vormen de onafhankelijke variabelen. Doel van dit
+onderzoek is om aan te tonen welke van deze variabelen van invloed is op het succes van e-
+commerce. Dit zal gedaan worden aan de hand van de hypotheses zoals deze hieronder
+gepresenteerd worden.
+32
+Hypothese 1: Een website ontwikkeld door een professioneel bureau leidt tot meer e-
+commerce succes dan een die website gebouwd is door iemand anders.
+Wordt gemeten aan de hand van een dichotome variabele (d_build) met als categorie "1"
+Professioneel Webdesign bureau en als categorie "0" overige website ontwikkelaar.
+Hypothese 2: Hoe vaker de website wordt bijgewerkt, hoe groter het e-commerce succes is.
+Wordt gemeten aan de hand van de variabele (bijwerk), dit is een variabele op ratio schaal.
+Hypothese 3: Mannelijke winkeliers hebben meer succes met betrekking tot e-commerce
+dan vrouwelijke winkeliers.
+Wordt gemeten aan de hand van een dichotome variabele (d_gender) met als categorie "1"
+Man en als categorie "0" vrouw.
+Hypothese 4: Hoe jonger de winkelier, hoe groter het e-commerce succes van de
+onderneming.
+Wordt gemeten aan de hand van de variabele (age), dit is een variabele op ratio schaal.
+Hypothese 5: Hoe hoger het opleidingsniveau van de winkelier, hoe groter het succes van e-
+commerce.
+Wordt gemeten aan de hand van een categoriale variabele (d_educ) met de categorieën "1"
+Lager onderwijs, "2" Middelbaar onderwijs, en "3" hoger onderwijs.
+Hypothese 6: Hoe meerjaren internetervaring een winkelier heeft, hoe groter het e-
+commerce succes.
+Wordt gemeten aan de hand van een interval variabele (mjntyrs) met een schaal van (1-
+10)
+Hypothese 7: Meer kennis van de winkelier op het gebied van internet, leidt tot een meer e-
+commerce succes.
+Wordt gemeten aan de hand van de interval variabele (intexp), met een schaal van 1-10.
+Hypothese 8: Hoe minder werknemers een winkelbedrijf heeft, hoe groter het e-commerce
+succes.
+Wordt gemeten aan de hand van de variabele (fte2), dit is een variabele op ratio schaal.
+33
+Hypothese 9: Hoe jonger het bedrijf, hoe groter het e-commerce succes.
+Wordt gemeten aan de hand van de variabele (ondyrs2), dit is een variabele op ratio schaal.
+Hypothese 10: zelfstandigen zijn succesvoller op het gebied van e-commerce dan ketens.
+Wordt gemeten aan de hand van een dichotome variabele (d_orgtype) met als categorie "1"
+Zelfstandige en als categorie "0" Ketens.
+Hypothese 11: Bedrijven die 'search goods' verkopen zijn succesvoller betreffende e-
+commerce dan bedrijven die 'convenience goods' of 'experience goods' verkopen.
+Wordt gemeten aan de hand van een categoriale variabele (d_prod) met de categorieën "1"
+convenience goods', "2" experience goods', en "3" search goods'.
+Hypothese 12: Hoe groter het percentage mannelijke klanten, hoe groter het e-commerce
+succes.
+Wordt gemeten aan de hand van de variabele (m_male), dit is een variabele op ratio schaal.
+Hypothese 13: Hoe jonger de samenstelling van het klantenbestand, hoe groter het e-
+commerce succes.
+Dit wordt gemeten aan de hand van 3 ratiovariabelen, Percentage klanten jonger dan 25
+jaar ( mjowage), Percentage klanten 25 - 55 jaar (m_midage)
+Percentage klanten van 55 jaar en ouder (m_oldage)
+Hypothese 14: Hoe hoger het gemiddelde inkomen van de klanten, hoe groter het e-
+commerce succes.
+Wordt gemeten aan de hand van een categoriale variabele (m_inc3) met de categorieën "1"
+Beneden Modaal, "2" Modaal, en "3" Boven Modaal.
+Hypothese 15: Hoe hoger het percentage bedrijven met een website in de straat, hoe
+succesvoller een winkelier is op het gebied van e-commerce.
+Wordt gemeten aan de hand van de variabele (m_webact3), dit is een variabele op ratio
+schaal.
+Hypothese 16: Hoe meer bedrijven uit de dezelfde sector in de binnenstad aanwezig zijn
+hoe groter het e-commerce succes.
+34
+Wordt gemeten aan de hand van de variabele (m_comp2), dit is een variabele op ratio
+schaal.
+Hypothese 17: Hoe geavanceerder de strategie, hoe groter het e-commerce succes.
+Wordt gemeten aan de hand van een categoriale variabele (onlinetot) met de categorieën
+"1" Billboard Strategie, "2" Brochure Strategie , en "3" Catalogue Strategie, "4" Service
+Strategie, "5" Mirror Strategie en "6" Synergy Strategie.
+3.5	Data verzameling
+Het onderzoek heeft plaats gevonden in verschillende Nederlandse binnensteden, te weten:
+Amersfoort, Almere, Alkmaar, Haarlem, Hilversum, Purmerend, Utrecht en Veenendaal.
+Voor deze acht steden is gekozen omdat dit onderzoek deel uit maakt van een groter
+onderzoek naar de invloed van Internet op de aantrekkelijkheid van binnensteden in
+Nederland (o.a. (Weltevreden, Atzema, & Boschma, 2005) & (Weltevreden &Ton van
+Rietbergen, 2005). Dit onderzoek heeft dan ook plaatsgevonden in deze zelfde steden.
+In de periode van begin mei tot begin augustus 2004 zijn 2470 winkeliers, met één of meer
+vestigingen in bovengenoemde binnensteden, per brief gevraagd mee te werken aan een
+telefonische enquête met betrekking tot het gebruik van e-commerce en het effect hiervan
+op hun bedrijf.
+Deze groep betreft een selectie uit een bestand dat aan het begin van het jaar
+samengesteld is. Dit bestand bevat gegevens van alle aanwezige winkels in de genoemde
+binnensteden waaronder, naam en adresgegevens, marktsector en de internetstrategie van
+het bedrijf. Dit bestand is op de volgende manier tot stand gekomen. Allereerst zijn alle
+winkels geïndexeerd welke op basis van gegevens van Locatus gevestigd zijn in straten
+welke vallen binnen de centrale winkelgebieden van de genoemde steden (Locatus, 2002).
+Dit betreft in totaal 3369 winkels. Op basis van verschillende detailhandels handboeken is
+vervolgens bepaald in welke sector de winkels actief zijn, en hoeveel vestigingen de
+winkeliers in de binnensteden hebben (Locatus, 2002; Formula., 2002). Daarnaast is op
+internet gezocht naar de url's van websites van de betreffende winkeliers. Als laatst zijn alle
+winkeliers bezocht en is hen gevraagd medewerking te verlenen aan een zeer kort gesprek
+met als doel het verzamelen van de laatste nog ontbrekende gegevens. In maart 2004 zijn
+alle websites geanalyseerd en is de e-commerce strategie van de winkeliers bepaald. Dit
+35
+gebeurd op basis van de classificatie van twaalf internetstrategieën zoals deze door
+Weltevreden, Atzema en Boschma (2005) samengesteld is.
+In de brief die aan de ondernemers gestuurd is wordt het onderzoek kort uitgelegd en wordt
+medewerking aan de telefonische enquête gevraagd. Vervolgens zijn alle winkeliers
+telefonisch benaderd. Deze enquêtes zijn waar mogelijk afgenomen per telefoon, maar ook
+per email en per post. Dit omdat de telefonische enquête 15-20 minuten in beslag nam en
+niet alle winkeliers hiervoor tijd konden of wilden maken. In totaal is 63% van de enquêtes
+telefonisch afgenomen, 28% is opgestuurd per post en 9% per email. Geprobeerd is om
+zoveel mogelijk de persoon binnen een bedrijf te spreken welke verantwoordelijk is voor de
+e-commerce strategie. Dit kan zijn de ondernemer zelf maar ook bijvoorbeeld de
+bedrijfsleider of, voornamelijk in grotere bedrijven, de e-commerce manager. Uiteindelijk
+zijn er 927 enquêtes ingevuld, een respons ratio van 38%. Voor dit onderzoek zijn er echter
+maar 466 cases bruikbaar.
+Omdat dit onderzoek uitsluitend betrekking heeft op bedrijven met een actieve website
+vallen de bedrijven af die daar niet over beschikken. In totaal zijn dit 426 bedrijven. Van de
+overige cases die niet bruikbaar zijn, is van 9 de e-commerce strategie onbekend en 20
+beschikken wel over een actieve website, maar hebben de enquête niet volledig ingevuld.
+Daarnaast zijn vanwege het lage aantal alle 6 cases met een export strategie verwijderd uit
+de selectie.
+3.6	Conclusie
+In dit hoofdstuk is het conceptueel model van dit onderzoek gepresenteerd gevolgd door
+een uitwerking daarvan in afhankelijke en onafhankelijke variabelen. Tezamen met de
+onafhankelijke variabelen zijn ook de hypotheses gepresenteerd aan de hand waaraan de
+relatie tussen de afhankelijke n onafhankelijke variabelen getoetst zal worden. Dit wordt
+gevolgd door een overzicht van de gebruikte methoden bij het verzamelen van de data.
+36
+4	Resultaten
+In dit hoofdstuk volgen de resultaten van het onderzoek met betrekking tot de invloed van
+de verschillende factoren op het succes van e-commerce. Getracht zal worden antwoord te
+vinden op de deelvraag: " Welke factoren zijn van invloed op de e-commerce prestaties
+zoals deze waargenomen zijn door winkeliers in de binnenstad?" In paragraaf 4.1 volgen de
+resultaten welke met behulp van beschrijvende statistiek verkregen zijn, gevolgd door de
+resultaten van de multivariate analyse in paragraaf 4.2. Door middel van het toetsen van de
+hypothesen die opgesteld in paragraaf 3.4 wordt bepaald welke factoren van invloed zijn op
+het waargenomen succes van e-commerce. In paragraaf 4.3 volgt ten slotte de conclusie.
+4.1	Beschrijvende statistiek
+De adoptie van e-commerce door winkeliers in de binnenstad heeft niet op alle prestatie-
+indicatoren even veel invloed (zie tabel 4-1). Zowel de grootste als de kleinste verandering
+in de indicatoren hebben betrekking op de kosten. Van alle respondenten heeft 57%
+aangegeven dat de kosten zijn gestegen sinds men een actieve website heeft.
+Daartegenover staat dat slechts 10% een kostendaling heeft waargenomen. De overige
+indicatoren laten zien dat e-commerce ook positieve effecten voor een winkelier kan
+hebben. Een verbeterde concurrentiepositie (41%) wordt het vaakst waargenomen gevold
+door een betere binding met de klanten (38%) en een hogere omzet (35%). Ook geeft 23%
+van de winkeliers aan meer kennis over klanten te hebben gekregen sinds ze een actieve
+website hebben. Helaas hebben te weinig respondenten hebben daling in de kosten
+waargenomen (zie tabel 4-1). Hierdoor kan deze variabele niet langer als indicator van e-
+commerce succes kan worden beschouwd en kunnen slechts binaire logistische regressie
+analyses uitgevoerd worden voor de overige vijf prestatie-indicatoren.
+Tabel 4-1: Waargenomen verandering in de prestatie-indicatoren als gevolg van de adoptie van e-commerce
+Prestatie indicatoren	ja (in %)	nee(ln%) N	
+Concurrentiepositie verbeterd	41,0	59,0	412
+Hogere Omzet	35,2	64,8	403
+Kostendaling	10,9	89,1	441
+Kostenstijging	57,1	42,9	436
+Meer kennis over klanten	23,5	76,5	434
+Betere binding met klanten	38,3	61,7	413
+37
+De eerste factor welke die van invloed is op het succes van e-commerce is de kwaliteit van
+de website. Deze wordt bepaald aan de hand van het feit of deze ontwikkeld is door een
+professioneel bureau of door het bedrijf zelf, en aan de frequentie waarmee de website
+bijgewerkt wordt. Het uitgangspunt hierbij is dat een website gemaakt door een
+professioneel bureau van betere kwaliteit is dan wanneer de ondernemer de website zelf
+ontwikkeld heeft en dat dit dus ook leidt tot betere e-commerce prestaties. Dit is echter niet
+Figuur 4-1: Waargenomen invloed van de updatefrequentie van de website op de klantenbinding (%)
+Nooit of minder dan lx per jaar (N=25)
+Minimaal lx per jaar (N=23)
+Minimaal lx per half jaar (N=65)
+Minimaal lx per kwartaal (N=82)
+Minimaal lx per maand (N=104)
+Minimaal lx per week (N-64)
+Minimaal lx per dag (N=47)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+■ Verbeterd n Niet verbeterd
+terug te zien in de verzamelde gegevens met betrekking tot winkeliers in de binnenstad.
+Zoals blijkt uit tabel 4-2 ondervinden minder winkeliers die de website door een
+professioneel bureau hebben laten ontwikkelen positieve gevolgen van de website dan de
+overige winkeliers. In het bijzonder de waargenomen stijging van de kosten valt op. Een
+verdere specificatie. Indien er sprake is van gestegen kosten is alle respondenten ook
+gevraagd deze verder te specificeren. De gestegen kosten onder bedrijven die de website
+hebben laten ontwikkelen worden vooral veroorzaakt door toegenomen marketingkosten,
+administratiekosten, it-kosten en de directe kosten van de website.
+Tabel 4-2: Waargenomen verandering in prestatie-indicatoren van het bedrijf, ingedeeld naar website ontwikkelaar
+Prestatie indicatoren	Webdesign bureau		Overig	Totaal	
+	ja	nee	ja	nee	N
+Concurrentiepositie verbeterd	39,4	60,6	42,6	57,4	412
+Hogere Omzet	30,8	69,2	40,1	59,9	403
+Kosten daling	9,7	90,3	21,1	78,9	441
+Kostenstijging	67,9	32,1	45,8	54,2	436
+Meer kennis over klanten	25,8	74,2	21,1	78,9	434
+Betere binding met klanten	37,1	62,9	39,5	60,5	413
+38
+De frequentie waarmee de website bijgewerkt wordt heeft over het algemeen wel een
+positieve invloed op de prestatie-indicatoren. Hoe vaker de website bijgewerkt wordt hoe
+groter de positieve invloed ervan is op het bedrijf. De invloed op de klantenbinding (zie
+figuur 4-1) en de concurrentiepositie is het grootst. Van de respondenten die aangegeven
+hebben dagelijks de website bij te werken geeft meer dan 50% aan dat het bedrijf een
+betere binding met zijn klanten heeft gekregen en dat de concurrentiepositie verbeterd is.
+Bij de bedrijven die één keer per jaar of minder de website bijwerken liggen deze waarden
+aanmerkelijk lager, rond de 20%.
+Op het eerste gezicht zijn de kenmerken van de ondernemer niet van grote invloed op de
+prestatie-indicatoren. Zo speelt het geslacht van de ondernemer speelt eigenlijk geen rol, er
+zijn namelijk maar weinig verschillen tussen man en vrouw. Mannen geven wel iets vaker
+dan vrouwen (45% tegenover 35% ) aan dat de concurrentiepositie verbeterd is.
+Daarentegen ondervinden meer mannen kostenstijgingen als gevolg van de website dan
+vrouwen (58 tegenover 44%). Ook de resultaten met betrekking tot de leeftijd van de
+respondenten laten geen grote verschillen zien. Er zijn slechts kleine afwijkingen tussen de
+verschillende prestatie-indicatoren te zien, maar deze volgen geen trend. Ditzelfde geldt
+voor het opleidingsniveau. De effecten van het opleidingsniveau op de prestaties verschillen
+wel per categorie, maar laten geen duidelijke lijn zien. Daarnaast wijken ook de effecten per
+indicator sterk van elkaar af. Vooralsnog blijkt dus niet uit deze gegevens dat een hoger
+opleidingsniveau tot betere of mindere prestaties leidt.
+De invloed van de bevolkinggroep waartoe de respondenten behoren op de e-commerce
+prestaties valt helaas niet te toetsen. Vrijwel alle respondenten (98%) hebben aangegeven
+dat zij behoren tot de Nederlandse bevolkingsgroep. Slechts 5 respondenten behoren niet
+tot deze groep. Ook blijkt voorlopig niet uit de resultaten van dit onderzoek dat meer
+ervaring met betrekking tot het gebruik van internet een positief effect heeft op de e-
+commerce prestaties. Zowel het aantal jaar dat winkeliers privé gebruik maken van internet
+als de mate waarin ze zichzelf een expert op het gebied van internet vinden laat geen
+duidelijke relatie zien met de prestatie-indicatoren.
+De kenmerken van de onderneming vormen een wel onderscheidende factor in de mate van
+e-commerce succes. Zoals te zien is in figuur 4-2 geven kleine bedrijven vaker aan dat de
+omzet is toegenomen sinds het bedrijf een actieve website heeft dan grote bedrijven. Bij
+bedrijven met 1-3 werknemers is dit 40%, terwijl dit bij bedrijven met 10-50 werknemers
+39
+net iets onder de 30% ligt. Van de bedrijven met meer dan 50 werknemers geeft zelfs maar
+15% aan dat de website heeft geleid tot een toename in de omzet van het bedrijf.
+Figuur 4-2: Aantal bedrijven met waargenomenomzettoename als percentage van het totaal, gesorteerd naar de
+omvang van het bedrijf (in fte)
+3
+E
+S &
+50
+en
+meer
+(N=
+■41)
+11-49 (N=41)
+i-lO (N=45)
+5(N=30)
+4(N=37)
+(N:
+(N:
+(N:
+1=43)
+1=58)
+1=39)
+o Ja
+Nee
+6
+3
+2
+1
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+De waargenomen invloed van de website op de bedrijfsprestaties verschilt ook per
+organisatietype. Zelfstandige ondernemers bemerken vaker dan bedrijven welke onderdeel
+uitmaken van een samenwerkingsverband een toename in de omzet sinds zij een website
+hebben (zie tabel 4-3). Daarnaast geeft deze groep vaker aan dat de kosten gedaald zijn en
+dat zij een betere binding met de klanten hebben waargenomen. Opvallend is verder de
+toegenomen kostenstijging onder filiaalbedrijven (70%) en franchisers (67%), in
+vergelijking met de zelfstandigen (52%) en de overige samenwerkingsvormen (58%) . Een
+nadere bestudering van deze gegevens laat zien dat deze kosten voornamelijk veroorzaakt
+worden door kosten die gerelateerd zijn aan de website. De grotere toename van deze
+kosten kan grotendeels verklaard worden door het feit dat veel meer bedrijven die
+onderdeel uitmaken van een samenwerkingsverband ( gemiddeld 70%) de website door een
+professioneel bureau hebben laten ontwikkelen in vergelijking met de zelfstandige
+ondernemers (41%).
+40
+Tabel 4-3: Waargenomen verandering in prestatie indicatoren van het bedrijf, ingedeeld naar organisatietype
+Prestatie indicatoren	Zelfstandigen (in %)		Filiaalbedrijf (in %)	Franchise Overige coöperatief (in %) (In %)	
+Concurrentiepositie verbeterd	Nee	54,48	71,88	67,27	54,17
+	Ja	45,52	28,13	32,73	45,83
+Hogere Omzet	Nee	57,36	81,54	76,36	70,83
+	Ja	42,64	18,46	23,64	29,17
+Kosten daling	Nee	87,80	88,41	91,38	100,00
+	Ja	12,20	11,59	8,62	0,00
+Kostenstijging	nee	47,70	30,43	33,33	4231
+	Ja	52,30	69,57	66,67	57,69
+Meer kennis over klanten	Nee	79,86	65,15	74,55	70,83
+	Ja	20,14	34,85	25,45	29,17
+Betere binding met klanten	Nee	59,41	66,15	64,15	69,57
+	Ja	40,59	33,85	35,85	30,43
+Vooralsnog duiden de huidige gegevens er niet op dat er een relatie bestaat tussen het
+aantal jaar dat een bedrijf bestaat en de e-commerce prestaties van het bedrijf. Het aantal
+respondenten dat een positieve invloed van de website op de bedrijfsprestaties heeft
+waargenomen is vrijwel gelijk verdeeld over alle leeftijdsklassen.
+De mate waarin bedrijven een positief effect van de website ervaren verschilt wel per
+productsoort. Bedrijven die 'search goods' verkopen hebben het meeste baat bij een
+website. Meer dan de helft van de bedrijven (57%) in deze categorie geeft aan dat de
+concurrentie positie van het bedrijf verbeterd is en dat ze een betere binding met de klanten
+hebben gekregen (zie figuur 4-3 & figuur 4-4). Deze bedrijven hebben ook de omzet vaker
+zien toenemen en zij hebben vaker meer kennis verkregen over klanten dan bedrijven in de
+andere productklassen. Tussen de bedrijven die convenience en experience goods verkopen
+zijn de onderlinge verschillen gering. Het betreft niet meer dan enkele procentpunten.
+Duidelijk is wel dat alle drie over de hele linie minder presteren dan bedrijven die 'search
+goods' leveren.
+Figuur 4-3: Waargenomen verbetering in de concurrentiepositie van het bedrijf, ingedeeld naar organisatietype
+Search goods (N=72)
+Experience goods type 2 (N=139)
+Experience goods type 1 (N=146)
+Convenience goods (N=41)
+0% 20% 40% 60% 80% 100%
+□ Nee
+■ Ja
+41
+Figuur 4-4: Waargenomen verbetering van de klantenbinding, ingedeeld naar organisatietype
+Searchgoods (N=75)
+Experiencegoodstype 2 (N=137)
+Experiencegoodstype 1 (N=147)
+Convenience goods (N=40)
+0% 20% 40% 60% 80% 100%
+Ook de klanten spelen in rol in de mate van e-commerce succes. Hoewel vooralsnog het
+geslacht van de klanten weinig invloed lijkt uit te oefenen op de e-commerce prestaties van
+de winkeliers. Alleen op het gebied van de binding met de klant is een kleine trend te
+ontdekken. Hoe hoger het percentage mannen, hoe sterker de klantenbinding is
+toegenomen (zie figuur 4-5). De verschillen blijven echter klein. De rol van de leeftijd van
+de klanten op het succes van e-commerce is duidelijker. Winkeliers met een jonger publiek
+geven vaker aan beter te zijn gaan presteren sinds ze een website hebben dan winkeliers
+met klanten van middelbare en hoge leeftijd. Zoals ook blijkt uit tabel 4-4 presteren winkels
+met gemiddeld een jonger publiek beter op alle fronten, behalve op de daling van de kosten
+waar de verschillen erg klein zijn.
+Figuur 4-5: Waargenomen verbetering van de klantenbinding naar geslacht
+Winkeliers waarvan de klanten in de meerderheid een beneden modaal inkomen hebben
+ondervinden de minste positieve effecten van een website. Van deze groep geeft slechts
+20% aan dat de concurrentiepositie verbeterd is, terwijl dit bij bedrijven met klanten met
+over het algemeen een modaal inkomen op 46% en met een bovenmodaal inkomen op 39%
+ligt. Ook de waargenomen toename van de omzet duidt in dezelfde richting. Van de
+winkeliers met klanten uit de laagste inkomensklasse zag slechts 26% een toename, in de
+modale klasse was dit 36% en 37% in bovenmodale klasse.
+42
+Tabel 4-4: Waargenomen verandering in prestatie-indicatoren van het bedrijf, ingedeeld naar leeftijdscategorie
+Prestatie Indicatoren	0-25 jaar (in %)		25-55 jaar (in %) 55 jaar en ouder (In %)	
+Concurrentiepositie verbeterd	Nee	48,4	58,2	62,5
+	Ja	51,6	41,8	37,5
+Hogere Omzet	Nee	53,1	61,7	80,0
+	Ja	46,9	38,3	20,0
+Kosten daling	Nee	94,1	88,1	96,2
+	Ja	5,9	11,9	3,8
+Kostenstijging	nee	32,4	42,3	53,8
+	Ja	67,6	57,7	46,2
+Meer kennis over klanten	Nee	58,8	76,9	81,5
+	Ja	41,2	23,1	58,8
+Betere binding met klanten	Nee	39,4	61,1	62,5
+	Ja	60,6	38,9	37,5
+De adoptie van een e-commerce door een winkelier leidt over het algemeen tot betere
+prestaties wanneer deze kiest voor een meer geavanceerde strategie (zie tabel 4-5). Van de
+winkeliers met een synergie strategie geeft 73% aan dat de concurrentiepositie verbeterd
+is, bij winkeliers met een catalogue strategie (43%) en met een billboard strategie (23%)
+ligt dit percentage aanzienlijk lager. De verandering in de omzet laat eenzelfde trend zijn.
+Met een synergy (58%) of een mirrorstrategie (52%) heeft een winkelier de grootste kans
+op een toename van de omzet. In het geval van de billboard strategie geldt dat voor slechts
+12% van de bedrijven.
+Met betrekking tot kosten zijn er grote verschillen te bemerken tussen de strategieën. Van
+de winkeliers met een synergy strategie weet 22% kosten te besparen tegenover slechts
+3% van de winkeliers met een billboard strategie. Winkeliers die één van de overige
+strategieën geadopteerd hebben weten gemiddeld 10% te besparen. Bedrijven met de drie
+minst geavanceerde strategieën ondervinden ook het vaakst kostenstijgingen nadat ze een
+website gelanceerd hebben. Van de winkeliers met een catalogue strategie heeft de website
+meer dan de helft (55%) zijn kosten zien stijgen. Kostenstijgingen zijn ook vaak terug te
+vinden bij winkeliers met een billboard (45%) en een brochure (48%) strategie. Het aandeel
+43
+Tabel 4-5: Waargenomen verandering in prestatie indicatoren van het bedrijf, ingedeeld naar e-commerce
+strategie
+Prestatie Indicatoren	Billboard Strategy		Brochure Strategy	Catalogue Strategy	Service Strategy	Mirror Strategy	Synergy Strategy
+Concurrentiepositie verbeterd	Nee	76,9	60,8	56,3	68,1	44,9	26,5
+	Ja	23,1	39,2	43,8	31,9	55,1	73,5
+Hogere Omzet	Nee	87,2	64,3	59,4	77,1	48,0	41,7
+	Ja	12,8	35,7	40,6	22,9	52,0	58,3
+Kosten daling	Nee	96,5	88,2	91,7	88,9	90,4	78,4
+	Ja	3,5	11,8	8,3	11,1	9,6	21,6
+Kostenstijging	nee	44,6	47,8	55,6	33,3	34,6	33,3
+	Ja	55,4	52,2	44,4	66,7	65,4	66,7
+Meer kennis over klanten	Nee	87,5	79,7	85,7	67,6	71,2	58,3
+	Ja	12,5	20,3	14,3	32,4	28,8	41,7
+Betere binding met klanten	Nee	74,5	65,3	64,7	62,1	56,9	28,6
+	Ja	25,5	34,7	35,3	37,9	43,1	71,4
+van bedrijven dat een kostenstijging heeft ondervonden ligt onder de winkeliers met een
+verkoopstrategie een stuk lager, net iets boven de 30%.
+De relatie met de klanten gaat er onder bedrijven met een synergy strategie het vaakst op
+vooruit. Maar liefst 71% heeft een betere binding met de klanten gekregen en 41% is meer
+over ze te weten gekomen. Een groot deel van de winkeliers met één van de andere
+strategieën heeft ook een betere binding met zijn klanten gekregen, hoewel de percentages
+hier een stuk lager liggen. Deze lopen uiteen van 43% bij de bedrijven met een mirror
+strategie tot 25% onder bedrijven met een billboard strategie. Tevens is de kennis over
+klanten is onder de overige bedrijven met een verkoopstrategie (~30%) vaker toegenomen
+dan onder bedrijven met een informatiestrategie ( < 20%).
+De druk van concurrenten leidt vooralsnog niet tot betere e-commerce prestaties.
+Er is geen duidelijk verband te ontdekken tussen de e-commerce prestaties en het aantal
+winkels uit dezelfde sector dat in dezelfde binnenstad gevestigd. Ook het percentage van
+alle bedrijven in de straat laat vooralsnog geen invloed zien op de prestatie indicatoren. De
+multivariate analyse, waarin gecontroleerd wordt voor andere factoren zal uit moeten wijzen
+of de marktomgeving daadwerkelijk niet van invloed is op de mate van e-commerce succes.
+44
+4.2	Multivariate statistiek
+Om te bepalen welke factoren van invloed zijn op prestatie-indicatoren van e-commerce
+succes zullen de hypothesen getoetst worden met behulp van verschillende binaire
+logistische regressie analyses. Normaal gesproken wordt bij het verklaren een statistisch
+verband tussen afhankelijke variabelen door middel van één of meerder onafhankelijke
+variabelen lineaire regressie uitgevoerd. Dat is in dit geval niet mogelijk aangezien enkele
+afhankelijke variabelen, de prestatie indicatoren, dichotoom zijn. Logistische regressie
+transformeert de afhankelijke variabele in een logit variabele welke voorspelt of de
+afhankelijke variabele de waarde 0 of 1 heeft.
+Ook de vooronderstellingen wijken af van lineaire regressie. Zo gaat logistische regressie
+niet uit van een lineair verband tussen de variabelen en hoeven de afhankelijke variabelen
+niet normaal verdeeld te zijn (Garson, 2007). Wel moet gecontroleerd worden of de
+variabelen onderling niet te sterk correleren en of er een theoretisch oorzakelijk verband
+tussen de variabelen is. Om vast te stellen of er sprake is van multicollineariteit zijn aan de
+hand van Pearson's correlatiecoëfficiënt de onderlinge correlaties van de onafhankelijke
+variabelen getoetst. Met behulp van deze coëfficiënt kunnen in principe alleen variabelen op
+interval of ratio schaal getoetst worden. Voor berekeningen met dichotome variabelen is
+bijvoorbeeld een aparte formule benodigd (Phi). Programma's als SPSS maken het echter
+mogelijk berekeningen te doen met zowel continue als dichotome variabelen, waarbij de
+exacte correlatiecoëfficiënt berekend wordt ongeacht het type variabele (Garson, 2006).
+Regel is dat multicollineariteit een probleem is op het moment dat er één correlatie > 0,9 of
+als er meerdere >0,7 in de datamatrix met daarin alle onafhankelijke variabelen (Garson,
+2007). De correlatiematrix is te vinden in bijlage 1. Er is geen enkele correlatie in de matrix
+die een waarde heeft die hoger is dan 0,7 multicollineariteit is dus geen probleem. Verder
+zal er dus ook sprake van een theoretisch oorzakelijk verband tussen de afhankelijke
+variabelen aan de ene kant en de onafhankelijke variabelen aan de andere kant moeten
+zijn. Ook dat is het geval voor alle variabelen. De richting van de afhankelijkheid van de
+relaties kunnen maar één kant op beredeneerd worden.
+Veel van de onafhankelijke variabelen in dit onderzoek zijn categoriaal. Om een multiple
+regressie analyse uit te kunnen voeren moeten deze omgezet worden naar (dichotome)
+dummy variabelen. Het aantal dummy variabelen dat gemaakt moet worden bestaat uit het
+aantal categorieën van de categoriale variabele min één. De reden dat er één categorie
+45
+weggelaten moet worden is dat er anders perfecte multicollineariteit ontstaat en het
+logistische regressie model geen oplossing biedt (Garson, 2007). Indien er in de nu
+volgende regressie modellen een categorie weggelaten moet worden bij het omzetten naar
+dummy variabelen, is zoveel mogelijk gekozen voor de categorie waarvan op basis van de
+beschrijvende statistiek verwacht mag worden dat deze de minste invloed op de
+afhankelijke variabelen heeft.
+Voor de categoriale variabelen geldt dat voor iedere categorie een aparte dummy gemaakt
+is om zodoende de relatie met de afhankelijke variabelen te kunnen bepalen. Er is wel een
+belangrijk verschil in de interpretatie van de uitkomsten van enkelvoudige en multiple
+regressievergelijkingen. Bij enkelvoudige regressie wordt de invloed van andere
+onafhankelijke variabelen genegeerd, terwijl bij multiple regressie juist wordt gecorrigeerd
+voor het effect van andere variabelen.
+Het toetsen van de hypothesen gebeurd aan de hand van enkelvoudige logistische regressie
+vergelijkingen. Vervolgens wordt gekeken of de uitkomsten standhouden door middel van
+multiple regressie vergelijkingen.
+Alle analyses zijn uitgevoerd met SPSS 15, waarbij gebruik is gemaakt van de "enter"
+methode en een betrouwbaarheidsniveau van 95% (p< 0,05) De resultaten van de multiple
+logistische regressie zijn terug te vinden in tabel 4-6 en 4-7.
+4.2.1 Resultaten logistische regressie analyses
+Hypothese 1: Een website ontwikkeld door een professioneel bureau leidt tot meer e-
+commerce succes dan een die website gebouwd is door iemand anders.
+De variabele website ontwikkelaar is zowel in de enkelvoudige als multiple regressie
+modellen alleen significant met betrekking tot de kosten stijging. In dit onderzoek zijn alle
+positieve effecten van de prestatie indicatoren, de afhankelijke variabelen, gecodeerd met
+de waarde "1" en de negatieve of neutrale effecten met de waarde "0". Voor de indicator
+"kostenstijging" betekent categorie "1" dus geen kostenstijging en categorie "0" wel een
+kostenstijging" Zowel het enkelvoudige als het multiple model laten een negatieve B-waarde
+zien (B=-0,917 en B=-l,038). Dat betekent in dit geval dat er een negatief verband is
+tussen "geen kosten stijging" en een "website ontwikkeld door een professioneel bureau"
+Omdat dit een dichotome variabele is betekent dit dat de logit groter is dan voor overige
+46
+Tabel 4-6: Output Multiple logistische regressie deel 1
+	Concurrentiepositie		Omzet		Kostenstijging	
+	B	S.E.	B	S.E.	B	S.E.
+Kwaliteit website						
+Professionele Websiteontwikkelaar	0,047	0,351	0,290	0,374	-1,038	0,315 •
+Updatefrequentie	0,002	0,003	0,005	0,004	-0,002	0,003
+Ondernemer						
+Geslacht man	0,461	0,437	0,080	0,452	-1,076	0,391 *
+Leeftijd	0,002	0,020	0,031	0,022	-0,014	0,017
+Opleiding Lager		*				
+Opleiding Middelbaar	-1,623	0,555 ’	-0,946	0,566	-0,243	0,470
+Opleiding Hoger	-1,060	0,567	-1,101	0,581	-0,539	0,486
+Jaren internet ervaring	0,163	0,075 *	0,140	0,079	-0,061	0,065
+Kennisniveau Internet	0,404	0,098 *	0,434	0,104 •	-0,056	0,079
+Onderneming						
+Leeftijd bedrijf	-0,010	0,008	-0,013	0,008	0,001	0,006
+Aantal Medewerkers	-0,004	0,003	-0,006	0,003	-0,001	0,003
+Organisatietype zelfstandige	0,546	0,500	-0,105	0,522	0,573	0,464
+Convenience goods						
+Experience goods	-0,149	0,584	0,232	0,631	-0,164	0,543
+Search goods	0,718	0,699	0,528	0,742	0,286	0,635
+Klanten						
+Percentage man	-0,011	0,007	-0,023	0,008 ’	0,008	0,006
+Percentage klanten 0 tot 25 jaar	0,002	0,014	0,013	0,015	-0,014	0,012
+Percentage klanten 25 tot 55 jaar	-0,012	0,012	0,003	0,012	-0,012	0,011
+Percentage klanten 55 jaar of ouder						
+Inkomen Beneden modaal						
+Inkomen Modaal	0,770	1,211	0,815	1,162	-0,544	0,907
+Inkomen Boven modaal	0,456	1,219	0,856	1,192	-1,027	0,930
+Marktomgeving						
+Bedrijven met actieve website per straat (%)	0,002	0,008	0,005	0,008	-0,008	0,007
+Nabijheid winkels in dezelfde sector	0,011	0,012	-0,014	0,013	0,018	0,011
+E-commerce strategie onderneming						
+Billboard Strategie		♦		♦		
+Brochure Strategie	0,872	0,493	2,225	0,738 *	0,132	0,428
+Catalogue Strategie	-1,011	0,881	1,887	0,959 ’	0,739	0,648
+Service Strategie	0,592	0,687	2,338	0,862 *	-0,278	0,643
+Mirror Strategie	1,397	0,636	3,119	0,860 *	-0,879	0,582
+Synergy Strategie	4,008	1,410 *	4,828	1,283 •	0,301	0,811
+Constante	-328,033	151,061 *	-285,635	158,752	125,693	130,910
+Nogelkerke R 2	0,363		0,398		0,233	
+N/% correct voorspeld	220	71,4%	212	71,7%	236	68,8%
+*p<0,05	X 2 =69,596 df=25		X 2 =73,924 df=25		X2 =45,185 df=25	
+website ontwikkelaars. De kans dat er een kostenstijging optreedt, is dus groter als de
+website ontwikkeld is door een professioneel bureau dan dat deze door een ander
+ontwikkeld is. Een stijging van de kosten heeft een negatief effect op het succes van e-
+commerce en hypothese 1 wordt dus verworpen.
+Hypothese 2: Hoe vaker de website wordt bijgewerkt, hoe groter het e-commerce succes is.
+De onafhankelijke variabele "updatefrequentie" is significant in vier verschillende
+enkelvoudige regressie modellen en in geen enkel multiple model. Zowel aangaande de
+concurrentiepositie(B=0,004) , de kennis over klanten (B=0,005) en de klantenbinding
+47
+Tabel 4-7: Output multiple logistische regressie deel 2
+	Kennis over klanten		Klantenbinding	
+	B	S.E.	B	S.E.
+Kwaliteit website				
+Professionele Websiteontwikkelaar	-0,286	0,399	-0,307	0,357
+Updatefrequentie	0,005	0,003	0,005	0,003
+Ondernemer				
+Geslacht man	0,360	0,492	0,113	0,424
+Leeftijd	-0,037	0,024	0,001	0,020
+Opleiding Lager				
+Opleiding Middelbaar	-0,690	0,588	0,374	0,569
+Opleiding Hoger	-0,537	0,582	0,008	0,589
+Jaren Internet ervaring	-0,153	0,084	-0,036	0,075
+Kennisniveau Internet	-0,054	0,099	-0,038	0,086
+Onderneming				
+Leeftijd bedrijf	-0,006	0,009	0,002	0,007
+Aantal Medewerkers	0,003	0,004	0,006	0,004
+Organisatietype zelfstandige	0,114	0,561	1,255	0,592 •
+Convenience goods				
+Experience goods	0,015	0,658	0,460	0,600
+Search goods	0,172	0,763	1,065	0,695
+Klanten				
+Percentage man	-0,008	0,009	-0,010	0,007
+Percentage klanten 0 tot 25 jaar	-0,004	0,014	0,009	0,013
+Percentage klanten 25 tot 55 jaar	-0,010	0,013	-0,021	0,012
+Percentage klanten 55 jaar of ouder				
+Inkomen Beneden modaal				
+Inkomen Modaal	0,929	1,355	-0,179	0,993
+Inkomen Boven modaal	1,279	1,394	0,082	1,008
+Marktomgeving				
+Bedrijven met actieve website per straat (%)	0,005	0,009	0,014	0,008
+Nabijheid winkels in dezelfde sector	-0,015	0,016	•0,014	0,013
+E-commerce strategie onderneming				
+Billboard Strategie				•
+Brochure Strategie	-0,347	0,550	-0,352	0,493
+Catalogue Strategie	-1,098	1,029	-0,520	0,769
+Service Strategie	0,222	0,747	0,976	0,657
+Mirror Strategie	-0,020	0,668	0,353	0,612
+Synergy Strategie	0,955	0,925	2,136	0,976 ’
+Constante	305,310	167,351	70,322	149,521
+Nagel kerke R 2	0,207		0,292	
+N/ % correct voorspeld	233	82,4%	220	73,2%
+*p<0,05	X2 =32,6217 df=25		X2 =52,459 df=2S	
+(B=0,003)is de logit positief. Alleen de coëfficiënt met betrekking tot "geen kostenstijging"
+is negatief. (B=-0,003) Echter de invloed van de updatefrequentie is in positief in drie van
+vijf in drie van de vijf modellen en heeft in totaal dus een positieve uitwerking op het succes
+van e-commerce. Hypothese 2 wordt dan ook niet verworpen.
+Hypothese 3: Mannelijke winkeliers hebben meer succes met betrekking tot e-commerce
+dan vrouwelijke winkeliers.
+De dichotome variabele "geslacht man" is significant in zowel het enkelvoudige (B=-0,581)
+48
+als ook in het multiple model (B=-l, 076) met betrekking tot de stijging van de kosten. In
+beide gevallen is coëfficiënt negatief wat betekent dat de kans groter is dat de kosten
+toenemen als de winkelier man is. Een stijging van de kosten heeft een negatief effect op e-
+commerce succes en dus wordt de hypothese verworpen.
+Hypothese 4: Hoe jonger de winkelier, hoe groter het e-commerce succes van de
+onderneming.
+De variabele leeftijd is significant en heeft een negatieve coëfficiënt (B=-0,38) in het
+enkelvoudige logistische regressie model betreffende de kennis over klanten. Dit betekent
+dus dat naarmate de leeftijd toeneemt de kans op meer kennis over klanten kleiner wordt.
+Een jonge winkelier heeft meer kans op kennis over klanten wat weer een positief effect op
+het succes van e-commerce heeft. De hypothese wordt dan ook niet verworpen.
+Hypothese 5: Hoe hoger het opleidingsniveau van de winkelier, hoe groter het succes van e-
+commerce.
+Zowel in het enkelvoudige model wat betreft een "stijging van de kosten" als in het multiple
+model aangaande de concurrentiepositie is de variabele opleidingsniveau significant. In het
+enkelvoudig model gaat het om de dummy variabele "hoger opgeleid" en het multiple model
+de categoriale dummy "middelbare opleiding". De coëfficiënt in het multiple model is
+negatief (B=-l,623). Dit betekent in dit geval dat de kans dat een ondernemer met een
+middelbare opleiding de concurrentiepositie weet te verbeteren kleiner is dan de kans dat
+ondernemer met een lagere opleiding dat doet. Ook in het enkelvoudig model is de
+coëfficiënt negatief (B=-0,455). Dit betekent dat de kans dat iemand met een hogere
+opleiding te maken krijgt met een kostenstijging groter is dan iemand die geen hogere
+opleiding heeft. Op basis van deze gegevens kan dan ook geconcludeerd worden dat een
+hoger opleidingsniveau niet bijdraagt aan betere prestaties en dat de hypothese verworpen
+moet worden.
+Hypothese 6: Hoe meerjaren internetervaring een winkelier heeft, hoe groter het e-
+commerce succes.
+Het aantal jaar ervaring dat een winkelier privé met internet heeft, heeft verschillende
+effecten. In het multiple model aangaande de concurrentiepositie is de variabele significant
+en is de coëfficiënt positief (B=0,163). Hoe meer ervaring, hoe groter de kans dat de
+concurrentiepositie van de winkelier verbetert. De kans dat een winkelier meer kennis over
+klanten vergaard wordt echter kleiner naar mate hij een groter aantal jaren ervaring heeft
+49
+met internet. De variabele is echter significant in het enkelvoudige model met betrekking
+tot de kennis over klanten en heeft een negatieve coëfficiënt (B=-0,145). Minder kans op
+kennis over klanten, betekent ook een kleinere kans op e-commerce succes. De hypothese
+wordt op basis van dit enkelvoudig model dan ook verworpen.
+Hypothese 7: Meer kennis van de winkelier op het gebied van internet, leidt tot meer e-
+commerce succes.
+De variabele "kennis over internet" is significant en positief in zowel de enkelvoudige als de
+multiple modellen met betrekking tot de concurrentiepositie (B=0,283 & B=0,404) en de
+omzet (B=0,242 & B=0,434). Meer kennis over internet leidt tot betere prestaties en dus
+ook tot meer succes aangaande e-commerce. De hypothese wordt dus niet verworpen.
+Hypothese 8: Hoe minder werknemers een winkelbedrijf heeft, hoe groter het e-commerce
+succes.
+Er zijn geen significante verschillen op basis van de omvang van bedrijven aangaande e-
+commerce. De hypothese wordt dan ook verworpen.
+Hypothese 9: Hoe jonger het bedrijf, hoe groter het e-commerce succes.
+De leeftijd van een bedrijf speelt geen rol in het succes van e-commerce. Er zijn geen
+significante verschillen die terug te leiden zijn tot de leeftijd van het bedrijf en met die
+reden wordt de hypothese verworpen.
+Hypothese 10: zelfstandigen zijn succesvoller op het gebied van e-commerce dan ketens.
+De dummy variabele "organisatietype" met als categorieën ketens (0) en zelfstandigen (1)
+is significant in de enkelvoudige logistische regressie modellen over wat betreft de
+concurrentiepositie (B=0,545) de omzet(B=0,965), kostenstijging (B=0,572) en kennis over
+klanten (B=-0,537). Dit houdt in dat de kans dat een zelfstandige de concurrentiepositie
+verbeterd, de omzet verhoogd en de kosten weet niet te laten stijgen groter is dan voor
+ketens. Ketens hebben echter een grotere kans meer kennis over klanten te weten te
+komen. In het multiple model is de coëfficiënt betreffende de klantenbinding positief
+(B= 1,255). De invloed van de variabele organisatietype is in het merendeel van de
+modellen positief. Zelfstandigen hebben een grote kans dat prestaties verbeteren dan
+ketens en dus is de kans op succes ook groter. De hypothese wordt In dit geval dan ook niet
+verworpen.
+50
+Hypothese 11: Bedrijven die 'search goods' verkopen zijn succesvoller aangaande e-
+commerce dan bedrijven die 'convenience goods' of 'experience goods' verkopen.
+De invloed van convenience goods op de prestaties van e-commerce is in geen enkel model
+significant. Ook geen van de multiple modellen levert significante verschillen op, dus deze
+kunnen verder buiten beschouwing gelaten worden. Experience goods zijn echter significant
+in enkelvoudige modellen met betrekking tot de concurrentiepositie en de klantenbinding.
+De coëfficiënten zijn echter wel negatief, wat betekent dat de kans dat andere winkeliers
+hun concurrentiepositie verbeteren (B= -0,601) en een betere binding met hun klanten
+krijgen (B=-0,548) groter is dan bedrijven die experience goods verkopen. De kans dat
+winkeliers die search goods verkopen hun concurrentiepositie verbeteren (B=0,784), meer
+kennis over hun klanten krijgen (B=0,689) of de klantenbinding verbeteren (B=0,958) is
+groter dan wanneer ze een andere productsoort zouden verkopen. Deze gegevens komen
+overeen met de gestelde hypothese, deze wordt dan ook niet verworpen.
+Hypothese 12: Hoe groter het percentage mannelijke klanten, hoe groter het e-commerce
+succes.
+Het percentage van de klanten dat man is veroorzaakt geen significante verschillen wat
+betreft e-commerce succes. In geen van de enkelvoudige modellen is de variabele
+significant. Alleen in het multiple model aangaande de omzet is dat het geval. De coëfficiënt
+is hier negatief (B=-0,023). Daar de variabele in geen van de enkelvoudige modellen
+significant is wordt de hypothese alsnog verworpen.
+Hypothese 13: Hoe jonger de samenstelling van het klantenbestand, hoe groter het e-
+commerce succes.
+Er is vrijwel geen enkele invloed van de leeftijd van de klanten op de e-commerce prestaties
+van bedrijven. De invloed van de leeftijd op het succes blijft beperkt tot de kennis over
+klanten. De variabele klanten tot 25 jaar is significant in de enkelvoudige analyse. De
+coëfficiënt is positief (B=0,015) dus winkeliers waarvan een groot percentage van de
+klanten onder de 25 jaar is hebben een grotere kans om meer kennis over klanten te
+verkrijgen dan winkeliers met gemiddeld oudere klanten. De hypothese wordt dus niet
+verworpen.
+Hypothese 14: Hoe hoger het gemiddelde inkomen van de klanten, hoe groter het e-
+commerce succes.
+51
+Het inkomen van de klanten heeft geen invloed op het succes van e-commerce. Er bestaan
+geen significante verschillen tussen de inkomensgroepen in de modellen. De hypothese
+wordt dus verworpen.
+Hypothese 15: Hoe hoger het percentage bedrijven met een website in de straat, hoe
+succesvoller een winkelier is op het gebied van e-commerce.
+Hypothese 16: Hoe meer bedrijven uit de dezelfde sector in de binnenstad aanwezig zijn
+hoe groter het e-commerce succes.
+Ook de markomgeving heeft geen invloed op het succes van e-commerce. Zowel het aantal
+bedrijven in de dezelfde sector dat in de stad gevestigd is als het percentage bedrijven in
+met een website in dezelfde straat veroorzaakt geen significante verschillen in de e-
+commerce prestaties van bedrijven. Om die reden worden beide hypothesen verworpen
+Hypothese 17: Hoe geavanceerder de strategie, hoe groter het e-commerce succes.
+Zowel de billboardstrategie als de synergiestrategie zijn significant in alle enkelvoudige
+modellen op het model na dat betrekking heeft op de kostenstijging. Er is echter een groot
+verschil tussen de twee strategieën: de regressiecoëfficiënten bij de billboard strategie zijn
+uitsluitend negatief terwijl deze bij de synergy strategie uitsluitend positief zijn. De kans dat
+een winkelier met een billboardstrategie zijn concurrentiepositie verbeterd (B=-0,947), zijn
+omzet ziet stijgen(B=-l,441), meer kennis over klanten (B=-0,854) krijgt of een betere
+binding met zijn klanten weet te krijgen (B=-l,046) is altijd kleiner dan een winkelier die
+een andere strategie geadopteerd heeft. De iets geavanceerdere brochure strategie en
+catalogue strategieën zijn in geen enkel enkelvoudig model significant. De service strategie
+wel, deze is significant in het enkelvoudig model betreffende de omzet. De coëfficiënt (B=-
+0,720) is echter negatief. Dit betekent dus dat de kans groter is dat andere bedrijven een
+hogere omzet halen dan bedrijven met service strategie. Het adopteren van een
+Mirrorstrategie heeft wel een positief effect op een bedrijf. De strategie is significant wat
+betreft de concurrentiepositie en de omzet. Winkeliers met deze strategie hebben een
+grotere kans dat de concurrentiepositie verbeterd (B=0,647) of dat de omzet toeneemt
+(B=0,795) dan winkeliers die een andere strategie geadopteerd hebben.
+Zoals hierboven als vermeld levert de Synergy strategie de grootste kans op e-commerce
+succes. Winkeliers met deze strategie hebben een grotere kans dat ze meer te weten komen
+52
+over hun klanten (B=0,937), dat ze een betere binding met hun klanten krijgen (B=l,527),
+dat de omzet toeneemt (B=l,046) en dat de concurrentiepositie verbeterd (B=l,507) in
+vergelijking tot winkeliers die een andere strategie geadopteerd hebben. Ook uit de multiple
+modellen blijkt dat de synergy strategie de beste kansen oplevert voor het verbeteren van
+de prestaties, de verschillen tussen de andere strategieën zijn in deze modellen echter
+kleiner.
+De minst geavanceerde strategie levert de kleinste kans op prestatieverbeteringen op, de
+twee meest geavanceerde strategieën de grootste kans. De hypothese wordt dan ook niet
+verworpen
+4.3	Conclusie
+In dit vierde hoofdstuk is getracht om, aan de hand van de resultaten verkregen door
+middel van de enquête de laatste onderzoeksvraag te beantwoorden: Welke factoren zijn
+van invloed op de e-commerce prestaties zoals deze waargenomen zijn door winkeliers in de
+binnenstad?
+In de eerste paragraaf is een verkennend onderzoek uitgevoerd op basis van beschrijvende
+statistiek. Uit dit onderzoek is gebleken dat de invloed van de bevolkinggroep waartoe een
+respondent behoort op de e-commerce prestaties niet te toetsen valt. Vrijwel alle
+respondenten hebben namelijk aangegeven dat zij behoren tot de Nederlandse
+bevolkingsgroep. Ook bleek dat erg weinig respondenten een daling in de kosten
+waargenomen hebben. Om deze reden kon de variabele niet langer als indicator van e-
+commerce succes worden beschouwd. De regressie analyses zijn dus alleen uitgevoerd voor
+de overige vijf prestatie-indicatoren.
+In de daaropvolgende paragraaf zijn met behulp van diverse enkelvoudige binaire
+logistische regressie analyses, hypotheses getoetst aan de hand waarvan de invloed van
+diverse factoren op de e-commerce prestaties van bedrijven bepaald kan worden. Ook is er
+een multiple regressie analyses uitgevoerd om te bepalen of de variabelen ook significant
+zijn als ze voor elkaar gecorrigeerd worden.
+Allereerst is de invloed van de kwaliteit van de website op het succes van e-commerce
+getoetst. Hieruit bleek dat hoe vaker een website bijgewerkt wordt, hoe groter het e-
+commerce succes is. Verder is gebleken dat het laten ontwikkelen van een website door een
+53
+professioneel bureau veel kosten met zich meebrengt en daardoor, in tegenstelling tot wat
+verwacht werd, een negatief effect heeft op het succes van e-commerce.
+Vervolgens zijn verschillende kenmerken van de ondernemer getoetst. Hieruit is onder
+andere gebleken dat jonge winkeliers een grotere kans op e-commerce succes hebben dan
+oudere winkeliers. Ditzelfde geldt voor vrouwen in vergelijking tot mannen. Daarnaast is het
+kennisniveau met betrekking tot internet van invloed, hoe meer kennis hoe groter de kans
+op e-commerce succes. Vreemd genoeg had het aantal jaar dat een ondernemer privé
+gebruik maakt van internet een negatieve invloed. Het opleidingsniveau bleek geen
+significante invloed op de e-commerce prestaties te hebben.
+De kenmerken van de onderneming vormen ook een onderscheidende factor met betrekking
+tot e-commerce succes. Zelfstandigen zijn succesvoller dan ketens en bedrijven die "search
+goods" verkopen presteren beter dan bedrijven die "convenience goods" of experience
+goods" verkopen. Het aantal jaar dat het bedrijf bestaat en de omvang uitgedrukt in het
+aantal medewerkers bleken geen invloed te hebben op de e-commerce prestaties.
+Met betrekking tot de samenstelling van het klantenbestand bleken inkomen en geslacht
+niet significant van invloed te zijn op het succes. Alleen de leeftijd van de klanten speelt een
+rol. Hoe groter het percentage jonge klanten, hoe groter kans op e-commerce succes.
+Vooralsnog is niet gebleken dat de marktomgeving van invloed is op de e-commerce
+prestaties van een bedrijf. De druk van zowel het aantal bedrijven in dezelfde sector in de
+stad als ook het percentage bedrijven met een website in dezelfde straat bleken niet
+significant te zijn.
+Van groot belang is wel de geadopteerde e-commerce strategie gebleken. Hoe
+geavanceerder de strategie is hoe groter de kans is op e-commerce succes. Zo bleek dat de
+kans dat bedrijven met de minst geavanceerde strategie, de billboard strategie, succesvol
+zijn op het gebied van e-commerce kleiner te zijn dan de kans van een bedrijf dat een
+andere strategie geadopteerd heeft. Voor de meest geavanceerde strategie, de synergy
+strategie is dit precies omgekeerd.
+54
+5	Conclusies en aanbevelingen
+Dit onderzoek heeft betrekking op winkeliers gevestigd in een Nederlandse binnenstad die
+een website hebben. Doel van het onderzoek is te bepalen welke winkeliers in de
+binnenstad succesvol een e-commerce strategie geadopteerd hebben en welke factoren van
+invloed zijn op dit succes. De probleemstelling waarop in dit onderzoek een antwoord
+gezocht is luidt:
+Welke factoren zijn van invloed op het e-commerce succes van een door een winkelier in de
+binnenstad geadopteerde e-commerce strategie?
+De factoren, waarvan gebleken is dat ze van invloed zijn op het succes van e-commerce
+zijn: de updatefrequentie van de website, de leeftijd en het geslacht en de internetkennis
+van de winkelier, de ondernemingsvorm, het producttype, leeftijd van de klanten en de
+geadopteerde e-commerce strategie.
+De updatefrequentie is een factor die betrekking heeft op de kwaliteit en actualiteit van de
+gegevens op de website. Hoe vaker een website bijgewerkt wordt, hoe actueler de
+gegevens, hoe aantrekkelijker de website, hoe groter de invloed op succes van e-
+commerce. Met betrekking tot de kenmerken van de ondernemer kan geconcludeerd
+worden dat jonge winkeliers een grotere kans op e-commerce succes hebben dan oudere,
+en dat vrouwen een grotere kans hebben dan mannen. Verder is ook het kennisniveau
+aangaande internet van invloed, hoe meer kennis hoe groter de kans op e-commerce
+succes. Kenmerken van het bedrijf die van belang zijn, zijn de ondernemersvorm en het
+type product dat het bedrijf levert. Zelfstandigen zijn succesvoller dan ketens en bedrijven
+die "search goods" verkopen presteren beter dan bedrijven die "convenience goods" of
+experience goods" verkopen. Het enige kenmerk van de klanten dat significant van invloed
+is gebleken is de leeftijd. Hoe groter het percentage jonge klanten, hoe groter kans op e-
+commerce succes.
+Een grote rol is weggelegd voor de geadopteerde e-commerce strategie. Er zijn grote
+verschillen in prestaties tussen de minst en meest geavanceerde strategie. Er geldt, hoe
+geavanceerder de strategie, hoe groter de kans op e-commerce succes.
+55
+Deze gegevens zijn op de volgende manier verkregen. Op basis van literatuuronderzoek zijn
+zes e-commerce prestatie-indicatoren geïdentificeerd: concurrentiepositie, omzet,
+kostendaling, kostenstijging, kennis over klanten, klantenbinding. Daarnaast zijn 17
+factoren geïdentificeerd welke mogelijk van invloed konden zijn. Deze zijn onder te verdelen
+in zes groepen: Kwaliteit van de website, kenmerken van de ondernemer, kenmerken van
+de onderneming, klanten en e-commerce strategie. De benodigde gegevens zijn vervolgens
+door middel van een enquête, grotendeels telefonisch, maar ook per post en email
+verzamelt.
+De onderzochte groep betreft winkeliers in 8 verschillende Nederlandse binnensteden:
+Alkmaar, Almere, Amersfoort, Haarlem, Hilversum, Purmerend, Utrecht, Veenendaal. Dit
+zijn zowel zelfstandige ondernemers als ook ketens. Van uiteenlopende grootte en verdeeld
+over alle winkelbranches.
+Omdat dit onderzoek deel uitmaakt van een groter onderzoek naar het gebruik van e-
+commerce onder winkeliers in de binnenstad zijn alle winkeliers in de binnensteden van
+bovenstaande steden benaderd. Vervolgens is een selectie gemaakt van alle bedrijven met
+een actieve website die meegewerkt hebben aan het onderzoek. De verzamelde data heeft
+betrekking op 466 bruikbare enquêtes.
+Op basis van de verzamelde gegevens zijn vervolgens analyses uitgevoerd om de relaties
+tussen de prestatie-indicatoren en e-commerce succesfactoren te identificeren. Hiervoor is
+gebruik gemaakt van beschrijvende statistiek als ook verschillende binaire logistische
+regressie vergelijkingen.
+5.1 Tekortkomingen
+De belangrijkste tekortkoming van dit onderzoek is dat gebruik is gemaakt van prestatie-
+indicatoren die gebaseerd zijn op waargenomen veranderingen door de respondent. Beter
+zou het zijn gebruik te maken van harde cijfers zoals gegevens met betrekking tot de
+omzet. We weten nu namelijk wel dat de prestaties verbeterd of verslechterd zijn, maar niet
+met welke eenheid. Een bedrijf dat alleen heeft aangeven dat zijn omzet gestegen is, kan
+bijvoorbeeld veel beter presteren dan een bedrijf dat heeft aangegeven dat er vijf of zes
+indicatoren in positieve zin veranderd zijn. Helaas zijn er niet veel bedrijven die deze
+informatie vrijgeven en dus is deze methode een goed alternatief. Een belangrijke factor in
+het succes van e-commerce is mijns Inziens ook de kwaliteit van de website zelf. Het is
+56
+datgene dat de potentiële klant als eerst ziet en doet besluiten of hij verder surft of de
+website verder gaat bekijken. Om de effectiviteit van een e-commerce strategie echt te
+kunnen beoordeling moet dus ook de mening van de klant gevraagd worden.
+5.2	Aanbevelingen
+Een belangrijke factor die van invloed is op het succes is de aanwezige kennis met
+betrekking tot internet. Instellingen zoals de Kamer van Koophandel of gemeenten zouden
+ondernemers kunnen trainen in het gebruik en de mogelijkheden van e-commerce en
+internet. Door deze trainingen aan te bieden wordt de kans op het succes van e-commerce
+vergroot wat dus ook een positief effect heeft op het bedrijf. Dit heeft in het bijzonder effect
+op kleine zelfstandige ondernemers die specialistische goederen verkopen. Een goede
+strategie helpt hen het marktgebied te vergroten.
+De Kamer van Koophandel geeft al veel cursussen om het falen van bedrijven te voorkomen
+en een cursus met betrekking tot e-commerce zou een goede aanvulling zijn. Gemeenten
+zouden er voor kunnen kiezen om een dergelijke cursus aan zelfstandige ondernemers aan
+te bieden. Door het marktbereik van deze bedrijven te vergroten door middel van een e-
+commerce strategie wordt de levensvatbaarheid van het bedrijf vergroot. Gemeenten
+kunnen zo een diversiteit van het winkelaanbod beter garanderen.
+Het succes van e-commerce is ook grotendeels een kwestie van afstemmen. Nu bekend is
+welke factoren een significante rol spelen in het succes van e-commerce zouden
+winkelbedrijven er verstandig aan doen deze factoren te evalueren voordat zij een (nieuwe)
+website openen. Na een inventarisatie van het type product dat men verkoopt, en de
+kenmerken van de klanten kan vervolgens een bijpassende strategie gekozen worden.
+Dit soort evaluaties kan de kans op een succesvolle strategie aanmerkelijk vergroten.
+57
+Literatuur
+Adelaar, T., H. Bouwman & C. Steinfield. (2003), Enhancing customer value through click-
+and-mortar e-commerce:implications for geographical marketreach and customer
+type. Teiematics and Informaties (21): 167-182.
+Amit, R. & C. Zott. (2001), Value creation in E-business. Strategie Management Journal
+22:493-520.
+Apigian, C.H., B.S. Ragu-Nathan, T.S. Ragu-Nathan &A. Kunnathur. (2005), INTERNET
+TECHNOLOGY: THE STRATEGICIMPERATIVE. Journal of Electronic Commerce
+Research 6 (2).
+Babtista, R. (1999), The Diffusion of Process Innovations: A Selective Review. International
+Journal of the Economics of Business 6 (1): 107-129.
+Barney, J. (1991), Firm Resources and Sustained Competitive Advantage. Journal of
+Management 17 (1):99.
+Barney, J.B., FJ. Mata & W.L. Fuerst. (1995), Information Technology and Sustained
+Competitive Advantage: A Resource-Based Analysis. MIS Quarterly 19 (4):487-505.
+Barua, A., P. Konana, A.B. Whinston & F. Yin. (2001), Driving e-business excellence. Sloan
+Management Review 43 (l):36-44.
+Boschma, R.A. 8i J.WJ. Weltevreden. (2006), An evolutionaryperspective on Internet
+adoption by retailers in the Netherlands. Utrecht: Department of Economie
+Geography; Faculty of GeoSciences; University of Utrecht;.
+Bremser, W.G. & Q.B. Chung. (2005), A framework for performance measurement in the e-
+business environment. Electronic Commerce Research and Applications 4 (4): 395-
+412.
+Brown, L. (1968), Diffusion dynamics: a review and revision of the quantitative theory of
+the spatial diffusion of innovation Brown. Vol. 29, Lund Studies in Geography: Ser. B.
+Human Geography. Lund: The Royal University of Lund, Department of Geography.
+Brown, L. (1975), The Market and Infrastructure Context of Adoption: A Spatial Perspective
+on the Diffusion of Innovation. Economie geography 51 (3):185-216.
+Burt, S. & L. Sparks. (2003), E-commerce and the retail process: a review. Journal of
+Retailing and Consumer Services 10 (5):275-286.
+Carter, J.A. (2001), Developing E-Commerce Systems: Prentice Hall PTR Upper Saddle
+River, NJ, USA.
+58
+Christensen, G.E. & L.B. Methlie. (2003), Value Creation in eBusiness: Exploring the
+Impacts of Internet-Enabled Business Conduct. 16th Bied eCommerce Conference:
+eTransformation, Bied, Sloven ia.
+Coppel, J. (2000), E-Commerce: Impacts and Policy Challenges. In OECD Economics
+Department Working Papers: OECD Publishing.
+De Kare-Silver, M. (2000), e-Shock 2000 : the electronic shopping revolution : strategies
+for retaiiers and manufacturers. Londen: Macmillan.
+DeLone, W.H. & E.R. McLean. (1992), Information Systems success: The quest for the
+dependent variable. Information & Management 3:60-95.
+DeLone, W.H. & E.R. McLean. (2002), Information systems success revisited. System
+Sciences, 2002. HICSS. Proceedings of the 35th Annual Hawaii International
+Conference on:2966-2976.
+DeLone, W.H. & E.R. McLean. (2004), Measuring e-Commerce Success: Applying the
+DeLone & McLean Information Systems Success Model. International Journal of
+Electronic Commerce 9 (1):31-47.
+Dholakia, R.R. & N. Kshetri. (2004), Factors Impacting the Adoption of the Internet among
+SM Es. Small Business Economie 23:311-322.
+Dixon, T. & A. Marston. (2002), UK Retail Real Estate and the Effects of Online Shopping.
+Journal of Urban Technology 9 (3): 19-47.
+Doherty, N.F. & F. Ellis-Chadwick. (2003), The relationship between retaiiers'targeting and
+e-commerce strategies: an empirical analysis. Internet Research: Electronic
+Networking Applications and Policy. 13 (3): 170-180.
+Doherty, N.F., F. Ellis-Chadwick & C.A. Hart. (1999), Cyber retailing in the UK: the potential
+of the Internet as a retail channel. International Journal of Retail & Distribution
+Management 27 (l):22-36.
+Doherty, N.F., F. Ellis-Chadwick & C.A. Hart. (2003), An analysis of the factors affecting the
+adoption of the internet in UK retail channel. Journal of Business Research (56): 887-
+897.
+Fagerberg, J. 8< B. Verspagen. (2001), Technology-gaps, innovation-diffusion and
+transformation: an evolutionary interpretation. Eindhoven: Eindhoven Centre for
+Innovation Studies (ECIS), Eindhoven University of Technology.
+Formula., F. (2002), De Nationale Franchise & Formulegids. Amsterdam: First Formula
+Uitgeverij B.V.
+Freeman, C. (1991), The Nature of Innovation and the Evolution of the Productive System,
+Technology and Productivity: The Challenge for Economie Policy. Paris: OECD.
+59
+Garcia, R. & R. Calantone. (2001), A critica! look at technological innovation typology and
+innovativeness terminology: a literature review. Journal of Product Innovation
+Management 19 (2): 110-132.
+Garson, G.D. "Correlation" from Statnotes: Topics in Multivariate Analysis. 2006 [cited 08
+August 2007. Available from http://www2.chass.ncsu.edu/qarson/PA765/correl.htm
+Garson, G.D. "Logistic Regression", from Statnotes: Topics in Multivariate Analysis 2007
+[cited 08 August 2007. Available from
+http://www2.chass.ncsu.edu/qarson/PA765/loqistic.htm
+Garson, G.D. "Multiple Regression", from Statnotes: Topics in Multivariate Analysis 2007
+[cited 09 August 2007. Available from
+http://www2.chass.ncsu.edu/qarson/pa765/reqress.htm
+Gurley, J.W. (2000), The One Internet Metric That Really Matters. Fortune 141 (5):392.
+Hagerstrand, T. (1967), Innovation Diffusion as a Spatial Process. Chicago: University of
+Chicago Press.
+Hoevenagel, R. & C. Melchior. (2003), Computertechnologie in detailhandel en Ambachten:
+1-meting ICT-gebruik in 52 branches in het kader van het project 'Over de Digitale
+Drempel'. Zoetermeer: Hoofdbedrijfschap Detailhandel.
+Hoffman, D.L., T.P. Novak & A.E. Schlosser. (2000), The Evolution of the Digital Divide:
+How Gaps in Internet Access May Impact Electronic Commerce. Journal of Computer-
+Mediated Communication 5 (3):1.
+Huang, J., H. Wang & C. Zhao. (2005). E-Commerce Success Factors: Exploratory and
+Empirical Research on the Chinese Publishing Industry.
+lacovou, C.L., I. Benbasat 8<A.S. Dexter. (1995), Electronic Data Interchange and Small
+Organizations: Adoption and Impact of Technology. MIS Quarterly 19 (4):465-485.
+Kamer van Koophandel Nederland. (2006), Bedrijvendynamiek 2005: Oprichting en
+opheffing van bedrijven in Nederland. Woerden: Kamer van Koophandel Nederland.
+Kaplan, R. & D. Norton. (1992), The balanced scorecard: measures that drive performance.
+Harvard Business Review 70 (1).
+Keen, C., M. Wetzels, K.d. Ruyter & R. Feinber. (2004), E-tailers versus retailers :Which
+factors determine consumer preferences. Journal of Business Research (57): 685-
+695.
+Klein, L.R. (1998), Evatuating the potential of Interactive media through a new lens: Search
+versus experience goods. Journal of Business Research 41 (3): 195-203.
+60
+Lee, M.K.O. & C.M.K. Chueng. (2004), Internet Adoption by Small-to-Medium Sized
+Enterprises (SMEs): a Multiple-Case Study. Information Systems Frontiers 6 (4):385-
+397.
+Levenburg, N.M. (2005), Delivering customer value Online: an analysis of practices,
+applications, and performance. Journal of Retailing and Consumer Services 12
+(5):319-331.
+Levenburg, N.M. & S.R. Magal. (2004), Applying Importance-Performance Analysis to
+Evaluate E-Business Strategies among Small Firms. e-Service Journal 3 (3): 29-48.
+Levitt, B. &J.G. March. (1988), Organizational Learning. Annual review of sociology 14:319-
+340.
+Liao, Z. 8< M.T. Chueng. (2001), Internet based e-shopping and consumer attitudes: an
+empirical study. Information & Management (38): 299-305.
+Lindgaard, G., G. Fernandes, C. Dudek 8< J. Brown. (2006), Attention web designers: You
+have 50 milliseconds to make a good First impression! Behaviour & Information
+Technology 25 (2):115-126.
+Liu, C. & K.P. Arnett. (2000), Exploring the factors associated with Web site success in the
+context of electronic commerce. Information & Management 38 (l):23-33.
+Locatus. (2002), Franchise- en Filialenregister 2002/2003. Woerden.
+Locatus. (2002), Retail Handboek 2002. Woerden: Locatus.
+Madeja, N. 8i D. Schoder. (2003), Designed for success-empirical evidence on features of
+corporate Web pages. System Sciences, 2003. Proceedings of the 36th Annual
+Hawaii International Conference on: 10.
+Min, S. & M. Wolfinbarger. (2005), Market share, profit margin and marketing efficiency of
+early movers, bricks and clicks and specialists in e-commerce. Journal of Business
+Research 58:1030-1039.
+Molla, A. & P.S. Licker. (2001), E-Commerce Systems Success: An Attempt to Extend and
+Respecify the DeLone and McLean Model of IS Success. Journal of Electronic
+Commerce Research 2 (4): 1-11.
+Nelson, P. (1974), Advertising as Information. The Journal of Politica! Economy 82 (4): 729-
+754.
+nl.wikipedia.org. Uniform Resource Locator - Wikipedia 2007 [cited 9 August 2007.
+Available from http://nl.wikipedia.org/wiki/Uniform Resource Locator
+Porter, M.E. (2001), Strategy and the Internet: Harvard Business School.
+61
+Prabhu, V.B. (2000), Impact of leadership and senior management commitment on business
+excellence: an empirical study in the North East of Eng land. Total Quality
+Management 11 (4): 399-409.
+Quaddus, M. & D. Achjari. (2005), A model for electronic commerce success.
+Telecommunications Policy 29 (2-3): 127-152.
+Rao Kowtha, N. &.T. Whai lp Choon. (2001), Determinants of website development: a study
+of electronic commerce in Singapore. Information & Management 39 (3):227-242.
+Selhofer, H. & T. Hüsing. (2002), 777e digital divide index - a measure of social inequalities
+in the adoption of ICT. In IST 2002 Conference. Copenhagen.
+Silverberg, G., G. Dosi & L. Orsenigo. (1988), Innovation, Diversity and Diffusion: A Self-
+Organisation Model. The Economie Journal 98 (393): 1032-1054.
+Steinfeld, C., D.d. Wit, T. Adelaar, Arnout Bruins, E. Fielt, M. Hoefsloot, A. Smit & H.B. info.
+(2001), Pillars of Virtual enterprise: Leveraging physical assets in the new economy.
+Info 3 (3):203-213.
+Thuiswinkel.org. (2006), Thuiswinkelen in Nederlands perspectief. Ede: Thuiswinkel.org.
+Venkatraman, N. 8< V. Ramanujam. (1986), Measurement of Business Performance in
+Strategy Research: A Comparison of Approaches. The Academy of Management
+Review 11 (4):801-814.
+Wade, M.R. & S. Nevo. (2006), Development and Validation of a PerceptualInstrument to
+Measure E-Commerce Performance. International Journal of Electronic Commerce 10
+(2):123-146.
+Weathers, D. & I. Makienko. (2006), Assessing the relationships between e-tail success and
+product and Web site factors. Journal of Interactive Marketing 20 (2):41-54.
+Weltevreden, J.W.J., O. Atzema, K. Frenken, K. de Kruijf & F.G. van Oort. (2005), Internet
+adoption by retailers in the Netherlands: Does geography matter?
+Weltevreden, J.W.J., O.A.L.C. Atzema & R.A. Boschma. (2005), Adoption ofb2ce-
+commerce by city centre shops: the relevance of place product and organization.:
+Urban Regional research centre Utrecht,Faculty of Geosciences, Utrecht University.
+Weltevreden, J.W.J., O.A.L.C. Atzema & R.A. Boschma. (2005), The adoption of the Internet
+by retailers: a new typology of strategies. Journal of Urban Technology 12 (3):59-87.
+Weltevreden, J.W J. 8< R.A. Boschma. (2006), E-commerce strategies and performance of
+Dutch retailers.
+Weltevreden, J.W.J. & Ton van Rietbergen. (2005), City centre shopping in the Internet era:
+The case of the Netherlands. Utrecht: Urban and Regional research centre Utrecht,
+Faculty of Geosciences, Utrecht University.
+62
+Whewell, J.A. & V. Souitaris. (2001), The impact of Internet trading on the UK antiquarian
+and second-hand bookselling industry. Internet Research: Electronic Networking
+Applications and Poiicy 11 (4):296-309.
+Wigand, R.T. (1997), Electronic Commerce: Definition, Theory, and Context. The
+Information Society 13 (1):1-16.
+Wikipedia. 2006. Web analytics. Wikimedia Foundation, Ine., 6 September 2006 2006 [cited
+7 September 2006]. Available from http://en.wikipedia.org/wiki/Web analytics.
+Zhu, K. (2004), 777e Complementarity of Information Technology Infrastructure and E-
+Commerce Capability: A Resource-Based Assessment of Their Business Value.
+Journal of Management Information Systems 21 (l):167-202.
+Zhu, K., K.L. Kraemer &J. Dedrick. (2004), Information Technology Payoff in E-Business
+Environments: An International Perspective on Value Creation of E-Business in the
+Financial Services Industry. Journal of Management Information Systems 21 (1):17-
+54.
+Zhu, K., K.L. Kraemer &S. Xu. (2002), A Cross-Country Study of Electronic Business
+Adoption Using the Technology-Organization-Environment Framework. Irvine: Center
+for Research on Information Technology and Organizations (CRITO), University of
+California.
+Zhuang, Y. & A.L. Lederer. (2006), A resource-based view of electronic commerce.
+Information and Management 43 (2):251-261.
+63
+Webontwikkelaar	Pcarson Corrclation	1.00	0,08	0,09	0,08	0,02	•0,01	-0,04	0,07		-,26«(")	-.1S8(—)	0,00	0,03	-0,04	0,00	•0,05	0,05	0,01	0,08
+	Sig. (2-tailed)		0,102	0,092	0,153	0,737	0,813	0,500	0,159	0,001	0,000	0,001	0,937	0,495	0.480	0,969	0,319	0,318	0,915	0,076
+	N	460	434	358	357	3S2	339	346	455	382	460	445	417	399	399	399	422	440	446	460
+Updatefrequenbe	Pcarson Correlation	0,08	1.00 .1190		-0,07	0,06 ■	■.165)")	.1351-)	•0,04	,239(-*>	•JS4C1	.»7f1	.12211	.1S7C1		-.1111-)	-.111(1	0,04	•0,05	,4M|")
+	Sig. (2-tailed)	0.102		0.029	0,206	0,309	0,003	0,015	0,464	0.000	0,000	0,000	0,015	0,000	0,004	0,022	0,012	0,460	0,348	0,000
+	N	434	434	339	338	333	320	327	429	360	434	421	395	377	377	377	405	414	421	434
+Geslacht respondent	Pearson Correlation	0,09 ,	.me>	1.00	0,07	-0,08	■043	.117(1	.17S|—>	0,07	-.zoor-»	0,04	asiri	0,09	-,163(—)	0,09	-0,09	0,06	-0,10	.1120
+	Sig. (2-tailed)	0,092	0/229		0,170	0,127	0,621	0,028	0,001	0,187	0,000	0,444	0,000	0,109	0,003	0,113	0,107	0,237	0.0S6	0,033
+	N	358	339	363	361	3S6	342	350	362	337	363	355	332	323	323	323	333	352	358	363
+Leeftijd respondent	Pearson Correlation	0,08	■0,07	0,07	1,00		0,06	-.137|")	.mei	-0,06	0,05	0,00	0,04	-.172(")	■0,10		0,10	•0,03	0,08	■0,06
+	Sig. (2-talled)	0.153	0,206	0,170		0,002	0,235	0,000	0,000	0,246	0,374	0,947	0,446	0,002	0,077	0,000	0,057	0,580	0,118	0,279
+	N	357	338	361	362	356	341	349	361	336	362	354	331	322	322	322	332	351	357	362
+Hoogst genoten	Pearson Correlation	0.02	0,06	-0,08	■.l«d	1.00	-.UK")	.171C1	-0,09	.134(1	-0,05	•0,03	•0,03	•0,04	41611	-0,09	0,02	0,01	•0,01	.106C)
+opleiding	Sig. (2-tailed)	0,737	0,309	0,127	0,002		0.001	0,001	0.088	0,014	0326	0,516	0,639	0,483	0,038	0,114	0,779	0,813	0,903	0,045
+Jaar voor het eerst	N Pearson Correlation	352	333	356	356	357	337	344	356	333	357	350	329	320	320	320	328	346	352	357
+		-0,01	-.wsei	-0,03	046	-.mei	1.00	•JiiCI	0,02	•0,08	0,11	-0,09	-0,07	-0,08	0.05	0,03	0,01	•0,02	-O.OS	•,219(**)
+op internet	Sig. (2-tailed)	0,813	0,003	0,621	0,235	0,001		0,000	0,647	0,170	0,052	0,097	0,210	0,169	0.423	0,653	0,878	0.739	0,368	0,000
+	N	339	320	342	341	337	343	343	342	320	343	337	317	307	307	307	314	332	338	343
+Internetervaring	Pearson Correlation	-0.04	4350	.wn	-,237(”)	»171(**)	-,371C’)	1.00	0,04	.114(1	4«f1	0,01	0,01	.HM*)	•0,10	0,00	-.mei	0.07	-0,06	.147(*’)
+	Sig. (2-tailed)	0500	0,015	0,028	0,000	0,001	0,000		0/33	0,039	0,007	0,805	0,871	0,041	0,068	0,990	0,000	0,203	0.276	0,006
+	N	346	327	350	349	344	343	351	350	326	351	344	323	313	313	313	322	340	34G	351
+Aantal jaar dat	Pcarson Corrclation	0,07	-0,04	,175|”|	.218f’)	■0.09	0,02	0,04	1.00	0,04	■.093(1	-0,04	0,02	-0,05	•,1S1|")	JllCI	-0,04	0.09	0,02	0.05
+onderneming	Sig. (2-tailed)	0,159	0,464	0,001	0,000	0,088	0,647	0,433		0,399	0	0,446	0,637	0,354	0,002	0,000	0.367	0,062	0,675	0,326
+	N	455	429	362	361	356	342	350	460	385	460	445	415	398	398	398	422	440	446	460
+Aantal medewerkers	Pcarson Corrclation	.163(**J	439(")	0417	-0,06	,134(’)	-048	.114(1	0,04	140	-.3591* *)	-.mei	•0,01	0,00	•0,01	0.01	-,222(”)	0,04	-0,04	.1I1C1
+Infte	Sig. (2-tailed)	0,001	0.000	0,187	0,246	0,014	0,170	0,039	0/99		0,000	0	0,798	0,986	0,862	0,838	0.000	0,393	0,437	0,000
+	N	382	360	337	336	333	320	326	385	387	387	376	355	341	341	341	360	378	384	387
+OrgamMUctypc	Pearson CorrelaUon	•461(**)	•,254e •)	•.700C-)	045	-0,05	0.11	-.1«(") -.0931-)		-.3S9(")	1.00	0,04	0,01	-,136(**) ,	,185(”)	-0,06	,198(**) ■	.Mie*)	•0,04	%179(**)
+	S>g (2-tailed)	0000	0,000	0,000	0,374	0,326	O.OS 2	0407	0,047	0.000		0,363	1	0,006	0.000	0,250	0.000	0,003	0,348	0.000
+	N	460	434	363	362	357	343	351	460	387	466	451	420	402	402	402	426	446	452	466
+Type product	Pearson Correlation	-.i5ie*)	4S2(")	0,04	040	•0,03	-0,09	0,01	•0,04	-,iwii	0,04	1.00	,159(”)	,159(**)	•0,09	•0.07	-0,07	•0,03	-0,03	.180(”)
+	Sig. (2-tailed)	0,001	0,000	0,444	0,947	0,516	0,097	0,805	0,446	0,021	OJ63		0.001	0	0.075	0.142	0,136	0.471	0,495	0,000
+	N	445	421	355	354	350	337	344	445	376	451	451	409	392	392	392	411	431	437	451
+Percentage	Pearson Correlation		4220			•0,03		041	0.02	•0.01										
+				451( )							041	,159(”)	1.00	.180e*)	-0,09	•.103|’)	•0,08	■0,03	•.2041”)	.1341”)
+mannelijke klanten	Sig. (2-tailed)	0,937	0,015	0,000	0,446	0,639	0,210	0,871	0,637	0,798	0,824	0.001		0,000	0	0,043	0,110	0.512	0,000	0,006
+	N	417	395	332	331	329	317	323	415	355	420	409	420	386	386	386	391	406	411	420
+Percentage klanten	Pearson Correlation	0,03	457(-J	0,09		-0,04	•048	.1161’)	-045	0,00	•336C*)	,i59e*)	,180(”)	1,00	•.6091**)	-.429C’)	-,363(”)	0,05	0.03 ,	,129(*’)
+jonger dan 25 jaar	Sig. (2-tailed)	0,495	0.000	0,109	0,002	0,483	0,169	0,041	0,354	0,986	0,006	0,002	0,000		0,000	0	0,000	0,364	0,561	0,010
+Percentage klanten	N Pearson Correlation	399	377	323	322 ■0,10	320 .1160	307 0,05	313 -0.10	398	341	402	392	386	402	402	402	377	388	393	402
+			-,148(0	•,163(”)					-.1S1(*1	•0.01	.185e’)	•0,09	•0,09	-.6091**)	1.00 -,455e*)		,281(”)	-0.03 .	me)	-0.03
+25 - 55 par	Sig. (2-talled)	0.480	0,004	0,003	0,077	0,038	0.423	0.068	0.002	0,862	0,000	0,075	0,091	0,000		0	0.000	0,569	0.022	0,108
+	N	399	377	323	322	320	307	313	398	341	402	392	38G	402	402	402	377	388	393	402
+Percentage ouder	Pcarson Corrclation	0,00	•4180	0,09	.2131”)	•049	043	0.00	,221(*’)	041	•0,06	-0,07	-.1031*)	•.4291**)	-.455(**)	1.00	0.08	•0.02	•.1M(**)	-0,05
+	S*g. (2 tailed)	0,969	0,022	0,113	0,000	0,114	0,653	0,990	0,000	0,838	0.250	0,142	0.043	0.000	0.000		0.138	0.707	0.001	0.286
+	N	399	377	323	322	320	307	313	398	341	402	392	386	402	402	402	377	388	393	402
+Inkomen klanten	Pearson Corrclation	-O.OS	•4240	-0.09	0,10	042	041	-,198(”)	■044	•472(”)	.198(”)	•0,07	•0.08	•4«(**l	,281(”)	0.08	1.00	•0.04	0.09	-.129f*)
+	Sig. (2-ta.led)	0,319	0.012	0,107	0457	0,779	0,878	0,000	0,367	0,000	0,000	0,136	0,110	0,000	0.000	0		0,464	0,061	0.008
+	N	422	405	333	332	328	314	322	422	360	426	411	391	377	377	377	426	408	414	426
+Bedrijven met	Pearson CorrelaUon	0,05	0,04	0,06	-043	0,01	•042	0,07	0,09	0,04	-.me*)	•0,03	-0.03	O.OS	•0.03	•0,02	-0.04	1.00	0.07	0.00
+actieve webvtc per	S>g (2-tailed)	0,318	0,460	0.237	0,580	0,813	0,739	0.203	0,062	0.393	0403	0.471	0,512	0.364	O^G'J	0,707	0		0,121	0.981
+straat (%)	N	440	414	352	351	346	332	340	440	378	446	431	406	388	388	388	408	446	445	446
+Nab jheid winkels in	Pearson Correlaten	0.01	•0,05	0.10	0,08	0.01	«,05	-046	0,02	««4	-0,04	0.03	-,204e*)	0,03	,115(*l	,164(**)	0.09	0,07	1.00	•.102(*)
+dezelfde sector	Sig. (2-tailed)	0,915	0,348	0,056	0,118	0,903	0,368	0.276	0,675	0,437	0,348	0,495	OftOO	0.561	0,022	0,001	0,0ul	0,121		0.031
+	N	446	421	358	357	352	338 .219(”)	346	446 0.05	384	452	437	411	393	393	393	414	445	452	452
+E-ccm-nercr	Pcarson Correlaten	0,08	434e’)	.mi*)	■046			,147(”)		.wie*)	•.17’1'1	.1801”)	,134(”)	,129(**)	■0.08	O.OS	.129f*|	0.00	.1020	1.00
+strategie	Sig (2 tailed)	0,076	0,000	0,033	0,279	0445	0,000	0.006	0,326	0.000	0.000	0.000	0,006	0,010	0.10S	0.286	0003	0.981	0.031	
+onderneming	N	460	434	363	362	357	343	351	460	387	466	451	420	402	402	402	426	446	452	466
+•rp<005. •••P<OOI
+Bijlage 1: Correlatiematrix
