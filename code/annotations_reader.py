@@ -6,7 +6,8 @@ class conll_annotations_reader():
     def __init__(self, conll_path):
         self.conll_path = conll_path
     
-    def get_tags_dict(self):
+    def conll200_to_tags_dict(self):
+        """Reads the conll file and returns a dictionary with the tags as keys and the corresponding annotations as values."""
         if not os.path.exists(self.conll_path):
             print(f"Path to file does not exist: {self.conll_path}")
             return
@@ -46,4 +47,19 @@ class conll_annotations_reader():
                 else:
                     tags_dict[found_tag] = [clean_word]
                 new_annotation = False
+        
+        tags_dict = {k:set(v) for k,v in tags_dict.items()}
+        
         return tags_dict
+
+
+if __name__ == "__main__":
+
+    conlls = [r"C:\Users\carme\Downloads\1973_Harts_Jan_Migratie_UU.conll",
+              r"C:\Users\carme\Downloads\1973_Harts_Jan_Migratie_UU (1).conll"
+              ]
+
+    for conll in conlls:
+        reader = conll_annotations_reader(conll)
+        tags_dict = reader.conll200_to_tags_dict()
+        print(f"Tags dict for {conll}: {tags_dict['title']}")

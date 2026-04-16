@@ -117,26 +117,29 @@ def propegate_labels(file_path, tags_dict):
 
 
 if __name__ == "__main__":
-    target_dir_path = r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\data\original_text"
-    destination_dir_path = r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\data\cleaned"
+    target_dir_path = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\data\original_text"
+    destination_dir_path = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\data\cleaned"
     
     conlls = [f for f in os.listdir(target_dir_path) if os.path.isfile(os.path.join(target_dir_path, f)) and f.endswith(".conll")]
 
     all_thesis_df = pd.DataFrame()
 
     for conll in conlls:
+        if not "Beijnum_" in conll:
+            continue
         clean_unused_tags(Path(target_dir_path)/conll, Path(destination_dir_path)/conll)
         
         bad_characters = ["•", "»", "■", "◦", "«"]
         find_replace_in_file(Path(destination_dir_path)/conll, bad_characters, ".")
         
         tags_dict = conll200_to_tags_dict(Path(destination_dir_path)/conll)
-        propegate_labels(Path(destination_dir_path)/conll, tags_dict)
+        print(tags_dict)
+    #     propegate_labels(Path(destination_dir_path)/conll, tags_dict)
 
-        concat_tags = {key:tuple(value) for key, value in tags_dict.items()}
-        df = pd.DataFrame([concat_tags])
-        df["Thesis_File"] = conll
+    #     concat_tags = {key:tuple(value) for key, value in tags_dict.items()}
+    #     df = pd.DataFrame([concat_tags])
+    #     df["Thesis_File"] = conll
         
-        all_thesis_df = pd.concat([all_thesis_df, df], ignore_index=True)
+    #     all_thesis_df = pd.concat([all_thesis_df, df], ignore_index=True)
         
-    all_thesis_df.to_csv(r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\annotations_summary.csv", index=False)
+    # all_thesis_df.to_csv(r"C:\Users\carme\OneDrive\Documents\Graduate_Programs\Thesis\code\annotations_summary.csv", index=False)

@@ -1,0 +1,1794 @@
+﻿
+j geografie
+De Uithof, UTRECHT (030)532044
+RANDSTAD EN TCLECOTWICATIE
+
+
+LEERONDERZOEK G & P
+X
+tafv. '/-f-28
+1^76/2/'
+
+RWDSTAD EN TELECOtTLNICATIE
+RIJKSUNIVERSITEIT TE UTRECHT
+iiiiiiniiiiiiiiiiiiiiiiiiiiiiiiiih
+1824 6540
+Jeroen de Roos
+20 april 1988
+"3 WtFCCbt
+r i f'jaUufii Ulthoi
+VOORWOORD
+Deze scriptie kwam tot stand in het kader van het doctoraalleeron-
+derzoek voor de studie Sociale Geografie. Het geeft een samenvat-
+ting van een aantal aspekten rond het thema 'Randstad en telecom-
+municatie’. Kernpunten zijn ten eerste de relatieve positie van de
+Randstad in het nederlandse telecommunicatie-netwerk en ten tweede
+de meest recente ontwikkelingen in de vier grote Randstad-gewesten
+t.a.v. telecommunicatie en bedrijvigheid.
+Op deze plaats wil ik een aantal personen bedanken die bij de
+totstandkoming van deze scriptie van groot belang zijn geweest.
+Ten eerste prof. dr. M. de Smidt voor zijn begeleiding. Daarnaast
+die personen die mij bereidwillig te woord wilden staan bij de
+gemeenten Amsterdam, Den Haag en Rotterdam, bij de provincie
+Utrecht én bij de PTT-T distrikten Amsterdam, Den Haag, Rotterdam
+en Utrecht.
+Nieuwegein, 20 april 1988
+Jeroen de Roos
+t? ' • C'.
+INHOUDSOPGAVE:
+HOOFDSTUK 1 : INLEIDING EN PROR FFMRTF1 I TNG 1
+HOOFDSTUK 2 : KT NEDERLANDSE TELEFOONNET - Nu
+en in de toekomst 3
+2.1	: Inleiding 3
+2.2	: Het telefoonnet 3
+2.3	: De toekomst: ISDN 6
+2.4	: Telematica-projekten 7
+2.5	: Conclusie 8
+HOOFDSTUK 3 : DE RANDSTAD EN l-ET NATIONALE TELEFOON-
+VERKEER 9
+3.2	: De Randstad binnen telecommunicerend
+Nederland 9
+3.2.1	: Het datamateriaal 9
+3.2.2	: De graphen-methode 10
+3.2.3	: Nadere analyse van het telefoonverkeer 13
+3.3	: Zakelijke dienstverlening en telefoon-
+verkeer 16
+3.4	: Conclusie 19
+HOOFDSTUK 4 : TELECOMMUNICATIE IN DE VIER GROTE
+RANDSTAD-GEWESTEN 20
+4.1	: Inleiding 20
+4.2	: Utrecht 20
+4.3	: Rotterdam 23
+4.4	: Amsterdam 26
+4.5	: Den Haag 29
+4.6	: Conclusie 32
+HOOFDSTUK 5 : SAFEN/ATTING EN CONCLUSIES 34
+LIJST WN GEBRUIKTE LITERATUUR 37
+BIJLAGE 1 : HET NEDERLANDSE TELEFOOhhET 40
+BIJLAGE 2 : COAX/GLASVEZEL PLAN IN l-ET LAAN EN MAN 41
+BIJLAGE 3 : DIGITAAL STRAALVERBINDINGENPLAN IN l-ET MAN 42
+BIJLAGE 4 : DIGITAAL STRAALVERBINDINGENPLAN IN l-ET LAAN 43
+BIJLAGE 5 : BREED BAND-ISDN DIENSTEN 44
+BIJLAGE 6 : INTENSITEITEN TELEFOONVERKEER TUSSEN DC’S
+VOOR 1975 EN 1978 IN ERLANG 45
+BIJLAGE 7 : INTENSITEITEN TELEFOONVERKEER TUSSEN DC’S
+VOOR 1981 EN 1985 IN ERLANG 46
+BIJLAGE 8 : BEREKENING VW PEARSON’S R 47
+BIJLAGE 9 : MOGELIJKHEDEN VOOR VERDER ONDERZOEK 48
+HOOFDSTUK 1: INLEIDING EN PROBLEEMSTF1 LING
+Telecommunicatie is een van de zaken die regelmatig in het nieuws
+zijn: ligt heel telecommunicerend Nederland niet plat door een tv-
+show dan is er wel weer een nieuwe stap gezet op weg naar een
+geheel digitaal netwerk. Op telecommunicatie-gebied zijn een
+aantal ontwikkelingen aan de gang die van grote invloed kunnen
+zijn op de toekomstige samenleving. Digitale telecommunicatie
+gecombineerd met het aanmaken en verwerken van informatie door
+computers (telematica) biedt nieuwe mogelijkheden op de werkplek
+maar ook in huiselijke sfeer. De toepassing van tele-thuiswerk,
+tele-shopping en video-vergaderen en het gebruik van electro-
+nische post, teletex, telefax, beeld-telefoon e.d. zal ook
+invloed hebben op ruimtelijke strukturen en processen, traditio-
+neel het werkterrein van de geograa-F.
+Wat verkennend geografisch onderzoek op het gebied van telecommu-
+nicatie en ruimtelijke tendenzen tot nu toe heeft aangetoond is
+dat de nieuwe mogelijkheden op telecommunicatie-gebied t.a.v.
+stedensystemen vooral trendversterkend werken. Telecommunicatie
+blijkt bij de keuze van een vestigingslokatie door bedrijven een
+ondergeschikte positie in te nemen. Dit neemt niet weg dat
+telecommunicatie—Faciliteiten bij het promotie-beleid van de vier
+grote Randstad—steden een belangrijke plaats inneemt. Amsterdam en
+Den Haag doen beide hun uiterste best om *informatica-stad’ van
+Nederland te worden. Maar ook Rotterdam en Utrecht laten geen kans
+onbenut om hun bijzondere telecommunicatie—Faciliteiten, zoals
+bijvoorbeeld de aanwezigheid van een glasvezel-agglomeratienet,
+naar voren te schuiven bij de aanprijzing van hun produktie-
+mi 1 ieu.
+Doel van dit onderzoek is een nadere plaatsbepaling van de vier
+Randstad-gewesten binnen telecommunicerend Nederland. Hierbij
+worden antwoorden gezocht op vragen als ’hoe lopen de belang-
+rijkste informatie—stromen in Nederland?’ en ’zijn er verande-
+ringen in richting en omvang van deze stromen waar te nemen?’. In
+het kader hiervan wordt ook aandacht geschonken aan de telecommu-
+nicatie—Faci litei ten die binnen de vier gewesten aangelegd worden
+om hun positie binnen het telecommunicatie-net te versterken om
+zodoende hun produktie-milieu te verbeteren. Ter afsluiting zal
+tevens de rol van de telematica in de toekomst, zoals deze o.a.
+door de overheid gezien wordt, beschreven worden.
+De kern van de scriptie wordt dan weergegeven door de volgende
+probleemstel1inq: wat is de positie van de Randstad in telecommu-
+nicerend Nederland en wat is het belang van de vier Randstad-
+gewesten voor telecommunicatie-intensieve bedrijvigheid.
+De operationalisatie van het eerste deel van de probleemstelling
+-1-
+geschiedt d.m.v. een analyse van tellingen van telefoonverkeers-
+stromen. Om een antwoord op het tweede deel te vinden zijn
+interviews afgenomen bij de gemeenten Amsterdam, Den Haag, Rotter-
+dam en Utrecht en bij de PTT-telefoondistrikten met dezelfde naam.
+De scriptie is als volgt opgebouwd: in hoofdstuk 2 wordt een
+beschrijving gegeven van het nederlandse telefoonnet omdat kennis
+hiervan noodzakelijk is voor een goed begrip van hoofdstuk 3. In
+de hoofdstukken 3 en 4 komen resp. het eerste en tweede deel van
+bovengenoemde probleemstelling aan de orde. Het geheel wordt
+afgesloten door de samenvatting en conclusies in hoofdstuk 5.
+-2-
+HOOFDSTUK 2: Hsl htiUERLANDSE I bl_EFOONI\ET — Nu en in de 'toekomst.
+2.1	Inleiding
+Doel van dit hoofdstuk is om dat deel van het nederlandse
+telecommunicatienet te beschrijven dat in de volgende hoofdstakken
+aan de orde komt. Daarnaast zal een indruk worden gegeven van de
+laatste ontwikkelingen op telecommunicatie-gebied voor zover deze
+raakvlakken hebben met onderwerpen die in deze scriptie behandeld
+zullen worden.
+Voordat een beschrijving van het nederlandse telefoonnet volgt is
+het van belang eerst aan te geven wat telecommunicatie precies is.
+Volgens de definitie zoals geformuleerd op de internationale
+telecommunicatie conventie te Montreux in 1965 is telecommunica-
+tie:
+"iedere overdracht, uitzending of ontvangst van tekens,
+signalen, geschrift, beeld en geluid of gegevens van enig
+andere soort over draden, optische of andere electronische
+weg".
+2.2	Het telefoonnet
+Het telefoonnet (zie bijlage 1) is een van de drie basisnetten in
+Nederland. De andere twee zijn het telexnet en het datanet. Net
+als deze twee heeft het telefoonnet een hiërarchische opbouw. Het
+land is onderverdeeld in 22 (technische-) distrikten met ieder een
+of meer eigen distriktcentrales. De distrikten zijn weer onderver-
+deeld in sektoren met als belangrijkste centrale de z.g.n.
+knooppuntcentrale. Tegenwoordig worden de distriktcentrales samen
+met de grotere knooppuntcentrales 'eerste orde verkeerscentrales’
+genoemd. De 'tweede orde verkeerscentrales’ zijn de overige
+knooppuntcentrales. De sektoren in een distrikt bestaan uit de
+lokale netten. Binnen zo’n net zijn de abonnees aangesloten op een
+eind- oftewel een nummercentrale. Grote steden hebben vaak wijk-
+centrales. Hiervan is sprake als de netten meer dan één eindcen-
+trale hebben.
+Binnen een sektor zijn de eindcentrales stervormig op de distrikt-
+centrales aangesloten. Dwarsverbindingen tussen twee knooppunt-
+centrales worden aangelegd wanneer het verkeersaanbod dit rendabel
+maakt. De distriktcentrales vormen een maasvormiog net, d.w.z.
+elke distriktcentrale is met elke andere distriktcentrale verbon-
+den. Het gebruik van overloopcentrales is nodig wanneer het
+verkeer tussen twee distriktcentrales gering is (bijv, tussen de
+distrikten Goes en Groningen) of als door en groot aanbod het
+verkeer niet via rechtstreekse verbindingen tussen de twee
+distriktcentrales kan worden afgewikkeld. Distrikten waar overloop
+-3-
+centrales gevestigd zijn zijn Amsterdam, Rotterdam, Eindhoven en
+Zwolle. De 'normale’ distriktcentrales kunnen voor de knooppunt—
+centrales als overloopcentrales dienst doen wanneer het verkeer in
+drukke perioden niet over de dwarsverbindingen kan worden a-Fgewik-
+keld. Een en ander wordt in -Figuur 2.1 gra-Fisch weergegeven.
+Hierbij moet worden opgemerkt dat de verbindingen vanwege de
+eenvoud alleen van eindcentrale 1 naar eindcentrale 2 worden
+opgebouwd.
+Figuur 2.1 Schematisch overzicht van de netstruktuur
+Ovlc - ovarloopcantrala
+dc s districtacantral»
+" |cc s knooppuntzantral*
+ec s «Indcantral» —
+= cvarloapsaxalljkhaid
+Bron: Dietvorst, 1979
+De verbindingen van eindcentrales naar knooppuntcentrales maken
+deel uit van het Korte AFstands Net (KAN). Zie -Figuur 2.2. De
+verbindingen bestaan uit koperkabel en in veel mindere mate
+glasvezel. De glasvezelverbindingen worden in een ringvorm aange-
+legd terwijl de koperverbindingen in een stervorm liggen. Men
+streeFt er naar om medio 1996 twee routes tussen de eind- en
+knooppuntcentrales te hebben bestaande uit glasvezel.
+Een bijzondere vorm van het KAN is het agglomeratienet (AGN). De
+steden Amsterdam, Rotterdam, Den Haag en Utrecht hebben sinds niet
+al te lange tijd zo’n net. Kenmerkend voor de AGN’s is de digitale
+transmissie, het gebruik van glasvezel en de breedbandverbindin-
+gen.
+Het Middellange AFstands Net (MAN) wordt gevormd door de verbin-
+dingen tussen de knooppuntcentrales en de distriktcentrales. De
+gebruikte media zijn coaxkabel, glasvezel en microgol-Fverbindingen
+d.m.v. straalzenders. De kabelverbindingen liggen in een ringvorm
+terwijl de straalverbindingen een stervorm hebben. Het is de
+bedoeling dat men in 1995 een drie-voudige route hee-Ft bestaande
+uit tweemaal kabel en eenmaal microgolf.
+Het laatste net, het Lange AFstands Net (LAAN), bestaat uit de
+verbindingen tussen de distriktcentrales. De gebruikte media zijn
+dezel-Fde als bij het MAN, te weten coaxkabel, glasvezel en micro-
+gol-F. Het net hee-Ft een maasvormige et ruk tuur doordat iedere
+centrale met iedere andere is verbonden. In 1995 wil men een vier-
+voudige route gereed hebben, gevormd door een dubbele kabel— en
+een dubbele microgol-Fverbinding.
+Figuur 2.2 Schematische weergave van het LAAN, MAN en KAN
+Bron: PTT-T
+---LAAN
+— MAN
+... KAN
+AGN Agglomeratie—net
+□ DiBtriktBcentrale
+@ Knooppintcentrale
+O Eindcentrale
+In bijlage 2 worden de uitbreidingsplannen van het LAAN en MAN
+weergegeven. Uitvoering hiervan is echter sterk a-Fhankelijk van de
+door de overheid beschikbaar gestelde gelden. Vandaar dat de
+realisatie van de plannen sneller oF trager kan plaatsvinden dan
+hier aangegeven.
+Als eerste aanzet naar ISDN (waarover straks meer) wordt het
+tele-Foonnet langzaam maar zeker gedigitaliseerd. Digitale trans-
+missie heeFt een aantal voordelen. Ten eerste is het economische
+gezien gunstiger om de oude analoge centrales door digitale te
+vervangen omdat deze minder energie verbruiken, minder ruimte
+nodig hebben, een lagere uitvalkans hebben en minder onderhoud
+behoeven. Ten tweede maakt een digitaal net een snellere en meer
+betrouwbare datacommunicatie mogelijk dan nu m.b.v. modems gerea-
+liseerd kan worden. Ten derde maakt digitalisering het mogelijk om
+via het tele-Foonnet een aantal nieuwe diensten aan te bieden zoals
+bijvoorbeeld memocom.
+Als bijlagen 3 en 4 zijn toegevoegd de plannen voor digitale
+straalverbindingen (SV) in respektievelijk het MAN en het LAAN.
+Ook hier geldt weer 'dezel-Fde opmerking als bij bijlage 2, n.1. dat
+uitvoering afhankelijk is van vrijgekomen overheidsgelden.
+2.3	De toekomst; ISDN
+Een digitaal telefoonnet, ook bekend als IDN (Integrated Digital
+Network), is een voorwaarde om de volgende stap te kunnen maken,
+n.1. die naar een ISDN (Integrated Services Digital Network).
+De huidige situatie toont het beeld van een aantal tamelijk op
+zichzel-F staande oplossingen die voor de in de loop der jaren
+gerezen problemen zijn ontwikkeld. Een goed voorbeeld hiervan is
+Datanet-1. Door het sterk toenemende computergebruik ontstond er
+in de mid-zeventiger jaren een snel groeiende vraag naar datacom-
+municatie over het telefoonnet. De bruikbaarheid van het telefoon-
+net voor digitaal informatietransport is echter begrensd door de
+beperkingen in transportsnelheid en de relatief7 langzame verbin-
+dingsopbouw. Om dit te ondervangen is in 1982 een speciaal
+openbaar net in dienst gesteld om de communicatie tussen computers
+beter mogelijk te maken, het Datanet-1.
+Voor toekomstige communicatiebehoe-Ften voldoet deze situatie niet.
+Het is voor de gebruiker het handigst om alle telecommunicatie-
+diensten in één net onder te brengen. De -Funktie van ISDN zal dan
+ook zijn om het telefoonnet, het telexnet en Datanet-1 te
+integreren tot één telecommunicatienet dat alle vormen van commu-
+nicatie zal accepteren. Diensten die ondermeer aangeboden kunnen
+worden zijn:
+- -Fundamentele diensten zoals telefonie,teletex en telefax.
+- meer geavanceerde diensten zoals gesproken post (voice
+mail), electronische post en -Faxpost.
+- bijzondere diensten zoals bijv, alarmering en automatische
+metera-Flezing van gas, water en electriciteit.
+De gebruiker kan zich hierop dan naar eigen wens en inzicht
+abonneren.
+ISDN is geen nationaal maar een internationaal gebeuren. In 1988
+moeten enkele belangrijke europese afspraken gemaakt worden
+omtrent o.a. standaardisatie. Wanneer dit gebeurt is kan de
+nederlandse PTT beslissingen nemen over de eerste toepassingen van
+ISDN-faci liteiten. Wanneer deze projekten naar behoren lopen zal
+de capaciteit van het ISDN sterk worden uitgebreid en als
+standaardprodukt rond 1991 door de PTT in heel Nederland worden
+aangeboden. Het plan is dat vij-F jaar na de algemene introductie
+57. van het totaal aantal telefoonaansluitingen een ISDN-aanslui-
+ting zal zijn. Het gehele ISDN-systeem zal dan uiteindelijk rond
+het jaar 2005 voltooid moeten zijn.
+Dit betekent niet dat ISDN het ultieme bereikbare op telecorrïnuni-
+catie-gebied zou zijn. Terwijl het ISDN nog gerealiseerd moet
+worden wordt er alweer gedacht aan een zogenaamde breedband-ISDN
+(B-ISDN). Dit systeem is nog 20 -futuristisch dat een aantal
+technieken die hierbij noodzakelijk zijn nog ontwikkeld moeten
+worden, zoals bijvoorbeeld het schakelen van hoge bitsnelheden:
+"The principle of switching can be different -trom what is known
+today" (GSLB, 1986).
+De transportsnelheden zullen aanzienlijk hoger liggen dan bij de
+smalband-ISDN. Ze kunnen oplopen tot 140 Mbit/s, tegenover
+64 Kbit/s bij smalband. Dankzij deze zeer hoge bitsnelheden kunnen
+een aantal nieuwe diensten ontstaan (zie bijlage 5, overgenomen
+uit GSLB, 1986).
+Wanneer invoering hiervan plaats vindt is onbekend. Voorlopig zal
+in europees verband druk geëxperimenteerd worden.
+2.4	Telematica-projekten
+Het begrip telematica is een samenvoeging van telecommunicatie en
+informatica. Telecommunicatie en informatica konden in elkaar
+overgaan na de digitalisering van de telecommunicatieprocessen.
+Hierdoor konden computers gebruikt worden voor het aanmaken en
+versturen van informatie. Op basis van deze nieuwe telecommunica-
+tie-technologieen zijn een aantal projekten opgezet die hier
+gebruik van maken. Onderstaand volgen twee voorbeelden.
+Een Transpol is is een zogenaamd 'smart park’. Het is een gezame-
+lijk projekt van Philips, PTT, Wilma Vastgoed en de franse
+software—Firma Steria. De bedoeling is voor kleinere bedrijven
+in de logistieke sfeer (transport, assemblage, opslag e.d.) op
+verschillende plaatsen in Europa bedrijvencentra op te zetten met
+op elkaar afgestemde technische voorzieningen. Voorbeelden van
+deze voorzieningen zijn weegbruggen, energie-beheerssystemen en
+een digitaal schakelcentrum voor gegevensverkeer. De eindgebrui-
+kers zullen in eerste instantie een smalbandige ISDN-aansluiting
+krijgen. Als mogelijke lokatie voor een Transpolis wordt o.a.
+Rotterdam genoemd.
+Een Teleport is volgens de definitie van de World Teleport
+Association een voorziening die toegang biedt tot een satelliet of
+andere telecommunicatie verbinding voor lange-afstand. Daarbij is
+inbegrepen een regionaal ontwikkelingsprojekt voor onroerend goed
+met een verdeelnet dat die regio bedient, naast de huurders van
+het onroerend goed projekt in het hart. Het specifieke van de
+telecommunicatie-dienstverlening van een Teleport is de mogelijk-
+heid in korte tijd grote hoeveelheden informatie te versturen naar
+en van een aantal ver verwijderde lokaties. Teleports zijn reeds
+over de hele wereld te vinden, zoals bijvoorbeeld in Hong Kong,
+Londen, New York, Tokio en Amsterdam. Hoewel de Teleport van
+Rotterdam niet geheel aan de definitie van Teleport voldoet omdat
+er geen integratie met onroerend goed is, spreekt men hier toch
+-7-
+van een Teleport omdat de typische Teleport—Faciliteiten voor
+alle gebouwen in Rotterdam beschikbaar zijn.
+2.5	Conclusie
+Het is duidelijk dat er nog steeds geen sprake kan zijn van een
+voltooid telecommunicatienet. Veranderende behoe-Ften en mogelijk-
+heden zorgen er voor dat het net recentelijk aan grote verander-
+ingen onderhevig is. Voorlopig doel waarnaar gestree-Fd wordt door
+de PTT-T is ISDN: de integratie van de drie a-Fzonderlijke netten.
+De nieuwe mogelijke mogelijkheden die nu reeds beschikbaar zijn,
+zoals die gebaseerd op telematica, worden gebruikt in projekten
+die hoge eisen stellen aan telecommunicatie-mogelijkheden.
+HOOFDSTUK 3: DE RANDSTAD EN PET NATIONALE TELEFOONVERKEER
+3.1	Inleiding
+Het economische belang van de Randstad voor de nationale economie
+is evident. In de Vierde Nota over de Ruimtelijke Ordening wordt
+dit nog eens onderstreept. In dit hoofdstuk zal aangetoond worden
+dat ook op telecommunicatie-gebied de Randstad een alles overheer-
+sende positie inneemt. Hiervoor zal m.b.v. de graphen-theorie en
+meer traditionele analyse-methoden het telefoonverkeer tussen
+distriktcentrales onderzocht worden. Doordat dit onderzoek over
+een aantal jaren is gedaan kunnen ook uitspraken gedaan worden
+over de mate waarin eventuele veranderingen in die positie
+opgetreden zijn. Daarnaast zal geprobeerd worden een verband te
+leggen tussen zakelijke dienstverlening en telefoonverkeer. Als
+slot van dit hoofdstuk worden in paragraaf 3.4 enkele conclude-
+rende opmerkingen gemaakt.
+3.2	De Randstad binnen telecommunicerend Nederland
+3.2.1 Het datamateriaal
+Om het belang van de Randstad voor telecommunicerend Nederland aan
+te tonen worden cijfers gebruikt over de intensiteiten van
+telefoonverkeer tussen distriktcentrales. Intensiteiten van ver-
+keer tussen knooppuntcentrales, wat een meer gedetailleerd beeld
+zou opleveren, worden door de PTT niet landelijk gemeten en
+zodoende voor dit onderzoek niet bruikbaar.
+Het gebruikte cijfermateriaal bestaat uit metingen van maximale
+lijnbezettingen tussen distriktcentrales (dc’s) voor de jaren
+1975, 1978, 1981 en 1985. Zie de bijlagen 6 en 7. Deze lijnbezet-
+tingen worden gemeten in z.g.n. eenheden erlang. Het aantal erlang
+geeft een hoeveelheid telefoonverkeer per uur aan. Eén erlang komt
+overeen met bijvoorbeeld: 60 bezettingen, elk van 1 minuut (per
+uur) of 10 bezettingen, elk van 6 minuten (per uur).
+Op het gebruikte materiaal wordt een storende invloed uitgeoefend
+dat een gevolg is van de opbouw van het telefoonnet. Er wordt
+namelijk gebruik gemaakt van zogenaamde overloopcentrales om tot
+een zo efficiënt mogelijke afwikkeling van het telefoonverkeer te
+komen. Ze worden niet alleen ingezet als tijdens drukke uren een
+rechtstreekse verbinding niet mogelijk is, maar ook bij gering
+verkeer tussen de distrikten . Dit overloopverkeer is samengevoegd
+bij het 'normale’ uitgaande verkeer van de centrales waar over-
+loopcentrales gevestigd zijn, teweten Amsterdam, Rotterdam, Eind-
+hoven en Zwolle. Hierdoor zijn de waarden van het uitgaande
+verkeet; van deze dc’s te hoog en dat van de overige centrales te
+laag gewaardeerd. Dit overloopverkeer maakt tot 87. van de totale
+verkeersstroom uit.
+Desondanks lijkt het onwaarschijnlijk dat dit probleem de uitein-
+delijk gevonden hiërarchische relaties beïnvloed heeft. Het
+patroon van afhankelijkheden ligt zo duidelijk in de cijfers vast
+dat een afwijking van enkele procenten hier niets aan af doet. Zo
+is voor 1975 een poging gedaan om de verstoring door overloopver—
+keer te niet te doen. De waarden van de uitgaande stromen van de
+dc’s met overloopcentrales werden met 87. verlaagd. De overblij-
+vende erlangwaarden werden evenredig over de overige centrales
+verdeeld. De uit deze nieuwe tabel af te lezen relaties waren
+identiek aan die van de niet gecorrigeerde tabel.
+Figuur 3.1 Verklaring van de afkortingen van de namen van de dc’s
+amr	- Alkmaar	ht	- Den Bosch
+asd	- Amsterdam	hvs	- Hilversum
+ah	- Arnhem	Iw	— Leeuwarden
+bd	- Breda	lis	- Lelystad
+dv	- Deventer	mt	- Maastricht j
+ehv	- Eindhoven	nm	- Nijmegen ƒ
+gs	- Goes	rt	- Rotterdam /
+gv	- Den Haag	tb	- Tilburg
+gn	- Groningen	ut	- Utrecht
+hlm	- Haarlem	vl	- Venlo •
+hgl	- Hengelo	zl	- Zwolle
+			x	"iC 60
+Bron: PTT-T
+3.2.2	De qraphen-methode
+De graphen-theorie is een nuttig hulpmiddel bij het beschrijven
+van strukturen. De theorie is gebaseerd op de analyse van relaties
+tussen punten en de lijnen hier tussen. De betekenis die aan deze
+punten en lijnen gegeven wordt verschilt per vakgebied. Dit komt
+omdat de graphen-theorie niet refereert aan de empirische wereld
+en daardoor door verschillende vakgebieden gebruikt kan worden
+zoals informatica, sociologie, electronica en -uiteraard- geogra-
+fie.
+Een van de voordelen van het gebruik van de graphen-theorie is dat
+het de woordenschat vergroot met begrippen met precieze betekenis
+voor het beschrijven van relatief complexe strukturen. Een ander
+voordeel is dat de graphen-theorie voorziet in technieken om
+kwantitatieve eigenschappen van strukturen te beschrijven (HARARY
+e.a., 1965).
+-10-
+Deze strukturen worden weergegeven d.m.v. punten en lijnen. In dit
+onderzoek stellen de punten distriktcentrales voor. De positie van
+de punten in het platte vlak is —anders dan in de geografie
+gebruikelijk- niet van belang. Hierdoor kunnen strukturen zo
+eenvoudig mogelijk, d.w.z. met zo min mogelijk kruisende lijnen,
+getekend worden.
+De graphs in dit onderzoek zijn z.g.n. ’valued digraphs’, ook wel
+netwerken genoemd, omdat de lijnen in de graphs ten eerste een
+bepaalde waarde hebben (de verkeersintensiteiten) en ten tweede ze
+een bepaalde richting hebben waardoor er gesproken wordt van
+’directed graphs’ oftewel ’digraphs’.
+Figuur 3.2 Hiërarchisch patroon van dc’s voor 1975
+Bron: Eigen onderzoek
+Figuur 3.3 Hiërarchisch patroon van dc’s voor 19»
+Figuur 3.5 Hiërarchisch patroon van dc’s voor 1985
+Figuur 3.4 Hiërarchisch patroon van dc’s voor 1981
+Bron: Eigen onderzoek
+Bron: Eigen onderzoek
+Een netwerk wordt uit het hiervoor
+volgt verkregen. Allereerst is het
+beschreven datamateriaal als
+nodig om de dc’s naar grootte
+-11-
+te kunnen onderscheiden. Dit wordt gedaan op basis van de grootte
+van het binnenkomende telefoonverkeer (in de tabellen in bijlagen
+6 en 7 de kolomtotalen). Dit is nodig omdat als de grootste
+uitgaande stroom van een dc naar een 'kleinere’ dc is je spreekt
+van een dominante stroom. Is deze stroom naar een 'grotere' dc dan
+hebben we te maken met een nodale stroom. Een centrale dc is een
+dc die een dominante uitgaande stroom heeft. In de graphen zijn
+voor enkele centrale dc’s ook de op één na grootste uitgaande
+stromen opgenomen om zo de gezochte struktuur duidelijker tot
+uiting te laten komen. (Zie de figuren 3.2, 3.3, 3.4 en 3.5. Zie
+figuur 3.1 voor een verklaring van de gebruikte afkortingen van de
+namen van de dc’s). Bij de bestudering van de graphen valt op dat
+ondanks de nodige veranderingen t.a.v. het gebruik van het
+telefoonnet die de laatste jaren zijn opgetreden, zoals bijvoor-
+beeld de computer-datatransmissie, de hiërarchische struktuur
+nauwelijks aan verandering onderhevig is. Van de 22 dc’s zijn er
+in de onderzochte periode 13 voortdurend met hun dominante stroom
+op dezelfde dc gericht. De dominante stromen van de overige dc’s
+zijn afwisselen op slechts 2 verschillende dc’s gericht. Zie tabel
+3.1.
+Tabel 3.1
+Oriëntatie van de
+dominante stromen van de dc’s
+\ dominante stroom naar \ dominante stroom naar
+dc\	1975	1978	1981	1985	dc\	1975	1978	1981	1985
+amr!	asd	asd	asd	asd	ht :	ehv	ehv	ehv	ehv
+asd!	gv	gv	gv	gv	hvs!	ut	asd	ut	ut
+ah !	zl	ut	ut	zl	lw !	zl	zl	gn	zl
+bd :	rt	rt	rt	rt	lis!	asd	asd	asd	asd
+dv !	zl	zl	ut	ut	mt ;	ehv	ehv	ehv	ehv
+ehv!	ht	ht	ht	ht	mt !	ehv	ehv	ehv	ehv
+gs :	rt	rt	rt	rt	rt !	gv	gv	gv	gv
+gv !	rt	rt	rt	rt	tb :	ehv	ehv	ehv	ehv
+gn !	zl	zl	lw	zl	ut !	asd	asd	rt	rt
+hlm!	asd	asd	asd	asd	vl !	mt	ehv	ehv	mt
+hgl!	zl	zl	asd	zl	zi :	gn	gn	gv	gv
+Bron: PTT-T/eigen onderzoek
+Karakteristiek voor de vier graphen is de centrale positie van
+Amsterdam, Den Haag en Rotterdam. Ook onderling wisselen ze grote
+hoeveelheden informatie uit. Uit dit wat grove beeld blijkt in
+ieder geval dat bovengenoemde drie dc’s hun centrale positie door
+de jaren heen vasthouden. De belangrijke positie van Utrecht -na
+Amsterdam, Den Haag en Rotterdam de dc met het meeste inkomende
+telefoonverkeer- komt in de graphen niet tot uiting. Dit komt
+omdat onderzoek is gedaan naar de grootste telefbonverkeersstro-
+men, terwijl veel distrikten niet met hun grootste maar vaak wel
+-12-
+met een in grootte daar direkt op volgende stroom op Utrecht
+gericht zijn. Voor een meer gedetailleerde bestudering van de
+verkeersintensiteiten tussen de dc’s kunnen andere methoden meer
+informatie verschaffen dan die m.b.v. graphen.
+3.2.3	Nadere analyse van het telefoonverkeer
+Uit de totale inkomende stroom telefoonverkeer valt als eerste de
+positie van de Randstad-di strik ten (Asd, Rt, Gv en Ut) op. In 1995
+kende de kleinste (voor wat betreft het inkomende verkeer) van
+deze vier, Utrecht, nog altijd een 82,67. grotere inkomende stroom
+dan nummer vijf op de ranglijst, Zwolle. Zie ook figuur 3.6.
+Figuur 3.6 Inkomend telefoonverkeer voor ’75, ’78, ’81 en ’85
+in erlang
+Bron: PTT-T/eigen onderzoek
+Uit figuur 3.6 blijkt ook dat de rangschikking van de dc’s
+nauwelijks aan verandering onderhevig is. Op te merken valt nog
+dat bij het distrikt Zwolle in 1981 in plaats van een groei een
+daling van het inkomende telefoonverkeer te constateren valt. Wat
+hiervan de oorzaak is is onbekend.
+De groei van het inkomend telefoonverkeer van de vier Randstad-
+distrikten van 1975 tot 1985 blijkt absoluut gezien bijna tweemaal
+zo groot te zijn als dat van het in grootte volgende distrikt
+Zwol 11e. Kijk je naar de procentuele groei in de zelfde periode
+dan blijken de distrikten Asd, Gv en Rt tot de kleinste groeiers
+te behoren. Het distrikt Utrecht volgt hier niet de Randstad-trend
+maar zit met z’n groei van 80,5 7. beduidend boven het nederlandse
+-13-
+gemiddelde van 68,07.. Zie ook -Figuur 3.7.
+Figuur 3.B Procentuele toenate van het inkotende
+
+telefoonverkeer in de periode 1975
+tot 1905
+Figuur 3.9 Absolute toenate van het inkotende
+telefoonverkeer in de periode 1975
+tot 1985 in erlang
+-14-
+□m e.e.a. overzichtelijk te maken wordt in de -Figuren 3.S en 3.9
+de absolute en procentuele toename van het inkomende telefoonver—
+keer in kaartvorm weergegeven.
+Uit gebruik van Pearson’s product-moment correlatie-coëfficiënt r
+om de sterkte van het verband te meten tussen de procentuele groei
+van het inkomend telefoonverkeer en de procentuele groei van het
+aantal telefoonabonnees blijkt duidelijk dat de groei van het
+telefoonverkeer in de perioden 1975 tot 1978 en 1978 tot 1981 voor
+het overgrote deel te danken is aan de groei van het aantal
+abonnees. De waarden van deze coëfficiënt zijn respektievelijk
+0,92 en 0,78, wat betekent dat er een hoge correlatie tussen de
+twee variabelen is. Voor de periode 1981 tot 1985 is de waarde
+een stuk minder n. 1. 0,47. Dit laat duidelijk zien dat voor deze
+laatste periode ook andere oorzaken voor het toenemende telefoon-
+verkeer gezocht moeten worden dan alleen de groei van het aantal
+abonnees. Te denken valt dan o.a. aan de computer-datatransmissie.
+Zie bijlage 8 voor de berekening van Pearson’s r.
+Van wat de dc’s totaal aan binnenkomend verkeer te verwerken
+kregen ging meer dan 407. in de onderzochte jaren naar de Randstad-
+distrikten. Zie tabel 3.2.
+Tabel 3.2 Aandeel van de Randstad-distrikten in het totaal inkoiende telefoonverkeer
+1975			1978		1981		1985	
+Dc	Erlang I	v. tot.	Erlang X	v. tot.	Erlang I	v. tot.	Erlang X	v. tot.
+Asd	3116,6	13,2	3441,6	12,4	3925,1	12,2	4638,3	H,7
+Rt	2793,9	11,8	3151,0	11,3	3552,8	11,0	4437,0	11,2
+6v	2770,5	11,7	2895,2	10,4	3590,2	11,2	4279,5	10,8
+Ut	2000,8	8,5	2561,0	9,2	2970,2	9,2	3611,1	9,1
+Tot	10681,8	45,2	12048,6	43,4	14038,3	43,6	16965,9	42,7
+Bron: PTT-T/eigen onderzoek
+Uit dezelfde tabel blijkt ook dat dit aandeel van 1975 tot 1985
+slechts gering afneemt. Kijken we naar de dc’s apart dan zien we
+dat, als we 1985 met 1975 vergelijken, het aandeel van de
+distrikten Asd, Rt en Gv iets afneemt en dat van Ut iets toeneemt.
+Voor een verdere plaatsbepaling van de Randstad-distrikten in het
+telecommunicatie-net wordt in tabel 3.3 het procentuele aandeel
+van de niet-Randstad dc’s aan het inkomend telefoonverkeer van de
+Randstad dc’s weergegeven.
+-15-
+Tabel 3.3 Procentuele aandeel van de niet-Randstad dc’s aan het inkoaend telefoonverkeer
+van de Randstad dc’s
+	fiSD	GV	RT	UT
+	75 78 81	85 75 78 81 85 75	78 81 85 75	78 81 85
+aar	7,7 6,9 7,1	6,4 2,3 2,7 2,7 2,3 1,9	2,0 2,2 1,8 2,1	2,5 2,7 2,4
+asd				18,1 16,7 16,9 16,0 15,5	13,1 12,8 12,3 19,1	14,3 14,4 14,0
+ah	3,6 3,4 2,5	2,7 3,5 3,3 2,8 3,1 3,5	3,3 2,9 3,5 5,3	4,7 4,5 4,8
+bd	2,3 2,9 2,4	2,3 2,7 3,4 2,9 3,0 7,7	8,7 6,9 8,0 2,5	2,6 2,7 2,9
+dv	2,7 2,7 2,5	2,3 2,4 2,7 2,5 2,2 2,4	2,6 2,6 2,0 4,6	4,2 3,7 3,4
+ehv	3,4 3,2 3,2	3,5 3,6 4,7 4,2 4,0 3,3	3,5 3,7 3,7 3,7	4,3 4,7 4,4
+gs	1,1 0,9 0,8	1,0 1,4 1,6 1,8 1,7 5,0	5,2 4,5 4,3 1,3	1,5 1,6 1,7
+gv	12,9 13,2 12,8	12,8	25,7	25,0 24,5 24,8 3,7	10,6 10,4 11,6
+9n	3,5 3,4 3,1	2,7 3,2 3,7 3,7 3,5 3,1	3,2 3,4 2,6 3,4	3,4 3,6 3,5
+hla	13,6 14,2 13,5	12,4 4,4 4,5 3,7 4,7 3,4	3,3 2,5 2,7 3,8	3,6 3,5 3,4
+hgl	2,9 2,6 2,7	2,7 2,5 2,3 2,0 1,9 2,2	2,1 2,1 1,9 3,2	3,1 2,8 2,6
+ht	2,3 2,0 2,0	2,3 2,3 2,3 1,9 1,9 3,0	2,7 2,7 2,7 3,3	3,4 3,2 3,1
+hvs	6,3 7,9 5,8	4,5 2,3 3,0 2,4 2,1 2,1	2,5 2,1 3,3 10,6	10,4 9,7 6,8
+1M	2,4 2,3 2,1	2,0 1,6 1,9 1,6 1,8 1,6	1,6 1,8 1,8 2,4	2,4 2,4 2,4
+lis	1,9 2,8 3,8	5,0 -— 0,2 0,4 0,5 0,1	0,1 0,6 0,7 0,7	0,9 1,2 1,2
+■t	1,9 1,8’1,7	1,7 2,3 1,9 1,7 1,9 2,1	1,5 1,5 1,4 2,2	2,0 1,9 1,7
+na	1,7 1,9 2,0	1,7 1,6 1,4 2,0 1,7 1,9	1,9 1,9 1,8 2,9	2,8 2,9 2,7
+rt	14,4 11,4 15,2	17,9 30,4 26,7 30,7 31,8 —-		|8j6	16,4 16,8 19,6
+tb	1,1 0,7 1,0	1,0 0,8 1,0 0,8 0,8 0,9	1,0 1,1 1,3 1,0	0,8 1,0 0,9
+ut	10,7 11,6 10,6	10,6 10,1 10,9 9,5 9,3 10,8	12,2 14,7 14,3 					
+vl	0,8 1,0 0,9	1,0 1,0 0,8 0,8 1,0 1,3	1,1 1,2 1,2 1,2	1,1 1,2 1,3
+zl	2,8 3,2 4,4	3,5 3,5 4,4 5,1 4,7 2,5	3,3 4,4 3,8 4,4	4,8 5,3 5,6
+Bron: PTT-T/eigen onderzoek
+Uit deze tabel is weer duidelijk de stabiliteit van de relaties
+titgqpn de dc’s a-F te lezen: de verandering van de percentages zijn
+slechts gering.
+Voor de vier Randstad-distrikten gezamelijk geldt dat het aandeel
+van de distrikten Rt (aan de drie andere), Ehv, Lis en Z1 in 1905
+t.o.v. 1975 is toegenomen en dat van de distrikten Dv, Hgl, Mt en
+Asd (aan de overige drie) is a-Fgenomen.
+3.3	Zakelijke dienstverlening en tele-Foonverkeer
+Uit paragraa-F 3.2.3 bleek dat er voor de periode ’81-’85 andere
+oorzaken voor het groeiende telefoonverkeer gezocht moeten worden
+dan alleen de toename in het aantal abonnees. Het lijkt aanneme-
+lijk dat het telefoongebruik door het bedrijfoleven, m.n. de
+zakelijke dienstverlening, één van de gezochte oorzaken is. Omdat
+de zakelijke dienstverlening ook van groot belang is in de vier
+grote Randstad steden zal geprobeerd worden een verband tussen
+-16-
+telefoonverkeer en zakelijke dienstverlening aan te tonen.
+Als verklarende faktor voor het toenemend telefoongebruik door de
+zakelijke dienstverlening nemen we de groei van de zakelijke
+dienstverlening qua arbeidsplaatsen, er van uitgaande dat een
+groter aantal werknemers ook een grotere hoeveelheid telefoonver-
+keer betekent.
+Door de cijfers van het CBS gedwongen wordt tot de zakelijke
+dienstverlening ook het bank- en verzekeringswezen gerekend.
+Figuur 3.10 Telefoondistrikten en CDROP-gebieden
+Bron: PTT-T/CBS
+Tabel 3.4 Indeling van COROP-gebieden
+in COROP-distrilcten
+COROP-distr.	COROP-gebiednr.
+Aar	16, 19
+Asd	22, 23, 23A
+Ah/Na	15, 35
+Bd	33
+Dv	11, 13, 14
+Ehv	36
+6s	31, 32
+6v	25, 26, 27, 28
+6n	1, 2, 3, 7, 8
+Hla	20, 21
+Hgl	12
+Ht	35A
+Hvs	24
+Lw	4, 5, 6
+Lis	40
+Nt	39
+Rt	29, 29A, 30
+Tb	34
+Ut	16, 17
+VI	37, 38
+Z1	9, 10
+Bron: CBS/eigen onderzoek
+Omdat de telefoontellingen per telefoondistrikt gegeven zijn moest
+eerst de COROP-gebieden tot soortgelijke gebieden samengevoegd
+worden. Deze samengevoegde COROP-gebieden worden verder COROP-
+distrikten genoemd. Zie figuur 3.10 en tabel 3.4. De verklaring
+van de afkortingen van de namen van de COROP-distr ik ten is
+identiek aan die van de dc’s (zie fig. 3.1).
+Probleem bij deze samenvoeging is dat de grenzen van telefbondis-
+trikten vrijwel nergens samenvallen met de COROP-gebieden. Over
+het algemeen is een redelijke benadering wel mogelijk. Bij
+interpretatie van de gegevens is echter voorzichtigheid geboden
+-17-
+bij de volgende COROP-distrikten: Deventer, Hengelo, Den Bosch en
+Utrecht. Dit omdat enkele van de desbetre-F-Fende COROP-gebieden (13
+en 14 bijvoorbeeld) door de grenzen van de telefoondistrikten min
+oF meer in tweeën worden gedeeld. Dit is voor COROP-gebied 15
+opgelost door de teleFoondistrikten Arnhem en Nijmegen samen te
+nemen.
+Voor de cij-Fers van 1978 is er nog het probleem dat Den Bosch
+samengevoegd is bij Nijmegen en dus in het COROP-distrikt
+Arnhem/Nijmegen komt. Soortgelijk is het geval van Lelystad dat
+bij Deventer gevoegd is. In 1981 en 1985 kunnen Den Bosch en
+Lelystad wel apart onderscheiden worden.
+Tabel 3.5 Procentuele groei van het aantal werkneiers in de zakelijke dienstverlening per
+COROP-distrikt en de procentuele groei van het inkoiende en uitgaande telefoon-
+verkeer in de periode's ’7B-’B1 en ’Bl-’85
+	197B-19B1		19B1-1985	
+Distrikt	X groei werkn. X groei ink.+ uitg. tel.verk.		X groei werkn. X groei ink.+ uitg. tel.verk.	
+Air	17,1	19,5	26,B	14,9
+Asd	9,0	15,1	6,7	18,2
+Ah/Ni	- 8,1*	43,4*	26,3	51,9
+Bd	12,5	13,3	36,4	24,4
+Dv	6,8*	93,8*	33,2	24,3
+Ehv	16,B	20,B	22,0	16,7
+6s	7,5	19,3	33,3	21,7
+6v	11,9	19,2	10,B	23,0
+6n	22,9	17,6	26,1	19,4
+Hit	15,9	7,7	17,6	20,1
+Hgl	30,6	16,3	34,0	21,3
+Ht			37,7	27,7
+Hvs	6,7	5,6	35,4	13,6
+Lw	16,0	17,8	19,0	28,2
+Lis			•		47,4	58,9
+Ht	23,5	16,7	27,8	20,5
+Rt	8,3	20,4	12,8	29,2
+Tb	19,0	19,0	13,8	15,0
+Ut	14,9	14,4	18,6	20,8
+VI	7,6	14,9	35,2	23,0
+ZI	33,8	8,1	11,1	42,0
+Bron: PTT-T/CBS/eigen onderzoek
+• Ht bij fih/N»
+• Lis bij Dv
+Als we nu de procentuele groei van het aantal werknemers in de
+zakelijke dienstverlening vergelijken met de procentuele groei van
+het inkomende en uitgaande telefoonverkeer dan zou er een posi-
+-18-
+tieve correlatie moeten bestaan: meer werknemers in de zakelijke
+dienstverlening houdt een groter wordende hoeveelheid telefoonver-
+keer in.
+Met behulp van Pearson’s product-moment correlatie-coëfficiënt zal
+geprobeerd worden deze stelling te bewijzen. (Zie voor de formule
+van Pearson’s r bijlage 8). Toepassing van deze formule op de
+gegevens zoals deze in tabel 3.5 staan leidt voor zowel de periode
+’78-’81 als voor de periode *81-’85 tot een r van 0,00. Dit
+betekent dat er voor beide periodes geen relatie tussen de twee
+variabelen te constateren valt.
+□p grond van deze cijfers moet de stelling ’er is een positief
+verband tussen de groei van het aantal werknemers in de zakelijke
+dienstverlening en de groei van de hoeveelheid telefoonverkeer’
+dus verworpen worden.
+3.4	Conclusie
+Zoals te verwachten was spelen de vier Randstad-distrikten, Asd,
+Rt, Gv en Ut, een belangrijke rol in het netwerk van distriktcen-
+trales. Dit slaat dan vooral op de hoeveelheid telefoonverkeer die
+deze centrales te verwerken krijgen: meer dan 407. van het totaal
+aan inkomend telefoonverkeer in de periode 1975 tot 1985 gaat via
+deze centrales.
+Uit de analyse van de telefoonverkeersstromen m.b.v. de graphen-
+theorie en andere methoden blijkt dat de centrale positie van de
+Randstad-distrikten niet of nauwelijks verandert. De opkomst van
+andere telecommunicatie-methoden -te denken valt dan bijv, aan
+fax- blijkt geen invloed te hebben op de telecommunicatie-stromen.
+Omdat de zakelijke dienstverlening een belangrijke gebruiker van
+de nieuwe telecommunicatie-methoden is en een belangrijk onderdeel
+van de werkgelegenheid van de Randstad-steden vormt is geprobeerd
+een relatie te leggen tussen telefoonverkeer en zakelijke dienst-
+verlening om zo een verklaring te geven voor afnemende groei van
+het aantal telefoonabonnees en toenemende groei van het telefoon-
+verkeer. Dat dit niet is gelukt is hoogstwaarschijnlijk te wijten
+aan de onvolkomenheden van het gebruikte cijfermateriaal.
+-19-
+HOOFDSTUK 4: TE1 ECCTMJNICATIE IN DE VIER GROTE RANDSTAD-GEWESTEN
+4.1	Inleiding
+Om het beeld van telecommunicatie-infrastruktuur en —Faciliteiten
+in de Randstad kompleet te maken zijn er interviews afgenomen bij
+de Afd. Ruimtelijke Ordening van de gemeente Amsterdam, de Afd.
+Economische Zaken bij de provincie Utrecht en de gemeente Den
+Haag, bij de Dienst Stadsontwikkeling van de gemeente Rotterdam
+en bij de Marketingafdelingen van de PTT-distrikten Den Haag,
+Rotterdam en Utrecht en bij de AFdeling Infrastruktuur van het
+distrikt Amsterdam.
+Op basis van deze interviews en aanvullende literatuur zal voor
+ieder van de vier regio’s een beschrijving worden gegeven van de
+voor de desbetreffende regio belangrijke ontwikkelingen op tele-
+communicatie-gebied voorzover dit van invloed is op de inrichting
+en eventuele lokatie van vestigingsplaatsen voor bedrijven en
+kantoren.
+Doel van dit geheel is om te zien oF er belangrijke verschillen
+zijn tussen de vier grote Randstad-gewesten op telecommunicatie-
+gebied op basis waarvan er verschillen kunnen ontstaan in de
+attraktiviteit van de steden als vestigingsplaats voor bedrijven.
+4.2	Utrecht
+De regio Utrecht kenmerkt zich vooral door een concentratie van
+vestigingen voor nationaal georiënteerde commerciële en niet-
+cormerciële dienstverlening. Dit is volgens het streekplan tevens
+een van de sterke kanten van het Utrechtse produktiemi1ieu. Als
+andere sterke kanten worden genoemd de centrale ligging in
+Nederland en de goede verbindingen met de rest van Nederland en
+het buitenland. Sterk aangetrokken door dit produktiemi1ieu worden
+vooral bedrijven uit de computerbranche die ondermeer een vesti-
+gingsplaats vinden op Kanaleneiland in de stad Utrecht. Andere
+lokaties waar veel bedrijven uit de zakelijke dienstverlening zich
+vestigen zijn Houten (Doornkade), Nieuwegein (Stadscentrum en
+Plettenburg-De Wiers), Maarssen, Maarssenbroek en Zeist. Ook in
+Amersfoort en Veenendaal vestigen veel bedrijven uit deze catego-
+rie zich maar voor de provincie hebben de ontwikkelingen in het
+stadsgewest Utrecht prioriteit.
+Het belang van Schiphol voor de economie van Nederland wordt ook
+door de provincie Utrecht onderkent en men probeert dan ook te
+profiteren van de uitstralingseffecten hiervan. Deze effekten zijn
+nu al merkbaar gezien het feit dat in Utrecht al Schiphol gebonden
+aktiviteiten gevestigd zijn. Deze aktiviteiten behoren o.a. tot de
+distributieve sektor. Wat voor deze bedrijven gunstig is op deze
+lokatie is de niet te grote afstand tot Schiphol, de goede
+-20-
+ontsluiting en de lokatie in de richting van het achterland. Als
+in de toekomst de distributie sektor voor hun logistiek steeds
+meer gebruik gaan maken van telecommunicatie—Faciliteiten zullen
+-meer dan nu- andere lokaties dan Schiphol in aanmerking komen
+voor vestiging. In dit kader spelen m.n. de gemeenten Mijdrecht,
+Utrecht, Maarssen en Nieuwegein een rol in het provinciale
+promotie- en acquisitiebeleid.
+Aansluitend op de hausse in ontwikkeling van luxe kantoorlokaties
+worden in het stadsgewest Utrecht ook diverse initiatieven op dit
+terrein ontplooid.
+Een Teleport OFFice Park, zoals die in Amsterdam wordt ontwikkeld,
+bevindt zich slechts in een zeer pril stadium. Als mogelijke
+lokatie wordt het Gooi genoemd. Het grootste probleem waar men
+voorlopig op stuit is de -Financiering.
+Er wordt ook onderzoek gedaan naar de mogelijkheden voor de aanleg
+van een z.g.n. 4e generatie bedrj j-Fsterrein. De plaats waar dit
+geheel tot ontwikkeling moet worden gebracht is de polder Galecop
+in het noorden van Nieuwegein. De -Faciliteiten die deze lokatie
+aantrekkelijk moeten maken zijn o.a. veel groen, extra -Facilitei-
+ten op telecommunicatiegebied (waaronder value added networks),
+hotels, luxe winkels en recreatieve mogelijkheden. Als doelgroep
+heeFt men hooFdkantoren in gedachte van o.a. dienstverlenende
+bedrijven.
+Ook de polder Papendorp in het zuidwesten van de gemeente Utrecht
+wordt in die richting ontwikkeld met als mogelijke vestigers
+"watergerichte" bedrijvigheid vanwege de nabijheid van het Amster-
+dam-Ri jnkanaal.
+Naar buiten toe worden beide polders 'Oudenrijn* genoemd i.v.m. de
+herkenbaarheid voor de rest van Nederland.
+Figuur 4.1 G1asveze1-agglomeratienet stadsgewest Utrecht
+Bron: De Graa-F, 1987
+-21-
+Om tegemoet te komen aan de vergrote vraag naar telecommunicatie
+■Faciliteiten en -capaciteiten worden in de vier grote steden
+glasvezel-agglomeratienetten aangelegd. Dat van Utrecht is in 1987
+in gebruik genomen en uitbreiding hiervan naar omringende gemeen-
+ten volgt spoedig (zie -Fig 4.1). Dat grotere capaciteiten nodig
+zijn blijkt ondermeer uit een enquête gehouden door de Kamer van
+Koophandel van Utrecht onder bedrijven in de gemeente Utrecht
+(Utrechts Nieuwsblad, 6 jan. ’88). Op de vraag o-F men knelpunten
+ondervond die een merkbaar nadelige invloed hebben gehad op de
+bedrij-Fsvoering antwoorden 97. van de geënquêteerde bedrijven dat
+ze ernstige problemen met de tele-Fonische bereikbaarheid hadden.
+Dit percentage is bijna tweemaal zo groot dan elders in Nederland
+(m.u.v. de regio Amsterdam). Overigens vindt de KvK dit geen
+verwijt in de richting van de PTT omdat enerzijds niemand had
+kunnen voorzien dat de -Fax zo snel ingeburgerd zou raken en
+anderzijds de groei in het Utrechtse bedrij-Fsleven vooral in de
+communicatie-intensieve dienstverlenende sektor zit.
+Om de genoemde problemen op te lossen en —naar men verwacht- ook
+in de toekomst te voorkomen zal in 1988 versneld een nieuwe
+telefooncentrale geplaatst worden.
+De PTT houdt de marktontwikkelingen in de gaten door het volgen
+van gedane prognoses en het meten van de verkeersa-Fwikkeling. Men
+heeft met de gemeenten minstens een maal per jaar kontakt om te
+zien of de ontwikkelingen in spoor lopen. De kleinere gemeenten
+worden gebeld of krijgen een enquete—Formulier toegezonden, ter-
+wijl men naar de grotere gemeenten zelf heen gaat. Het overleg met
+de gemeenten over o.a. de planning van bedrijfsterreinen en te
+verwachten bedrijvigheid is de laatste tijd frequenter geworden.
+Ook met het bedrijfsleven is regelmatig overleg. Het probleem dat
+hierbij naar voren komt is dat de bedrijven, uitgezonderd de
+grotere zoals die in de computerbranche en bankwezen, niet weten
+wat ze over 3 tot 5 jaar op telecommunicatiegebied van plan zijn.
+Ondanks het feit dat de PTT er alles aan doet om de marktontwikke-
+lingen te volgen kwam men in de problemen doordat én het net
+vernieuwd moest worden én de ontwikkelingen t.a.v. het verkeers-
+aanbod zo snel gingen dat men hierop achterliep. Bij een versnel-
+ling van de ontwikkelingen kan men niet direkt oplossingen bieden
+omdat de invoering enige tijd in beslag neemt. Deze responstijd
+heeft men van 2 tot 2,5 jaar naar 1,5 jaar terug weten te brengen.
+Specifieke bottle necks waarmee de PTT geconfronteerd wordt zijn
+ten eerste de financiën (desondanks waren de investeringen in 1987
+tweemaal groter dan het jaar daarvoor) en ten tweede kunnen de
+leveranciers van centrales niet op de door de PTT gewenste tijden
+leveren omdat ze enerzijds problemen ondervinden die samengaan met
+de invoering van nieuwe (digitale) technieken en ze anderzijds de
+grote vraag niet aan kunnen.
+4.3	Rotterdam
+Economische aktiviteiten die er in de regio Rotterdam uitspringen
+qua werkgelegenheid, omzet e.d. zijn die welke deel uitmaken van
+het petro-chemische complex en havengebonden aktiviteiten als
+transport, opslag en aanverwante commerciële dienstverlening.
+Rotterdam ondervindt grote concurrentie van de drie andere grote
+steden in de Randstad v.w.b. het aantrekken van bedrijven in de
+commerciële dienstverlening. Uit het onderzoeksrapport
+"Aanbevelingen van de vastgoedsektor over de kantorenmarkt in de
+Haagse regio" (Reg. Econ. Overleg,*87) blijken beleggers als het
+ABP, Aegon en PGGM het vestigingsklimaat van Rotterdam in verge-
+lijking met dat van de drie andere grote Randstadsteden als het
+slechtste te waarderen. Dit o.a. vanwege de extreem hoge grond-
+prijzen. Projektontwikkelaars en makelaars schatten de situatie
+gunstiger in o.a. door een agressief vasthoudend gemeentebestuur
+dat er alles aan doet om Rotterdam als kantorenstad te profileren.
+Om de aantrekkingskracht van Rotterdam als vestigingsplaats voor
+kantooraktiviteiten te vergroten is het volgens het Streekplan
+Rijnmond nodig hoogwaardige kantoorlokaties beschikbaar te stellen
+en daarnaast het woon- en werkklimaat en het imago van de regio te
+verbeteren. Ook kan het "toepassen van geavanceerde informatica-
+en communicatietechnieken ... de positie van de haven versterken.
+Informatica is niet alleen noodzakelijk om goederenstromen aan de
+regio te (blijven) binden maar is tevens een middel om nieuwe
+aktiviteiten zowel in de dienstverlening als industriële sfeer aan
+te trekken"(Streekplan Rijnmond, *85).
+Speciaal voor bepaalde bedrijfsterreinen of kantoorlokaties aan-
+gelegde telecommunicatie-netwerken zijn er ook in Rotterdam niet.
+Ook bij het verbeteren van vestigingsplaatscondities van bestaande
+bedrijfsterreinen, waar men volgens het streekplan naar streeft,
+denkt men niet direkt aan verbeterde telecommunicatie-voorzie-
+ningen. In principe is het mogelijk om vanaf iedere lokatie, oud
+of nieuw, gebruik te maken van alle door de PTT aangeboden
+faci 1 iteiten.
+Ook voor het Brainpark Rotterdam Kralinqen zijn geen speciale
+telecommunicatie—Faci 1 iteiten aangelegd. De naam slaat meer op de
+aan te trekken c.q. aangetrokken high-tech bedrijven dan op deze
+lokatie te vinden hoogwaardige telecommunicatie-voorzieningen. Het
+Brainpark onderscheidt zich eerder van andere bedrijfsterreinen
+door z’n ruimtelijke setting. Deze bestaat o.a. uit het aanbod van
+middelschalige kantooreenheden (1000-3000 m2 vloeropp.), de stof-
+fering met stedebouwkundige elementen zoals groen en de goede
+ontsluiting door openbaar vervoer en de rijksweg A16. De vraag
+naar dit type bedrijfsterreinen is groot gezien het feit dat het
+Brainpark snel volgelopen is en er bedrijven op de wachtlijst
+moesten worden geplaatst. Op zeer korte termijn komt er een
+uitbreiding van het Brainpark ten noorden van de huidige lokatie.
+-23-
+De Noordrand oF HooFdweg zijn terreinen die in de toekomst
+Brainpark-achtige lokaties kunnen worden.
+Voor de distributie sektor zal in Rotterdam een Transpol is opgezet
+worden die het voor kleinere bedrijven o.a. moge lijk moet maken om
+gezamelijk gebruik te maken van geavanceerde Faciliteiten als
+computers en teleFooncentrales.
+Soortgelijke diensten, maar dan op kleinere kantoorgebruikers
+toegesneden, worden geleverd door het W.T.C.. Voor de overige
+kantoorlokaties, waarvan de belangrijkste zijn het stadscentrum,
+Rotter dam-Oost (bij OosterhoF), Zuidplein en Hoogvliet (bij het
+metrostation) gaat hetzelFde verhaal op als voor de bedrijFster—
+reinen: geen speciale telecommunicatie-voorzieningen zoals glas-
+vezel-verbindingen omdat de bestaande mogelijkheden iedere
+behoeFte kunnen dekken.
+Bij de aFdeling Marketing van het PTT-T distrikt Rotterdam
+probeert men sinds kort per bedrijFsbranche verkeerskarakteris-
+tieken op te stellen die het mogelijk moeten maken om nauwkeuriger
+voorspellingen te doen over de ontwikkelingen in het teleFoon-
+verkeer. Wanneer men deze verkeerskarakteristieken kent, kan men
+op grond van bedrijFsvestigingen en —verplaatsingen uitspraken
+doen over de te verwachten intensiteiten van het teleFoonverkeer.
+Deze methode zal een belangrijke aanvulling vormen op de gebruike-
+lijke verkeersmetingen. Daarnaast voert de PTT regelmatig overleg
+met de gemeente over het Funktioneren van de telecommunicatie-
+inFratruktuur. Met plannen van de gemeente kan de PTT echter geen
+rekening houden omdat deze te vaak bijgesteld worden. Meer
+zekerheid omtrent te verwachten verkeersintensiteiten geven de
+investeringen gedaan in nieuwe kantoorgebouwen.
+Figuur 4.2 Glasvezel-agglomeratienet Rotterdam
+Bron: De GraaF, 1987
+-24-
+Om de telematica-aktiviteiten in de gehele Rotterdamse regio van
+dienst te zijn en om nieuwe diensten aan te kunnen bieden heeft
+ook Rotterdam een glasvezelnet gekregen. Rotterdam was de eerste
+gemeente in Nederland waar glasvezel in de praktijk gebruikt werd.
+Tussen de distriktcentrales I en II kwam in 1983 een kabel met een
+lengte van 9 kilometer. Uiteindelijk werd eind 1985 in Rotterdam
+het eerste glasvezel-agglomeratienet geopend met een totale lengte
+van 40 kilometer (zie Tig. 4.2).
+Volgens het gemeentebestuur is voor een goed informatietransport
+verder nog nodig een versnelde digitalisering van telefooncentra-
+les (Rotterdam heeft nog veel oude electromagnetische centrales),
+voortgaande uitbreiding van het glasvezelnet en verdere uitbouw
+van specifieke voorzieningen zoals INTIS en Teleport bieden
+(rapport B&W okt. ’87).
+Het glasvezelnet zal verder in het openbare net geïntegreerd
+worden waardoor het verschil tussen agglomeratienet en openbaar
+net steeds verder zal afnemen. Het openbaar net zal dus in de
+nabije toekomst typisch agglomeratienet-achtige voorzieningen aan
+kunnen bieden. Hiervoor zullen ook de nu nog gebruikte elektro-
+magnetische centrales door digitale centrales vervangen worden.
+Belangrijke gebruikers van het glasvezel-agglomeratienet zijn
+Rotterdam Teleport en Intis.
+De Teleport van Rotterdam is reeds operationeel. Bedrijven in de
+regio Rotterdam hebben hierdoor de beschikking over een geïnte-
+greerd net van telecommunicatie-systemen, verbindingen en dien-
+sten, zoals elektronische post, videoconferencing, voice mail en
+gegevensverwerkingsdiensten. Een belangrijk gebruiker van deze
+faciliteiten is het in 1987 geopende W.T.C.
+Een Teleport Office Park (T.O.P.) daarentegen bevindt zich in
+dezelfde aftastende fase als dat van Utrecht. De adviescommissie
+sociaal-economische vernieuwing Rotterdam ziet wel mogelijkheden
+vanwege de "... grotere zichtbaarheid waarvan een wervende kracht
+uitgaat, concentratie van diensten en een direkte relatie met
+kantorenbouw en -exploitatie." (rapport van de adviescommissie
+soc.—econ. vernieuwing R’dam, nov. ’87). Echter volgens het bEI
+ziet het bedrijfsleven de enorme mogelijkheden van Teleports
+(bedoeld wordt waarschijnlijk een T.O.P.) nog niet in voldoende
+mate en ze noemt de gemeente en de PTT vooralsnog de grootste
+belanghebbenden bij het opzetten van een Teleport (NEI,’86). Dit
+laatste blijkt ook uit de samenwerkingsovereenkomst dat eind 1987
+tussen de PTT en de gemeente getekend is aangaande Rotterdam
+Teleport. Hiermee is een projekt van voorlopig 3 jaar opgestart
+waarna een evaluatie van de mogelijkheden of onmogelijkheden van
+een T.O.P. plaats zal vinden.
+Mocht een Teleport Office Park van de grond komen dan zijn
+mogelijke lokaties de Noordrand of de Kop van Zuid. Op het
+ogenblik ligt de Kop van Zuid er enigzins geïsoleerd bij en het
+zal pas een "lokatie van uitzonderlijke klasse" (B&W, okt. ’87)
+worden als de geplande brug over de Nieuwe Maas een -Feit is. Deze
+lokatie is overigens niet onomstreden: vanuit o.a. de markt komt
+nogal wat kritiek op de gemeentelijke plannen omdat er vanwege de
+moeilijke bereikbaarheid ingrijpende veranderingen nodig zijn in
+de bebouwde omgeving en op inFrastruktureel gebied. Deze ingrepen
+worden niet acceptabel geacht omdat de ontwikkelingstendens in
+oostelijke richting is en het centrum en het oostelijk deel van
+Rotterdam voldoende capaciteit bieden voor toekomstige ontwikke-
+lingen.
+Een onderdeel van Rotterdam Teleport is het Internationaal Trans-
+port Informatie Systeem (Intis). In 1985 is de Intis b.v.
+opgericht met als doel "het leveren van -Faciliteiten t.b.v.
+telecommunicatie en informatiediensten ter begeleiding van we-
+reldwijde integrale goederenstromen en alle diensten die daarmee
+in de ruimste zin verband houden" (Tweede Kamer der
+S.G.,19560,’85~*86).
+Automatisering werd noodzakelijk geacht om te zorgen dat Rotterdam
+z’n positie in het wereldgoederenvervoer niet zou verliezen.
+Diensten waarin door Intis wordt voorzien zijn o.a.:
+—electronisch opvragen van gegevens waardoor papieren in-For
+matie- overdracht zo goed als overbodig wordt.
+-douane—formaliteiten worden tot een minimum teruggebracht.
+-in de toekomst vindt er een koppeling plaats met gegevens
+banken over grondsto-F-Fen en werel dmarkten.
+-wereldwijde toegang tot het systeem.
+Intis is in 1987 in gebruik genomen en verwacht wordt dat het in
+1988 een groot aantal gebruikers zal krijgen. Hiervoor zal wel een
+aantal problemen overwonnen moeten worden. Zo is de soFtware voor
+de kleine en middelgrote bedrijven ten dele onbereikbaar en ten
+dele ook niet toegespitst op hun behoe-Ften. Ten tweede zal het
+concurrentiebelang tussen de deelnemers overwonnen moeten worden
+omdat voor een goed gebruik van Intis het nodig is dat de
+informatie die in Intis opgeslagen is toegankelijk wordt voor alle
+deelnemers (adviescommissie soc.-econ. vernieuwing R’dam, nov.
+*87).
+4.4	Amsterdam
+De regio Amsterdam kent een grote concentratie van hoo-Fdkantoren
+van ondernemingen in de zakelijke dienstverlening en, in mindere
+mate, in de indastrie alsmede internationale handel en distribu-
+tie. De lokaties waar veel bedrijven in de zakelijke dienstverle-
+ning zich vestigen zijn Amsterdam-Z.0. (vestiging van o.a. NMB en
+Amro) en Buitenveldert. Daarnaast vestigt dit type bedrijven zich
+veel langs de Westelijke Ringweg, in Amsterdam-Oost, het centrum
+(o.a. langs de te ontwikkelen IJ-oevers) en in Sloterdijk.
+De gemeente streeFt ernaar bedrijven in de telecommunicatie en
+-26-
+inFbrmatie-industrie te vestigen in het centrum en in Sloterdijk.
+Dit omdat door concentratie van gelijksoortige aktiviteiten op
+één punt, met de bijbehorende attraktieve concentraties van
+werkgelegenheid met een speci-Fieke identiteit, extra ontwikke-
+lingsmogelijkheden ontstaan. Dit wil overigens niet zeggen dat er
+binnen een nevencentrum o-F in het centrum slechts plaats zou zijn
+voor enkele typen kantooraktiviteiten. Over het algemeen dient de
+lokatiekeuze van bedrijven niet door een dergelijk beleid belem-
+merd te worden. (Kantorennota A’dam, dl. I & II, ’85). Wel wil
+men kwalitatie-F hoogwaardige kantorenbouw stimuleren in de z.g.n.
+nevencentra (Structuurplan A’dam, ’86).
+Een voorbeeld van deze hoogwaardige kantorenbouw is het Teleport
+O-F-Fice Park (T.O.P.). Het T.O.P. moet het hart worden van Teleport
+Amsterdam dat z’n gebruikers geavanceerde transport-, netwerk- en
+in-Formatiediensten biedt, daarbij gebruik makend van het glasve-
+zel -agg lomer at ienet. Amsterdam is de enige van de vier grote
+steden waar de ontwikkeling van een T.O.P. in een vergevorderd
+stadium verkeert. De lokatie staat vast (Sloterdijk), er is een
+satel 1 ietg rondstat ion geplaatst en het eerste 'intelligente'
+bedri j-Fsverzamel gebouw Busitel wordt in 1988 geopend. Met deze
+opening zal het eerste Teleport OEFice Park in Nederland operatio-
+neel zijn. Teleport—Faci 1 iteiten die aangeboden worden zijn geba-
+seerd op de combinatie van enerzijds een digitale telecommunica-
+tie-centrale en anderzijds centrale computercapaciteit voor opslag
+en bewerking van gegevens. Diensten die hierop gebaseerd zijn zijn
+o.a. een databankservice, een pool voor tekstverwerking, video-
+conTerencing en schakelingen die automatisch de snelste en goed-
+koopste lange-a-Fstandsverbinding via kabel o-F satelliet zoeken.
+Dat het eerste gebouw binnenkort wordt geopend betekent overigens
+niet dat men geheel uit de problemen is bij de ontwikkeling van
+het T.O.P. Men had eerst een vrij geringe belangstelling vanuit
+het bedri j-Fsleven omdat deze prima vestigingslokaties vond in
+Buitenveldert en Z.O.. Nu deze vollopen verschui-Ft de vraag naar
+ruimte meer naar Sloterdijk. Een groter probleem is dat men nog
+een leverancier zoekt voor de geavanceerde apparatuur waardoor de
+meest vooruitstrevende -Faciliteiten nog niet aangeboden kunnen
+worden.
+Bedrijven die men desondanks al wil aantrekken zijn
+multinationals die een Europees hooFdkantoor willen vestigen,
+ontwerpcentra (CAD/CAM), uitgeverijen (Elsevier heePt al belang-
+stelling getoond) en programmatuurhuizen.
+In het stadsgewest Amsterdam zijn meer projekten om high-tech
+lokaties te ontwikkelen in meer of minder ver gevorderd stadium.
+Het idee om een Transpol is in regio Amsterdam te vestigen is er
+wel geweest. Het PTT distrikt Amsterdam hee-Ft dit idee doorge-
+speeld naar de Centrale Direktie maar toen hier verder niets meer
+van werd vernomen is het gehele idee echter verzand.
+-27-
+Niet specifiek voor bedrijven in de logistieke sfeer is het
+bedrijfsverzamelgebouw 'Electronic City Europe" (E.C.E.). Dit is
+een 'smart building’ voor high-tech bedrijven en het wordt op de
+grens van de plaatsen Badhoevedorp en Lijnden gebouwd. Begin 1989
+worden de eerste huurders verwacht. Een goede ontsluiting moet
+bewerkstelligd worden door de nog aan te leggen Westelijke
+Randweg. De laatste 'smart building’ die in dit rijtje thuis
+hoort is het World Trade Center. Deze biedt plaats aan kleinere
+bedrijven die gebruik maken van diverse -Faciliteiten die het
+W.T.C. biedt, zoals videoconFerencing, gezamelijk gebruik van een
+telefooncentrale en een centrale balie.
+Figuur 4.3 Glasvezel-agglomeratienet Amsterdam
+Bron: De Graa-F, 1987
+Al deze projekten maken in meer of mindere mate dankbaar gebruik
+van het glasvezel-agglomeratienet (zie fig. 4.3).
+Het bestaande glasvezel-agglomeratienet van Amsterdam wordt in de
+volgende twee jaar uitgebreid met ringleidingen naar Badhoeve-
+dorp, Zwanenburg en Kadoelen. In 1988 moeten de belangrijkste
+centrales aangesloten zijn en in 1989 moeten ook de minder
+belangrijke centrales in het agglomeratienet opgenomen zijn.
+Ook al is een direkte aansluiting op het agglomeratienet erg duur
+en vaak onnodig toch verwacht de gemeente dat grote handels-
+centra, banken (de Amro is al aangesloten), sonrnige kantoren,
+universiteiten (de UvA heeft ook al een aansluiting) en uitgeve-
+rijen potentiële gebruikers zijn (Struktuurplan A’dam, ’86). Het
+is echter niet zo dat er een 'rush' is of zal ontstaan naar
+aansluitingen op het agglomeratienet. De aanvragen hiernaar bij
+de PTT zijn slechts incidenteel en nemen zelfs af.
+De Kamer van Koophandel en Fabrieken voor Amsterdam vindt de
+mogelijkheden van het agglomeratienet nog niet voldoende: "In de
+concurrentie met het buitenland wordt doorslaggevend of aan de
+telecommunicatie-eisen van internationale bedrijven en instellin-
+gen voldaan wordt. Dit betekent o.a. dat tijdig een z.g.n.
+’ geïntegreerd tweeweg breedband-net’ beschikbaar moet zijn" (KvK,
+okt. *87).
+Gevraagd naar het beschikbaar komen van een ’geïntegreerd tweeweg
+breedband—net’ antwoordde de PTT, ervan uitgaande dat de KvK
+hiermee ISDN bedoelde, dat men verwacht dat het in 1990 mogelijk
+moet zijn een ISDN aansluiting te krijgen. Zeker is dit echter
+niet omdat men o.a. problemen ondervindt bij de leveranciers en
+met de -Financiering van het geheel. Meer algemeen geldt dat bij
+de ontwikkeling van nieuwe -Faciliteiten men niet of onvoldoende
+weet hoe de markt zal reageren waardoor ook het rendement
+onbekend is.
+De PTT probeert op de hoogte te blijven van de ontwikkelingen in
+de markt door o.a. het in 1987 opgezette bedrijvenpanel waarin
+men een paar keer per jaar gesprekken hee-Ft met innovatieve
+bedrijven (o.a. banken) en door kwaliteitsonderzoek bij de
+klanten. Ook voert men overleg met de ruimtelijke ordeningsafde-
+lingen van de gemeenten. Andere belangrijke overlegorganen in
+Amsterdam zijn de Amsterdamse Industrievereniging en de Raad voor
+Telecommunicatie en In-Formatica. Doel van deze raad is het volgen
+en stimuleren van ontwikkelingen op telecommunicatie en informa-
+tica gebied en hierin vertegenwoordigd zijn de o.a. de PTT,
+leveranciers van randapparatuur, uitgeverijen, banken en univer-
+siteiten.
+Naast het overleg met de diverse organen houdt de PTT zel-F ook
+nog verkeersmetingen. De op basis hiervan geconstateerde capaci-
+teitsproblemen kunnen ondermeer verholpen worden door het inzet-
+ten van bedr i j-Fscentrales als openbare centrales of door het
+gebruiken van het agglomeratienet om de verkeersafwikkeling te
+versnellen (wat al gebeurt middels het projekt Snel ’8é>).
+Daarnaast is het een wens van de PTT om meer flexibele afspraken
+met leveranciers te kunnen maken v.w.b. hoeveelheden en specifi-
+caties om zo sneller op veranderende omstandigheden te kunnen
+reageren. Dat dit al gebeurt blijkt bijvoorbeeld uit het verzoek
+van de PTT aan APT en Ericsson om een centrale die voor Utrecht
+bedoeld was aan Amsterdam te leveren en de centrale die later
+gereed is en voor Amsterdam bedoeld was aan Utrecht te leveren.
+Dat zal in dit jaar ook inderdaad gebeuren waardoor het distrikt
+Amsterdam versneld extra capaciteit krijgt.
+4.5	Den Haag
+De economische specialisaties van Den Haag zijn bekend: een
+overheidscomplex met aanverwante niet-commerciële organisaties en
+-29-
+internationale instellingen. Daarnaast vinden we hier een con-
+centratie van petrochemische managementaktiviteiten en van inge-
+nieursburo’s. Het overheidscomplex is echter geen overheersende
+faktor meer, de aanwezigheid van enkele hoofdkantoren van petro-
+chemische bedrijven heeft namelijk veel andere kantoorgebruikers
+aangetrokken (STRABO, aug. *87). Toplokaties voor de kantorenmarkt
+zijn ten eerste de omgeving rond het Centraal Station en ten
+tweede de omgeving van het Congresgebouw. Een toplokatie wordt
+gekenmerkt door een goede bereikbaarheid per auto op ieder gewenst
+tijdstip, bereikbaarheid per openbaar vervoer en de aanwezigheid
+van voldoende parkeervoorzieningen.
+Den Haag wil z’n economische basis verbreden door z’n afhanke-
+lijkheid van kantooraktiviteiten te verkleinen. Het wil zich
+daarom als ’telematica-centrum’ van Nederland profileren, om zo
+produktie-, handels- en servicebedri jven in de telecommunicatie-
+sektor aan te trekken. Om dit streven te concretiseren denkt men
+aan het ontwikkelen van high-tech lokaties.
+Volgens de PTT zijn er plannen voor een Teleport Office Park in de
+regio Den Haag. Als mogelijke lokatie noemt men de Utrechtse Baan
+in Den Haag of een lokatie bij Zoetermeer. Zowel de PTT als de
+gemeente blijken nogal sceptisch t.a.v. het nut van een T.C.P.
+Beide zijn de mening toegedaan dat een T.C.P. voornamelijk een
+'image building’ —Funktie heeft. Cf zoals dhr. Jense van de
+afdeling EZ zei: "wat hetzelfde effekt heeft en eenvoudiger en
+goedkopere is, is het plaatsen van een kartonnen schotel ergens
+op een dak".
+Een ander projekt is het 'Study & Work Park Laakhaven* . Deze
+lokatie midden in de stad moet een "knooppunt van brains" worden
+dat nieuwe bedrijven en kantoren in de sfeer van informatica en
+nieuwe produktie-technologie aantrekt (Gemeentesecretarie afd EZ,
+april *87). Op dit terrein moet de nieuwe Haagse Hogeschool voor
+Beroepsonderwi js komen die ontstaan is na fusie van veertien HBO-
+instituten. Men rekent hierbij op een spin-off van economische
+aktiviteiten in m.n. de informatica-sektor en technologische
+produktinnovatie. Ook de hier te vestigen kennistransferpunten
+kunnen tot verhoogde economische aktiviteiten aanleiding geven.
+Aansluiting op het glasvezel-agglomeratienet wordt noodzakelijk
+geacht om een maximale uitwisseling van kennis en gegevens
+mogelijk te maken. Een tegenvaller voor het projekt was het
+terugtrekken van het plan om hier ook een Informatica Universiteit
+(de z.g.n. 'The Hague Advanced School of Applied Informaties’) te
+vestigen. Het plan werd niet doorgezet om een aantal hier niet ter
+zake doende redenen. Het projekt Laakhaven zal desalniettemin in
+enigzins gewijzigde vorm doorgang vinden.
+Een doorn in het oog van Den Haag is een ander projekt in de regio
+n. 1. het Campus-projekt van Zoetermeer. Dit moet een kantorenpark
+worden waarin de eigen identiteit van de gebruiker gestalte kan
+krijgen: het gaat om kleinere, solitaire kantooreenheden (1000-
+5000 m3 b.v.o.) in een groene, rustige omgeving met technologisch
+hoogwaardige -Faciliteiten" (Reg. econ. overleg/ Haagse regio,
+juli ’87). Mocht het van de grond komen dan zal het een direkte
+concurrent worden van kantoorontwikkelingen in Den Haag.
+Een Transpol is zal in de regio Den Haag niet gevestigd worden
+omdat de distributie sektor in dit gebied niet zo belangrijk is
+als bijvoorbeeld in Rotterdam.
+Figuur 4.4 Glasvezel-agglomerat ienet Den Haag
+Zoals reeds aangeduid zal het glasvezel-agglomeratienet een
+belangrijk onderdeel vormen van o.a. het projekt ’Study & Work
+Park Laakhaven’.
+In september 1986 is het agglomeratienet van Den Haag (bekend
+onder de naam Cintrac) in gebruik genomen (zie -Fig. 4.4).
+Bij de gemeente Den Haag vindt men zel-F dat het telecommunicatie-
+netwerk "behoorlijk optimaal" is. Ook de PTT vindt het distrikt
+Den Haag geen probleemgebied, maar gee-Ft toe dat knelpunten kunnen
+ontstaan doordat nog niet alle elektro-mechanische centrales door
+digitale zijn vervangen. Voor 1995 moet dit wel het geval zijn.
+Dat er nog knelpunten zijn blijkt uit een enquête van de STRABO.
+37,47. Van de ondervraagde bedrijven in de telematica-sektor, uit
+een totaal van 130 geënquêteerde bedrijven, was zeer ontevreden
+met de telecommunicatie- en kabelstruktuur. Overigens was 23,27.
+hiermee juist zeer tevreden (STRABO, aug. *87). Uit deze enquête
+blijkt jammer genoeg niet o-F er een relatie is tussen de mate van
+tevredenheid en de vestigingsplaats van het bedrij-F, o-F dat er
+andere oorzaken aan te wijzen zijn voor de grote verschillen in de
+beoordeling van de telecommunicatie-inFrastruktuur.
+-31-
+Om sneller op de ontwikkelingen op de markt te kunnen reageren is
+men 3 jaar geleden in het distri kt Den Haag begonnen met het
+volgen van de ontwikkelingen van bedri j-Fsterreinen en kantoorloka—
+ties. Gebieden die men speciaal in de gaten houdt zijn in Den
+Haag: Binckhorst, waar een 'upgrading* plaats vindt, Laakhaven dat
+een rol moet gaan spelen in de ontwikkeling van Den Haag als
+telematicastad, Zichtenburg waar veel kleinschalige distributie-
+aktiviteiten gevestigd zijn, Kerketuinen dat nog ontwikkeld moet
+worden, maar het bedr i j-Fsterrein van de toekomst is, en de
+toplokatie Spuikwartier/Centraal Station. In de regio volgt men in
+hun ontwikkelingen de PI aspoel pol der bij Rijswijk, Forepark bij
+Leidschendam en de bedrij-Fsterreinen in de gemeente Zoetermeer.
+In het distrikt Den Haag houdt de PTT ook een vinger aan de pols
+door kontakten met gemeenten, industrieschappen, overkoepelende
+lichamen voor het beheer van bedrij-Fsterreinen en -meer ad hoo-
+rnet projektontwikkelaars.
+4.6	Conclusie
+De vraag die aan het begin van dit hoo-Fdstuk gesteld werd was o-F
+er op telecommunicatie-gebied belangrijke verschillen zijn tussen
+de vier grote Randstad-steden waardoor bedrijven op basis hiervan
+bij vestiging de voorkeur zouden kunnen geven aan een van de vier.
+Onderzocht is alleen de aanbodkant zodat geen uitspraak gedaan kan
+worden over de perceptie van bedrijven t.a.v. de verschillen in
+aangeboden telecommunicatie—Faci1iteiten.
+Amsterdam, Rotterdam, Den Haag en Utrecht zijn alle vier druk
+bezig met het ontwikkelen van hoogwaardige bedri j-Fs lokaties (in
+dit hooFdstuk high-tech lokaties genoemt). In Amsterdam en Rotter-
+dam zijn deze reeds beschikbaar, n.1. resp. T.O.P. , W.T.C. en
+Brainpark en W.T.C.. In Utrecht zijn 4" generatie bedrij-Fsterrei-
+nen in studie en Den Haag heeFt ver gevorderde plannen voor het
+Study & Work Park. Een van de kenmerken van deze lokaties is dat
+bij de planning rekening is o-F wordt gehouden met goede telecom-
+municatie-voorzieningen. Dit hoe-Ft echter niet verder te gaan dan
+een aansluiting op het in alle vier de steden aanwezige agglome-
+ratie-net. De vier gemeenten en de vier desbetre-F-Fende PTT
+distrikten zijn het er over eens dat het huidige net alle
+behoe-Ften kan dekken o-F dit in ieder geval in de nabije toekomst
+kan. Hierdoor is het onnodig bepaalde bedrij-Fsterreinen van extra
+voorzieningen zoals extra glasvezelkabels te voorzien. Goede
+telecommunicatie—voorzieningen voor bedri j-Fsterreinen zijn een
+minimale vereiste maar geen mogelijkheid om zich van andere
+bedrij-Fsterreinen te onderscheiden. Van meer belang wordt de
+ontsluiting, ruimtelijke setting e.d. gevonden. Begrippen als
+'smart buildings* en 'high tech o-FFice park* hebben voornamelijk
+een commerciële waarde.
+-32-
+Om terug te komen op de aan het begin van dit hoofdstuk gestelde
+vraag dan is het antwoord nee: de verschillen tussen de vier
+Randstad steden op telecommunicatie-gebied zijn minimaal. Wat wel
+mee zou kunnen spelen, maar buiten het bestek van dit paper valt,
+is de negatieve publiciteit die Amsterdam en in mindere mate
+Utrecht hebben gehad over hun telefonische bereikbaarheid. Bedrij-
+ven zouden hierdoor afgeschrikt kunnen worden. Aan problemen in
+deze regio’s, die uiteraard wel degelijk bestaan, moet dit jaar
+een eind komen door de plaatsing van nieuwe telefooncentrales.
+Hierdoor zullen de verschillen die eventueel toch nog bestonden
+tussen de vier steden geheel verdwenen zijn.
+Het verschil in aanbod van telecommunicatie—Faciliteiten speelt
+voorlopig in feite op een heel ander nivo: niet regionaal maar
+internationaal op Europees nivo. Echter wanneer ISDN—faci1iteiten
+aangeboden gaan worden dan zal dit niet direkt in heel Nederland
+gebeuren maar daar waar men een concentratie van mogelijke
+gebruikers vindt. Deze lokaties zullen dan aantrekkelijk worden
+voor bepaalde typen bedrijvigheid waardoor er sprake zal zijn van
+door verschil in aangeboden telecommunicatie—Faci 1 iteiten gestimu-
+leerde ruimtelijke differentiatie.
+-33-
+HOOFDSTUK 5: SAMENVATTING EN CONCLUSIES
+Telecommunicatie en daarvan afgeleide zaken als telematica gaan
+een steeds belangri jkere rol in onze samenleving spelen. Hoe dit
+precies uit zal gaan pakken is onderwerp van veel studies en
+voorspellingen. Voorlopig lijkt de invloed op stedelijke systemen
+en bedri jfslokaties trendversterkend te zijn. Voor bedrijven
+betekent dit dat men zoekt naar goed bereikbare lokaties met veel
+parkeerruimte, veel groen, een representatief kantoorgebouw én
+goede te1ecommunicatie-moge1ijkheden. Om aan deze wensen van
+bedrijven tegemoet te komen worden binnen de Randstad bedrijfstei—
+reinen tot ontwikkeling gebracht die deze kenmerken in meer of
+mindere mate bezitten.
+Doel van dit onderzoek is om deze aktiviteiten eens naast elkaar
+te zetten om te zien of er grote verschillen binnen de Randstad-
+gewesten voorkomen waardoor de een aantrek kei i jker voor bedrijfs-
+lokatie zou zijn dan de andere. Gelet is hierbij vooral op de
+telecommunicatie-voorzieningen. Als kader is eerst de relatieve
+positie van de Randstad binnen telecommunicerend Nederland onder-
+zocht. Dit onderzoek heeft dan ook de volgende probleemstel 1 inq
+mee gekregen: wat is de positie van de Randstad in telecommunice-
+rend Nederland en wat is het belang van de Randstad voor
+te 1ecommuni cat i e-intens i eve bedr i jvi ghei d.
+Het nederlandse telefoonnet wordt in snel tempo gedigitaliseerd.
+Dit zal uiteindelijk leiden tot een Integrated Services Digital
+Network (ISDN), waarin het telefoonnet, het telexnet en het
+datanet geïntegreerd zullen worden. ISDN is niet alleen in staat
+om meer diensten aan de gebruiker aan te bieden maar kan per
+tijdseenheid ook grotere hoeveelheden informatie transporteren.
+Dit zal ook voor de Randstad van pas komen omdat de Randstad naast
+het economische centrum ook het telecommunicatie centrum van
+Nederland is. Deze positie heeft de Randstad al jaren en er is
+nauwelijks sprake van dat er enige verzwakking van deze positie
+optreedt. Dat deze positie te danken is aan de vele vestigingen
+van zakelijke dienstverleners in de Randstad is op basis van de
+gebruikte cijfers niet aantoonbaar gebleken.
+Voor de beantwoording van het tweede deel van de probleemstelling
+werden interviews gehouden in de vier grote steden. Hierbij kwam
+-beknopt- het volgende naar voren:
+Utrecht blijkt een aantrekkelijke vestigingsplaats voor bedrijven
+die deel uitmaken van de sektor ’ zakelijke dienstverlening’ en
+dan met name die in de computerbranche. Dit zijn allen bedrijven
+die intensief gebruik maken van telecommunicatie-faci1iteiten
+zoals telefoon, telex en fax. De sterke groei van dit soort
+bedrijven heeft de telecommunicatie-infrastruktuur sterk onder
+-34-
+druk gezet waardoor men problemen kreeg met de telefonische
+bereikbaarheid. Bij verdere uitbreiding en integratie van het
+glasvezel-agglomeratienet in het landelijke net zullen deze pro-
+blemen naar alle waarschijnlijkheid opgelost worden. De versneld
+te plaatsen nieuwe telefooncentrale zal in ieder geval voorlopig
+voor de nodige verlichting zorgen.
+Speciaal voor de telecommunicatie-intensieve bedrijfstak aange-
+legde vestigingsplaatsen zijn er in Utrecht nog niet. Wel zijn er
+vage plannen voor een Teleport Office Park en wordt er onderzoek
+gedaan naar de haalbaarheid van een 4" generatie bedrijfsterrein.
+Rotterdam timmert aan de weg om aantrekkel i jker te worden voor de
+vestiging van kantoren. Om dit doel te bereiken wil men o.a.
+meer gebruik maken van geavanceerde informatica- en communicatie-
+technieken. Op dit gebied speelt Rotterdam al sinds enige tijd
+een voortrekkersrol gezien het -Feit dat hier niet alleen de eerste
+nederlandse glasvezelkabel in de praktijk gebruikt werd maar ook
+is hier de eerste nederlandse Teleport in gebruik genomen. Een
+Teleport Office Park dat het Teleport projekt a-F zou kunnen ronden
+is nog in studie. Een deel van de diensten die een T.O.P. aan zou
+kunnen bieden zijn in -Feite reeds voorhanden in het W.T.C. Voor de
+overige bedrij-Fslokaties, inclusief het ’Brainpark’, zijn geen
+speciale maatregelen op telecommunicatie-gebied getro-F-Fen omdat
+men de bestaande mogelijkheden voldoende acht.
+Amsterdam staat vooral bekend als een regio met ontoereikende
+telecommunicatie—Faci 1 iteiten. De oorzaak hiervoor is dezel-Fde
+als die in Utrecht: veel vestigingen van bedrijven in de
+zakelijke dienstverlening en een steeds groter wordend gebruik
+van het telefoonnet. Met de plaatsing van een nieuwe telefoon-
+centrale dit jaar verwacht men aan alle problemen een eind te
+kunnen maken. Van het Teleport Office Park van Amsterdam verwacht
+men dat het dit jaar eindelijk goed moet gaan lopen; het eerste
+gebouw zal geopend worden en de aandacht van het bedrijfsleven
+zal zich meer op Sloterdijk richten nu andere aantrekkelijke
+lokaties vollopen.
+Concurrenten voor het T.O.P. zijn nochtans in dezelfde regio
+'Electronic City Europe’ en het W.T.C.. Beide zijn z.g.n. 'smart
+buildings’ en hebben een aansluiting op het glasvezelnet wat
+uitstekende mogelijkheden op telecommunicatie-gebied biedt.
+Hoewel Den Haag niet bekend staat om z’n problemen op telecooYnu-
+nicatie-gebied is het bedrijfsleven toch niet volledig tevreden
+(zie STRABO, aug. ’87>. Knelpunten blijken hier de nog te
+vervangen elektro-mechanische centrales te zijn.
+Zulke knelpunten staan de ambities van de gemeente om z’n
+economische basis te verbreden door ’telematica—centrum’ van
+Nederland te worden natuurlijk danig in de weg. Onderdeel van het
+tel erna tica-cent rum zou een Teleport Office Park kunnen worden dat
+dan uiteraard wel in Den Haag gevestigd zou moeten worden en niet
+op de alternatieve lokatie in Zoetermeer. Een meer concreet
+onderdeel van het telematica-centrum is het ’Study and Work Park
+Laakhaven’ . Deze nog te ontwikkelen lokatie midden in de stad
+moet een centrum van HBO-opleidingen worden met daaraan gekoppeld
+economische aktiviteiten op vooral telematica- en in-Formatica-
+gebied.
+Uit deze beschrijvingen blijken alle vier de Randstad-gewesten
+soortgelijke projekten tot ontwikkeling te -willen- brengen:
+projekten met een goede ontsluiting, een aangename ruimtelijke
+setting en goede telecommunicatie-voorzieningen. Dit laatste wordt
+vooral in de promotie gebruikt met kreten als 'smart building’ en
+’high tech office park’. Dergelijke gebouwen en lokaties onder-
+scheiden zich vaak van andere door de aanwezigheid van een
+digitale tele-Fooncentrale waardoor extra diensten mogelijk zijn.
+De toegevoegde waarde van dergelijke telecommunicatie-voorzie-
+ningen is in -Feite minimaal: dezel-Fde -Faciliteiten zullen binnen
+niet al te lange tijd overal beschikbaar zijn door de digitalise-
+ring van het gehele tele-Foonnet. Het ligt dus niet voor de hand
+dat telecommunicatie-intensieve bedrijvigheid, zoals de zakelijke
+dienstverlening, de Randstad als bedri j-Fslokatie kiest op grond
+van de daar aanwezige telecommunicatie—Faciliteiten. Andere -Fakto-
+ren spelen bij de lokatie van dergelijke bedrijven een belangrij-
+kere rol.
+-36-
+LIJST VAN GEBRUIKTE LITERATUUR
+- BERKEL, J. VAN (1984), Telecommunicatie netwerk moet positie
+Rotterdam versterken. In: supplement Computable 2 nov. 1984.
+- BLALOCK, H. M., Jr. (1981), Social Statistics.
+- BOECKHOUT, I. J. et al. (1986), De Randstad in economisch per-
+spectief. NEI Rotterdam.
+- BOECKHOUT, I. J. et al. (1987), Plaats en funktie van de Rand-
+stad in de nederlandse economie. I\EI Rotterdam.
+- B & W Rotterdam (1987), Vernieuwing van Rotterdam. Okt. 1987.
+- CBS: Statistisch Zakboek 1980.
+- CBS: Statistisch Zakboek 1984.
+- CBS: Statistisch Zakboek 1986.
+— Centrum voor Informatiebeleid (1985), De status van de informa-
+tie-technologie in Nederland.
+- Databus, maandblad voor computertechniek, oktober 1986: diverse
+artikelen.
+- DIETVORST, A.G.J. (1979), Telefoonverkeer en economische struk-
+tuur in Nederland. Een toepassing van de veldtheorie.
+In: Nijmeegse Geografische Cahiers nr. 17.
+- FRIEDEMAN, H. (1986), ISDN: de revolutie van de telefoon. In:
+De Volkskrant 13 dec. 1986.
+- Gedeputeerde Staten van Zd-Holland (1985), Ontwerp Streekplan
+Zd-Holland West, nov. 1985.
+- Gemeente (Ansterdam (1985), Kantorennota Amsterdam dl. 1 en2.
+- Gemeente Amsterdam (1985), Structuurplan Amsterdam ’De Stad
+Centraal’, vastgesteld 29 mei 1985, dl. II.
+- Gemeentelijke dienst Stadsontwikkeiing-Grondzaken ’s-Graven-
+hage (okt. 1987), Haagse bedrijfsterreinenstrategie.
+- Gemeente Rotterdam (1987), Kantorenrapportage Rotterdam.
+-37-
+— Gemeentesekretarie Den Haag (apr. 1987), Study & Work Park Laak-
+haven.
+- GRAAF, R. DE (1987), Glasvezel gebruik in stroomversnelling. In:
+Telecommagazine nr. 8, dec. 1987.
+— GSLB (1986), CEPT Studies on broadband aspects of ISDN - Status
+report (part 1-3).
+- HAGGETT, P., R. J. CHDRLEY (1969), Network analysis in geo-
+graphy.
+- HARARY, F., R. Z. NORMAN, D. CARTWRIGHT (1965), Structural Mo-
+dels: An introduction to the theory of directed graphs.
+- JONG, C. DE (1986), De ingenieur en de informatietechniek. In:
+De Ingenieur nr. 4, april 1986.
+- Kamers van Koophandel en Fabrieken voor Amsterdam (1987),
+Amsterdam: Vestigingsplaats voor bedrijven. Okt. 1987.
+- BEVISSEN, H.: Datanet-1. Stencils uitgereikt t.b.v. het college
+CS/DS aan de VU Amsterdam in de periode ’86-’87.
+- Ministerie van VROM (1983), Structuurschets Stedelijke Gebieden,
+dl. a, 1983.
+- MOUWENS, C. M. L., A. H. ZANDEE (1987), Teleport Amsterdam - een
+onderzoek naar de ontwikkelingsaspecten van Teleport Office Park
+te Amsterdam. Afstudeerscriptie RUU, aug. 1987.
+- I\EI (mrt. 1985), Kantorenmarkt Zd-Holland West.
+- NYSTUEN, J. D., M. F. DACEY (1961), A graph theory interpre-
+tation of nodal regions. In: Papers and Proceedings of the
+Regional Science Association, nr. 7 1961.
+- PENMINC, M., V. KLAASEN, K. VAN DER MEULEN (1986), Invloed tele-
+communicatie op intermediaire dienstverlening. In: AGORA, 2"
+jaargang, nr. 3, juli 1986.
+- PtItRS, E. (1985), Rotterdam als informatiehaven. In: supplement
+Intermediair 8 mrt. 1985.
+- PPD Utrecht (1986), Streekplan Utrecht, vastgesteld 28 nov.
+1986.
+- PPD Zuid-Holland (1985), Streekplan Rijnmond, vastgesteld 16
+dec. 1985.
+-38-
+- PTT-Telecommunicatie/Technische Zaken (1985), Telecommunicatie
+van nu naar 2010.
+- PTT-T (jan. 1987), Telecommunicatie in Nederland.
+- PTT, PTT telecommunicatie in de samenleving.
+— PTT-T DIDS (mei 1986) , Informatisering van de bedri j-Fsvoering.
+- Regionaal Economisch Overleg/ Haagse Regio (juli 1987), Aanbeve-
+lingen van de vastgoedsector over de kantorenmark.t in de Haagse
+regio.
+- RODENBURG, P. F. A., J. ROEDOE (aug. 1987), De telematica-sec tor
+in de agglomeratie *s-Gravenhage. STRABO Amsterdam.
+- SMIDT, M. DE, S. W. VAN BUTSELAAR, J. M. DE VET (1986), Telecom-
+municatie, bedrijfsleven en steden -Studies over het Utrechtse
+stadsgewest en het nationale bank- en verzekeringswezen.
+— Telescope (6“ jaargang nr. 4 ’ 87/’88), uitg. van PTT-T:
+De invoering van ISDN in Nederland.
+- TINKLER, K. J. (1977), An introduction to graph theoretical
+methods in geography. In: CATMOG dl. 14.
+- Tweede Kamer der S.G.: Machtiging tot deelneming in de besloten
+vennootschap INTIS BV. Vergaderjaar ’85-’86 19560 nr. 3.
+- Utrechts Nieuwsblad (1988), Groei van Utrechts bedrijfsleven
+vooral dankzij kleinere bedrijven. 6 jan. 1988.
+- VLIEG, J. Th., W. VERDONCK (1986), Teleport: toegang tot breed-
+bandige communicatie. In: Telecommagazine nr. 1, mei/juni 1986.
+-39-
+BIJLAGE 1 -
+G?
+O 35'|2<
+-—BIJLAGE 2
+BIJLAGE 3
+III
+BIJLAGE 4 '
+Service classes	Type of Information	Broadband service	Tele serv.	Bearer serv.	
+Conversational services	Video and sound	Broadband videotelephony, i.e. real time communication with moving pictures and sound between two locations (person-to-person, person-to-group, group-to-group)	X		
+		Broadband multipoint video conference, i.e. real time communication with moving pictures and sound between more than two locations (person-to- person, person-to-group, group-to- group)	X		
+		Video surveillance, i.e. surveillance of objects by moving pictures	X		
+		Video/sound transmission, i.e. transfer of video/sound Information		X	
+*	Data (note 1)	Data transfer services supporting, for example, the following applications: high-speed data transmission, high-volume file transfer, computer-aided design	X	X	
+		Real time control and telemetry	X		
+		Interconnection of LAN		X	
+	Document	• High-speed facsimile	X	■	
+		Document communication service, i.e. for the transfer of "mixed" documents containing Information • forms like text, graphics, sound, still images and moving pictures.	X		
+Messaging services	Video and sound	Hoving pictures mail, i.e. electronic mailbox systera for ■the transfer of moving pictures	X		
+	Document	Document mail, i.e. electronic mail service for "mixed” documents which may include text, graphics, sound, still images and moving pictures	X		
+Retrieval services	Text, data, graphics, sound, still images, moving pictures	Broadband videotex, i.e. videotex includlng moving pictures Sound retrieval	X X		
+		High-resolution still image retrieval	X		
+		Film retrieval	X		
+		Document retrieval ("mixed" documents)	X		
+Distr. service without user- individual presentation contrei	Sound Video	Sound programme broadcasting Existing Standard TV programme broadcasting (PAL, SECAM) High-quality TV	X X X		
+		Enhanced-definition TV	X		
+		High-definition TV	X		
+	•	Pay TV (pay-per-view, pay-per- channel)	X		
+	Text, graphics, still images	Document distribution, e.g. electronic newspaper »	X		
+Distribution services with ..	Text, graphics, sound, still images	Cable text	X	•	
+Note 1: The term "data" is to be understood as defined by CCITT SGs I and VIII.
+T.ihle 1/2.3t Possible broadband services in the ISDN
+BIJLAGE 6; INTEN5XTEITEN 1
+
+__________	________________
+JV3SEN DC'g VOOR 1975 (TM. A) EN 1978 (TM. B) IN EKLAH3
+Tabel A |
+I
+i
+I
+i
+i:
+i
+i
+amr ■mr -		aad 241.4	ah 17.5	bd 7.2	da aha , 9.2 11.4		8* 7.9	«v 63.0	gn 27.8	hlm 102.7
+										
+aod	222.1	■■ ■	122.0	75.6	56.0	92.4	41.0	501.9	122.2	436.2
+ah	10.3	112.5	■ 1 ■	20.3	78.4	34.1	3.0	97-3	30.6	23.3
+bd	6.8	71.6	21.8	-	5.7	51.3	40.9	75-7	12.6	16.9
+da	9-5	83.0	86.2	10.4		17.3	5.1	66.1	32.0	16.9
+aha	24.2	106.5	28.6	54.4	20.9	e.a.i	14.4	98.4	34.4	22.2
+	5.8	34.2	10.8	52.1	7.5	12.5			38.2	8.7	11.6
+«v	49.4	403.0	106.8	65.1	34.5	67.5	37.5		76.2	167.2
+gn	24.4	108.7	43.8	9.3	35.7	16.8	6.9	89.5	«aaaaaa	30.7
+hla	91.9	423.6	25.7	13.1	12.1	16.6	4.9	120.6	17.5	
+hgl	7.2	89.9	68.8	9.6	92.9	17.8	5.5	69.5	55.3	15.8
+ht	4.1	71.5	28.1	60.4	14.7	166.3	8.8	64.4	10.3	13.4
+hva	16.5	194.8	27.4	12.0	19.1	17.5 			64.3	19.O	33.9
+lw	27.2	73.3	26.3	4.8	22.9	5.5			44.4	125.8	25.3
+Ha	ha ■	60.2	■ ■	■ ■ 1 ■ a	■	a w 1 ■ 1 ■		■ a ■ a	aaMMMa	■I ■■ 1
+at	5.5	59.3	18.4	17.3	4.8 89.6		6.0	62.6	10.7	11.7
+na	3.5	53.5	122.5	11.5	18.9 91.5		4.9	45.0	9.3	7.8
+Ft	70.8 450.0		130.0	199.5	81. VI56.4 135.9			842.5	96.4	90.9
+tb	■BMMB	33.7	10.6	58.4	2.7	146.8	5.3	22.4		6.1
+ut	40.4	333.6	161.2	47.3	95.4	58.0	26.4	260.4	72.7	66.8
+vl	3.8	25.4	31.9	11.3	4.2	70.4	4.3	26.6	3.7	b.0
+■1	36.8	86.7	40.1	20.3	79.1	21.3	24.2	97.7	127.1	29.6
+Bron: PTT/eigen onderzoek						—				
+hgl	ht	hva	lw	Ha	mt	nm	Ft	tb	ut	vl	■1
+10.4	4.9	17.6	26.9	— ■ aaa			8.0	52.3	-	42.7		16.2
+112.5	bu.1	223.7	93.1	24.2	72.9	68.3 432.6		44.6	382.1	42.8	83.4
+4o.4	28.5	20.2	16.8	— 1 1 a	31.1	126.1	96.4	7.9	105.9	10.0	132.4
+7-5	57.3	11.4	6.5		18.9	17.0	216.1	62.8	49.4	12.5	b.6
+83.1	16.0	16.1	18.8	■ ■	■■ ■■■ ■■	18.8	66.5	4.0	92.8	4.2	149.9
+34.8	139.1	16.5	16.6	6.4	71.3	42.0	93.4	71.7	74.2	68.6	16.8
+4.7	6.0	6.6	4.6	* a a	■ ■ ■ ■■		140.3	6.1	25.3	2.5	7.2
+39.8	53.5	64.1	38.5	■ i« —	25.2	33.1	716.7	15.9	74.8	20.6	46.8
+52.8	7.4	21.7	137.9	1 1 1	— iaaa	10.0	£6.9		68.6	aa ■■■	1E2.6
+10.3	11.4	31.2	16.6	a a ■ a	1 ■ BB	aa ■ ■ ■ 111	94.9	a ...	75.7	aaaaaeaa	15.7
+	11.6	16.2	19.9	maaaaaB.	4.0	16.7	62.8	4.9	63.4	6.4	102.6
+11.2	■■ ■ a	11.2	5.7	— ■ aa	18.3	63.3	83.7	78.3	67.0	20.4	9.2
+12.0	8.4	—■ ia	13.7	» — ■	»«a	9.9	57.5	2.0	211.6	2.7	15.0
+16.5	3.1	18.1	—	a		a. ■ ■ ■	45-9	bbbb	49.0		159.4
+—■ ■ ■	■ —ai	a——		■ ■ ae aa	»ai —		2-5	■Mwa	14.6	•MWB	9.4
+7.3	23.6	b.1	4.7	1	■ — —	23.0	57.3	9.0	44.6	78.1	6.3
+16.0	63.6	10.6	3.7	— ■	15.0		52.0	10.3	57.5 39.9		6.8
+61.3	145.0	62.5	55.3	19.1	89.4	74.5		75.1	371.9	60.1	67.4
+4.5	75.4	5.0	■ ■ ■ ■	■ ■■i aa	4.6	10.3	26.2		19.1	5.2	3.5
+55.9	66.4	164.1	48.9	10.7	37.7	50.5	301.3	20.9	»■	21.4	67.7
+5.4	21.7	7.0	2.7	■ I ■■	84.8	43.9	37.5	7.7	23.3	aa. ■ ai	4.8
+bó.4	18.6	31.0	81.5	38.5	46.5	28.2	71.1	18.3	87.3	20.1	
+													
+Tabel B
+aar aad ah bd dv ahv ga gv gn hl ra hgi ht hve lw Ho art nn rt tb ut al 31
+aar------ 238.9 28.5 15.6 18.8 17.0 13.4 77.5 37.8 60.3 18.4 9*5 28.2. 44.2 6.6 6.9 11.6 64.3 4.5 63.5 3.7 24.4
+aid 273.3 ------ 125.5 87.9 128.1 101.9 44.8 482.4 148.8 413.6 124.3 96.2 255.’ 117-5 62.9 70.5 74.1 411.5 44.3 366.1 47.2 10C.5
+ah 17.1 116.0 -------- 27.2 86.3 34.5 10.7 96.4 42.0 32.5 61.0 36.? 30.6 25.O------------------ 13.5 101.2 103.3 1C.1 121.1 14.4 121.1
+bd 8.9 99.2 31.2 ----------- 9.9 69.7 43.6 97.5 16.0 22.6 11.6 58.3 13.8 6.4 ------------------ 25*5 21.9 272.9 72.9 66.2 13.9 13.4
+da 19.0 91.6 103.6 14.8 ---------- 23.1 7.7 78.3 51.5 25.4 96.6 18.8 25.1 25.9 ---------------- 4.6 27.7 62.6 4.8 107.5 5.0 159-9
+aha 38.9 111.3 42.4 61.6 40.2 ----------- 27.2 136.0 31.0 38.0 29.7 141.2 30.5 21.8 12.7 65.1 54.6 111.5 72.5 111.2 59.2 1?.3
+n 9.9 31.0 18.9 46.9 8.0 20.0 ----------------- 45.7 13.7 15.6 9.5 15.0 6.5 6.1 --------------- 4.3 ------- 163.1 7.4 37.2 4.5 12.6
+gv 64.8 453.2 116.8 90.4 54.8 77.9 39.8 ------------- 83.2 137.3 56.6 67.7 67.1 53.5 1 0.3 51-9 41.9 788.9 22.1 272.1 30.5 57.0
+gn 38.2 118.0 52.4 15.0 47.5 22.1 12.3 106.0 -------------- 39.1 71.9 U.3 26.4 161.1 10.2 3.1 14.4 102.4 2.6 87.3 2.2 200.3
+hla 117.1 490.2 33.8 23.1 15.5 22.5 12.7 129.8 31.0 ------------- 14.9 14.9 36.7 21.3 --------------- 6.1 103.0 2.7 93.2 -------- 21.2
+hgl 12.8 88.9 82.4 11.5 75.O 27.6 8.5 66.0 68.7 22.5 ------------------ '5.0 19.7 27.8 2.5 6.5 23.4 66.1 6.C 78.3 3.4 12C.2
+ht 5.5 70.2 32.2 58.4 23.0 187.4 10.0 65.6 11.1 17.5 12.5 ------------------- 12.7 7.3 -------- 22.2 61.3 65.1 65.5 88.3 25.6 10.1
+hva 30.1 270.8 41.8 18.2 26.6 24.6 9.8 85.5 27.6 44.7 24.7 18.0 ------------------- 22.5 7.4 9.1 14.1 79.0 6.4 267.4 4.3 21.1
+lw 43.9 79.6 34.2 3.9 27.8 8.0 4.0 55.9 133.9 30.2 25.3 --------------------- 21.6 ------------------------ 5°.6 ----- 62.1 ----- 196.0
+Ha 4.1 97.9 3.0 - 2.5 —— ' 6.7 5-0 ■■■' — 1 ____ 4.3 4.6 -----------------------------------------------------4.5 —— 2J.9 — 16.2
+nt 10.7 62.3 24.4 23.3 8.0 95.5 7.0 54.6 11.6 13.0 11.7 15.1 9*5 5-6 -------------------------------- 37.2 47.9 14.2 50.9 6J.9 8.2
+nm 5.7 65.1 138.4 24.4 25-7 86.5 7.6 41.4 .6.7 12.9 25.9 61.4 12.3 3.7 ------------------------ 32.3 ------ 58.3 16.6 71.7 33.3 13.7
+Ft 85.9 390.9 152.0 263.0 110.7 188.6 148.7 772.7 136.2 124.5 82.4151.1 99.9 83.9 21.1 S9-9 92.4-----------------£1.1420.272.4 75.3
+tb _____ 23.7 10.9 73.6 8.6 178.5 5.3 28.0 2.6 ---------------------- 5.0 169.7 3.0 --------------- 6.8 11.4 32.2 -------- 21.1 10.1 3.1
+ut 59.8 399.6 182.5 61.0 95.O 73.4 39.4 316.0 99.8 86.4 71.0 77.0 186.3 68.7 21.9 50.3 57.9 384.4 28.3 --------------------- 25.9 86.0
+vl 5.0 34.5 39.7 15.8 5.2 126.0 4.6 24.5 8.5 9.4 8.5 16.8 6.6 3.9 —— 104.0 44.3 35.8 10.3 29.1 —— 7.3
+■1 45.1 108.7 55.4 26.4 90.4 24.4 26.1 128.7 146.9 45.0 IG5.6 26.3 36.3 82.2 36.1 57.9 33-3 103.6 ƒ5.4 122.6 25-9 •—
+Bron: PTT/eigen onderzoek
+BIJLAGE 7: INTENSITEITEN TELEFOONVERKEER TUSSEN DC'S VOOR 1981 (TAB. A) EN 1985 (TAB. B) IN ERLANG
+
+Tabel A
+j
+	amr	aad	ah	bd '	dv	ehv		gv	gn	hln	hgl	ht	hva	Iw	110	ret	na	rt	tb	ut	vl	tl
+amr		280.2	36.1	19.7	21.6	20.7	17.5	97.3	53.9	73.3	24.3	16.9	33.7	60.2	12.3	10.8	15.2	79.6	5.4	77.6	10.2	35.3 117.6
+•ad	308.7	— ■ —	134.8	101.7	142.1	123.0	49.4	605.8	177.0	430.1	151.8	110.1	277.8	153.2	119.7	J5-9	71.9	453.5	50.2	426.5	56.9	
+ah	27.5	96.4		30.4	98.8	36.9	17.9	100.3	56.6	31.1	67.0	42.8	31.3	28.8	5.6	17.4	99.6	102.6	15.2	133.0	16.0	47.7
+bd	7.9	95.5	35.4	1 1 ■«	20.9	67.8	47.9	102.7	20.3	27.5	14.4	66.5	17.7	7.9		26.4	25.4	245.7	75-6	80.7	19.9	14.2
+dv	27.2	99.2	109.9	’7.7	■ ■ — —	24.3	10.5	88.5	61.3	31.3	97.9	15.2	28.3	30.4			32.5	91.4	6.8	111.0		94.3
+•tav	38.4	124.3	59.0	77.9	39.0	■ 1 ■■■—	23.8	151.2	46.0	43.3	49.1	159.1	30.0	34.8	19.1	109.9	65.O	130.0	104.5	140.9	83.3	27.2
+	13.6	31.5	24.2	56.9	13.9	26.7	■■ ■"	63.5	14.7	17.2	6.8	19.8	11.6	8.7		12.3	10.3	150.5	9.4	46.5	5.2	15.6
+gv	73.3	501.3	132.7	110.2	74.5	92.3	52.2	■ ■ ■■ ■■■	102.0	168.9	69.2	34.2	74.7	62.3	15.4	61.2	61.8	071.8	33.2	308.1	32.0	74.5
+gn	47.5	122.8	64.7	20.7	61.3	27.1	15.5	133.2		46.6	91-4	17.0	30.4	180.0	17.0	9.6	22.9	121.0	4.9	106.2	3.8	147.7
+hlm	102.2	528.7	37.2	24.9	20.1	24.9	15.7	133.3	31.9	— ■ ■	14.7	14.9	40.2	27.5		3.5	12.1	87.2	7.3	104.1		26.2
+hgl	20.8	106.9	100.0	15-7	95-8	31.9	12.7	70.4	77.1	27.8	■ ■ ' ■ —	19.2	20.3	40.6	7.7	9.2	30.4	74.4	7.1	81.8	4.1	95.9
+ht	6.8	78.6	38.8	60.9	24.6	279.6	14.3	67.3	11.7	14.4	13.4	■ ■ '	11.7	7.4		24.7	59.6	96.9	88.9	95.1	33.1	13.5
+hva	32.2	228.4	39.4	17-7	26.8	25.4	11.2	86.7	31.9	45.1	23.6	18.2		22.9	9.8	11.2	14.2	73.0	6.5	288.7	4.5	24.7
+Iw	55-4	80.5	42.2	8.8	38.6	12.6	4.8	59-0	175.8	38.0	39.0	8.5	27.4		5.5			65.4		71.1		80.3
+11a	12.8	147.7	9.5		6.3	2.2	4.4	15.6	16.0	6.0	4.4		15.2	11.1				20.4	■	35.6		15.1
+nt	13.9	67.1	19.3	28.0	15.6	102.7	13.3	60.8	20.6	17.0	13.8	28.1	12.0	11.9	— 1 ■	«■ —	32.2	54.7	18.3	56.1	8C.9	12.0
+M	15.9	77.3	164.5	29.9	32.1	122.4	9.9	71.0	22.2	19.7	31.2	73.2	14.4	10.7	— 1 .1	45.8	1	69.O	20.9	85.7 46.7		16.9
+rt '.107.9		596.6	204.3	330.1	122.4	215-7	169.5	1101.6 27.3	162.5	127.7	122.8	115-3	107.9	102.6	56.3	111.0	106.9		92.0 496.9 98.0			90.1
+tb		——	40.4	12.3	97.1	2.7	220.6	4.8		2.1	■” >	2.0	117.4	2.6	— ■ 1	BMW	8.1	14.9	38.4		28.3	13.4	3.5
+ut	66.6	414.3	179.1	74.5	96.7	87.0	48.4	341.2	110.6	94.6	57.7	94.4	209.9	80.6	36.6	57.3	66.0	522.7	27.1	—	29.3	94.8
+vl	8.1	34.0	42.5	19.0	8.0	106.2	6.7	28.9	10.3	10.3	8.6	24.8	6.9	4.9		99.9	47.4	42.0	12.0	37.C		7.7
+al 54.6 173.4 77.0 29.7 Bron: PTT/eigen onderwek					98.0	31-9	26.8	184.6	176.1	52.5	124.4	39.5	43.6	148.6	47.8	54.8	41.7	154.6	26.2	157.3	3U8	
+Tabel B
+«ar ------ 295.9 32.2
+aad 392.1 ------ 161.2
+ah 33.4 127.5 --------
+bd 19.6 107.0 44.2
+dv 23.2 108.9 119.6
+•hv 45«5 160.9 03.6
+ga 18.4 47.7 29.1
+gv 103.3 591.6 160.4
+gn 52.3 124.7 66.4
+hl* 129.3 577.3 44.0
+hgl 21.5 125.0 93.0
+ht 12.3 104.9 49.6
+hva 35-4 210.2 43.5
+Iw 62.7 92.6 47.6
+11a 19.6 229.7 10.4
+nt 15.4 70.2 21.1
+na 15.3 77.2 171-5
+rt 154.8 828.9 2 85.4
+tb 1.6 47.7 10.9
+ut 80.3 490.2 198.2
+vl 0.3 47.7 53.0
+,1 63.2 163.7 96.1
+bd dv «hv
+20.9 21.9 18.0
+122.2 176.7 154.4
+39.9 117.6 5°.6
+______ 26.7 79.6
+18.8------ 20.1
+85.4 41.1 -------
+67.8 14.8 27.4
+131.0 103.1 112.7
+26.4 67.6 30.0
+28.1 29.O 28.7
+20.6 99.2 36.1
+75.O 26.4 243.4
+20.6 32.1 24.0
+11.9 44.5 14.3
+2.3 5»° 6.4
+29.2 17.0 124.4
+32.5 39.1 195.1
+417.9 156.1 265.6
+106.5 3.8 198.0
+88.0 115.0 10Ó.5
+24.5 13.0 12Ó.0
+46.8 109.3 43.7
+«•		gn	hln	hgl
+16.0	* 90.3	57.7	76.8	22.6
+53.2	686.4	199.9 489.1		161.2
+24.1	131.1	75.8	45.2	85.1
+64.9	129.1	26.2	29-7	19.2
+8.0	94.6	74.3	29.2	127.5
+36.6	169.9	49.9	43.0	49.4
+	71.2	19.1	19.2	13.9
+70.2	■		135-2	201.6	80.5
+16.9	151.6		45.4	101.8
+17.6	199.2	47.2		28.7
+10.4	03.3	81.8	27.3	
+19.0	82.3	19.7	24.3	17.5
+12.0	91.1	34.5	47.2	33.2
+10.5	70.7	2C2.3	42.4	52.1
+6.2	20.3	23.6	10.8	9.5
+13.3	82.9	23.3	18.8	17.9
+11.4	74.5	24.3	18.0	33-9
+198.1	1359.4	186.7	171.8	145-2
+5-1	32.5	4.8	3.1	6.1
+54.5	396.6	128.2	114.4	99.2
+ö.1	44.7	13.1	12.5	12.9
+33.6	201.8	190.4	55.3	160.2
+ht hva Iw 11a nt nm rt tb ut vl al
+17.0 31.2 64.2 25.4 11.7 13.4 80.2 8.9 87.1 6.2 33.8
+128.4 331.8 157.2 183.5 109.8 94.1 544.0 64.7 5CÓ.8 60.9 144.7
+49.9 42.2 43.5 12.4 24.7 173.3 156.0 11.6 172.5 23.3 213.6
+71.7 17.3 10.2 -------- 36.0 34.7 355-9 92.3 103.3 24.7 18.1
+15-1 36.1 32.8 7.4----------- 38.3 88.9 6.6 123.3------------- 3H.2
+243.6 44.0 43.2 29.3 133.0 70.4 162.8 102.1 158.7 91.3 37.0
+23.4 13.9 7-7 4.8 15.1 15.4 I69.Ó 16.2 61.9 6.2 17.2
+92.0 98.0 82.3 30.6 75.6 62.2 1101.7 «3.2 417.4 40.8 101.0
+21.6 26.6 255.8 24.0 13.4 25.C 115.1 4.2 124.6 7.1 270.6
+23.9 47.3 38.0 14.9 19.3 18.7 122.0 9.1 123.1 4.7 30.7
+23.3 22.5 38.8 11.7 13.5 34.0 82.2 8.9 94.6 ?.4 1C1.5
+—— 23.0 8.6 ------------ 37.0 61.8 121.6 118.2 112.1 39.5 14.8
+20.8 ----- 24.2 30.5 9.3 16.0 148.2 7.6 244.4 5.5 31.2
+12.5 27.2 ------- 14.4 ------ 8.3 79.3 3.4 88.4 3.2 210.4
+2.4 26.9 16.5 -------- 1.7 2.9 31.2 ------------- 44.1 ------ 34.9
+26.6 12.2 10.3 --------------- 34.8 62.3 20.7 60.6 93.9 17,2
+69.3 15.2 1J.2 4.3 42.1 ------------ 77.9 24.8 97.9 47.0 16.7
+245.7 146.0 147.4 65.2 137.1 155.4 ■— 108.4 708.3 105.5 161.0
+135.1 3.6 1.0 ---------- 12.3 20.1 59.O----------- 32,5 11.1 3.0
+117.6 233.5 98.0 52.4 73.5 75.2 635.0 36.6 -------------- 38.4 116.1
+30.6 14.0 4.6 —— 122.4 61.6 55.2 17.3 48.4 ------------------- 11.1
+49.5 48.3 175.7 49.4 66.8 53.8 I68.9 30.4 201.1 33.1 ---------------
+l
+Bron: PTT/eigen onderwek
+BIJLAGE 8: BEREKENING W PEARSON’S R
+Tabel ft: Procentuele groei van het inkomend telefoonverkeer en het aantal abonnees per distrikt
+1975-1978			1978-1981		1978-1981	
+DC	I groei ink. tel. verk.	I groei aantl. abonnees	Z groei ink. tel. verk.	Z groei aantl. abonnees	Z groei ink. tel. verk.	Z groei aantl. abonnees
+ftHR	35,7	38,4	16,2	19,9	25,6	20,0
+ASD	10,4	19,2	14,0	9,5	18,2	11,6
+AH	17J	34,4	15,6	22,5	17,1	14,5
+BD	26,2	41,3	22,2	27,4	20,9	15,5
+DV	30,4	29,7	16,7	21,9	18,8	15,1
+EHV	21,6	29,1	19,2	23,6	13,4	17,3
+GS	26,2	34,4	19,4	21,6	19,5	13,2
+6V	4,5	15,8	24,0	14,0	19,2	11.3
+GN	26,1	36,7	22,7	22,2	17,2	12,0
+HLM	6,5	24,5	9,9	13,4	14,6	15,6
+HSL	27,4	37,2	18,5	24,1	24,3	13,5
+HT	15,0	38,5	6,9	26,5	37,2	17,3
+HVS	22,2	21,6	13,2	11,4	19,4	12,7
+LH	30,0	32,7	31,0	22,7	22,1	14,6
+LLS	93,8	124,6	84,0	75,1	58,8	59,5
+HT	27,5	38,2	16,1	29,3	25,4	15,4
+NH	13,5	27,4	13,6	25,1	31,3	16,9
+RT	12,8	20,0	12,8	13,4	24,9	11,0
+TB	17,8	33,5	16,1	25,7	20,3	16,6
+UT	28,0	29,5	16,0	19,2	21,6	16,5
+VL	7,2	31,4	27,8	30,2	14,9	16,0
+ZL	13,6	36,6	-16,5	24,1	67,5	16,2
+Bron: PTT/eigen onderzoek
+Pearson’s r is:
+
+Deze -Formule levert de volgende resultaten op:
+— voor de periode 75-78: r=0,92
+— voor de periode 78-81: r=O,78
+- voor de periode 81-85: r=0,47
+-47-
+BIJLAGE 9: MOGELIJKHEDEN VOOR VERDER ONDERZOEK
+In de loop van een onderzoek word je vaak geconfronteerd met
+vragen die op zich heel interessant zijn maar buiten het onderzoek
+vallen waar je juist mee bezig bent. Zo ook nu: onderstaand volgen
+twee van de vragen die tijdens dit onderzoek de kop op staken.
+- Als het aanbod van telecommunicatie—Faciliteiten binnen Neder-
+land een homogene spreiding kent en dus binnen Nederland geen
+-Faktor is om bij bedrij-Fslokatie rekening mee te houden, hoe zit
+het dan met de internationale concurrentiepositie van Nederland
+op dit gebied? Zijn andere landen aantrekkelijker voor vestiging
+van internationaal geöriënteerde bedrijven door hun aanbod van
+betere telecommunicatie-voorzieningen, of niet?
+— ISDN zal niet overal tegelijkertijd aangeboden worden: con-
+centraties van grote groepen potentiële gebruikers (lees: de
+Randstad) zullen in de beginfase het eerst voorzien worden. Zal
+dit ruimtelijke ongelijkheid opleveren? Of is ISDN geen attrak-
+tiefaktor voor bepaalde typen bedrijvigheid?
+-49-

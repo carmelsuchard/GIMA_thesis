@@ -1,0 +1,2425 @@
+﻿GEOGRAFISCH INSTITUUT RIJKSUNIVERSITEIT UTRECHT
+een onderzoek naar de koopgerichtheid
+van huishoudens in nieuwegein
+Henk Baten
+1982
+VERSLAGEN VAN LEERONDERZOEK SGS.
+vakgroep sociale geografie
+zl-L van de stedelijk-industriële landen
+Transitorium II, Heidelberglaan2, De
+Uithof, Utrecnt (030)532044
+
+GROEIKERN OOK KOOPKERN?
+een onderzoek naar de koopgerichtheid
+van huishoudens in Nieuwegein
+Henk Baten
+Utrecht, juni 1982
+0689 9839
+NB:H/A
+VOORWOORD
+fi.Q töZ | ÖZ -3
+—— d’
+Het zelfstandig doen van een onderzoek vormt één van de studie-onderdelen van
+het hoofdvak sociale geografie van de stedelijk-industriële landen. Deze spe-
+cialisatierichting binnen de sociale geografie houdt zich bezig met de oplei-
+ding van studenten voor het verrichten van toegepast geografisch onderzoek.
+Dit houdt in: onderzoek ten behoeve van het ruimtelijk beleid en de ruimtelij-
+ke planning. Bij deze voorbereiding op de praktijk is een vroegtijdige kennis-
+making met praktische vraagstukken en probleemvelden voor de student van groot
+belang.
+Ik beschouw het daarom als een voorrecht mijn leeronderzoek te hebben mogen
+verrichten in het kader van een door de praktijk gesteld probleem. Op verzoek
+van de gemeente Nieuwegein heb ik onderzoek gedaan naar de koopgerichtheid van
+Nieuwegeinse huishoudens. Het thans voor u liggende rapport bevat de resulta-
+ten vaq dit onderzoek.
+Vanzelfsprekend zou ik dit onderzoek niet hebben kunnen uitvoeren zonder de
+hulp van vele personen en instellingen. Vanaf deze plaats wil ik iedereen be-
+danken die op één of andere wijze heeft bijgedragen aan het onderzoek. In het
+bijzonder dank ik de heren J.H. van Amstel, J.A. van den Ham en S. Kroeske van
+de gemeente Nieuwegein voor hun medewerking aan en begeleiding van het onder-
+zoek. Voorts dank ik mijn studiebegeleider, de heer J.G. Borchert, die tijd
+noch moeite gespaard heeft om mij te helpen. Van zijn opmerkingen en opbouwen-
+de suggesties heb ik veel geleerd. En verder dank ik alle enquêteurs en enquê-
+trices, die mij tijdens het veldwerk geholpen hebben.
+Utrecht, juni 1982
+Henk Baten
+NB:H/A.1
+-2-
+INHOUDSOPGAVE blz.
+VOORWOORD 1
+Lijst van tabellen 3
+Lijst van figuren 3
+Lijst van bijlagen 4
+1.	INLEIDING EN PROBLEEMSTELLING 5
+1.1.	Het probleemveld . 5
+1.2.	Het onderzoek naar ruimtelijk koopgedrag; een toelich-
+ting op enkele aspecten aan de hand van de literatuur 6
+1.3.	De probleemstelling 8
+1.4.	Theoretische uitwerking van de probleemstelling 8
+2.	DE ONDERZOEKSOPZET 11
+2.1.	Beschrijving en afbakening van het onderzoeksgebied 11
+2.2.	De enquête 13
+2.3.	Steekproefomvang en -verdeling 15
+2.4.	Het veldwerk 15
+3.	DE KOOPGERICHTHEID VAN NIEUWEGEINSE HUISHOUDENS 17
+3.1.	De koopgerichtheid met betrekking tot dagelijks beno-
+digde goederen 17
+3.2.	De koopgerichtheid met betrekking tot duurzame goede-
+ren 19
+3.3.	Beschrijving van huishoudenskenmerken 20
+3.4.	De relatie tussen koopgerichtheid van Nieuwegeinse
+huishoudens en hun kenmerken 22
+3.4.1.	Huishoudenskenmerken en de koopgerichtheid met betrek-
+king tot dagelijks benodigde goederen 22
+3.4.2.	Huishoudenskenmerken en de koopgerichtheid met betrek-
+king tot duurzame goederen 26
+4.	DE BEOORDELING VAN WINKELVOORZIENINGEN IN NIEUWEGEIN
+EN DE INVLOED OP DE KOOPGERICHTHEID 30
+4.1.	Inleiding 30
+4.2.	De beoordeling van winkelvoorzieningen voor dagelijks
+benodigde goederen en de invloed op de koopgerichtheid 30
+4.3.	De beoordeling van winkelvoorzieningen voor duurzame
+goederen en de invloed op de„koopgerichtheid 35
+5.	CONSEQUENTIES VAN DE KOOPGERICHTHEID VAN NIEUWEGEINSE
+HUISHOUDENS VOOR DE GEREALISEERDE EN GEPLANDE WINKEL-
+VOORZIENINGEN 39
+5.1.	Inleiding 39
+5.2.	De ontwikkeling van de koopgerichtheid met betrekking
+tot dagelijks benodigde goederen en de consequenties
+voor de winkelvoorzieningen 39
+5.3.	De ontwikkeling van de koopgerichtheid met betrekking
+tot duurzame goederen en de consequenties voor de win-
+kelvoorzieningen 42
+5.4.	De rol van de gemeentelijke overheid 45
+NB.-H/A.2
+-3-
+6.	SAMENVATTING EN CONCLUSIE 46
+Literatuurlijst 48
+Bijlagen 50
+Lijst van tabellen
+2.1.	Steekproef- en responsverdeling 16
+3.1.	Koopgerichtheid van huishoudens (in Z) met betrekking
+tot dagelijks benodigde goederen 17
+3.2.	Koopgerichtheid van huishoudens (in met betrekking
+tot duurzame goederen 19
+3.3.	Koopgerichtheid van huishoudens (in Z) met betrekking
+tot negen artikelgroepen 20
+3.4.	De huishoudens (in %) naar gezinssamenstelling 21
+3.5.	De huishoudens (in %) naar vestigingsjaar 21
+3.6.	De huishoudens (in %) naar herkomst 21
+3.7.	Koopgerichtheid van huishoudens (in Z) op een andere
+gemeente naar vestigingsjaar 23
+3.8.	Koopgerichtheid van huishoudens (in %) op winkelvoor-
+zieningen elders in Nieuwegein naar vestigingsjaar 23
+3.9.	Koopgerichtheid van huishoudens (in %) op winkelvoor-
+zieningen in een andere gemeente naar voormalige woon-
+gemeente 24
+3.10.	Koopgerichtheid van vrouwelijke respondenten (in %)
+naar werkgemeente 25
+3.11.	Koopgerichtheid van huishoudens (in %) naar autobezit 25
+3.12.	Koopgerichtheid van huishoudens (in %) voor wat be-
+treft duurzame goederen naar vestigingsjaar 26
+3.13.	Koopgerichtheid van huishoudens (in %) voor wat be-
+treft duurzame goederen naar herkomst 27
+3.14.	Koopgerichtheid van respondenten (in %) voor wat be-
+treft duurzame goederen naar werkgemeente 27
+3.15.	Koopgerichtheid van partners (in %) voor wat betreft
+duurzame goederen naar werkgemeente 28
+4.1.	Redenen van huishoudens (in %) voor het kopen van da-
+gelijks benodigde goederen in een andere gemeente 34
+4.2.	Redenen van huishoudens (in %) voor het niet kopen van
+duurzame goederen in Nieuwegein 37
+4.3.	Koopgerichtheid van 3 groepen huishoudens (in %) naar
+vestigingsjaar 37
+5.1.	Verwachte koopkrachtbinding aan Nieuwegein voor duur-
+zame goederen (eind 1986) 43
+Lijst van figuren
+2.1.	Woon- en winkelgebieden in Nieuwegein 12
+2.2.	Nieuwegein en omliggende gemeenten met een gelijkwaar-
+dig of hoger voorzieningenniveau 14
+4.1.	Beoordeling van het dichtstbijzijnde winkelcentrum
+door de huishoudens 30
+4.2.	Beoordeling van De Gaarde en Hoog-Zandveld ten opzich-
+te van het algemene beoordelingsbeeld 32
+4.3.	Beoordeling van het dichtstbijzijnde centrum door twee
+groepen huishoudens 33
+NB:H/A.3
+-4-
+4.4.	Totale, gemiddelde beoordeling van het dichtstbijzijn-
+de centrum naar vestigingsjaar 35
+4.5.	Beoordeling van winkelvoorzieningen door huishoudens
+die zich in eerste en tweede instantie op Nieuwegein
+richten voor de aankoop van duurzame artikelen 36
+Lijst van bijlagen
+2.1.	Vragenlijst 50
+2.2.	Introductiebrief 53
+NB:H/A.4
+—5—
+INLEIDING EN PROBLEEMSTELLING
+Het probleemveld
+Nieuwegein is in 1971 ontstaan op het grondgebied van twee gemeen-
+ten: Jutphaas en Vreeswijk. Vanaf dit tijdstip wordt de nieuwe ge-
+meente gekenmerkt door een bijzonder dynamische ontwikkeling. Deze
+wordt veroorzaakt door het feit dat de rijksoverheid Nieuwegein
+heeft aangewezen tot groeikern. Dit heeft belangrijke consequenties
+voor de structuur van de gemeente. In de eerste plaats bestaat thans
+het merendeel van haar inwoners uit (recent gevestigde) migranten,
+die voor een belangrijk deel afkomstig zijn uit de nabijgelegen
+gemeente Utrecht. In de tweede plaats heeft de gemeente nog geen
+volledig uitgekristalliseerde, ruimtelijke structuur. Dit laatste
+geldt ondermeer voor het distributieve apparaat.
+Toen in 1971 de snelle groei een aanvang nam, werd uitbreiding van
+het winkelbestand noodzakelijk geacht. Inpassing van de reeds be-
+staande winkels in een nieuwe distributieve structuur was het voor-
+naamste uitgangspunt dat zou gelden voor eventuele uitbreidings-
+plannen. In 1977 bracht het Centraal Instituut Midden-en
+Kleinbedrijf (C.I.M.K.) advies uit over de meest wenselijke,
+toekomstige structuur van distributieve voorzieningen (C.I.M.K.,
+1977). De gemeente nam dit advies over en begon met de verwerkelij-
+king ervan. Thans zijn nog niet alle winkelcentra gerealiseerd.
+Ondanks het in 1977 uitgebrachte advies bestaan er tal van onzeker-
+heden omtrent de deels geplande en deels gerealiseerde hiërarchie
+van winkelcentra. Met name het economisch functioneren van de cen-
+tra, de inpassing van de bestaande centra in de nieuwe structuur, en
+de onvoorspelbare ontwikkelingen in de distributieve sector in het
+algemeen vormen de voedingsbodem voor deze onzekerheden. Een ander
+aspect dat ook een cruciale rol speelt in het al of niet functione-
+ren van de winkelvoorzieningen, is het ruimtelijk koopgedrag van de
+Nieuwegeinse huishoudens. In de plannen, die betrekking hebben op de
+toekomstige distributieve structuur, is onvoldoende aandacht besteed
+aan dit koopgedrag. Het veronderstelde gedrag, waar in deze studies
+van uit wordt gegaan, is slechts bepaald aan de hand van normen, die
+gelden voor de nederlandse consument in het algemeen.
+Het vermoeden bestaat dat het ruimtelijk koopgedrag van de Nieuwe-
+geinse consument zal afwijken van dit veronderstelde gedrag.. Omdat
+veel Nieuwegeinse huishoudens zich pas recentelijk in de gemeente
+gevestigd hebben en voor het merendeel afkomstig zijn uit Utrecht,
+ligt het voor de hand dat velen van hen zich geheel of gedeeltelijk
+op Utrecht blijven richten voor wat betreft hun kooporiëntatie.
+Daarnaast zijn er ontwikkelingen te bespeuren die doen vermoeden dat
+het ruimtelijk koopgedrag in het algemeen aan het veranderen is.
+Daarom bestaat de behoefte om via onderzoek op dit punt meer infor-
+matie te krijgen. Het gaat er dan met name om te achterhalen waar de
+consument zijn dagelijks benodigde en duurzame goederen betrekt, en
+waarom hij dit juist daar doet. Aan de hand van de verzamelde gege-
+vens en de bestudeerde literatuur kan dan worden vastgesteld in hoe-
+verre dit gedrag afwijkt van het gedrag van de veronderstelde consu-
+ment, die in veel studies en planningsadviezen gehanteerd wordt, en
+welke mogelijke achtergronden aan deze afwijkingen ten grondslag
+liggen. Tevens dient dan aangegeven te worden wat voor consequenties
+dit heeft voor de deels geplande en deels geraliseerde winkelvoor-
+zieningen.
+NBJH/A.5
+-6-
+1.2.	Het onderzoek naar ruimtelijk koopgedrag;
+een toelichting op enkele aspecten aan de hand van de literatuur
+De vraag naar de aard van het ruimtelijk koopgedrag kan op vele ma-
+nieren worden beantwoord. Hiervan getuigt de grote hoeveelheid lite-
+ratuur op dit gebied (zie voor een overzicht met betrekking tot het
+onderzoek naar ruimtelijk koopgedrag: TIMMERMANS, 1979a). Aan de be-
+schikbare literatuur wordt in deze paragraaf enige aandacht besteed,
+omdat dit zinvolle aanwijzingen kan geven over de wijze waarop het
+karakter van het ruimtelijk koopgedrag inzichtelijk gemaakt kan wor-
+den.
+Veel onderzoekers trachten het ruimtelijk koopgedrag te verklaren
+door verschillende waarneembare aspecten van dit gedrag, zoals: de
+frequentie van winkelen, de afgelegde afstand, het karakter van de
+aankoopplaats, de bestedingen, en de verdeling van het winkelen over
+een week, in verband te brengen met specifieke kenmerken, die de
+verschillende groepen huishoudens typeren. Doorgaans worden de vol-
+gende kenmerken gebruikt: leeftijd, gezinssamenstelling, inkomen,
+beroep, locatie werkkring, aantal jaren woonachtig in een gemeente,
+en autobezit. De onderzoeken leveren echter sterk verschillende re-
+sultaten op. DAVIES (1969, p.21) komt bijvoorbeeld tot de conclusie
+dat: "the isolated factor of income differences ... is sufficiënt to
+cause wide variations in the number and directions of shopping move-
+ments ...". DAY (1973, p.84), daarentegen, komt tot de conclusie dat
+"Relationships between socio-economic variables and respondent con-
+sumer behaviour were generally found to be non-significant although
+car ownership was positively associated with the usage of alternati-
+ve shopping centres to Crawley”. Ook nederlandse onderzoekers
+(BUURSINK, 1977, p.65; DIELEMAN en HEINS, 1971, p.51) komen tot de
+conclusie dat huishoudenskenmerken niet altijd een verklaring geven
+voor de aankoop van bepaalde goederen in bepaalde centra. De resul-
+taten zijn mede afhankelijk van de specifieke context, waarbinnen
+zo’n onderzoek plaatsvindt.
+In dit geval levert de Nieuwegeinse context een aantal relevante ge-
+gevens, die de huishoudens typeren, en die mogelijk van invloed zijn
+op hun ruimtelijk koopgedrag. In de eerste plaats heeft de gemeente
+zich ontwikkeld tot een typische forensengemeente. Er wonen veel
+woonforensen die in de gemeente of in de regio Utrecht werken. In de
+tweede plaats is de gemeente aangewezen als groeikern om de overloop
+uit Utrecht op te vangen, en bevat veel uit Utrecht afkomstige mi-
+granten. De Nieuwegeinse bevolking heeft hierdoor een sterk hetero-
+geen karakter gekregen. Dit maakt het mogelijk diverse deelgroepen
+te onderscheiden op grond van woonduur en herkomst. Op deze en ande-
+re kenmerken wordt in 1.4. verder ingegaan. Daar zullen een aantal
+veronderstellingen worden gedaan over de te verwachten Invloed van
+deze kenmerken op het ruimtelijk koopgedrag.
+Hier wordt slechts gewezen op enkele aanknopingspunten die de lite-
+ratuur te bieden heeft. Het thema van de invloed van het forensisme
+op het ruimtelijk koopgedrag keert regelmatig terug in de litera-
+tuur. DIELEMAN en HEINS (1971, p.48) stellen in dit opzicht dat het
+patroon van wonen en werken enerzijds en het kooppatroon van nietda-
+gelijkse goederen anderzijds niet los van elkaar staan, maar een
+ruimtelijke samenhang vertonen.
+Aan de Invloed van migratie wordt in de literatuur relatief weinig
+aandacht geschonken. De studie van LLOYD (1977) geeft echter aan hoe
+het koopgedrag beïnvloed wordt door intra-urbane migratie over rela-
+NB:H/A.6
+-7-
+tief korte afstand (5—9 mijl). Hij komt tot de conclusie dat een mi-
+grant het eerst breekt met zijn "low order functional nodes" en het
+laatst met zijn "high order functional nodes". (Een "functional
+node" betekent hier een punt waar goederen en diensten van een be-
+paalde orde worden aangeboden). Een gedeeltelijk breken met het oude
+koopgedrag betekent dat een gemigreerde consument voortaan "low
+order functional nodes" bezoekt in zijn nieuwe omgeving, maar dat
+hij de bezoeken aan de "high order functional nodes" in zijn oude
+omgeving handhaaft.
+Alhoewel de condities in Nieuwegein anders zijn dan in de studie van
+Lloyd, is de mate van aanpassing aan de nieuwe omgeving een kwestie
+die het ruimtelijk koopgedrag van gemigreerde huishoudens in belang-
+rijke mate kan beïnvloeden.
+Naast bovengenoemde wijze van inzichtelijk maken van het ruimtelijk
+koopgedrag komt in de jaren *70 een stroming op die op een andere
+manier dit gedrag tracht te verklaren. Deze stroming staat onder
+invloed van en hangt samen met de opkomst van de "behavioral
+approach" binnen de geografie in het algemeen. Deze benadering
+tracht het ruimtelijk (koop-)gedrag te verkaren door uit te gaan van
+de verschillende gedragsaspecten van de mens en de principes die
+daaraan ten grondslag liggen. Essentieel in dit opzicht is de opvat-
+ting dat het ruimtelijk handelen niet uitsluitend bepaald wordt door
+rationele en economische overwegingen. Ook sociale en sociaal-
+psychologische aspecten spelen een rol.
+Dit heeft tot gevolg dat het ruimtelijk koopgedrag een meer omvat-
+tend geheel wordt, waarin ook de kennis- en ervaringswereld van de
+mens wordt, betrokken. Begrippen als de preferentiestructuur van de
+consument en zijn perceptie van de (detailhandels-)omgeving nemen
+daarbij een centrale plaats in. Aan de hand van deze twee componen-
+ten valt de houding van de consument ten aanzien van zijn ruimtelij-
+ke omgeving af te leiden, dat de basis vormt voor zijn feitelijk
+ruimtelijk koopgedrag.
+Een groot aantal onderzoekers heeft zich bezig gehouden met de ana-
+lyse van preferentie en perceptie (CADWALLADER, 1975; DOWNS, 1970;
+-GUY, 1975; NYKAMP, BLOMMENSTEIN, en VAN VEENENDAAL, 1979; PACIONE,
+1975; ROZESTRATEN en VAN RYSSEN, 1979; RUSHTON, 1969; SPENCER, 1978;
+TIMMERMANS, 1979b; VAN DER VEN, 1978). De wijze van aanpak en de ge-
+hanteerde meet- en analysetechnieken lopen vaak sterk uiteen. Het
+voornaamste probleem vormt de verwerking en interpretatie van kwali-
+tatieve gegevens. Om dit op te lossen zijn verschillende methoden en
+technieken bedacht; uiteenlopend van zeer eenvoudig tot zeer gekuns-
+teld. Aan de meeste kleven echter meer of minder grote bezwaren en
+dit heeft al herhaaldelijk aanleiding gegeven tot discussies. On-
+danks deze onvolkomenheden is men het erover eens dat deze benade-
+ring het inzicht in het ruimtelijk koopgedrag vergroot. Het brengt
+CADWALLADER (1975, p.400) bijvoorbeeld in de verleiding om te stel-
+len dat: "consumer spatial behaviour can be better understood in
+terms of subjectively measured variables than in terms of the more
+objective counterparts." Resumerend kan gesteld worden dat deze
+benadering een aanvulling vormt op het eerder genoemde onderzoek
+naar ruimtelijk koopgedrag. Het geeft met name inzicht in de
+achtergronden van verschillende gedragsaspecten. Omdat de
+informatiebehoefte van Nieuwegein zich mede hierop richt, zal ook
+vanuit deze benadering worden gewerkt.
+B:H/A.7
+-8-
+1.3.	De probleemstelling
+In 1.1. is reeds gesteld dat het erom gaat te achterhalen waar de
+huishoudens hun dagelijks benodigde en duurzame goederen betrekken,
+en waarom zij dit juist daar doen. Het onderzoek concentreert zich
+dus op de koopgerichtheid van de huishoudens en de beweegredenen,
+die hieraan ten grondslag liggen.
+In 1.2. is het belang van een gedragsgeoriënteerde benadering aange-
+geven. Daarom wordt in dit onderzoek aandacht besteed aan de prefe-
+renties tructuur van de huishoudens. De perceptie krijgt gestalte in
+een beoordeling van de winkelvoorzieningen in Nieuwegein.
+Ook is reeds opgemerkt dat verschillende kenmerken de huishoudens
+van Nieuwegein typeren. Het vermoeden bestaat dat deze verantwoorde-
+lijk zijn voor, eventuele afwijkingen in het veronderstelde gedrag.
+Daarom zullen deze kenmerken de aandacht krijgen.
+Het is tevens de bedoeling dat wordt aangegeven wat de gevolgen zijn
+van een eventueel afwijkend koopgedrag voor de deels geplande en
+deels gerealiseerde winkelvoorzieningen.
+Naar aanleiding van bovenstaande overwegingen kon de probleemstel-
+ling als volgt geformuleerd worden:
+1.	In hoeverre richten de Nieuwegeinse huishoudens zich bij de aan-
+koop van goederen op de distributieve voorzieningen in omliggen-
+de gemeenten? Zijn er op grond van huishoudenskenmerken groepen
+te onderscheiden met verschillen in koopgerichtheid?
+2.	Wat voor preferentiestructuur hebben de Nieuwegeinse huishou-
+dens? Hoe beoordelen zij de winkelvoorzieningen in hun woon-
+plaats? Zijn er groepen huishoudens te onderscheiden met ver-
+schillen in beoordeling?
+3.	In hoeverre zijn de uitkomsten van het onderzoek in overeenstem-
+ming met het gedrag van de veronderstelde consument, die in veel
+studies en planningsadviezen gebruikt wordt? Welke consequenties
+kunnen uit de resultaten van het onderzoek worden getrokken met
+betrekking tot de deels geplande en deels gerealiseerde winkel-
+voorzieningen?
+1.4.	Theoretische uitwerking van de probleemstelling
+Het doel van iedere probleemstelling, die vanuit een sociaal-geogra-
+fische optiek wordt geformuleerd, is het inzichtelijk maken van de
+ruimtelijke orde met betrekking tot bepaalde aspecten van het mense-
+lijk handelen. In dit onderzoek gaat het om het patroon van activi-
+teiten dat wordt aangeduid met de term: "ruimtelijk koopgedrag". Dit
+patroon ontstaat doordat huishoudens zich richten op het aanbod van
+winkelvoorzieningen om zich in de behoefte van dagelijks benodigde
+en duurzame goederen te voorzien.
+Dit patroon van activiteiten is nader te omschrijven aan de hand van
+een groot aantal kenmerken. In dit onderzoek wordt één kenmerk aan
+een nadere beschouwing onderworpen, namelijk: de koopgerichtheid.
+Daarbij gaat het om de vraag op welke winkelvoorzieningen de huis-
+houdens zich gewoonlijk richten bij het doen van aankopen en waarom
+zij zich voornamelijk tot die locaties wenden. Deze koopgerichtheid
+wordt verondersteld in belangrijke mate bepaald te worden door het
+karakter van de huishoudens en de wijze waarop zij hun (detailhan-
+dels-) omgeving beoordelen.
+In 1.2. is reeds gesteld dat de Nieuwegeinse huishoudens een aantal
+NB:H/A.8
+-9-
+specifieke kenmerken bezitten, die mogelijk van invloed zijn. Als
+eerste is toen het woonforensisme aangehaald. Omdat veel Nieuwegei-
+ners in Utrecht werken, zal men ook goed op de hoogte zijn van de
+winkelvoorzieningen aldaar. Dit gegeven heeft niet alleen tot gevolg
+dat men tijdens werkdagen gebruik zal maken van deze voorzieningen,
+maar ook in het weekend. Utrecht ligt immers op zeer korte afstand
+en is per auto makkelijk bereikbaar.
+Een tweede kenmerk dat reeds in 1.2. genoemd is, is het gegeven van
+de grote Instroom van migranten. Velen van hen hebben als herkomst
+Utrecht. Van hen mag worden verondersteld dat zij vertrouwd zijn met
+en in zekere mate gehecht zijn aan de winkelvoorzieningen in
+Utrecht. Het is daarom te verwachten dat zij zich ook na verplaat-
+sing naar Nieuwegein op Utrecht zullen blijven richten. In welke ma-
+te is afhankelijk van de aard van de aankopen.
+De studie van LLOYD, die in 1.2. al is genoemd, stelt in dit opzicht
+dat een over korte afstand verplaatste migrant slechts gedeeltelijk
+breekt met zijn "functional nodes". Hij handhaaft zijn "high order
+functional nodes" en breekt met zijn "low order functional nodes".
+Binnen de Nieuwegeinse context zou dit betekenen dat een voormalig
+Utrechtenaar zich voor zijn dagelijks benodigde goederen voorname-
+lijk op Nieuwegein oriënteert en voor wat betreft zijn duurzame goe-
+deren voornamelijk op Utrecht gericht blijft. Hoe lang de gericht-
+heid op Utrecht zich zal handhaven is geheel afhankelijk van het
+proces van gewenning. Het ligt voor de hand dat in de loop der jaren
+een geleidelijke verschuiving in koopgerichtheid zal optreden ten
+gunste van Nieuwegein. Het is (dan) ook de verwachting dat met het
+toenemen van de woonduur ook de gerichtheid op Nieuwegein voor
+andere dan dagelijks benodigde goederen zal toenemen.
+Ook de gezinssamenstelling van de Nieuwegeinse huishoudens wordt
+verondersteld van invloed te zijn op de koopgerichtheid. Nieuwegein
+bevat een relatief groot aandeel tweepersoonshuishoudens en gezinnen
+met jonge kinderen. Tweepersoonshuishoudens zijn over het algemeen
+meer mobiel dan andere groepen en voor hen zal de factor afstand een
+relatief ondergeschikte rol spelen. Gezinnen met jonge kinderen,
+daarentegen, zijn over het algemeen minder mobiel en verwacht wordt
+dat ook dit zijn weerslag zal hebben op de koopgerichtheid.
+Een andere factor, die verondersteld wordt van invloed te zijn op de
+mate van gebondenheid aan eigen winkelvoorzieningen en de mogelijk-
+heid van het kiezen van alternatieve aankoopplaatsen, is het autobe-
+zit. Met de auto zijn diverse alternatieve aankoopplaatsen makkelijk
+bereikbaar, terwijl dit met het openbaar vervoer moeilijker is.
+Daarnaast zal ook de huidige woonlocatie (binnen Nieuwegein) vermoe-
+delijk een rol spelen in de keuze van alternatieve aankoopplaatsen.
+Vanuit Nieuwegein-Noord ligt Utrecht voor de hand, maar ten aanzien
+van Nieuwegein-Zuid behoren ook IJsselsteln en Vianen tot mogelijke
+alternatieven.
+Tot nu toe zijn een aantal veronderstellingen geuit omtrent de in-
+vloed van relevant geachte huishoudenskenmerken op de koopgericht-
+heid . Een andere veronderstelling, die tevens de tweede lijn vormt
+waarlangs het onderzoek loopt, is de idee dat ook de preferentie-
+structuur van de huishoudens en hun perceptie van de (detailhan-
+dels)omgeving van invloed zijn op de koopgerichtheid. Over het be-
+lang om het ruimtelijk koopgedrag mede vanuit deze optiek te bena-
+deren is al het één en ander in 1.2. gezegd.
+Alvorens huishoudens overgaan tot de aankoop van goederen op een be-
+NB:H/A.9
+-10-
+paalde locatie, zullen zij eerst moeten kiezen uit de verschillende
+mogelijkheden binnen het aanbod van distributieve voorzieningen.
+Deze keuzemomenten en de daarmee samenhangende besluitvormingspro-
+cessen, die de grondslag vormen voor het feitelijk koopgedrag, wor-
+den beïnvloed door de preferentiestructuur van de huishoudens en hun
+perceptie van het ruimtelijk aanbod van voorzieningen. De preferen-
+tiestructuur geeft aan welke prioriteiten het huishouden stelt bij
+het doen van aankopen. De perceptie, die hier gestalte krijgt in een
+beoordeling van de winkelvoorzieningen, geeft aan hoe de huishoudens
+denken over deze voorzieningen als potentiële aankoopplaats. Het is
+de verwachting dat beide elementen een bijdrage leveren aan het in-
+zichtelijk maken van de koopgerichtheid.
+De beoordeling van winkelvoorzieningen krijgt binnen de Nieuwegeinse
+context nog een bijzonder accent. Dit hangt samen met het feit dat
+veel huishoudens zich hier recentelijk gevestigd hebben. Zij zullen
+zich in hun nieuwe woonomgeving opnieuw oriënteren. In deze oriënta-
+tie vergelijken zij hun nieuwe woonmilieu in menig opzicht met hun
+oude milieu. Dit geldt ook voor het aanbod van winkelvoorzieningen.
+Op basis van deze vergelijking zullen zij zich een oordeel vormen
+over de winkelvoorzieningen in hun nieuwe woonomgeving. Een belang-
+rijk deel van deze huishoudens is afkomstig uit Utrecht. De verwach-
+ting is dat zij negatief zullen oordelen over de voorzieningen in
+Nieuwegein, omdat zij nog niet volledig op de hoogte zijn van alle
+winkelvoorzieningen in Nieuwegein, en omdat zij in hun vorige woon-
+plaats vertrouwd waren met en gebruik konden maken van een ruimer en
+gevarieerder aanbod van voorzieningen. Ook mede daarom is het te
+verwachten dat zij zich bij de aankoop van goederen in eerste in-
+stantie in sterke mate op Utrecht zullen blijven oriënteren.
+Naarmate de woonduur echter toeneemt, treedt een proces van gewen-
+ning op. Hierover is al eerder in deze paragraaf iets gezegd. Het is
+de verwachting dat deze gewenning leidt tot een meer positieve be-
+oordeling van de winkelvoorzieningen. Huishoudens, die reeds langer
+in Nieuwegein gevestigd zijn, en autochtone huishoudens zullen zich
+daarom positiever uitlaten over de winkelvoorzieningen. Naar ver-
+wacht wordt zal dit ook tot uitdrukking komen in een sterkere ge-
+richtheid van deze groepen huishoudens op het eigen winkelapparaat.
+Tot besluit van dit hoofdstuk worden de te bestuderen elementen en
+relaties nog eens samengevat. In de eerste plaats wordt de koopge-
+richtheid van Nieuwegeinse huishoudens vastgesteld. In de tweede
+plaats wordt onderzocht of er op basis van huishoudenskenmerken
+groepen te onderscheiden zijn met verschillen in koopgerichtheid. In
+de derde plaats wordt de preferentiestructuur van de huishoudens
+vastgesteld en wordt bekeken hoe zij hun winkelvoorzieningen beoor-
+delen. In de vierde plaats wordt nagegaan of er groepen te onder-
+scheiden zijn met verschillen in beoordeling van winkelvoorzieningen
+en of deze verschillen de koopgerichtheid beïnvloeden. In de vijfde
+plaats wordt bekeken wat de consequenties zijn van de koopgericht-
+heid van Nieuwegeinse huishoudens voor de deels geplande en deels
+gerealiseerde winkelvoorzieningen.
+NB:H/A.10
+-11-
+2. DE ONDERZOEKSOPZET
+2.1.	Beschrijving en afbakening van het onderzoeksgebied
+In overleg met de gemeente is besloten de negen woonwijken van
+Nieuwegein als onderzoeksgebied aan te merken. Van deze negen worden
+er vijf tot Nieuwegein-Noord gerekend; te weten: Jutphaas-Wijker-
+sloot, Batau-Noord, Batau-Zuid, Zuilenstein en Doorslag. De overige
+vier, Fokkesteeg, Hoog-Zandveld, Lekboulevard, en Vreeswijk, vormen
+tezamen Nieuwegein-Zuid. (Vanwege de geringe omvang wordt Lekboule-
+vard in het verdere betoog tot Hoog-Zandveld gerekend.) De stadsde-
+len Noord en Zuid zijn van elkaar gescheiden door de Hollandse
+IJssel en het stadspark Oudegein. Beide delen worden met elkaar ver-
+bonden door de S-15, een vierbaansweg, die dwars door Nieuwegein
+loopt en die tevens de centrale ontsluitingsweg vormt voor de eerder
+genoemde woonwijken (zie figuur 2.1.).
+De structuur van distributieve voorzieningen in Nieuwegein is nog
+niet volledig uitgekristalliseerd. Een drietal winkelcentra moeten
+nog gerealiseerd worden, waaronder het hoofdwinkelcentrum. Om te
+kunnen vaststellen wat het dichtstbijzijnde winkelgebied of -centrum
+is waar huishoudens hun dagelijks benodigde goederen kopen, wordt de
+volgende indeling gehanteerd (zie ook figuur 2.1.):
+1. Batau-Zuid (inclusief vivo-noodwinkel);
+2. Makadocentrum;
+3. Winkelgebied Nedereind (winkelcentrum Nedereind + winkelgebied
+Nedereindseweg, Herenstraat, ’t Sluisje);
+4.	Verspreid voorkomende winkels in Jutphaas-Wijkersloot;
+5.	Doorslag;
+6.	Hoog-Zandveld;
+7.	Winkelgebied Kom Vreeswijk (Handelskade, Dorpsstraat, Oude
+Sluis, Roerstraat).
+Voor wat betreft de duurzame goederen wordt geheel Nieuwegein als
+êên koopcentrum gezien. Winkels van deze bevinden zich echter voor-
+namelijk in Jutphaas-Wijkersloot en Vreeswijk.
+NB:H/A.11
+L
+FIG. 2.1 WOON- EN WINKELGEBIEDEN IN NIEUWEGEIN
+-13-
+Omdat dit onderzoek zich concentreert op het onderscheid in koopge-
+richtheid tussen de eigen en omliggende gemeenten, verdienen de re-
+laties van het onderzoekgebied met deze gemeenten ook enige aan-
+dacht. Het gaat om gemeenten, gelegen in de onmiddellijke nabijheid
+van Nieuwegein, die een gelijkwaardig of hoger distributief apparaat
+hebben. Dit zijn Vianen, IJsselstein en Utrecht (zie figuur 2.2.).
+Voor wat betreft Utrecht wordt een onderscheid gemaakt tussen
+Utrecht-Kanaleneiland, Utrecht-Centrum, en Utrecht overig. Daarbij
+neemt Kanaleneiland een aparte positie in, omdat het ruimtelijk ge-
+zien het dichtst bij Nieuwegein ligt en omdat Kanaleneiland naast
+een eigen winkelcentrum ook een grote verbruikersmarkt heeft.
+Kanal en-e Hand en Utrecht-Centrum zijn vanuit Nieuwegein goed
+bereikbaar. Zij liggen op respectievelijk 10 en 15 minuten
+autorijden van Nieuwegein.
+2.2.	De enquête
+Het onderzoek heeft tot doel de koopgerichtheid van de huishoudens
+vast te stellen ten aanzien van dagelijks benodigde en duurzame goe-
+deren. Dit kan worden achterhaald door te vragen naar de plaats waar
+deze goederen doorgaans worden gekocht. Voor wat betreft het dage-
+lijks benodigd goederenpakket is gevraagd aan te geven welk deel (in
+procenten) zij in het dichtstbijzijnde centrum kopen, welk deel zij
+elders in Nieuwegein kopen, en welk deel zij in een andere gemeente
+kopen (zie vragenlijst; bijlage 2.1.). Er is gekozen voor een schat-
+ting van de hoeveelheid goederen, omdat zo’n vraag gemakkelijk te
+beantwoorden is. Een schatting heeft wel als nadeel dat met een ze-
+kere onnauwkeurigheidsmarge rekening moet worden gehouden.
+Voor wat betreft het duurzame goederenpakket is voor een andere op-
+zet gekozen. Er is gevraagd waar de huishoudens gewoonlijk hun duur-
+zame goederen kopen. Daarnaast is gevraagd waar men zich ook wel op
+richt als men niet koopt in de gemeente van eerste keus. Omdat het
+duurzame goederenpakket niet vast omlijnd is en mede daardoor zeer
+breed van samenstelling, is ook gevraagd naar de aankoopplaats van
+een aantal artikelen of artikelgroepen. Het is de bedoeling dat deze
+vraag enige nuancering aanbrengt in de eerder gestelde vragen van
+meer globale aard.
+NB:H/A.13
+FIG. 2.2 NIEUWEGEIN EN OMLIGGENDE GEMEENTEN MET EEN GELUKWAARDIG
+OF HOGER VOORZIENINGSNIVEAU
+1 Utrecht-Centrum
+2 Utrecht-Overvecht
+3 Utrecht-Kanaleneiland
+4 Verbmikersmarkt
+5 Hoofdwinkelcentrum Usselstein
+• Hoofdwinkelcentrum Vianen
+-15-
+Een ander belangrijk element in het onderzoek is de beoordeling van
+winkelvoorzieningen. De huishoudens is gevraagd een oordeel te geven
+over het dichtstbijzijnde centrum waar in de meeste gevallen een
+deel van het dagelijks benodigd goederenpakket wordt gekocht. Ook is
+gevraagd naar een oordeel over geheel Nieuwegein als koopcentrum
+voor duurzame goederen. In beide gevallen zijn aan de respondenten 5
+items voorgelegd; te weten: de keuzemogelijkheden, die geboden wor-
+den, het prijsniveau, de afstand/bereikbaarheid tot/van de winkel-
+voorzieningen, en de sfeer in en rond de winkelvoorzieningen.
+Het was de bedoeling dat aan ieder item een score zou worden toege-
+kend. Dit is gebeurd met behulp van een 5-puntsschaal (bijvoorbeeld
+keuzemogelijkheden: zeer onvoldoende (-2), onvoldoende (-1) matig
+(0), voldoende (1), en ruim voldoende (2)). Omdat bij eerdere onder-
+zoeken reeds is gebleken dat de respondent bij voorkeur op een mid-
+dencategorie scoort, zijn alle mlddencategorieën op de kaart met
+antwoordmogelijkheden, die aan de respondent werd voorgelegd, wegge-
+laten. Deze categorieën zijn echter wel in het enquêteformulier op-
+genomen. Zij zijn ingevuld wanneer de respondent weigerde één van de
+antwoordmogelijkheden van de kaart te gebruiken, omdat - naar zijn
+mening - zijn oordeel noch een duidelijk positief noch een duidelijk
+negatief karakter droeg.
+Nadat de respondenten hun oordeel ten aanzien van de winkelvoorzie-
+ningen hadden gegeven, is gevraagd welke rol de 5 items spelen in
+het koopproces. Hiertoe is een 4-puntsschaal gebruikt (bijvoorbeeld
+keuzemogelijkheden: onbelangrijk (1), minder belangrijk (2), belang-
+rijk (3), zeer belangrijk (4)). Het heeft tot doel de preferentie-
+structuur van de huishoudens inzichtelijk te maken. Met behulp hier-
+van kan worden aangegeven welke items belangrijk zijn in de beoor-
+deling van de winkelvoorzieningen.
+2.3.	Steekproefomvang en -verdeling
+In dit onderzoek zijn de huishoudens elementaire eenheden van onder-
+zoek. Uitgaande van de veronderstelling dat één huishouden normaal
+gesproken één woning bewoont, is het woningbestand als uitgangspunt
+genomen voor de te trekken steekproef. Op 31-12-1981 bevatten de ne-
+gen wijken 15.449 woningen. Mede op grond van personele en budget-
+taire overwegingen is besloten tot een steekproefomvang van 800
+(steekproeffractie: 0,052); daarbij rekening houdend met een non-
+respons van 25%. De steekproef is op a-selectewijze getrokken uit
+het woningbestand van de gemeente. Om een zo representatief mogelijk
+beeld te krijgen, is gekozen voor een evenredige verdeling van de
+steekproef over de wijken (zie tabel 2.1.).
+2.4.	Het veldwerk
+Het afnemen van de enquêtes heeft voornamelijk in de week van 15 t/m
+19 februari plaatsgevonden. De daaropvolgende week is gebruikt om na
+te vegen. In het totaal zijn 19 personen bij het enquêteren betrok-
+ken geweest. Dit waren voornamelijk studenten sociale geografie en
+planologie, die tijdens hun studie al enige ervaring met het enquê-
+tewerk hebben opgedaan.
+De enquête is van tevoren bij de desbetreffende huishoudens aange-
+kondigd door middel van een brief (zie bijlage 2.2.). Tijdens de
+NB:H/A.15
+-16-
+enquêteweek is behalve 's ochtends en ’s middags, ook ’s avonds
+geënquêteerd. Dit bleek noodzakelijk te zijn omdat veel huishoudens
+overdag niet thuis waren. Om de categorie "niet thuis" zo klein mo-
+gelijk te houden zijn deze adressen meerdere malen en op verschil-
+lende tijdstippen bezocht. Na de derde keer niemand thuis getroffen
+te hebben werd het adres als non-respons geregistreerd. Ook de "wei-
+geraars" zijn een tweede keer door een andere enquêteur of enquêtri-
+ce bezocht. Weigerde men opnieuw dan werd het adres eveneens als
+non-respons geregistreerd.
+De uiteindelijke respons bedroeg gemiddeld 73%, hetgeen een bevredi-
+gend resultaat genoemd mag worden. Dit geldt eens temeer, omdat ge-
+durende de enquêteweek nog twee onderzoeksbureau’s met enquêtes be-
+zig waren. Onderstaande tabel geeft een overzicht van de steekproef
+en responsverdeling over de verschillende wijken.
+Tabel 2.1: steekproef- en responsverdeling
+	Aantal woningen per 31-12-1981		Steekproef verdeling	Respons- verdeling	
+	abs	%	abs	abs	%
+Batau - Noord	1569	10,16	81	67	82,7
+Batau - Zuid	2569	16,63	133	91	68,4
+Zuilenstein	1575	10,19	82	65	79,2
+Jutphaas-Wijkersloot	2766	17,90	143	99	69,2
+Doorslag	2260	14,63	117	91	77,8
+Fokkesteeg	1735	11,23	90	63	70,0
+Hoog-Zandveld	2033	13,16	105	73	69,5
+Vreeswijk	942	6,10	49	38	77,6
+	15449	100,00	800	587	73,4
+NB:H/A.16
+-17-
+3.
+DE KOOPGERICHTHEID VAN
+NIEUWEGEINSE HUISHOUDENS
+3.1.
+De koopgerichtheid met betrekking tot dagelijks benodigde goederen
+In 2.2. is aangegeven hoe de vraagstelling met betrekking tot deze
+goederengroep is geformuleerd. De vraag heeft betrekking op drie
+kooprichtingen; namelijk: de gerichtheid op het dichtstbijzijnde
+centrum, op winkelvoorzieningen elders in Nieuwegein, en op
+winkelvoorzieningen in een andere gemeente. De huishoudens is
+gevraagd een procentuele verdeling aan te geven, waarvan de som van
+deze drie telkens 100% moet zijn. Een huishouden koopt bijvoorbeeld
+75% van de dagelijks benodigde goederen in het dichtstbijzijnde
+centrum, 15% elders in Nieuwegein, en 10% in een andere gemeente.
+Voor elke koopinrichting zijn alle opgegeven percentages achteraf in
+klassen ingedeeld. De klassen zijn samengesteld rond clusters van
+percentages met hoge frequenties. Wanneer huishoudens bijvoorbeeld
+een klein deel in het dichtstbijzijnde centrum kochten, gaven zij
+meestal 10, 20 of 25% als antwoord op. Deze veel genoemde percenta-
+ges vormden dan de basis voor het samenstellen van een klasse; in
+dit geval de klasse 1-35%. Omdat zich voor alle drie de kooprichtin-
+gen rond dezelfde percentages meer of minder grote clusters voorde-
+den, is besloten voor alle drie de richtingen dezelfde klasseninde-
+ling te hanteren.
+Tevens is per kooprichting voor elke klassen het gemiddelde bere-
+kend. Voor de klasse 1-35% bleek dit 15% te zijn; dat wil zeggen
+alle huishoudens uit deze klasse kopen gemiddeld 15% van hun dage-
+lijks benodigde goederen in het dichtstbijzijnde winkelcentrum. Ook
+deze klassegemiddelden bleken voor alle drie de kooprichtingen het-
+zelfde te zijn, zodat voor elke klasse van alle drie de richtingen
+hetzelfde gemiddelde gehanteerd kan worden.
+Tabel 3.1: koopgerichtheid van huishoudens (in %) met betrekking
+tot dagelijks benodigde goederen
+koopgerichtheids- percentage huishoudens gericht op:
+percentage_______ __________________________________
+klasse	gem%	het dichtst- bijzijnde centrum (N=587)	winkelvoor- zieningen elders in Nieuwegein (N=587)	winkelvoor- zieningen in een andere gemeente (N=587)
+0%	0	6	36	53
+1-35%	15	34	37	20
+36-65%	50	15	12	10
+66-85%	75	16	7	10
+86-100%	95	29	8	7
+		100	100	100
+bron: huishoudensenquête
+Uit de tabel is af te lezen dat slechts 6% van de ondervraagde huis-
+houdens geen dagelijks benodigde goederen koopt in het dichtstbij-
+zijnde centrum; 94% doet dit wel. Hieruit valt af te leiden dat het
+dichtstbijzijnde winkelcentrum een belangrijke plaats inneemt. Toch
+vervult het centrum niet voor alle huishoudens eenzelfde functie.
+Ruim een kwart van de huishoudens koopt hier gemiddeld 95% van de
+NB:H/A.17
+-18-
+dagelijks benodigde goederen. Voor deze huishoudens is het dichtst-
+bijzijnde winkelcentrum de belangrijkste aankoopplaats voor deze
+goederen. Een derde (34%) koopt hier gemiddeld 15% van de dagelijks
+benodigde goederen. Het is duidelijk dat voor deze groep huishoudens
+het dichtstbijzijnde centrum een aanvullende functie vervult. Of de-
+ze verschillen verband houden met specifieke huishoudenskenmerken,
+wordt in 3.4.1. bekeken.
+Wel valt op dat bij de kleinere winkelcentra, zoals de Gaarde en de
+Doorslag, een relatief groter percentage huishoudens een geringere
+hoeveelheid goederen koopt. Terwijl dit bij de grotere centra juist
+andersom is. Dit wijst op het bestaan van een relatie tussen de hoe-
+veelheid gekochte goederen in het dichtstbijzijnde centrum en de om-
+vang van het centrum.
+Verder blijkt dat 64% van de ondervraagde huishoudens (ook) dage-
+lijks benodigde goederen elders in Nieuwegein koopt. Van die 64%
+koopt ruim de helft hier gemiddeld 15% van de dagelijks benodigde
+goederen. Dit is een relatief gering deel van de totale hoeveelheid.
+Het zal hierbij voornamelijk gaan om aanvullende kooptrips.
+Bijna de helft van de ondervraagde huishoudens richt zich ook op
+winkelvoorzieningen in een andere gemeente. Dit percentage is aan de
+hoge kant gezien het karakter van dagelijks benodigde goederen en de
+structuur van het aanbod. Van de huishoudens koopt een vijfde gemid-
+deld 15% van de dagelijks benodigde goederen in een andere gemeente
+en ruim een kwart koopt gemiddeld 50% of meer in een andere gemeen-
+te. Het is de vraag welke factoren aan deze specifieke koopgericht-
+heid ten grondslag liggen. Hierop wordt in een van de volgende
+paragrafen nader ingegaan; eerst wordt enige nadere informatie gege-
+ven over de huishoudens, die voor dagelijks benodigde goederen een
+andere gemeente bezoeken. Van deze groep (n=278) gaat 88% naar
+Utrecht en 12% naar een andere gemeente, waaronder IJsselstein en
+Vianen. De Utrecht-gerichte groep is verder onder te verdelen naar
+aankoopplaats: 47% gaat naar Kanaleneiland, 22% gaat naar het
+centrum (binnenstad + Hoog-Catharijne) en 19% gaat naar overig
+Utrecht. Van de huishoudens gaat 20% twee of meer keer per week, 40%
+gaat één keer per week en 40% gaat minstens één keer per maand.
+Daarbij is sprake van een relatie tussen bezoekfrequentie en de hoe-
+veelheid gekochte goederen. Naarmate men meer dagelijks benodigde
+goederen in een andere gemeente koopt, neemt ook de frequentie toe.
+Maar van de groep huishoudens, die gemiddeld 50% of meer in een
+andere gemeente koopt (n=162), gaat 47% één keer per week, hetgeen
+duidt op bulk-purchasing. Van deze groep gaat ruim de helft naar
+Kanaleneiland. Het belangrijkste vervoermiddel dat gebruikt wordt om
+dagelijks benodigde goederen in een andere gemeente te kopen is de
+auto (83%).
+Lange tijd is men ervan uitgegaan dat huishoudens hun dagelijks be-
+nodigde goederen in het dichtstbijzijnde winkelcentrum kochten. In
+meer recente onderzoeken (BUURSINK, 1977, p.54; DIELEMAN en HEINS,
+1971, p.52) worden hieromtrent twijfels geuit.
+Dit onderzoek laat zien dat het dichtstbijzijnde winkelcentrum nog
+wel een belangrijke plaats inneemt, maar dat het niet de enig be-
+langrijke aankoopplaats is voor dagelijks benodigde goederen. Ook
+winkelcentra elders in Nieuwegein en in andere gemeenten vervullen
+een meer primaire functie. Dit wordt nog eens bevestigd wanneer de
+totale verdeling van dagelijks benodigde goederen van alle huishou-
+dens tezamen bekeken wordt. Dan blijkt 53% van de dagelijks benodig-
+NB:H/A.18
+-19-
+de goederen in het dichtstbijzijnde centrum te worden gekocht, 24%
+elders in Nieuwegein en 23% in een andere gemeente.
+3.2.	De koopgerichtheid met betrekking tot duurzame goederen
+In 2.2. is al iets gezegd over de wijze van vragen voor wat betreft
+de koopgerichtheid met betrekking tot duurzame goederen. Er is eerst
+gevraagd waar men gewoonlijk duurzame goederen koopt en vervolgens
+is gevraagd waar men zich op richt als men niet in de eerstgenoemde
+gemeente koopt. Zodoende kan een onderscheid gemaakt worden tussen
+aankoopplaats in eerste instantie (primaire koopgerichtheid) en de
+aankoopplaats in tweede instantie (secondaire koopgerichtheid). On-
+derstaande tabel geeft de resultaten weer.
+Tabel 3.2: koopgerichtheid van huishoudens (in %) met betrekking
+tot duurzame goederen
+	primaire koopgerichtheid (N=587)	secondaire koopgerichtheid (N=587)
+Utrecht	85	10
+Nieuwegein	11	29
+IJsselstein	0,7	8
+Vianen	0,3	—
+Overige gemeenten	3	16
+Geen tweede gemeen-		
+te opgegeven	—	37
+	100	100
+bron: huishoudensenquête
+Uit de tabel blijkt de zeer sterke gerichtheid op Utrecht. Slechts
+11% van de ondervraagde huishoudens richt zich primair op Nieuwe-
+gein. Ook de secondaire koopgerichtheid bevestigt nog eens de onder-
+geschikte positie van Nieuwegein als koopcentrum voor duurzame goe-
+deren. Van de 85% die primair gericht is op Utrecht, is het te
+verwachten dat zij als secondaire richting Nieuwegein opgeven. Dit
+is echter niet het geval. Van de 85% geeft slechts 28% Nieuwegein
+als tweede gemeente op, 22% geeft een andere gemeente op en 35% geen
+tweede gemeente op. Vooral dit laatste moet gezien worden als een
+aanwijzing voor de sterke gerichtheid op Utrecht en voor de geringe
+betekenis die aan Nieuwegein wordt toegekend. Van de 11% die zich
+primair op Nieuwegein richt, geeft 8% Utrecht als secondaire koop-
+richting op.
+Uit de gegevens valt af te leiden dat Nieuwegein slechts door een
+klein deel van de huishoudens wordt gezien als een koopcentrum voor
+duurzame goederen. Gezien het tekort aan voorzieningen van deze aard
+bij de huidige bevolkingsomvang is dit begrijpelijk. Het is wel op-
+vallend dat Nieuwegein slechts in beperkte mate gezien wordt als se-
+condair of aanvullend koopcentrum voor duurzame goederen.
+Omdat bovenstaande aanpak globaal van aard is, is enige nuancering
+aangebracht door ook voor een aantal artikelgroepen de koopgericht-
+heid vast te stellen. Zoals blijkt uit de verschillende n-waarden is
+de respons voor ieder artikelgroep niet altijd hetzelfde geweest.
+Dit komt omdat sommige huishoudens voor bepaalde artikelgroepen geen
+NB:H/A.19
+-20-
+nadere specificatie wilden of konden geven. De artikelgroepen zijn
+dusdanig geselecteerd dat zij het belangrijkste deel van het totale
+duurzame goederenpakket omvatten en zijn allen in Nieuwegein aanwe-
+zig.
+Tabel 3.3: koopgerichtheid van huishoudens (in %) met betrekking
+tot negen artikelgroepen
+	Nieuwe- gein	Utrecht	IJssel- stein	overig	totaal
+dameskleding	7	86	2	5	100(n=561)
+herenkleding	6	86	2	6	100(n=543)
+schoenen	27	67	2	4	1OO(N=587)
+meubelen	9	72	3	16	100(n=571)
+vloerbed./gord.	19	69	3	9	100(n=583)
+doe-het-zelf art.	63	34	1	2	100(n=546)
+grote el. app.	17	77	1	5	100(n=579)
+foto- en filmart.	43	52	1	4	100(n=520)
+keukengerei	12	81	1	6	100(n=567)
+bron: huishoudensenquête
+De cijfers in deze tabel bevestigen de sterke koopgerichtheid op
+Utrecht. Voor wat betreft doe-het-zelf en foto- en filmartikelen
+zijn de ondervraagde huishoudens duidelijk meer gericht op Nieuwe-
+gein. De verklaring hiervoor moet gezocht worden in het feit dat het
+volume van doe-het-zelfartikelen veelal beperkingen stelt aan het
+transport. Bij de aanschaf van foto- en filmartikelen gaat het voor-
+namelijk om twee zaken: bij de aanschaf van apparatuur speelt servi-
+ce en persoonlijk contact een belangrijke rol; voor de aanschaf van
+benodigdheden van geringe omvang en prijs (fotorolletjes e.d.) wil
+men vaak niet ver reizen.
+Het belang van service en persoonlijk contact zorgen er tevens voor
+dat de artikelgroepen grote electrische apparaten en vloerbedekking
+en gordijnen iets hogere percentages hebben. Daarnaast richten de
+huishoudens zich iets meer op Nieuwegein voor wat betreft de aan-
+schaf van schoenen. Het gaat bij schoenen vooral om impulsinkopen
+die vaak tussendoor worden gedaan. De grotere gerichtheid op overige
+gemeenten voor wat betreft de artikelgroep meubelen hangt samen met
+de aantrekkingskracht van sommige meubelfabrieken en toonzalen el-
+ders in het land.
+Uit het voorgaande blijkt dat Nieuwegein als koopcentrum voor duur-
+zame goederen van geringe betekenis is. Natuurlijk speelt het gebrek
+aan winkelvoorzieningen van deze aard en de nabijheid van een koop-
+centrum van hogere orde een belangrijke rol. Daarnaast moet echter
+worden afgevraagd of andere factoren hierop niet mede van invloed
+zijn. Dit zal in 3.4. en het volgende hoofdstuk onderzocht worden.
+Alvorens hiertoe over te gaan wordt eerst een korte beschrijving
+gegeven van enkele relevante huishoudenskenmerken.
+3.3.	Beschrijving van huishoudenskenmerken
+gezinssamenstelling
+De geënquêteerde huishoudens zijn als volgt samengesteld:
+NB:H/A.20
+-21-
+Tabel 3.4: de huishoudens (in %) naar gezinssamenstelling
+______________________________________________________________(N=587)
+alleenstaanden (mannen + vrouwen) 8
+alleenstaanden met kinderen in alle leeftijdscat. 5
+echtparen zonder kinderen 29
+echtparen met kinderen in de leeftijdscat. 0 j. en ouder 23
+echtparen met kinderen in de leeftijdscat. 4 j. en ouder 28
+echtparen met kinderen in de leeftijdscat. 17 j. en ouder __________7
+__________________________________________________________________100
+bron: huishoudensenquête
+Van de 23% echtparen met kinderen in de leeftijdscategorie 0 jaar en
+ouder heeft de helft uitsluitend kinderen in de leeftijdscategorie
+0-3 jaar en van de 28% echtparen met kinderen in de leeftijdscatego-
+rie 4 jaar en ouder heeft driekwart uitsluitend kinderen in de leef-
+tijdscategorie 4-16 jaar. Alhoewel de leeftijd van één van partners
+niet is vastgelegd, bleek tijdens de enquête dat het hier voorname-
+lijk om jonge echtparen gaat.
+vestigingsjaar
+De indeling van huishoudens naar vestigingsjaar geeft het volgende
+beeld te zien:
+Tabel 3.5: de huishoudens (in %) naar vestigingsjaar
+(N=587)	
+voor 1971 gevestigd	21
+1971 - 1974	12
+1975 - 1979	40
+1980 - 1981	27
+	100
+bron: huishoudensenquête	
+vorige woongemeente
+Aan de huishoudens die zich in 1971 of later in Nieuwegein gevestigd
+hebben, is naar de gemeente van herkomst gevraagd.
+Tabel 3.6: de huishoudens (in %) naar herkomst
+(n=465)
+Utrecht	55
+gemeenten in de provincie Utrecht	14
+overige gemeenten	30
+onbekend	1
+	100
+bron: huishoudensenquête	
+werkgemeente
+In de enquête is zowel gevraagd naar de werkgemeente van de respon-
+dent (N=587) als van de partners (n=506). De respondenten zijn voor-
+namelijk vrouwen (78%). Hiervan oefent 52% geen beroep buitenshuis
+uit. Zowel bij de respondenten als bij hun partners neemt Utrecht
+als werkgemeente de belangrijkste plaats in met respectievelijk 22%
+en 41%. Nieuwegein biedt werk aan 13% van de respondenten en 11% van
+hun partners.
+autobezit
+NB:H/A.21
+-22-
+Van alle geënquêteerde huishoudens (N=587) bezit 18% geen auto; 73%
+beschikt over één auto en 9% beschikt over twee of meer auto's.
+3.4.	De relatie tussen koopgerichtheid van Nieuwegeinse huishoudens en
+hun kenmerken
+Het doel van het vaststellen van relaties tussen koopgerichtheid en
+huishoudenskenmerken is na te gaan of groepen huishoudens met ver-
+schillende kenmerken ook verschillen in koopgerichtheid vertonen. In
+1.4.	zijn deze kenmerken en de veronderstelde invloed op de koopge-
+richtheid reeds besproken. Van een aantal kenmerken zoals woonduur,
+herkomst en werkkring wordt verondersteld dat zij mede bepalend zul-
+len zijn voor de mate waarin huishoudens zich zullen richten op
+voorzieningen in eigen gemeente danwel op voorzieningen in andere
+gemeenten. Ook van meer algemene kenmerken zoals gezinssamenstelling
+en autobezit wordt verwacht dat zij de koopgerichtheid zullen beïn-
+vloeden. In de volgende subparagrafen wordt nagegaan welke invloed
+deze kenmerken hebben op de koopgerichtheid van huishoudens en in
+welke mate zij verschillen in koopgerichtheid teweeg brengen.
+3.4.1.	Huishoudenskenmerken en de koopgerichtheid met betrekking tot dage-
+lijks benodigde goederen
+gezinssamenstelling
+De variabele gezinssamenstelling brengt geen duidelijke verschillen
+in koopgerichtheid teweeg. Wel blijkt dat echtparen met kinderen in
+de leeftijdscategorie 0 jaar en ouder en alleenstaanden met kinderen
+zich meer richten op de winkelvoorzieningen in Nieuwegein; met name
+op het dichtstbijzijnde winkelcentrum. Ook blijkt dat echtparen zon-
+der kinderen meer gebruik maken van winkelvoorzieningen in andere
+gemeenten. Dit zou betekenen dat echtparen zonder kinderen mobieler
+zijn dan echtparen met jonge kinderen en alleenstaanden met kinde-
+ren. De geconstateerde verschillen zijn - statistisch gezien - ech-
+ter van dien aard dat zij niet tot een betrouwbare uitspraak omtrent
+de samenhang tussen koopgerichtheid en gezinssamenstelling kunnen
+leiden.
+vestigingsjaar
+Geheel anders is de situatie met het jaar van vestiging. Voor deze
+variabele is een duidelijk verband te constateren met de koopge-
+richtheid met betrekking tot de dagelijks benodigde goederen.
+Naarmate huishoudens langer in Nieuwegein gevestigd zijn, neemt de
+gerichtheid op eigen winkelvoorzieningen toe. Dit komt vooral tot
+uitdrukking wanneer de koopgerichtheid op winkelvoorzieningen in
+andere gemeenten wordt bekeken.
+NB:H/A.22
+-23-
+Tabel 3.7: koopgerichtheid van huishoudens (in %) op een andere
+gemeente naar vestigingsjaar
+	voor 1971 (n=122)	1971-1975 (n=72)	1976-1979 (n=232)	1980-1981 (n=161)
+koopt geen dagelijks benodigde goederen in	75	64	51	32
+een andere gemeente koopt wel dagelijks benodigde goederen in	25	36	49	68
+een andere gemeente	ÏÖÖ	100	100	ÏÖÖ
+bron: huishoudensenquête
+De sterke gerichtheid van vóór-1971-gevestigden (autochtonen) op de
+eigen winkelvoorzieningen komt ook tot uitdrukking wanneer naar de
+hoeveelheid gekochte goederen wordt gekeken. Van de autochtone groep
+koopt bijna de helft gemiddeld 95% van hun dagelijks benodigde goe-
+deren in het dichtstbijzijnde winkelcentrum, terwijl slechts een
+vijfde van de recentgevestigden (1980-1981) dit doet. De korte woon-
+duur van laatstgenoemde groep beïnvloedt ook de koopgerichtheid op
+winkelvoorzieningen elders in Nieuwegein.
+Tabel 3.8.: koopgerichtheid van huishoudens (in %) op winkelvoor-
+zieningen elders in Nieuwegein naar vestigingsjaar
+	voor 1971 (n=122)	1971-1975 (n=72)	1976-1979 (n=232)	1980-1981 (n=161)
+koopt geen dagelijks benodigde goederen	34	29	31	48
+elders in Nieuwegein koopt wel dagelijks benodigde goederen	66	71	69	52
+elders in Nieuwegein	100	ÏÖÖ	ÏÖÖ	ÏÖÖ
+bron: huishoudensenquête
+Uit het relatief hoge percentage recentgevestigde huishoudens dat
+geen dagelijks benodigde goederen elders in Nieuwegein koopt (48%)
+en het relatief hoge percentage van deze groep (68%) dat zich richt
+op winkelvoorzieningen in een andere gemeente, valt af te leiden dat
+zij nog niet goed op de hoogte zijn met alle mogelijkheden, die het
+nieuwe woonmilieu biedt. De huishoudens zitten in een gewennings-
+fase, waarbij zij - indien mogelijk - nog regelmatig terugvallen op
+hun oude woonmilieu. Dit blijkt ook wanneer naar de koopgerichtheid
+wordt gekeken in relatie tot de herkomst van huishoudens.
+vorige woongemeente
+De invloed van de vorige woongemeente komt tot uitdrukking in de
+verschillen in koopgerichtheid op winkelvoorzieningen in andere ge-
+meenten. Om een vergelijkingsbasis te hebben is ook de koopgericht-
+heid van de autochtonen ten aanzien van deze winkelvoorzieningen op-
+genomen.
+NB:H/A.23
+-24-
+Tabel 3.9: koopgerichtheid van huishoudens (in %) op winkelvoor-
+zieningen in een andere gemeente naar voormalige woon- gemeente				
+	Utrecht	overige gem.	overige gem.	autoch-
+	(n=254)	prov. Utrecht (n=64)	(n=140)	tonen (n=122)
+koopt geen dagelijks benodigde goederen in	42	41	56	75
+een andere gemeente koopt wel dagelijks benodigde goederen in	58	59	44 .	25
+een andere gemeente	100	ÏÖÖ	ÏÖÖ	ÏÖÖ
+bron: huishoudensenquête
+De verschillen doen zich met name voor tussen de uit een andere ge-
+meente afkomstige huishoudens en de autochtonen. Maar er zijn ook
+verschillen in koopgerichtheid tussen de huishoudens afkomstig uit
+Utrecht en andere gemeenten uit de provincie Utrechten de huishou-
+dens afkomstig uit andere delen van het land. Van de eerste groep
+richt meer dan de helft zich op winkelvoorzieningen in een andere
+gemeente; doorgaans de voormalige woonplaats. Als gevolg van de na-
+bije ligging van de vorige woonplaats zijn deze huishoudens in staat
+om daar nog regelmatig dagelijks benodigde goederen te kopen.
+werkgemeente
+Als gevolg van de zeer ongelijke verdeling van zowel respondenten
+als partners over de werkgemeenten (de meesten werken in Utrecht) is
+het niet makkelijk wat te zeggen over de verschillen in koopgericht-
+heid, die verband houden met het werken in een bepaalde gemeente.
+Toch zijn er wel verschillen in koopgerichtheid te constateren; met
+name daar waar het gaat om in Nieuwegein werkende, elders werkende
+en niet-werkende respondenten. Omdat vrouwen doorgaans het meest be-
+trokken zijn bij het koopproces van dagelijks benodigde goederen,
+wordt alleen gekeken naar de vrouwelijke respondenten (n=459).
+De verschillen in koopgerichtheid komen op tweeërlei manier tot uit-
+drukking .
+Zo koopt een vijfde van de werkende, vrouwelijke respondenten
+(n=153) gemiddeld 95% in het dichtstbijzijnde winkelcentrum, terwijl
+een derde van de niet-werkende, vrouwelijke respondenten (n=306) dit
+doet. Nog duidelijker komen de verschillen naar voren daar waar het
+de koopgerichtheid op winkelvoorzieningen in een andere gemeente be-
+treft. Wanneer de groep vrouwelijke respondenten, die in Nieuwegein
+werkt of geen beroep buitenshuis heeft, vergeleken wordt met de
+groep respondenten, die in Utrecht of een andere gemeente werkt, dan
+blijkt het volgende:
+NB:H/A.24
+-25-
+Tabel 3.10: koopgerichtheid van vrouwelijke respondenten (in %)
+naar werkgemeente
+	vr. respondenten met werkgemeente Nieuwe- gein of geen beroep buitenshuis (n=359)	vr. respondenten met werkgemeente Utrecht of andere gemeente (n=100)
+koopt geen dagelijks benodigde goederen in een andere gemeente	62	32
+koopt wel dagelijks benodigde goederen in	38	68
+een andere gemeente	100	100
+bron: huishoudensenquête		
+Hieruit blijkt dat werken in een andere gemeente de koopgerichtheid
+op de daar aanwezige winkelvoorzieningen stimuleert.
+autobezit
+Daar 82% van de ondervraagde huishoudens êén of meer auto’s bezit,
+kan dit een algemeen verbreid verschijnsel worden genoemd.
+Wanneer de groep autobezitters wordt vergeleken met de groep niet-
+autobezitters, dan blijken er toch sterke verschillen in koopge-
+richtheid te bestaan. Dit komt voornamelijk tot uitdrukking in de
+koopgerichtheid op winkelvoorzieningen in een andere gemeente.
+Tabel 3.11: koopgerichtheid van huishoudens (in %) naar autobezit
+	niet-autobezitters (n=104)	autobezitters (n=483)
+koopt geen dagelijks benodigde goederen in	71	49
+een andere gemeente koopt wel dagelijks benodigde goederen in	29	51
+een andere gemeente	ÏÖÖ	ÏÖÖ
+		
+bron: huishoudensenquête		
+Slechts 29% van de ondervraagde huishoudens, die geen auto bezitten,
+koopt dagelijks benodigde goederen in een andere gemeente. Van die
+29% koopt ruim de helft daar slechts een klein gedeelte (gem. 15%).
+Het verschil komt tevens tot uitdrukking in de koopgerichtheid op
+het dichtstbijzijnde winkelcentrum. Van de niet-autobezittende huis-
+houdens koopt bijna de helft gemiddeld 95% van hun dagelijks beno-
+digde goederen in het dichtstbijzijnde centrum, terwijl slechts een
+kwart van de autobezittende huishoudens dit doet. Hieruit blijkt dat
+niet-autobezittende huishoudens niet alleen meer op de winkelvoor-
+zieningen in eigen gemeente gericht zijn voor wat betreft dagelijks
+benodigde goederen, maar ook relatief meer kopen in het dichtstbij-
+zijnde centrum.
+woonlocatie
+Als gevolg van de sterke gerichtheid op Utrecht van de huishoudens
+die ook in een andere gemeente dagelijks benodigde goederen kopen,
+heeft het geen zin meer om na te gaan of de in Nieuwegein-zuid wo-
+NB:H/A.25
+-26-
+nende huishoudens zich meer op IJsselstein en Vianen richten. Wel
+kan de vraag gesteld worden of huishoudens uit Nieuwegein-zuid min-
+der in een andere gemeente dagelijks benodigde goederen kopen dan
+huishoudens uit Nieuwegein-noord. Dit is niet het geval.
+3.4.2.	Huishoudenskenmerken en de koopgerichtheid met betrekking tot duur-
+zame goederen
+Verreweg het grootste deel van de ondervraagde huishoudens (85%)
+richt zich primair op Utrecht voor wat betreft duurzame goederen.
+Dit maakt het moeilijk om nog verschillen in koopgerichtheid aan te
+geven voor te onderscheiden groepen. Voor een aantal kenmerken doen
+zich niet of nauwelijks verschillen in koopgerichtheid voor. Zo
+oefent de variabele gezinssamenstelling hier geen enkele invloed uit
+op de koopgerichtheid voor duurzame goederen. Voor vrijwel alle
+groepen huishoudens neemt Utrecht als koopgemeente dezelfde vooraan-
+staande plaats in.
+Ook ten aanzien van het autobezit doen zich nauwelijks verschillen
+voor. Van de autobezittende huishoudens richt 87% zich op Utrecht en
+van de niet-autobezittende huishoudens richt 81% zich op Utrecht.
+Het is duidelijk dat in dit geval het niet bezitten van een auto
+nauwelijks een beletsel vormt om naar Utrecht te gaan.
+Bij de overige kenmerken is wel sprake van accentverschillen. Ook
+bij deze kenmerken is sprake van een belangrijke gerichtheid op
+Utrecht, maar er doen zich wel verschillen voor ten aanzien van de
+mate waarin groepen huishoudens zich op Utrecht richten. Op deze
+kenmerken wordt nader ingegaan.
+vestigingsjaar
+Hier kan wel gesproken worden van een relatie tussen het jaar van
+vestiging en de koopgerichtheid voor duurzame goederen. De verschil-
+len in koopgerichtheid doen zich het sterkst voor tussen de autoch-
+tonen en de overige groepen.
+Tabel 3.12: koopgerichtheid van huishoudens (in %) voor wat betreft
+duurzame goederen naar vestigingsjaar
+	voor 1971 (n=122)	1971-1975 (n=72)	1976-1979 (n=232)	1980-1981 (n=161)
+Nieuwegein	33	14	3	3
+Utrecht	64	86	93	89
+overige gemeenten	3	—	4	7
+	100	100	100	100
+bron: huishoudensenquête
+Van de autochtone groep richt 33% zich primair op de winkelvoorzien-
+gen in eigen gemeente. Alhoewel ook voor deze groep Utrecht toch nog
+wel een belangrijke plaats inneemt, is dit beduidend minder in ver-
+gelijking met de andere groepen. Ook de wat langer gevestigden heb-
+ben de neiging zich wat meer op Nieuwegein te richten. Hieruit
+blijkt dat ondanks het onvolledige voorzieningenniveau de koopge-
+richtheid voor duurzame goederen op de eigen gemeente toch toeneemt
+als gevolg van de toename van de woonduur.
+vorige woongemeente
+Net als bij de variabele vestigingsjaar doen de verschillen in koop-
+gerichtheid zich het sterkst voor tussen de huishoudens die altijd
+NB:H/A.26
+1
+-2 7-
+in Nieuwegein hebben gewoond en de huishoudens die uit een andere
+gemeente afkomstig zijn.
+Tabel 3.13: koopgerichtheid van huishoudens (in %) voor wat betreft
+duurzame goederen naar herkomst
+	Utrecht (n=254)	overige gem. prov. Utrecht (n=64)	overige gem. (n=140)	autoch- tonen (n=122)
+Nieuwegein	4	3	7	33
+Utrecht	95	94	81	64
+overige gemeenten	1	3	12	3
+				
+	100	100	100	100
+bron: huishoudensenquête
+Het is duidelijk dat de uit Utrecht afkomstige huishoudens ook het
+sterkst op Utrecht zijn gericht. In dit opzicht is het interessant
+dat de koopgerichtheid van huishoudens, die afkomstig zijn uit ande-
+re gemeenten in de provincie Utrecht, nauwelijks verschilt van de
+uit Utrecht afkomstige huishoudens. Naar alle waarschijnlijkheid
+richtten deze huishoudens zich vanuit hun vorige woonplaats ook al
+op Utrecht. De van buiten de provincie afkomstige huishoudens verto-
+nen een enigszins afwijkend beeld.
+Van deze groep geeft 12% een andere gemeente op. Bij een controle
+van de enquête bleek dit doorgaans de vorige woonplaats te zijn.
+Ook bleek ten tijde van de uitwerking reeds dat veel van deze huis-
+houdens hun vorige woongemeente hadden opgegeven als secondaire
+koopgemeente. Omdat de verscheidenheid aan genoemde gemeenten erg
+groot was, is dit niet verder uitgewerkt. Wel kan men hieruit aflei-
+den dat het vorige woonmilieu een rol blijft spelen in de koopge-
+richtheid van gemigreerde huishoudens.
+werkgemeente
+Voor wat betreft de variabele werkgemeente kunnen de respondenten
+(voornamelijk vrouwen) in drie groepen worden ingedeeld: in Nieuwe-
+gein werkende en niet-werkende respondenten, in Utrecht werkende
+respondenten en in een andere gemeente werkende respondenten. De on-
+derstaande tabel geeft de accentverschillen weer tussen deze groe-
+pen.
+Tabel 3.14: koopgerichtheid van respondenten (in %) voor wat be-
+treft duurzame goederen naar werkgemeente
+	in Nieuwegein werkende en niet-werkende respondenten (n=412)	in Utrecht werkende respondenten (n=126)	in een andere gemeente wer- kende respon- denten (n-49)
+Nieuwegein	42	3	8
+Utrecht	83	95	84
+overige gemeenten	4	2	8
+	100	100	100
+bron: huishoudensenquête
+De in Utrecht werkende respondenten zijn het sterkst op Utrecht ge-
+richt. Van de 83% in Nieuwegein werkende en niet-werkende responden-
+ten hebben de meesten een partner, die in Utrecht werkt. Dit ver-
+NB:H/A.27
+-28-
+klaart waarom zo’n hoog percentage zich toch op Utrecht richt, ter-
+wijl zij voor wat betreft het werk ogenschijnlijk geen directe band
+met deze gemeente hebben. Wanneer de koopgerichtheid voor duurzame
+goederen in verband gebracht wordt met de werkgemeente van de part-
+ner, treedt dit effect niet op en komen de accentverschillen iets
+duidelijker naar voren.
+Tabel 3.15: koopgerichtheid van partners (in Z) voor wat betreft
+duurzame goederen naar werkgemeente
+	in Nieuwegein werkende en niet-werkende partners (n=161)	in Utrecht werkende partners (n=243)	in een andere gemeente wer- kende part- ners (n=102)
+Nieuwegein	18	7	5
+Utrecht	79	90	87
+overige gemeenten	4	2	8
+	100	100	100
+bron: huishoudensenquête
+Ondanks de sterke gerichtheid op Utrecht van alle ondervraagde huis-
+houdens blijken de huishoudens, waarvan één van beide of beide leden
+in Utrecht werken, het sterkst op Utrecht gericht te zijn. De werk-
+gemeente van respondent en/of partner stimuleert dus de koopgericht-
+heid op deze gemeente.
+woonlocatie
+Ook moet enige aandacht worden geschonken aan mogelijke verschillen
+in koopgerichtheid tussen wijken of stadsdelen. Tussen de in Nieuwe-
+gein-noord wonende en in Nieuwegein-zuid wonende huishoudens zijn
+geen verschillen in koopgerichtheid te constateren. Wanneer de in
+Jutphaas-Wijkersloot, Hoog-Zandveld en Vreeswijk wonende huishoudens
+worden vergeleken met die van de overige wijken, dan blijken er wel
+verschillen te bestaan. Van de drie genoemde wijken (n=210) richt
+21Z van de huishoudens zich op de eigen gemeente voor wat betreft
+duurzame goederen. Van de overige wijken richt slechts 5% zich op de
+eigen gemeente. Dit verschil houdt echter niet direct verband met de
+ligging van de wijken. Het ligt meer voor de hand dat dit verschil
+te maken heeft met het feit dat de autochtonen en de reeds langer in
+Nieuwegein gevestigden voornamelijk in deze wijken wonen en dat de
+winkelvoorzieningen met betrekking tot duurzame goederen zich in
+deze wijken concentreren.
+In het voorgaande zijn de relaties beschreven tussen de koopgericht-
+heid van (groepen) huishoudens en hun kenmerken. Niet alle kenmerken
+blijken de koopgerichtheid te beïnvloeden. Zo zijn verschillen in
+gezinssamenstelling nauwelijks van invloed. Andere kenmerken, zoals
+de korte woonduur van huishoudens, het feit dat zij voor een belang-
+rijk deel afkomstig zijn uit Utrecht, en het feit dat één van beide
+of beide leden in Utrecht werken, bevorderen met name de koopge-
+richtheid op winkelvoorzieningen in een andere gemeente voor wat be-
+treft dagelijks benodigde goederen. Het is deze - specifiek Nieuwe-
+geinse - situatie, die verantwoordelijk is voor een hogere koopge-
+richtheid op andere gemeenten (met name Utrecht) dan onder normale
+omstandigheden gebruikelijk is. Ook het autobezit vermindert de ge-
+bondenheid aan het dichtstbijzijnde winkelcentrum en bevordert de
+NB:H/A.28
+-29-
+mogelijkheid om elders in Nieuwegein of in een andere gemeente dage-
+lijks benodigde goederen te kopen.
+De sterke gerichtheid op Utrecht voor wat betreft duurzame goederen
+moet in de eerste plaats worden toegeschreven aan het gebrek aan
+winkelvoorzieningen van deze aard in Nieuwegein. Daarnaast bevorde-
+ren en houden woonduur, herkomst en werkkring van de huishoudens
+deze gerichtheid op Utrecht in stand, en dragen eraan bij dat goed-
+deels wordt voorbij gegaan aan die voorzieningen die Nieuwegein in
+dit opzicht wel te bieden heeft.
+NB:H/A.29
+-30-
+DE BEOORDELING VAN WINKELVOORZIENINGEN IN NIEUWEGEIN EN DE INVLOED
+OP DE KOOPGERICHTHEID
+4.1. Inleiding
+In 1.2. is reeds aangegeven waarom dit aspect hier aan de orde wordt
+gesteld. Het sluit aan bij een tendens in de geografie die de rol
+van menselijke gedragseigenschappen benadrukt. Dit impliceert tevens
+een meer kwalitatief gerichte benadering. Aan een dergelijke benade-
+ring kleven -.naast de voordelen die het biedt - ook bezwaren. Ook
+hierop is in 1.2. al gewezen. Deze houden voornamelijk verband met
+het feit dat de bestaande meet- en analysetechnieken beperkingen
+stellen aan de verwerking van gegevens. Met name het ordinale meet-
+niveau is hieraan debet. Vandaar dat dit hoofdstuk een enigzins an-
+der karakter heeft dan het vorige. Het accent ligt hier niet op een
+cijfermatige analyse, maar op een beschrijvende analyse.
+4.2.	De beoordeling van winkelvoorzieningen voor dagelijks benodigde goe-
+deren en de invloed op de koopgerichtheid
+De beoordeling van winkelvoorzieningen beperkt zich tot wat door de
+huishoudens wordt gezien als het dichtstbijzijnde centrum. In onder-
+staande figuur zijn de resultaten weergegeven. Van de ondervraagde
+huishoudens heeft 2% om één of andere reden geen beoordeling gege-
+ven.
+Figuur 4.1: beoordeling van het dichtstbijzijnde winkelcentrum door
+de huishoudens
+keuzemogelijkheden
+prijsniveau
+afstand
+parkeervoorzieningen
+sfeer
+bron: huishoudensenquête
+betekenis der tekens:
+— zeer negatieve beoordeling
+- negatieve beoordeling
+0 neutrale beoordeling
++ positieve beoordeling
+++ zeer positieve beoordeling
+NB:H/A.30
+1
+-31-
+Uit de figuur valt af te lezen dat de huishoudens de geboden keuze-
+mogelijkheden gematigd positief beoordelen. De afstand tot het win-
+kelcentrum beoordeelt men positief en het prijsniveau gematigd nega-
+tief. Parkeervoorzieningen en sfeer nemen een vrijwel neutrale posi-
+tie in, hetgeen betekent dat men deze items noch positief noch nega-
+tief beoordeelt.
+Wanneer dit beoordelingsbeeld wordt bekeken in het licht van de pre-
+ferentiestructuur van de huishoudens, is het mogelijk om iets meer
+reliëf tussen de verschillende items aan te brengen. Overigens
+blijkt het voor de ondervraagde huishoudens niet eenvoudig te zijn
+om aan te geven wat voor hun van doorslaggevend belang is bij het
+kopen van dagelijks benodigde goederen. Zij werden in de gelegenheid
+gesteld aan te geven welke van de items zij onbelangrijk (1), minder
+belangrijk (2), belangrijk (3) en zeer belangrijk (4) vonden. De be-
+antwoording leidde tot de volgende resultaten: de gemiddelde score
+voor keuzemogelijkheden bedraagt 3,1; voor prijsniveau 3,2; voor af-
+stand 3,1; voor parkeervoorzieningen 2,6; en voor sfeer 2,9.
+Men heeft de neiging om aan meerdere factoren het predikaat "belang-
+rijk" te hechten. Hieruit kan worden afgeleid dat niet één item be-
+palend is, maar dat meerdere items tegelijkertijd een rol spelen in
+de overwegingen die ten grondslag liggen aan het koopproces. Prijs-
+niveau, afstand en keuzemogelijkheden nemen hierbij een centrale
+plaats in.
+Het bovenstaande beoordelingsbeeld is een totaalbeeld en heeft be-
+trekking op meerdere winkelcentra. Het is daarom van belang om na te
+gaan of er geen winkelcentra zijn die een afwijkend beeld vertonen.
+Twee winkelcentra, de Gaarde en Hoog-Zandveld, zijn anders beoor-
+deeld. De volgende figuur geeft een vergelijkend beeld.
+NB-.H/A.31
+-32-
+Figuur 4.2: beoordeling van de Gaarde en Hoog-Zandveld ten opzichte
+van het algemene beoordelingsbeeld
+keuzemogelijkheden
+prijsniveau
+afstand
+parkeervoorzieningen
+sfeer
+bron: huishoudensenquête
+
+beoordeling van de Gaarde (n=141)
+beoordeling van Hoog-Zandveld (n=104)
+algemeen beoordelingsbeeld (n=575)
+In het algemeen geldt dat de Gaarde en Hoog-Zandveld minder positief
+beoordeeld worden. Voor wat betreft de Gaarde waardeert men de gebo
+den keuzemogelijkheden minder positief en beoordeelt men het prijs
+niveau negatiever in vergelijking met de andere winkelcentra. Ook de
+beoordeling van de afstand tot het winkelcentrum is minder positief.
+Dit hangt samen met het feit dat de Gaarde op dit moment nog een
+groot verzorgingsgebied heeft (Batau-Noord; Batau Zuid), omdat het
+wijkcentrum Batau nog niet gerealiseerd is.
+Hetzelfde geldt eigenlijk ook voor Hoog-Zandveld. Omdat het buurt
+centrum Oudegein nog niet is gerealiseerd ziet een groot deel van de
+huishoudens in Fokkesteeg Hoog-Zandveld als het dichtstbijzijnde
+winkelcentrum. Men heeft ook hier een negatiever oordeel over het
+prijsniveau. De parkeervoorzieningen van Hoog-Zandveld worden neu-
+traal beoordeeld, maar neigen naar het negatieve.
+traal oeoor e , inder positieve beoordeling van deze
+De vraag werpt zich op of een minder p beï„vloedt. Voor de
+centra “ok./ƒ. gen relftlef groter percentage huishoudens
+XTh^geXeVe “heïd lageHJU benodigde goederen.
+Van Hoog-Zandveld kan dit niet gezegd worden.
+NB:H/A.32
+-33-
+Naast de verschillen per winkelcentrum kan ook de vraag gesteld wor-
+den of er verschillen in beoordeling bestaan tussen groepen huishou-
+dens. Wanneer de groep huishoudens, die geen dagelijks benodigde
+goederen koopt in een andere gemeente, vergeleken wordt met de groep
+huishoudens, die wel dagelijks benodigde goederen in een andere ge-
+meente koopt, blijken er verschillen te bestaan.
+Figuur 4.3: beoordeling van het dichtstbijzijnde centrum door twee
+groepen huishoudens
+prijsniveau
+afstand
+sfeer
+keuzemogelijkheden
+parkeervoorzieningen
+bron: huishoudensenquête
+beoordeling huishoudens die
+in een andere gemeente kopen
+dagelijks benodigde goederen
+(n=269)
+beoordeling huishoudens die geen dagelijks benodigde goe-
+deren in een andere gemeente kopen (n=306)
+In het algemeen kan gesteld worden dat de huishoudens, die (ook) da-
+gelijks benodigde goederen buiten de gemeente kopen, het dichtstbij-
+zijnde centrum minder positief beoordelen. Het gaat dan vooral om de
+items prijsniveau en afstand. Voor wat betreft keuzemogelijkheden is
+er sprake van een klein verschil. Het lijkt er dus op dat een minder
+positieve beoordeling van de eigen winkelvoorzieningen mede tot ge-
+volg heeft dat men zich (ook) richt op winkelvoorzieningen in een
+andere gemeente. Om dit te kunnen bevestigen is het goed te kijken
+naar de redenen die de huishoudens zelf aangeven voor hun koopge-
+richtheid op winkelvoorzieningen in een andere gemeente.
+De volgende tabel geeft deze redenen weer.
+NB:H/A.33
+-34-
+Tabel 4.1: redenen van huishoudens (in %) voor het kopen van dage-
+lijks benodigde goederen in een andere gemeente
+	le reden (n=278)	2e reden (n=278)
+i.v.m. werk in een andere gemeente	21	4
+i.v.m. vorige woonplaats	2	2
+i.v.m. andere contacten dan werk	7	4
+i.v.m. andere boodschappen	3	3
+i.v.m. lage prijzen	41	9
+i.v.m. ruime sortering	13	10
+i.v.m. goede parkeervoorzieningen	1	2
+i.v.m. gezellig winkelen	2	4
+i.v.m. gewoonte	3	2
+i.v.m. kwalitatief of voorkeur spe-		
+ciale winkel	4	2
+i.v.m. overige redenen	3	2
+geen tweede reden opgegeven	—	56
+	100	ÏÖÖ
+bron: huishoudensenquête
+De grootste groep huishoudens (41%) geeft "lagere prijzen" als be-
+langrijkste reden op. Een vijfde geeft aan dat werken in een andere
+gemeente in eerste instantie de aanleiding vormt om ook daar dage-
+lijks benodigde goederen te kopen; en 13% geeft als le reden de gro-
+tere keuzemogelijkheden op. Uit deze gegevens valt af te leiden dat
+het lagere prijsniveau elders één van de belangrijkste motieven
+vormt om in een andere gemeente te kopen.
+Dit is geheel in overeenstemming met de eerder geconstateerde nega-
+tieve beoordeling van de eigen winkelvoorzieningen op dit punt. Het
+is dus juist de conclusie te trekken dat een meer of minder positie-
+ve beoordeling van invloed is op de mate van gerichtheid op de eigen
+winkelvoorzieningen.
+Tabel 4.1 geeft ook redenen aan die niet in een beoordeling tot uit-
+drukking komen. Het belangrijkste voorbeeld hiervan is de werksi-
+tuatie, die aanleiding vormt om elders dagelijks benodigde goederen
+te kopen. Het sluit aan op hetgeen hierover gezegd is in het vorige
+hoofdstuk. Het is in dit opzicht opvallend dat niet vaker redenen
+genoemd zijn, die verband houden met de specifieke context van de
+meeste huishoudens.
+In het vorige hoofdstuk is immers aangetoond dat verschillende hier-
+mee verband houdende factoren de koopgerichtheid op andere gemeenten
+vergroten. De oorzaak hiervoor moet gezocht worden in het feit dat
+huishoudens concrete redenen opgeven voor hun gedrag (i.c. koopge-
+richtheid), terwijl zij zich er niet direct van bewust zijn dat hun
+achtergrondsituatie daarin ook een belangrijke rol speelt.
+Ook in de beoordeling van winkelcentra treedt de specifieke context
+naar voren. Wanneer de beoordeling van het dichtstbijzijnde centrum
+naar vestigingsjaar wordt bezien, ontstaat het volgende beeld.
+NB:H/A.34
+-35-
+Figuur 4.4: totale, gemiddelde beoordeling van het dichtstbijzijnde
+centrum naar vestigingsjaar
+bron: huishoudensenquête
+Hieruit blijkt dat recent gevestigde huishoudens minder positief
+over de winkelvoorzieningen in Nieuwegein denken dan de langer in
+Nieuwegein gevestigden en de autochtonen. Dit hangt samen met het
+feit dat deze huishoudens - gezien hun herkomst - in hun vorig woon-
+milieu een aantrekkelijker aanbod van voorzieningen gewend waren.
+Dit gegeven en de relatieve onbekendheid en onwennigheid met de win-
+kelsituatie in het nieuwe woonmilieu leiden tot een minder positieve
+beoordeling. Dit geeft - in combinatie met andere factoren - weer
+aanleiding tot een gedeeltelijke handhaving van het oude kooppatroon
+of het zoeken van aantrekkelijke alternatieven in de onmiddellijke
+nabijheid van de nieuwe woonomgeving.
+Uit het voorgaande valt op te maken dat ook de beoordeling van win-
+kelvoorzieningen in Nieuwegein van invloed is op de koopgerichtheid.
+Recent gevestigde huishoudens hebben een minder positief beeld van
+deze voorzieningen en zijn meer geneigd om dagelijks benodigde arti-
+kelen in een andere gemeente (met name Utrecht) te kopen. Zelf geven
+zij als reden hiervoor op de lagere prijzen, het feit dat zij in die
+gemeente werken en de grotere keuzemogelijkheden. Daarbij spelen
+echter meer factoren een rol, zoals in het vorige hoofdstuk is aan-
+getoond, die voornamelijk verband houden met de specifieke context
+van deze groep huishoudens.
+4.3, De beoordeling van winkelvoorzieningen voor duurzame goederen en de
+invloed op de koopgerichtheid
+Niet alle huishoudens hebben een beoordeling gegeven van de winkel-
+voorzieningen voor duurzame goederen in Nieuwegein. Alleen de groe-
+pen huishoudens die zich in le of in 2e instantie op Nieuwegein
+richten, hebben hun oordeel gegeven. Van de groep huishoudens die
+zich niet op Nieuwegein richt en de gemeente dus niet zozeer be-
+schouwt als een koopcentrum voor duurzame goederen mag niet worden
+verwacht dat zij een beoordeling geven. Aan hen is wel gevraagd
+waarom zij niet in Nieuwegein kopen. Tussen de huishoudens, die zich
+in eerste instantie op Nieuwegein richten, en de huishoudens die
+NB:H/A.35
+-36-
+zich in tweede instantie op Nieuwegein richten, doen zich opmerke-
+lijke verschillen in beoordeling voor. De volgende figuur laat dit
+zien.
+Figuur 4.5: beoordeling van winkelvoorzieningen door huishoudens
+die zich in eerste en tweede instantie op Nieuwegein
+richten voor de aankoop van duurzame artikelen
+bron: huishoudensenquête
+beoordeling huishoudens die
+Nieuwegein richten (n=62)
+zich in eerste instantie op
+beoordeling huishoudens die zich in tweede
+Nieuwegein richten (n=169)
+instantie op
+De beoordeling van huishoudens die zich in tweede instantie op
+Nieuwegein richten, valt bijna op alle punten minder positief of ne-
+gatiever uit. Vooral keuzemogelijkheden en prijsniveau worden nega-
+tief beoordeeld. Sfeer en bereikbaarheid worden minder positief be-
+oordeeld. Hieruit valt af te leiden dat juist dit minder positieve
+en op sommige punten zelfs negatieve beeld van Nieuwegein de huis-
+houdens doen besluiten zich in eerste instantie op een andere ge-
+meente te richten en pas in tweede instantie op Nieuwegein. Het be-
+oordelingsbeeld beïnvloedt de koopgerichtheid dus negatief.
+Aan de huishoudens die zich zowel in le als in 2e instantie niet op
+Nieuwegein richten, is gevraagd waarom zij niet in Nieuwegein kopen.
+De redenen zijn hierna weergegeven.
+NB.-H/A.36
+-37-
+Tabel 4.2: redenen van huishoudens (in %) voor het niet kopen van
+duurzame goederen in Nieuwegein
+	le reden (n=356)	2e reden (n=356)
+te weinig keuzemogelijkheden	57	21
+te hoog prijsniveau	27	27
+onbekendheid met de winkels	11	2
+overige redenen	5	5
+geen tweede redenen opgegeven	—	44
+	Töö	TÖÖ
+bron: huishoudensenquête
+De geringe keuzemogelijkheden en het hoge prijsniveau vormen de be-
+langrijkste redenen. Deze twee items, die ook door de huishoudens
+die zich in tweede instantie op Nieuwegein richten negatief beoor-
+deeld worden, spelen een centrale rol bij de aankoop van duurzame
+goederen. Dit blijkt uit de preferentiestructuur van de huishoudens.
+De score voor keuzemogelijkheden bedraagt 3,3; voor prijsniveau ook
+3,3; voor bereikbaarheid en parkeervoorzieningen 2,6; en voor sfeer
+3,0.
+Ook hier blijkt de neiging aanwezig te zijn om aan meerdere items
+het predikaat "belangrijk" toe te kennen, maar aan keuzemogelijkhe-
+den, prijsniveau en sfeer wordt duidelijk voorrang gegeven.
+De concrete redenen maskeren - evenals in de vorige paragraaf - de
+factoren die meer op de achtergrond een rol spelen en die samenhan-
+gen met de specifieke situatie van veel Nieuwegeinse huishoudens.
+Dit blijkt wanneer de in deze paragraaf besproken groepen huishou-
+dens met elkaar vergeleken worden.
+Tabel 4.3:	koopgerichtheid van 3 groepen huishoudens vestigingsjaar		(in X) naar
+	percentage	huishoudens gericht op	
+	Nieuwegein	Nieuwegein	andere
+	primair	secundair	gemeente
+	(n=62)	(n=169)	(n=456)
+voor 1971	65	28	10
+1971-1974	16	13	11
+1975-1979	13	37	45
+1980-1981	6	2	34
+	TÖÖ	100	TÖÖ
+bron: huishoudensenquête
+De groep die zich primair op Nieuwegein richt en het meest positieve
+oordeel over de winkelvoorzieningen heeft, blijkt voornamelijk uit
+autochtone en langer gevestigde huishoudens te bestaan. De groep die
+zich in tweede instantie op Nieuwegein richt en een minder positief
+of negatief oordeel over de winkelvoorzieningen heeft, bestaat zowel
+uit autochtone als lang en minder lang gevestigde huishoudens. De
+groep die zich om eerder genoemde redenen niet op Nieuwegein richt,
+NB:H/A.37
+-38-
+bestaat grotendeels uit minder lang en recent gevestigde huishou-
+dens.
+Twee zaken kunnen hieruit worden afgeleid. In de eerste plaats
+blijkt dat de achtergrondsituatie van de huishoudens ook tot uit-
+drukking komt in hun opvatting over de winkelvoorzieningen en dat
+dit van invloed is op de koopgerichtheid. In de tweede plaats blij-
+ken de huishoudens hun opvatting over de winkelvoorzieningen in po-
+sitieve zin te wijzigen naarmate ze langer in de gemeente wonen.
+Daarbij moet opgemerkt worden dat de gerichtheid op Utrecht dan ook
+groot blijft, hetgeen niet verwonderlijk is gezien het huidige voor-
+zieningenniveau. Maar ondanks dat gaat Nieuwegein wel meer functio-
+neren als secundair koopcentrum.
+Resumerend kan gesteld worden dat het gebrek aan keuzemogelijkheden
+en het hoge prijsniveau oorzaken zijn van een sterke gerichtheid op
+Utrecht voor wat betreft duurzame goederen. Dit komt zowel in de be-
+oordeling als in de opgegeven redenen tot uitdrukking. Daarbij spe-
+len ook factoren een rol, die betrekking hebben op de specifieke
+context van Nieuwegeinse huishoudens.
+NB:H/A.38
+-39-
+5. CONSEQUENTIES VAN DE KOOPGERICHTHEID VAN NIEUWEGEINSE HUISHOUDENS
+VOOR DE GEREALISEERDE EN GEPLANDE WINKELVOORZIENINGEN
+5.1.
+Inleiding
+In de hoofdstukken 3 en 4 is gepoogd enig inzicht te verschaffen in
+het waar en waarom van de koopgerichtheid van Nieuwegeinse huishou-
+dens. In dit hoofdstuk wordt bekeken hoe de koopgerichtheid zich in
+de naaste toekomst zal ontwikkelen en wat voor consequenties dit zal
+hebben voor de gerealiseerde en geplande winkelcentra. De eerder
+vermelde gegevens (met betrekking tot de huidige koopgerichtheid)
+vormen het uitgangspunt voor deze beschouwing. Dit materiaal is ech-
+ter niet bijzonder geschikt voor een cijfermatige vertaling naar de
+toekomst. Steekproefomvang en vraagstelling waren hier niet primair
+voor bedoeld. Dit neemt niet weg dat met het beoogde materiaal een
+globale benadering van de toekomstige ontwikkeling mogelijk is. De
+berekeningen hebben dus een zuiver indicatief karakter.
+5.2.
+De ontwikkeling van de koopgerichtheid met betrekking tot dagelijks
+benodigde goederen en de consequenties voor de winkelvoorzieningen
+In hoofdstuk 3 is aangegeven dat op dit moment 23% van het dagelijks
+benodigd goederenpakket gekocht wordt in een andere gemeente (m.n.
+Utrecht). Dit betekent dat er sprake is van een relatief grote ge-
+richtheid op andere winkelvoorzieningen. In de hoofdstukken 3 en 4
+is aangetoond dat hiervoor een combinatie van factoren verantwoorde-
+lijk is. Het gaat daarbij zowel om de feitelijke kenmerken van de
+huishoudens als hun houding ten aanzien van de winkelvoorzieningen.
+Deze kenmerken houden vooral verband met de Nieuwegeinse situatie.
+De (betrekkelijk) recente vestiging van veel huishoudens en de na-
+bije ligging van een gemeente met aantrekkelijke voorzieningen, die
+tevens voor een groot aantal huishoudens de vorige woongemeente is,
+beïnvloedt de koopgerichtheid op deze gemeente. Ook de woon-werk-
+relaties oefenen hierop invloed uit. Dit blijkt wel uit het feit dat
+12% van de huishoudens het werk in een andere gemeente als reden op
+geeft om elders dagelijks benodigde goederen te kopen. Daarnaast
+spelen ook meer praktische motieven mee, zoals een (te) hoog prijs-
+niveau en (te) weinig keuzemogelijkheden. Dit komt zowel in de be-
+oordeling als in de opgegeven redenen tot uitdrukking.
+Voor een deel is de koopgerichtheid ook toe te schrijven aan het
+huidige, onvolledige distributieve apparaat. Thans bevinden zich in
+de gemeente alleen winkelvoorzieningen op wijk- en buurtniveau. Hier
+wordt 77% van het dagelijks benodigd goederenpakket gekocht.
+Het is de vraag hoe de koopgerichtheid zich in de toekomst zal ont-
+wikkelen. Om hierover iets te kunnen zeggen moet eerst bekeken wor-
+den welke veranderingen zich in de naaste toekomst zullen voordoen.
+Tot 1986 is er sprake van een aanzienlijke bevolkingstoename. Daarna
+zal Nieuwegein nog maar zeer langzaam groeien. De eerstkomende jaren
+zal daarom nog rekening gehouden moeten worden met een groep huis-
+houdens, die een afwijkende oriëntatie heeft. De overige huishou-
+dens, die verhoudingsgewijs gezien een steeds groter wordende groep
+vormen, zullen, naarmate de woonduur toeneemt, zich meer op Nieuwe-
+NB:H/A.39
+-40-
+gein richten. Alleen de afwijkende koopgerichtheid die verband houdt
+met de werksituatie zal zich in de toekomst continueren.
+In het algemeen kan dus gesteld worden dat een relatief steeds gro-
+ter wordende groep huishoudens zich meer op Nieuwegein zal richten
+voor wat betreft dagelijks benodigde goederen.
+Een tweede ontwikkeling is de uitbreiding van winkelvoorzieningen.
+Met name in het toekomstige hoofdwinkelcentrum (Stadscentrum) zullen
+voorzieningen komen, waaraan - blijkens de reacties - nog behoefte
+is; namelijk winkels met een uitgebreid assortiment tegen relatief
+lage prijzen. In dit opzicht werken de ontwikkelingen complementair.
+Enerzijds zullen de huishoudens zich meer op Nieuwegein richten en
+anderzijds worden de voorzieningen gecreëerd die daartoe een nood-
+zakelijke voorwaarde vormen. Het is daarom te verwachten dat in de
+toekomst een verschuiving in koopgerichtheid zal optreden ten gunste
+van Nieuwegein.
+Nu kopen de Nieuwegeinse huishoudens gezamenlijk nog 23% van hun da-
+gelijks benodigde goederen in een andere gemeente, zo blijkt uit de
+resultaten. Wanneer de koopgerichtheid gezien wordt als een indica-
+tor voor de koopkrachtbinding, dan bedraagt de huidige koopkrachtaf-
+vloeiïng ook 23%. Het is de vraag met welk een percentage dit in de
+toekomst zal verminderen. Uit de eerder geschetste ontwikkeling valt
+op te maken dat alleen huishoudens, die vanwege hun werksituatie da-
+gelijks benodigde goederen kopen in een andere gemeente, hun gedrag
+zullen continueren. Aangenomen wordt dat deze 12% ook in de toekomst
+ongeveer de helft van de bestedingen aan dagelijks benodigde goede-
+ren in een andere gemeente zal verrichten. De overige 35%, die nu
+nog in een andere gemeente koopt, zal zich in de toekomst in belang-
+rijke mate op Nieuwegein richten. Van hen wordt aangenomen dat zij
+alleen nog incidenteel dagelijks benodigde goederen in een andere
+gemeente zullen kopen en dat zij gemiddeld 1/10 van de bestedingen
+aan dagelijks benodigde goederen in een andere gemeente zullen doen.
+Daarmee komt de toekomstige koopkrachtafvloeiïng, bij gelijkblijven-
+de koopkracht en bevolkingsomvang, op: 12% x 0,5 deel van de beste-
+dingen + 35% x 0,1 deel = 9,5%.
+Maar omdat de bevolking toeneemt, zal zich ook een volumestijging
+van de koopkracht voor dagelijks benodigde goederen voordoen. Deze
+stijging bedraagt ongeveer 28%. Hiervan zal 3% (9,5% van 28%) af-
+vloeien naar andere gemeenten. Dit brengt de toekomstige koopkracht-
+afvloeiïng op 12,5%. Dit is in grote lijnen in overeenstemming met
+het C.I.M.K. (C.I.M.K., 1977, p.22), die uitgaat van een toekomstige
+koopkrachtafvloeiïng van 11%. Bezien ten opzichte van de huidige si-
+tuatie zal de koopkrachtafvloeiïng voor dagelijks benodigde goederen
+dus verminderen met 10,5%; van 23 naar 12,5%.
+Doordat de distributieve structuur in de toekomst verder uitgebouwd
+en voltooid zal worden, zullen zich ook binnen Nieuwegein verschui-
+vingen in koopgerichtheid (en daarmee in koopkrachtbinding) voor-
+doen. Met name het toekomstige hoofdwinkelcentrum zal in deze nieuwe
+structuur domineren. Volgens de voorspellingen van het C.I.M.K.
+(C.I.M.K., 1977, p.22) zal het Stadscentrum 42% van de koopkracht
+voor dagelijks benodigde goederen aan zich binden. Het C.I.M.K.
+geeft echter niet aan hoe het aan dit percentage komt en het is dus
+de vraag of dit een redelijk uitgangspunt is.
+Om dit enigszins te kunnen beoordelen wordt gekeken naar winkelcen-
+trum Overvecht in Utrecht-Overvecht. De opzet van het toekomstige
+Stadscentrum komt overeen met de structuur van dit winkelcentrum.
+Het Stadscentrum zal alleen qua omvang groter zijn (Overvecht: 3426
+NB.-H/A.40
+-41-
+m2 verkoopvloeroppervlak voor dagelijks benodigde goederen; Stads-
+centrum, gepland: 5400 m2). Winkelcentrum Overvecht bindt 36% van de
+koopkracht voor dagelijks benodigde goederen (uit het stadsdeel
+Overvecht) aan zich (E.I.M., 1981, p.30). Vanzelfsprekend mag dit
+percentage niet rechtstreeks vergeleken worden met het C.I.M.K.-per-
+centage voor het toekomstige Stadscentrum, omdat de overige omstan-
+digheden (bevolkingsomvang en -opbouw; ruimtelijke en distributieve
+structuur) verschillend zijn. Het is echter wel een indicatie, waar-
+uit afgeleid kan worden dat het C.I.M.K.-percentage niet onredelijk
+is. Mede gelet op de centrale functie, die het toekomstig Stadscen-
+trum binnen de distributieve structuur van Nieuwegein zal gaan inne-
+men, en op de omvang van het centrum, mag dan ook worden aangenomen
+dat het Stadscentrum in de toekomst 42% van de koopkracht voor dage-
+lijks benodigde goederen aan zich zal binden.
+Met dit percentage als uitgangspunt voor de interne verdeling van de
+koopkracht kunnen de consequenties voor de overige voorzieningen
+worden aangegeven. Bij een toekomstige koopkracht voor dagelijks be-
+nodigde goederen van 100% zal, zoals reeds eerder berekend is, 12,5%
+afvloeien naar andere gemeenten en zal 87,5% ten goede komen aan de
+winkelvoorzieningen in Nieuwegein. Van deze 87,5% zal 42% naar het
+Stadscentrum vloeien. Het resterende deel, 45,5%, zal ten goede ko-
+men aan de wijk- en buurtvoorzieningen. Ten opzichte van de huidige
+situatie (met een koopkrachtbinding van 77% op dit niveau) zou dit
+een vermindering betekenen van 31,5%.
+Maar ook hier is de huidige situatie niet helemaal vergelijkbaar met
+de toekomstige situatie en moet een correctie worden toegepast in
+verband met de volumestijging van de koopkracht. Van de stijging van
+28% komt 13% (45,5% van 28%) ten goede aan de winkelvoorzieningen op
+wijk- en buurtniveau. De werkelijke teruggang in koopkrachtbinding
+op dit niveau komt dan uit op 31,5 - 13 = 18,5%. Daar staat tegen-
+over dat ook de voorzieningen op wijk- en buurtniveau nog uitbreid
+zullen worden. Twee centra, een buurt- en een wijkcentrum, zullen
+nog gerealiseerd worden. Het is duidelijk dat deze uitbreiding el-
+ders zal leiden tot een sterkere inkrimping van de koopkrachtbin-
+ding.
+Het is de vraag waar zich in de toekomst problemen zullen voordoen
+als gevolg van deze teruggang. In de eerste plaats zullen die centra
+een teruggang ondervinden die nu nog kunnen bogen op een stuk on-
+eigenlijke binding. Omdat Fokkesteeg en Batau-Noord nog geen eigen
+centra hebben, richten de huishoudens zich nog op Hoog-Zandveld en
+de Gaarde. Dit zal in de toekomst veranderen. In de tweede plaats
+zullen de winkelgebieden en -centra in de oude kernen een teruggang
+ondervinden. Met name de winkelvoorzieningen in Jutphaas zullen een
+forse teruggang ondervinden, omdat: a. deze voorzieningen onder het
+directe verzorgingsbereik van het hoofdwinkelcentrum komen te lig-
+gen; b. deze voorzieningen thans nog een soort van centrumfunctie
+vervullen voor de nieuwbouwwijken van Nieuwegein-Noord. Deze func-
+tie, die een stuk koopkrachtbinding oplevert, zal in de toekomst ten
+goede komen aan het hoofdwinkelcentrum. Dit laatste geldt ook - zij
+het in mindere mate - voor de winkelvoorzieningen in Vreeswijk ten
+aanzien van Nieuwegein-Zuid.
+Hieruit blijkt dat in de toekomst een onevenwichtige situatie kan
+ontstaan ten aanzien van de winkelvoorzieningen met betrekking tot
+dagelijks benodigde goederen. Met name winkelvoorzieningen in de
+oude kernen zullen in een sterk nadelige positie komen te verkeren.
+De gemeente heeft de ondernemers in deze kernen hierop al geatten-
+deerd.
+NB:H/A.41
+-42-
+5.3. De ontwikkeling van de koopgerichtheid met betrekking tot duurzame
+goederen en de consequenties voor de winkelvoorzieningen
+De koopgerichtheid op Nieuwegein voor wat betreft duurzame goederen
+is gering. Dit is in hoofdstuk 3 vastgesteld. Deze koopgerichtheid
+vormt hier het uitgangspunt voor de berekening van de koopkrachtbin-
+ding aan Nieuwegein. Uit de verzamelde gegevens blijkt dat slechts
+11% van de huishoudens zich primair op Nieuwegein richt voor wat be-
+treft de aankoop van duurzame goederen. Aangenomen wordt dat zij
+voornamelijk hier hun duurzame goederen kopen en dat 3/4 van de be-
+stedingen van deze groep ten goede komt aan de winkelvoorzieningen
+in Nieuwegein. Verder blijkt dat 29% van de huishoudens zich secon-
+dair op Nieuwegein richt. Aangenomen wordt dat zij hier een klein
+deel van het duurzame goederenpakket kopen en dat 1/4 van de beste-
+dingen aan duurzame goederen van deze groep ten goede komt aan de
+eigen winkelvoorzieningen. Ten aanzien van de overige huishoudens
+(60%) wordt aangenomen dat zij alleen incidenteel iets kopen in
+Nieuwegein en dat 1/10 van de bestedingen aan duurzame goederen van
+deze groep ten goede komt aan de winkelvoorzieningen in Nieuwegein.
+De totale koopkrachtbinding aan Nieuwegein voor duurzame goederen
+komt dan op: 11% x 0,75 deel van de bestedingen + 29% x 0,25 deel +
+60% x 0,10 deel = 21%. De overige 79% vloeit af naar andere gemeen-
+ten (m.n. Utrecht).
+In de hoofdstukken 3 en 4 is aangegeven waarom de gerichtheid op an-
+dere gemeenten deze omvang heeft. In de eerste plaats hangt dit sa-
+men met een gebrek aan voorzieningen van deze aard. De bestaande
+voorzieningen worden als onvoldoende en onaantrekkelijk ervaren.
+Vooral het gebrek aan keuzemogelijkheden en het (te) hoge prijsni-
+veau spelen hierbij een rol. Dit komt zowel in de beoordeling als in
+de opgegeven redenen om elders te kopen naar voren. Daarnaast beïn-
+vloeden woonduur, herkomst en werkkring de gerichtheid op Utrecht.
+Om te kunnen bepalen of deze situatie in de naaste toekomst veran-
+dert, moet eerst bekeken worden welke relevante ontwikkelingen zich
+zullen voordoen. In de eerste plaats zal het huidige gebrek aan
+voorzieningen in de nabije toekomst worden opgeheven. Met de reali-
+satie van wijkcentrum Batau en het hoofdwinkelcentrum zal het win-
+kel-areaal voor duurzame goederen aanzienlijk worden uitgebreid. In
+de tweede plaats zal met het toenemen van de woonduur de gerichtheid
+op Nieuwegein groter worden. Tot 1986 is er nog sprake van een aan-
+zienlijke bevolkingstoename, maar daarna zal de gemeente nog maar
+zeer langzaam groeien. Het aandeel recentgevestigde huishoudens met
+een andere koopgerichtheid zal dus verhoudingsgewijs steeds kleiner
+worden.
+Tegenover deze factoren die een positieve invloed op de koopkracht-
+binding hebben, staan ook een aantal factoren met een negatieve wer-
+king. Zo zal Utrecht altijd een belangrijke trekpleister blijven
+vanwege het hoge(re) voorzieningenniveau. De nabije ligging en de
+vroegere band van veel huishoudens met deze stad zullen de koop-
+krachtbinding aan Nieuwegein drukken. Dit zal nog versterkt worden
+wanneer de sneltram gaat rijden. Daarnaast zullen ook toekomstige
+ontwikkelingen in de woon- werkrelaties van invloed zijn op de
+koopgerichtheid.
+Een ander aspect dat van invloed is op de koopkrachtbinding, is de
+mate waarin Nieuwegein erin slaagt een eigen identiteit te creëren.
+De realisatie van het Stadscentrum zal hieraan een belangrijke bij-
+drage leveren. Het streven is erop gericht hier meerdere centrum-
+NB:H/A.42
+-43-
+functies onder te brengen. Naast winkels moeten ook kantoorvoorzie-
+ningen en sociaal-culturele voorzieningen een bijdrage leveren aan
+de vorming van een eigen "image". Dit moet ertoe leiden dat
+Nieuwegein gezien wordt als een zelfstandig functionerende gemeente
+in plaats van een opvang- of overloopgemeente.
+Op basis van bovenstaande overwegingen kan alleen een globale indi-
+catie worden gegeven omtrent de toekomstige koopkrachtbinding. Bij
+de berekening ervan wordt uitgegaan van de woonduur van de huishou-
+dens, omdat reeds eerder is vastgesteld dat met name de woonduur be-
+palend is voor de mate van gerichtheid op de eigen winkelvoorzienin-
+gen. Rekening moet worden gehouden met het feit dat tussen nu en
+1986 het aantal huishoudens nog fors zal toenemen. Deze groei is
+reeds verdisconteerd in de hier - op basis van woonduur - ge-
+hanteerde indeling van huishoudens.
+Eind 1986 woont 26% van de huishoudens 12 jaar of langer in Nieuwe-
+gein. Aangenomen wordt dat zij hun duurzame goederen voornamelijk in
+Nieuwegein zullen kopen en dat 3/4 van de bestedingen aan duurzame
+goederen van deze groep ten goede zal komen aan de winkelvoorzienin-
+gen in Nieuwegein. 51% van de huishoudens woont dan 5 tot 12 jaar in
+Nieuwegein. Aangenomen wordt dat zij hun duurzame goederen in be-
+langrijke mate in Nieuwegein zullen kopen en dat \ - 3/4 van de be-
+stedingen aan duurzame goederen van deze groep ten goede zal komen
+aan de winkelvoorzieningen in Nieuwegein. De overige huishoudens
+(22%) zullen dan nog betrekkelijk recent in Nieuwegein gevestigd
+zijn. Deze groep zal deels nog terugvallen op het oude woonmilieu.
+Aangenomen wordt dat zij daarom in mindere mate duurzame goederen in
+Nieuwegein zullen kopen en dat 1/4 - \ van de bestedingen aan de
+duurzame goederen van deze groep ten goede zal komen aan de winkel-
+voorzieningen in Nieuwegein. Dit betekent voor de winkelvoorzienin-
+gen in Nieuwegein dat zij eind 1986 61% van de koopkracht voor duur-
+zame goederen aan zich zullen binden. De volgende tabel geeft de
+berekeningswijze aan.
+Tabel 5.1: verwachte koopkrachtbinding aan Nieuwegein voor duur-
+zame goederen (eind 1986)
+percentage huishoudens	woonduur	aandeel in de bestedingen	koopkracht- bindingspercentage
+26	12 j. of 1.	3/4	26 x 0,75 = 20
+51	5 - 11 j.	2 - 3/4	51 x 0,625 = 33
+22	0 - 4 j.	1/4 - \	22 x 0,375 = 8 61
+Bij de berekening is uitgegaan van de veronderstelling dat tegen die
+tijd (eind 1986) alle geplande winkelcentra gerealiseerd zullen
+zijn. De koopkrachtafvloeiïng zal dan 39% bedragen. Dit is iets ho-
+ger dan de voorspelling van het C.I.M.K. (C.I.M.K., 1977, p.22) die
+uitgaat van een toekomstige koopkrachtafvloeiïng van 31,5%. Na 1986
+zal de koopkrachtbinding aan Nieuwegein nog iets verder toenemen,
+omdat naarmate de woonduur van recent gevestigde huishoudens toe-
+neemt, zij zich meer op Nieuwegein zullen gaan richten.
+Van de 61% koopkracht voor duurzame goederen die Nieuwegein in de
+naaste toekomst aan zich zal binden, zal een belangrijk deel ten
+NB:H/A.43
+-44-
+goede komen aan het toekomstig Stadscentrum. Volgens de voorspellin-
+gen van het C.l.M.K. (C.l.M.K., 1977, p.22) zal 53% bestemd zijn
+voor het hoofdwinkelcentrum. Ook hier heeft het C.l.M.K. echter na-
+gelaten aan te geven hoe het aan dit percentage komt en het is dus
+de vraag of dit een redelijk uitgangspunt is. Wanneer weer naar win-
+kelcentrum Overvecht wordt gekeken, dan blijkt dit centrum 30% van
+de koopkracht voor duurzame goederen (uit het stadsdeel Overvecht)
+aan zich te binden (E.I.M., 1982, p.30). Afgezien van de verschillen
+in omstandigheden en in vloeroppervlak (Overvecht: 14.766 m2 verkoop
+vloeroppervlak voor duurzame goederen, Stadscentrum, gepland:
+19.500 m2) wijkt het C.l.M.K.-percentage hier toch wel erg vanaf.
+Een confrontatie is hier echter minder op zijn plaats, omdat de pro-
+blematiek bij duurzame goederen anders ligt dan bij dagelijks beno-
+digde goederen. Daar duurzame goederen minder afstandsgevoelig zijn
+gaat de stedelijke hiërarchie van winkelcentra, waarvan winkelcen-
+trum Overvecht deel uitmaakt, een veel grotere rol spelen.
+Dit blijkt wel uit het feit dat een belangrijk deel (49%) van de
+koopkracht voor duurzame goederen (vanuit Overvecht) naar winkelcen-
+tra in andere stadsdelen toevloeit (met name Utrecht-Centrum en
+Hoog-Catherijne: 30%).
+Vanzelfsprekend zal ook Nieuwegein niet onder de invloed van het
+Utrechtse voorzieningenniveau uitkomen. Maar deze invloed zal zich
+minder sterk doen laten gelden, omdat Nieuwegein geen stadsdeel is
+maar een afzonderlijke gemeente die - ondanks de banden met Utrecht
+- meer zelfstandig functioneert. Vanuit deze optiek zal het toekom-
+stig Stadscentrum dan ook een andere positie innemen ten opzichte
+van de stedelijke hiërarchie van winkelcentra dan winkelcentrum
+Overvecht. Het Stadscentrum zal voor de eigen gemeente zelf een cen-
+trumfunctie vervullen en daarom zal de koopkrachtbinding aan dit
+centrum groter zijn dan de koopkrachtbinding aan een stadsdeelcen-
+trum. Op basis hiervan mag worden aangenomen dat het toekomstig
+Stadscentrum 53% van de koopkracht voor duurzame goederen aan zich
+zal binden.
+Bij een toekomstige koopkracht voor duurzame goederen van 100% zal
+dus 39% afvloeien naar andere gemeenten (met name Utrecht) en zal
+53% ten goede komen aan het hoofdwinkelcentrum. Het resterende deel,
+8%, zal ten goede komen aan de voorzieningen op wijk- en buurtni-
+veau. Ten opzichte van de huidige situatie (met een koopkrachtbin-
+ding van 22% op dit niveau) zou dit een teruggang van 14% voor het
+wijk- en buurtniveau betekenen.
+Dit percentage moet echter gecorrigeerd worden vanwege de volume-
+stijging van de koopkracht voor duurzame goederen met 28% als gevolg
+van de bevolkingstoename. Hiervan zal 2% (8% van 28%) ten goede ko-
+men aan het wijk- en buurtniveau. Er zal dus een reële teruggang in
+koopkrachtbinding plaatsvinden van 12% op wijk- en buurtniveau, ter-
+wijl het winkel-areaal voor duurzame goederen op dit niveau toeneemt
+als gevolg van de realisering van wijkcentrum Batau. In de toekomst
+zal dus rekening gehouden moeten worden met een teruggang in koop-
+krachtbinding op wijk- en buurtniveau, die uitstijgt boven de 12%.
+Deze constatering geeft de problematiek met betrekking tot de win-
+kelvoorzieningen voor duurzame goederen nog maar gedeeltelijk weer.
+Veel voorzieningen van deze aard zijn op dit moment geconcentreerd
+in de oude kernen van Jutphaas en Vreeswijk. In de toekomstige
+structuur zullen de winkelgebieden in deze wijken echter gaan func-
+tioneren als buurtcentra met een marginaal aandeel in de duurzame
+goederensfeer. Bovendien zal de toekomstige koopgerichtheid (en
+NB.-H/A.44
+-45-
+koopkrachtbinding) met betrekking tot duurzame goederen zich voor-
+namelijk concentreren op het hoofdwinkelcentrum en de twee wijkcen-
+tra. Dit betekent in feite dat winkelvoorzieningen van deze aard
+buiten de daarvoor bestemde winkelcentra overbodig en ongewenst
+zijn. Om in de toekomst een onevenwichtige situatie te voorkomen,
+waarbij de verkeerde voorzieningen op de verkeerde lokaties staan,
+streeft de gemeentelijke overheid zoveel mogelijk naar verplaatsing
+van deze voorzieningen naar de daarvoor bestemde centra.
+5.4. De rol van de gemeentelijke overheid
+De problematiek rond de inpassing van bestaande voorzieningen in de
+nieuwe distributieve structuur is in de voorgaande paragrafen duide-
+lijk naar voren gekomen. Handhaving van het huidige karakter van de
+winkelvoorzieningen in de oude kernen lijkt in de toekomst niet
+haalbaar te zijn. Bovendien is een dergelijke situatie vanuit dis-
+tributieplanologisch oogpunt niet gewenst, omdat dit een schadelijke
+invloed zal hebben op de overige winkelcentra. De vraag is hoe een
+aanpassing van het voorzieningenniveau in de oude kernen kan worden
+bewerkstelligd.
+Het gemeentelijk instrumentarium is in dit opzicht beperkt. De ge-
+meente heeft een voorkeursregeling ingesteld voor eventuele ver-
+plaatsing van de onderneming. Deze houdt in dat ondernemers die voor
+1-1-1971 (datum ontstaan Nieuwegein) in Jutphaas of in Vreeswijk
+reeds een onderneming hadden, voorrang krijgen bij de werving en se-
+lectie van gebruikers voor het stads- en wijkcentrum. Voor de na
+1970 gevestigde ondernemers geldt deze regeling niet, maar het posi-
+tieve effect van een verplaatsing wordt wel meegewogen in de uitein-
+delijke selectieprocedure.
+De werking van deze regeling stoelt geheel op de bereidheid van de
+ondernemer om zich te verplaatsen. In een tijd van economische ma-
+laise zal deze bereidheid niet erg groot zijn. Zeker niet wanneer de
+verplaatsing gepaard gaat met een sterke lastenverhoging. In de
+meeste gevallen zal hiervan sprake zijn, omdat met name de reeds
+langer gevestigde ondernemers in de oude kernen met relatief lage
+huisvestings- en exploitatiekosten te maken hebben.
+Aan de andere kant zal een niet-verplaatste ondernemer op den duur
+ook in een nadelige positie komen te verkeren. Aanvankelijk zal hij
+misschien voordeel putten uit zijn lage kostenniveau, maar dit zal
+na verloop van tijd niet meer opwegen tegen de omzetdaling, die het
+gevolg is van het volwaardig gaan functioneren van de andere centra,
+met name het Stadscentrum.
+Het is de taak van de gemeente de bereidheid tot verplaatsing te op-
+timaliseren. Naast de voorkeursregeling zijn hiervoor echter nauwe-
+lijks instrumenten beschikbaar. De taak zal daarom vooral in het in-
+formatieve vlak liggen. Dit betekent in de eerste plaats dat de
+ondernemers gewezen moeten worden op de consequenties, die het niet-
+verplaatsen met zich meebrengt. In de tweede plaats dient de over-
+heid binnen het kader van het opgestelde branche-patroon in de nog
+te realiseren winkelcentra ruimte te reserveren voor de voor ver-
+plaatsing in aanmerking komende winkels. In de derde plaats kan de
+overheid behulpzaam zijn bij het beschikbaar stellen van know-how en
+expertise, die de ondernemers kunnen helpen bij het inzichtelijk ma-
+ken van de consequenties van een eventuele verplaatsing.
+NB:H/A.45
+-46-
+6.
+SAMENVATTING EN CONCLUSIE
+Dit rapport bevat het verslag van een onderzoek naar de koopgericht-
+heid van Nleuwegeinse huishoudens. Het is geschreven op instigatie
+van en in samenwerking met de gemeente Nieuwegein. Het is voor de
+schrijver tevens zijn doctoraalscriptie, geschreven in het kader van
+het door hem gevolgde hoofdvak Sociale Geografie van de Stedelijk-
+industriële landen (SGS). Ten behoeve van het onderzoek is een huis-
+houdensenquête gehouden, waarbij nog 19 andere studenten betrokken
+zijn geweest. Met behulp van de computer zijn de verzamelde gegevens
+bewerkt en geanalyseerd. De belangrijkste resultaten worden hier nog
+eens samengevat.
+Voor de aanschaf van dagelijks benodigde goederen richten de huis-
+houdens zich in de eerste plaats op de eigen winkelvoorzieningen.
+Dit houdt in dat 77% van de dagelijks benodigde goederen in Nieuwe-
+gein wordt gekocht. Het dichtsbijzijnde winkelcentrum speelt hierbij
+een niet onbelangrijke rol, maar neemt geen dominante positie in.
+Ruim een kwart van de huishoudens koopt hier gemiddeld 95% van de
+dagelijks benodigde goederen. Bijna de helft van de huishoudens
+richt zich ook op winkelvoorzieningen in andere gemeenten (met name
+Utrecht). Zij kopen daar gezamenlijk 23% van de totale hoeveelheid
+(gekochte) dagelijks benodigde goederen.
+Gezien het karakter van dagelijks benodigde goederen is deze oriën-
+tatie op andere gemeenten omvangrijk te noemen en in afwijking van
+wat onder normale omstandigheden gebruikelijk is. Voor de aanschaf
+van duurzame goederen richten de meeste huishoudens zich primair op
+Utrecht. Slechts 11% van de huishoudens richt zich primair op
+Nieuwegein en 29% secondair. Hieruit blijkt dat Nieuwegein (nog)
+niet gezien wordt als een koopcentrum voor duurzame goederen. Een
+aantal artikelgroepen vormen een uitzondering op dit algemene beeld.
+Voor de aanschaf van doe-het-zelf artikelen, foto- en filmartikelen
+en schoenen richt men zich meer op Nieuwegein.
+Verschillende factoren zijn van invloed op het huidige karakter van
+de koopgerichtheid. In de eerste plaats moet de woonduur genoemd
+worden. Langer in Nieuwegein gevestigde en autochtone huishoudens
+richten zich meer op de winkelvoorzieningen in Nieuwegein dan re-
+centgevestigde huishoudens. Dit geldt zowel voor dagelijks benodigde
+als duurzame goederen. In de tweede plaats speelt de herkomst van de
+huishoudens een rol. Voormalig Utrechtenaren richten zich sterk op
+hun vorige woongemeente. Maar ook recentgevestigde, niet uit Utrecht
+afkomstige huishoudens richten zich in belangrijke mate op Utrecht.
+Kennelijk zoeken zij een aantrekkelijk alternatief dat meer in over-
+eenstemming is met hun vorig woonmilieu. In de derde plaats is de
+werkgemeente van invloed. Het geeft vooral aanleiding tot het kopen
+van dagelijks benodigde artikelen in die gemeente. Het autobezit is
+alleen van invloed op de koopgerichtheid met betrekking tot dage-
+lijks benodigde goederen. Niet-autobezittende huishoudens zijn meer
+aangewezen op de eigen winkelvoorzieningen; met name het dichtstbij-
+zijnde winkelcentrum.
+Naast deze factoren zijn ook andere aspecten te noemen, die van in-
+vloed zijn op de koopgerichtheid. De huidige, onvolledige distribu-
+tieve structuur doet de huishoudens op winkelvoorzieningen in andere
+gemeenten richten. Dit geldt voornamelijk voor de duurzame goederen.
+NB:H/A.46
+-47-
+De nabije ligging van en het aantrekkelijke voorzieningenniveau in
+Utrecht bevorderen dit nog eens.
+Verder blijkt ook de houding van de consument van invloed te zijn op
+de koopgerichtheid. Over de winkelvoorzieningen voor duurzame goede-
+ren in Nieuwegein heeft men in het algemeen een weinig positief of
+negatief oordeel. Dit leidt tot een sterke gerichtheid op winkel-
+voorzieningen in andere gemeenten. Het karakter van deze beoordeling
+hangt trouwens samen met de woonduur van de huishoudens. Recentge-
+vestigde huishoudens hebben veelal een negatiever oordeel over de
+winkelvoorzieningen voor duurzame goederen dan de langer gevestigde
+en autochtone huishoudens, en richten zich mede daardoor meer op
+winkelvoorzieningen in andere gemeenten.
+Over het dichtstbijzijnde winkelcentrum (gezien als aankoopplaats
+voor dagelijks benodigde goederen) denkt men in het algemeen gema-
+tigd positief. Alleen Hoog-Zandveld en de Gaarde steken minder gun-
+stig af. Voor wat betreft Hoog-Zandveld vindt men de prijzen hoog en
+de parkeervoorzieningen maar matig. Voor wat betreft de Gaarde be-
+oordeelt men de keuzemogelijkheden minder positief en vindt men de
+prijzen hoog. Ook ten aanzien van dagelijks benodigde goederen geldt
+dat recentgevestigde huishoudens minder positief oordelen over de
+winkelvoorzieningen dan langer gevestigde en autochtone huishoudens,
+en deze goederen mede daarom ook elders kopen.
+Naast inzicht in het karakter van de koopgerichtheid en de daarop
+van invloed zijnde factoren is het ook belangrijk om te weten of de-
+ze gerichtheid in de toekomst zo zal blijven. Een aantal ontwikke-
+lingen geven aan dat zich belangrijke wijzigingen zullen voordoen.
+De koopgerichtheid van huishoudens op Nieuwegein zal groter worden,
+naarmate de woonduur toeneemt. Tot 1986 zal de bevolking aanzienlijk
+toenemen, maar daarna zal deze nog maar zeer langzaam groeien. Hier-
+door zal het aandeel recentgevestigde huishoudens met een afwijkende
+oriëntatie in de toekomst verhoudingsgewijs steeds kleiner worden.
+De winkelvoorzieningen voor dagelijks benodigde en duurzame goederen
+worden verder uitgebreid. De realisering van het hoofdwinkelcentrum
+neemt hierbij een belangrijke plaats in. Dit alles zal leiden tot
+een aanzienlijke verschuiving in koopgerichtheid ten . gunste van
+Nieuwegein. Volgens gemaakte berekeningen zal het toekomstig koop-
+krachtbindingspercentage (het percentage koopkracht dat de winkel-
+voorzieningen in Nieuwegein aan zich zullen binden) voor dagelijks
+benodigde goederen stijgen van 77% naar 88,5% en zal het bindings-
+percentage voor duurzame goederen toenemen; van 22 naar 61%.
+De ontwikkelingen zullen echter ook de nodige problemen met zich
+meebrengen. Door de voltooiing van de nieuwe distributieve structuur
+zullen de bestaande voorzieningen in de oude kernen in een sterk na-
+delige positie komen te verkeren. Om een onevenwichtige en ongewens-
+te situatie te voorkomen is het noodzakelijk dat gemeentelijke over-
+heid en ondernemers tijdig een passende oplossing vinden.
+NB:H/A.47
+-48-
+LITERATUURLIJST
+BLALOCK, H.M. (1960), Social Statistica. Tokyo: McGraw-Hill.
+BUURSINK, J. (1977), De hiërarchie van winkelcentra. Eindrapport. Groningen:
+Geografisch Instituut Rijksuniversteit Groningen.
+CADWALLADER, M. (1975), A behavioural model of consumer spatial decision-ma-
+king, Economie Geogaphy 51, pp. 339-350.
+Centraal Instituut Midden- en Kleinbedrijf (1977), Nieuwegein, gemeente in
+ontwikkeling. Amsterdam.
+Centraal Instituut Midden- en Kleinbedrijf (1981), De toekomstige winkelvoor-
+ziening in Jutphaas-Wijkersloot-Zuilenstein in de gemeente Nieuwe-
+gein. Amsterdam.
+DAVIES, R.L. (1969), Effects of consumer differences on shopping movement be-
+haviour, Tijdschrift voor economische en sociale geografie 60, pp.
+111-121.
+DAVIES, R.L. (1976), Marketing Geography. London: Methuen.
+DAWSON, J.A. (1979), The marketing environment. London: Croom Helm.
+DAY, R.A. (1973), Consumer shopping behaviour in a planned urban environment,
+Tijdschrift voor economische en sociale geografie 64, pp. 77-85.
+DIELEMAN, F.M. & J.J.F. Heins (1971), Winkelapparaat en ruimtelijk koopgedrag
+in Uithoorn. Amsterdam: Geografisch en Planologisch Instituut Vrije
+Universiteit Amsterdam. (Bijdragen tot de Sociale Geografie 2).
+DOWNS, R.M. (1970), Geographic space perception: past approaches and future
+prospects. In: C. BOARD Ed., Progress in geography. Volume 2, pp.
+65-108.
+Economisch Instituut voor Midden- en Kleinbedrijf (1981), Distributieplanolo-
+gisch onderzoek Utrecht en omgeving. Deel 7. De Utrechtse bewinke-
+ling buiten de Noordelijke binnenstad. * s Gravenhage. (Nog niet ge-
+publiceerd) .
+Gemeente Nieuwegein (1979a), Statistische gegevens.
+Gemeente Nieuwegein (1979b), Bijlage 10- Voorjaarsnota. Indicatief branche-pa-
+troon voor de kern Vreeswijk.
+Gemeente Nieuwegein (1980), Bijlage 8- Voorjaarsnota. Beheersing economische
+activiteiten oude kernen.
+GUY, C.M. (1975), Consumer behaviour and its geographical impact.
+Reading: University of Reading. (Gegraphical Papers nr. 34).
+LLOYD, R.E. (1977), Consumer behaviour after migration: a reassessment pro-
+cess, Economie Geography 53, pp. 14-27.
+NIE, N.H. et al. (1975), Statistical Package for the Social Sciences.
+New York: McGraw-Hill.
+NIJKAMP, P., H. BLOMMENSTEIN & W. van VEENENDAAL (1979), A multidimensional
+attractiveness analysis of consumer and entrepreneural attitudes.
+Amsterdam: Economische Faculteit Vrije Universiteit Amsterdam.
+(Researchmemorandum 1979-7).
+PACIONE, M. (1975), Preferences and perception. An analysis of consumer beha-
+viour, Tijdschrift voor economische en sociale geografie 66, pp.
+84-92.
+ROZESTRATEN, D. & B. van RUSSEN (1979), Veranderingen in de kooporiëntatie op
+Utrecht: 1973-1979. Utrecht: Geografisch Instituut Rijksuniversiteit
+Utrecht.
+RUSHTON, G. (1969), The scaling of locational preferences. In: K.R. COX & R.G.
+GOLLEDGE Eds., Behavioral problems in geography: a symposium.
+Evanston: Northwestern University. (Studies in Geography North-
+western University nr. 17).
+SEGERS, J.H.G.(1977), Sociologische onderzoeksmethoden. Assen: Van Gorcum.
+NB:M/H/7.1
+-49-
+SPENCER, A.H. (1978), Deriving measures of attractiveness for shopping cen-
+tres, Regional Studies 12, pp. 713-726.
+TIMMERMANS, H. (1979a), Geografische benaderingen van het ruimtelijk koopge-
+drag van consumenten: een literatuurverkenning, Geografisch Tijd-
+schrift 13, pp. 105-113.
+TIMMERMANS, H. (1979b), A spatial preference model of regional shopping beha-
+viour, Tijdschrift voor economische en sociale geografie 70, pp.
+NB:M/H/7.2
+abHans! :ü!s! ! üis
+GEMEENTE NIEUWEGEIN
+< SAaI
+Naam «nquiteur: .
+Datum enqufite: .
+Adres en post-
+code geënquêteerde
+EnquStenummer:
+Wijknummer:
+kl ,2,3
+k4,5
+A.ALGEMENE VRAGEN (zie toelichting)
+4.Wat was do vorige woonplaats van het huishouden? (Indien
+hot huishouden in do huidige samenstelling pas in Nieuwe- •
+gein is ontstaan; dan vorige woonplaats respondent noteren)
+	vorige woongemeento		c	'L
+	Utrecht IJsselstoin Onbekend n.v.t.		1	
+			2	
+				
+			8	
+			9	
+5.Beschikt hot huishouden over óóa of meer		auto 1s?	c	jr
+		geen óón twee of meer	1	
+			2	
+			3	
+B.KOOPGEDRAG DAGELIJKS BENODIGDE ARTIKELEN
+k12
+k13
+I.Hoe is de samenstelling van het huishouden? (geslacht res-
+pondent en eventuele partner aankruisen; indien kinderen
+aanwezig, leeftijdscategorie aankruisen; aantal doet niet
+ter zake)_________________________________________________
+respondent			overige leden van het huishouden									
+			partner			kinderen in leeftijdscategorie						
+	n	▼	g9 9n	a	v	geen	o-3	4-16	17oo	0-3 4-16	4-16 17eo	0-3 4-16 17eo
+c	1	2	o	1	2	0	1	2	?	4	5	6
+												
+6.Ik zou het nu met u willen hebben over do aankoop van dage-
+Bijlage 2.1. Vragenlijst
+2. Oefent u en/of uw partner buitenshuis een beroep uit?
+Zo ja; welke gemeente?
+verkgemoente respondent
+(J_,~ t ƒ Nieuwegein
+Utrecht
+H
+C
+Geen beroep buitenshuis
+r C'>Onbekend
+1
+2
+3
+7
+8
+3
+workgemeente partner
+Nieuwegein
+Utrecht
+IJsselstoin
+Geen beroep buitenshuis
+Onbekend
+Sinds welk jaar woont het huishouden in Nieuwegein?
+vóór 1971
+1971-1974
+1975-1979
+1980-1981(oerste zes mndn)
+198l(laatste zes mndn)-1982
+(Indien geantwoord: vóór 1971 ; dan door naar vraag 5
+c
+1
+2
+3
+7
+8
+c
+2
+3
+4
+5
+I
+k9,10
+kl 1
+lijks benodigde artikelen, zoals kruidenierswaren, vleoa-
+produkton, groenten on fruit, on brood on banket. Zou u
+kunnen aangevon wolk doel van dezo artikelen u in hot
+dichtstbijzijnde winkelcentrum koopt, welk dool u elders in
+Nieuwegein koopt, on wolk deel u in eon andere gemeente
+koopt?_______________________________________’______________
+dlchtstbljz. centrum	elders in Nieuwegein	andere gemeente
+-> ... %	-> ... *	—► • • • >
+(wordt bij categorie "andere gemeente" 0% Ingevuld; dan
+door naar vraag 11)
+kl4-22
+I
+kD
+O
+I
+7.In welke andero gemeente koopt u dio . • . % van uw dage-
+lijks benodigde artikelen?							
+	Utrocht-H.C.+ binnenstad Utrocht-Kanalenoiland Utrocht-Ovorvocht Utrecht-Overig		c	£	IJsselstoin Vianon n.v.t»	c	£
+			1			5	
+			2			6	
+			3				
+			4			9	
+8«Hoe vaak f?aat u daar fomiddold naar toe?						c	£
+		2 of meer koor per week 1 koor per weck 1 keer por 14 dagen 1 koer per maand n.v.t•				1	
+						2	
+						3	
+						4	
+						9	
+k23,24
+k25
+9.Mot wolk vervoermiddel gunt u dun?		«•	
+	openbaar vervoer	1	
+	eigen autu	2	
+			•(	
+10. Waarom haalt u dio produkton daar? ( reapondcnt _o.cret—ZT I f
+_rodnn-en—-Laten noemen; hij/zlj mag maximaal 3 redenen op-
+geven: 1=beLangrljkste roden, 2 = op 44n na bclungriJkutn ro-
+11'. Kunt u oen beoordeling govnn van dit enntrum? Aan u wurlon
+	den, 3=op twee na belangrijkste roden.) X	
+R	tussen hot werk door/op weg van work naar huis	
+	omdat toon ik daar vroeger woonde, dat ook altijd deed	
+0	omdat ik daar regelmatig kom vanwege work, familiebezoek andere contacten	of
+	omdat ik dan tevens andere boodschappen meenoem vanwege de lago prijzen vanwege do ruime sortering vanwege de goede parkeervoorzieningen het is er gezellig winkelen uit gewoonte	
+11.Wolk winkelcentrum is voor u het dichtstbijzijnde centrum?
+k27
+kl'rt
+k29
+kJO
+k31
+k32
+kJ3
+kj*»
+k33
+k3ö,37
+j punten voorgelegd.(kuurt overhandigen) Uvor iade: puin
+zou ik graag uw oordeel willen hi»ron.
+n	lloo	beoordeelt u	do keuzemogelijkheden, die g				obodun	worden:
+	zoor	onvoldoende .. n	onvoldoende n	matig □	voldoende n		ruim voldoende □	
+b	, lloo	beoordeelt u	liet prijsniveau:					
+	hoog 	 n		tamelijk hoog n	rode- “h	tamelijk laag n		lang n	
+c	Hoe	beoordeelt u	de afstand	tot hel	t winkelcentrum:			
+	vor vog 	Zn		tamelijk vor wng □	rede- Tl	tamelijk dichtbij n		erg	<1 ichtbiJ _JD
+<1	.lloo	beoordeelt u	hot parkeren bij		iet winkelcontrun			
+	zoor onaantrokkoliJk 	 n		onaantrek- kelijk - n	matig □	aantrek- kelijk		erg aantrek- kelijk n	
+ü	.Hoe	beoordeelt u	de sfeer in	het winkelcentra			m:	
+	erg ongezellig n		ongezellig ... n	matig _n	gezo	Llig ZL	erg	Kozollijc __E.
+1 1.Welke factoren spelen voor u een belangrijke rol bij het
+f
+d er
+Nleuwegeln-Noordi Nedersind
+Malqado
+De Gaarde
+« II
+Doorslag
+Herenstraat/'t Sluisje
+en N^deroindsewog
+Verspreid Jutphaas-
+Vijkersloot
+Hoog-Zandveld
+’ Dorpstraat/oude Sluis
+en Handelskade
+Nieuwogein-Zuid t
+Uiïbekend
+c	I
+□ 1	
+t>2	
+03	
+ü'i	
+05	
+□6	
+11	
+12	
+13	
+88	
+k38,39
+kopen van dagelijks benodigde artikelen? (kaart overhan-
+digen en genoemde cijfers in de hokjes noteren)
+a.keuzemogelijkheden, die geboden worden
+, b.aantrekkelijke prijzen
+/ c.de nabijheid van de winkels
+/ d.goede parkeervoorzieningen
+__________________|e,een prettige sfeer____________________
+C.KUUPGEDRAG DUURZAME ARTIKELEN
+Vl.lk zou hot nu met u willen hebben over do aankoop van duur-
+zame artikelen, zoals: kleding, schoeisel, meubelen, vloer-
+bedekking on gordijnen, kleine en grote olectrischo appara-
+ten. In welke gemeente koopt u dergelijke artikelen voor-
+namelijk?		c 1		c	
+	NtWuwagvtn	1	vtarffh - i—I 1 . ‘	1»	
+ö	Utrecht X-aLsjyl s- tjsil 11	2 -1-			—
+15.En vaar koopt u de duurzame artikelen dio u niet in
+(zie vraag 14) koopt?
+c
+Nieuwogeih
+Utr>c)it
+2
+3
+Vianen
+I.’l"
+l'i l
+k»li:
+k'i3
+kMl
+k45
+k46
+k'i7
+k'iö
+kl»O
+k50
+k51
+1b.(alleen te beantwoorden door degenen, die bij vraag 14 of
+15 Nieuvegein genoemd hebben) Zou u oen beoordeling kunnen
+geven van de winkelvoorzieningen voor duurzame artikelen in
+Nieuvegein? (kaart overhandigen)____________________________
+a.lloe beoordeelt u de keuzemogelijkheden, die u in de ge-
+meente vorden aangeboden:
+O	zeer onvoldoende 	onvoldoende ■ 	matig 	voldoende 	ruim voldoende 	
+	• iloe beoordeelt u het prijsniveau van de winkels:					
+	~ hoog 	 	tamelijk hoog 	rede-	tamelijk laag 	1	aa.T n
+C	JJue beoordeelt u do bereikbaarheid van de winkels in de meente:					ge-
+	moeilijk bereikbaar 	 	tamelijk moeilijk bereikb. 	rede- lijk goed 	tamelijk goed bereikb. 	goed bereikbaar n	
+d.	Hoe beoordeelt u het parkeren bij do winkels:					
+	zeer onaantrekkelijk 	onaantrek- kelijk 	matig 	aantrek- kelijk 	erg aantrek- kelijk 	
+e •	Hoe beoordeelt u do sfeer in en rond do winkels:					
+	erg ongezellig 	 rli	ongezellig n	matig _n	gezellig -- Q	erg gezellig 	□.	
+17.(alleen te beantwoorden door degenen, die bij vraag 14 of
+15 Nieuvegein niet genoemd hebben) Waarom richt u zich bij
+de aankoop van duurzame artikelen niet op de winkels in
+Nieuvegein? (redenen nauwkeurig omschrijvon| maximaal 2 re-
+• - I I . rlr.
+denen)
+k52
+k53
+k54
+k55
+k56
+19.Waar koopt u gevoonlijk de volgende artikelen?
+	nieuwegein	utrecht	ijsselstein	Ivianen	l/U r« Q AA l RM/kR		|nvt
+c	1	2	3	4			9
+a.Dameskleding							
+• b.Herenkleding							
+c.Schoonon							
+d.Meubelen							
+e.Vloerbedekking; Gordijnen							
+f.Doo-het-zelf artikelen							
+g.Koelkast; tvjvidoo; stereo							
+Z_h.Foto- en filmartikolon							
+i.Serviesgoed;pannon on ~ ander keukengerei							
+20.Kent u winkelcentrum Utrecht^Overvocht ' ~~ Ja nee (indion nop; door naar vraag 22)						c	I
+						1	
+						2	
+							
+k64
+kb5
+k6ó
+k6 r
+k6d
+k69
+k70
+k71
+k72
+k73
+1
+V
+rv
+i
+R/V
+R-;.- ' -_
+k57,58
+21.Stolt u zich eons voor dat hot toekomstige stadscentrum van
+Nieuvegein net zo vordt als winkelcentrum Overvocht. Zou u
+zich dan'in-het vervolg op het^dtadscentrum richten of
+blijft u naar Utrecht•gaan?—		c	
+	"ik richt mij op het stadscentrum ik blijf naar Utrecht gaan n.v.t.	1	
+		2	
+		3	
+k?4
+18.Welke factoren zijn voor u doorslaggevend bij do keuze van
+winkels voor duurzame artikelen? (kaart overhandigen on ge-
+noemde cijfers
+in de hokjes noteren)
+a.keuzemogelijkheden, die geboden worden
+b.aantrekkelijke prijzen
+c.de bereikbaarheid van de winkels
+e.ecn prettigs sfeer
+k59
+k60
+k6l
+k62
+k63
+22.Op welko avond zou u het liefst in Nieuwegein de koopavond
+zion; op donderdag- of op vrijdagavpnd	?	c	
+	donderdagavond vrijdagavond geen mening	1	
+		2	
+		3	
+k75
+Bijlage 2.2. Introductiebrief
+Rijksuniversiteit Utrecht
+Geografisch instituut
+Heidelberglaan 2
+Utrecht 2506 . .
+Telefoon 030-531399 (vakgroep SGS
+Utrecht,
+12 februari 1982.
+Geachte mevrouw/mijnheer,
+Tn het kader van mijn doctoraalstudie aan de Rijksuniver-
+siteit Utrecht stel ik een onderzoek in naar het koopgedrag
+van de inwoners van Nieuwegein. De bedoeling is na te gaan
+in hoeverre men tevreden is met het winkelapparaat van Nieu-
+wegein en of men ook in andere plaatsen winkelt. Het onder-
+zoek vindt plaats in overleg met de gemeente Nieuwegein, die-
+de uitkomsten zal gebruiken ten behoeve van de winkal pi arming.
+Het is de bedoeling dat ikzelf of een medestudent in de week
+van 15-19 februari bij u kom met een korte vragenlijst. De
+enquête duurt ongeveer 20 minuten.
+Ik hoop dat u bereid bent uw medewerking aan het onderzoek
+te verlenen, omdat de uitkomsten slechts een betrouwbaar
+beeld kunnen geven wanneer zoveel mogelijk alle ondervraag-
+den meedoen. Degenen die daar prijs op stellen kunnen een
+beknopte samenvatting van de resultaten ontvangen.
+Met vriendelijke groeten,
+\ w \ —
+J • — ----------- ------
+-iJX' ' .......-
+(Henk Baten)
+Namens het Geografisch Instituut
+van de Rijksuniversiteit:
+(Drs. J.G. Borchert)
+Namens de gemeente Nieuwegein:
+Drs. S. Kroeske)

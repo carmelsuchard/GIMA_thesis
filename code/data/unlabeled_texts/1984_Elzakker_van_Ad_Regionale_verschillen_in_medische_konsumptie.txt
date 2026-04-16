@@ -1,0 +1,2578 @@
+﻿REGIONALE VERSCHILLEN IN
+MEDISCHE CONSUMPTIE
+een sociaal-geografisehe studie
+A. G. M. VAN ELZAKKER
+nationaal ziekenhuisinstituut
+Pagina
+INHOUD
+VOORWOORD t
+1.	INLEIDING 2
+2.	PLAATSING VAN HET ONDERZOEK IN EEN THEORETISCH KADER 4
+2.1.	Sociale geografie, gezondheid en gezondheidszorg 4
+2.2.	Maatschappij, gezondheid en gezondheidszorg 8
+2.2.1.	Struktuur: de nederlandse verzorgingsstaat 8
+2.2.2.	Kuituur: opvattingen t.a.v. gezondheid en
+gezondheidszorg 10
+2.2.3.	Resumé 13
+2.3.	Vraag en aanbod in de gezondheidszorg 13
+3.	VERSCHILLEN IN MEDISCHE KONSUMPTIE: LITERATUUROVERZICHT 15
+3.1.	Inleiding 15
+3.2.	Medische konsumptie aanbod bepaald; de leidse pro-
+jektgroep 16
+3.3.	De vraag naar diensten van de huisarts 17
+3.4.	Medische konsumptie en konsumptiemogelijkheid 18
+3.5.	Medische konsumptie en konsumptiegeneigdheid 19
+3.6.	Medische konsumptie en gezondheidstoestand/konsump-
+tienoodzaak 19
+3.7.	Medische konsumptie in de ruimte 20
+3.8.	Konklusie 21
+4.	HET EMPIRISCHE ONDERZOEK 22
+4.1.	Bepaling van het Ruimtelijk analyseniveau 22
+4.2.	De geselekteerde gemeenten 25
+4.3.	Verwachtingen t.a.v. de medische konsumptie voor de 25
+geselekteerde gemeenten
+4.3.1.	Verwachtingen t.a.v. medische konsumptie op 25
+basis van leeftijds- en geslachtsopbouw
+4.3.2.	Verwachtingen t.a.v. medische konsumptie op 25
+basis van het aanwezige aanbod van gezondheids-
+zorgvoorzieningen
+4.4.	De waargenomen medische konsumptie 28
+4.5.	De vraagfaktoren 31
+4.6.	De te volgen methode: rangkorrelatiematen 31
+4.7.	Samenhang in medische konsumptie 32
+5.	RESULTATEN VAN HET EMPIRISCH ONDERZOEK 34
+5.1.	De meest belovende vraagfaktoren 37
+5.1.1.	Burgerlijke staat 37
+5.1.2.	De gezondheidstoestand 37
+5.1.3.	Urbanisatiegraad 38
+5.1.4.	Houding t.o.v. de gezondheidszorg 38
+5.2. Vormen van medische konsumptie: splitsen of één model 39
+5.3. Verhouding tussen de gevonden variabelen-klusters 40
+5.4.	Toetsbare hypothesen 41
+Pagina
+6.	SAMENVATTING EN KONKLUSIES 42
+LIJST VAN FIGUREN
+2.1.	Schematische voorstelling van de door Smith voorge- 6
+stane werkwijze voor sociaal-geografisch onderzoek
+2.2.	De drie sferen in een samenleving en hun mogelijke 9
+relaties
+3.1.	Schematische voorstelling van het vraagproces in de
+gezondheidszorg, waardoor de mate van medische kon-
+sumptie wordt bepaald 15
+4.1.	Stappenschema werkwijze onderzoek 24
+4.2.	Bevolkingspiramiden van de geselekteerde gemeenten
+met elkaar vergeleken, 1982 26
+4.3.	Bevolkingspiramiden van de geselekteerde gemeenten
+met elkaar vergeleken, 1974 26
+4.4.	Ligging van de vier geselekteerde gemeenten 27
+LIJST VAN TABELLEN
+4.1.	Medische konsumptie; gebruik van verschillende ge-
+zondheidszorgvoorzieningen per 1000 van de gemeente-
+bevolking, 1974 en 1982 28
+4.2.	Medische konsumptie opnamen in ziekenhuizen uitge-
+splitst naar verzekeringswijze per 1000 van de gemeen-
+tebevolking, 1974 en 1982 29
+4.3.	Medische konsumptie; toename in gebruik van verschillende
+voorzieningen in de periode 1974-1982 per gemeente.
+In procenten (1974 = 100%). 30
+5.1. Enkelvoudige korrelaties (Spaermans Rs) tussen enkele
+vormen van medische konsumptie en vraagfaktoren.
+Signifikante (Rs = ±1) of vrijwel signifikante
+(Rs = ±0,95) verbanden. 35
+5.2.	Enkelvoudige korrelaties (Spaermans Rs) tussen enkele
+vormen van medische konsumptie en vraagfaktoren.
+Niet-signifikante, maar wel sterke verbanden (Rs = ± 0,8). 36
+LITERATUURLIJST
+BIJLAGE: De vraagfaktoren in schema
+1
+Voorwoord
+Dit schrijven is voor mij de doktoraalskriptie waarmee ik mijn studie
+sociale geografie beëindig. Het is tot stand gekomen gedurende een
+stageperiode bij het Nationaal Ziekenhuis Instituut, waar men zo vrien-
+delijk was mij te laten participeren in het projekt 'medische konsump-
+tieverschillen'.
+Bij het NZI is eventueel een uitgebreide versie van het empirische
+gedeelte van dit rapport beschikbaar. Hierin worden de resultaten van
+het onderzoek voor alle gehanteerde variabelen -die nu samengevat zijn
+in tabellen 5.1 en 5.2- besproken. Daarnaast wordt vooral meer aan-
+dacht besteed aan de gebruikte statistische methode. Hiervoor kan men zich
+wenden tot mevr. B. Nagtegaal tel. 030-937230.
+Al staat onder dit voorwoord alleen mijn naam, het is duidelijk dat
+werken als deze nauwelijks kunnen worden toegeschreven aan de inspan-
+ning van één individu. Mijn naam staat er omdat ik primair voor het
+geschrevene verantwoordelijk ben, maar ik ben velen dank verschuldigd.
+Ik zal hen hier niet bij naam noemen: ik hoop dat ik tegenover degenen
+die ik bedoel mijn dank al op enigerlei wijze heb geuit.
+Utrecht, september 1984
+Ad van Elzakker.
+2
+1.	INLEIDING
+Niet iedere Nederlander maakt evenveel gebruik van gezondheidszorgvoor-
+zieningen. Dit is natuurlijk logisch: niet iedere Nederlander is
+even gezond. Bovendien is algemeen bekend dat niet iedereen even snel
+naar de dokter loopt. Ten derde is nog denkbaar dat niet iedereen evenveel
+mogelijkheden heeft om gebruik te maken van gezondheidszorgvoorzieningen.
+Hoewel het is te begrijpen dat zich verschillen voordoen in zogenaamde
+medische konsumptie tussen individuen, is het merkwaardig dat zich aan
+die verschillen een ruimtelijke komponent laat ontdekken.
+Door verschillende auteurs (o.a. Stijnenbosch 1983, Hogewind 1983) is
+namelijk vastgesteld dat er zich belangrijke verschillen in de ruimte
+voordoen in gebruik van het professionele gezondheidszorgcircuit. Er be-
+staan regionale verschillen in medische konsumptie. Deze medische konsump-
+tie, hier gedefinieerd als het gebruik van professionele gezondheids-
+zorgvoorzieningen, wordt bepaald door vraag- en aanbodfaktoren, ofwel
+door enerzijds de kenmerken van de konsumenten en hun omgeving en ander-
+zijds de kenmerken van het voorzieningensysteem.
+Regionale konsumptieverschillen kunnen op hun beurt worden geacht samen
+te hangen met regionale verschillen in die vraag- en aanbodfaktoren. Voor
+een wetenschappelijke, sociaal geografische, verklaring van die konsump-
+tieverschillen kunnen verschillende wegen worden bewandeld:
+1. vraag- en aanbodfaktoren kunnen in hun samenhangend geheel worden
+bestudeerd,
+2.	de specifieke invloed van het aanbod op de konsumptie kan worden
+bekeken, of
+3.	de vraagfaktoren kunnen centraal worden gesteld.
+Vanuit wetenschappelijk oogpunt kunnen aan elk van deze drie wegen voer-
+en nadelen worden onderkend. Gebruikelijk is deze voor- en nadelen tegen
+elkaar af te wegen en op basis van deze afweging, en mede op basis van
+het doel van het onderzoek, de keuze voor een bepaalde weg te bepalen.
+In dit geval echter bepaalt de praktische kontekst waarbinnen dit onderzoek
+zal plaatsvinden de weg die gevolgd zal gaan worden.
+Uit het Nederlandse gezondheidszorgbeleid blijkt namelijk dat het recht
+van iedereen op gezondheidszorg zich in de ruimte niet hoeft te vertalen
+in een gelijk aantal voorzieningen per regio. Het gaat niet om "arithmetic
+equality" (voor ieder hetzelfde"), maar om "proportional equality" ("voor
+ieder wat hem toekomt") (Smith, 1977, p. 133). Er wordt dan ook gedifferen-
+tieerd naar behoefte en wel op basis van bevolkingsomvang en leeftijds-
+opbouw (naar 4 leeftijdskategorieën).
+In de planningspraktijk echter, het kader waarbinnen dit onderzoek zal
+plaatsvinden, wordt de behoeftedifferentiatie op basis van deze twee
+kriteria vaak als onvoldoende ervaren. Er wordt daarom een behoefte
+gevoeld aan meer van dergelijke kriteria. Kriteria die enerzijds een rol
+kunnen spelen in beoordelingen van incidentele planningssituaties en
+anderzijds mogelijk een plaats kunnen vinden in een verdelingsmodel dat
+een allocatie van de middelen voor de gezondheidszorg over de nederlandse
+regio's mogelijk maakt. Om dergelijke kriteria te kunnen vinden zal de
+3
+medische konsumptie via de derde weg moeten worden benaderd. De onder-
+zoekaandacht zal zich hier richten op de vraagfaktoren: de behoeften
+van de regionale bevolkingen.
+Het zal duidelijk zijn dat het onmogelijk is een absolute vraag c.q.
+behoefte naar medische voorzieningen te bepalen op basis van een aantal
+bevolkingskenmerken. Hiervoor is de zaak te komplex. Dit nog afgezien
+van de kwestie in hoeverre zoiets als een absolute vraag in de werkelijk-
+heid bestaat. Onderzoek naar vraagfaktoren zal zich daarom moeten richten
+op relatieve verschillen en het relatieve belang van bepaalde variabelen.
+Het bovenstaande overziend kan nu de volgende probleemstelling voor dit
+onderzoek worden geformuleerd:
+SPELEN SPECIFIEKE VRAAGFAKTOREN EEN ROL IN DE
+MEDISCHE KONSUMPTIE?
+ZO JA, IS HET MOGELIJK FAKTOREN AAN TE GEVEN
+EN ONDERLING TE WEGEN DIE DE WAARGENOMEN RE-
+GIONALE VERSCHILLEN IN MEDISCHE KONSUMPTIE
+KUNNEN VERKLAREN?
+De eerste vraag van deze probleemstelling zal voornamelijk worden beant-
+woord vanuit de literatuur. Ter beantwoording van de tweede vraag zal
+een empirisch onderzoek worden uitgevoerd dat zich vooral zal baseren
+op een analyse van sekundaire databronnen.
+De rapportage van het pogen deze probleemstelling te beantwoorden,
+ziet er alsvolgt uit:
+In het hoofdstuk na deze inleiding, hoofdstuk 2, zal de relatie tussen
+de sociale geografie, gezondheid en gezondheidszorg worden beschreven.
+Dit wordt gedaan omdat de aandacht van sociaal geografen voor met name
+het funktioneren van de gezondheidszorg betrekkelijk nieuw is.
+Hierna wordt de maatschappelijke kontext waarbinnen het onderwerp van
+dit onderzoek moet worden geplaatst, beschreven. Dit zal gebeuren aan
+de hand van twee begrippen uit de sociologie: struktuur en kuituur.
+In de laatste paragraaf van dit hoofdstuk komt de veelbesproken relatie
+tussen vraag en aanbod in de gezondheidszorg kort aan de orde.
+Vervolgens wordt, in hoofdstuk 3, een aanvang genomen met de beantwoor-
+ding van de eerste vraag uit de probleemstelling. Er wordt een overzicht
+gegeven van de literatuur die handelt over medische konsumptie. In dit
+hoofdstuk zullen verschillende begrippen en belangwekkende onderzoeken
+worden geïntroduceerd die in het vervolg van het onderzoek een rol
+zullen spelen.
+In hoofdstuk 4 wordt een aanvang genomen met het eigenlijke empirische
+onderzoek. In dit hoofdstuk wordt ingegaan op de werkwijze van het
+onderzoek, waarbij aandacht wordt besteed aan de keuze van het ruimtelijk
+analyseniveau, de te meten medische konsumptie en de verwachte verschil-
+len in medische konsumptie tussen de verschillende ruimtelijke eenheden.
+Vervolgens worden de te onderzoeken vraagfaktoren gepresenteerd. Tenslotte
+wordt stilgestaan bij de te hanteren statistische maten.
+Hoofdstuk 5 geeft de resultaten van het onderzoek weer. Hiermee kan
+het tweede deel van de probleemstelling worden beantwoord. Tenslotte
+wordt gepoogd de bevindingen in toetsbare vorm weer te geven.
+Geëindigd wordt uiteraard met een samenvatting van het onderzoek. De
+konklusies worden verwoord in een aantal mogelijk te volgen onderzoeks-
+richtingen.
+4
+2. PLAATSING VAN HET ONDERZOEK IN EEN THEORETISCH KADER
+In dit hoofdstuk wordt de probleemstelling geplaatst tegen een achtergrond
+van sociaal-geografische en sociologische kennis. Speciaal wordt hierbij
+aandacht besteed aan de implikaties van de zeer praktijkgerichte vraagstel-
+ling op de uitvoering van het empirische onderzoek. Achtereenvolgens worden
+beschreven: de relaties tussen sociale geografie, gezondheid en gezondheids-
+zorg, de maatschappelijke kontekst en, tenslotte, de relatie tussen vraag
+en aanbod in de gezondheidszorg.
+2.1.	Sociale geografie, gezondheid en gezondheidszorg
+In zijn proefschrift stelt Stijnenbosch (1983, p.14) dat sociaal geografen
+in Nederland nog weinig onderzoek hebben gedaan naar (ontwikkelingen in en
+totstandkoming van) locatiepatronen van instellingen in de non-profitsector.
+Kennelijk om het voortouw te nemen in deze heeft Stijnenbosch een dergelijk
+onderzoek uitgevoerd, toegespitst op de ziekenhuisinstellingen in Nederland.
+Daarmee begeeft hij zich op het terrein van wat in de Angelsaksische landen
+bekend staat onder de naam "medical geography".
+Deze medische geografie kent twee duidelijk te onderscheiden onderzoekstradi-
+ties, die door Mayer (1982 ) in een overzichtsartikel worden beschreven en
+onderzocht in hun onderlinge relaties. De oudste van deze tradities kan wor-
+den omschreven als "geografische epidemiologie" of "ziekte-ecologie", omdat
+het grootste gedeelte van de onderzoeken zich richt op de relaties tussen
+natuurlijke omgeving en ziekte. Ziekte wordt beschouwd als een kortsluiting
+tussen organisme, kuituur en omgeving. Naast de ecologische onderzoeken wordt
+binnen deze traditie aandacht besteed aan de ruimtelijke struktuur en ruimte-
+lijke vorm van ziektepatronen (bijvoorbeeld uitgaande van diffusietheorieën).
+De tweede, jongere en minder ontwikkelde traditie richt zich op de gezondheids-
+zorg. Vanuit een ruimtelijk perspectief wordt gekeken naar voorzieningenplan-
+ning, aanbod van voorzieningen en hulpzoekend gedrag. Er wordt aangesloten
+bij geografische locatietheorieën waarin de begrippen bereik en bereikbaarheid,
+doelmatigheid en rechtvaardigheid, sleutelposities innemen.
+Deze begrippenparen impliceren een belangrijk verschil tussen beide tradities:
+de onderzoeken naar gezondheidszorgvoorzieningen hebben vaak een duidelijk
+normatief element. Dit element ontbreekt in de geografische epidemiologie
+waarin het pure positieve onderzoek het meest voorkomt.
+Dat beide tradities nauwe relaties hebben is evident. Toch is van samensmel-
+ting nog lang geen sprake: onderzoeken die duidelijk van beide tradities
+uitgaan zijn schaars. Mayer onderscheidt 3 situaties waarin beide tradities
+elkaar ontmoeten:
+a)	bij de planning van gezondheidszorgvoorzieningen; een adequate planning
+vereist namelijk kennis van de ruimtelijke verdeling van gezondheidsrisi-
+co's voor de bevolking. Tenminste als moet worden gepland naar behoefte;
+b)	bij de evaluatie van het gezondheidszorgsysteem; dus om de vraag te be-
+antwoorden: heeft een voorziening (input) een verbeterde gezondheid:
+(output) tot gevolg?; en
+c)	bij interkultureel onderzoek: in verschillende kuituren wordt ziekte an-
+ders gedefinieerd, de vraag is of dergelijke verschillen in de ruimte
+aanwijsbare gevolgen met zich meebrengen, met name met betrekking tot
+het hulpzoekende gedrag.
+Het bovengenoemde werk van Stijnenbosch sluit zich - naar eigen zeggen
+(p. 253) - aan bij de tweede traditie: de ruimtelijke analyse van het gezond-
+heidszorgapparaat. Er wordt daarbij gekeken naar de organisatie, de planning
+en het gebruik van gezondheidszorgvoorzieningen. Het in de sociale geografie
+5
+inmiddels ontwikkelde begrippen- en methodenpakket leent zich volgens
+Stijnenbosch prima voor dergelijke onderzoeken en hij moedigt nieuw
+geografisch onderzoek aan door te wijzen op verschillende actuele ont-
+wikkelingen waarin toegepaste geografische kennis van nut kan zijn.
+Het onderhavige onderzoek kan min of meer als respons op deze oproep
+worden beschouwd.
+Het is in de bredere kontekst waarin dit onderzoek kan worden geplaatst
+niet de bedoeling binnen een van de gezondheidszorgtradities te werken,
+maar in de eerste door Mayer genoemde kombinatie van beide tradities.
+Het gaat er uiteindelijk om behoeftekriteria vast te stellen die een zo
+rechtvaardig mogelijke ruimtelijke spreiding van voorzieningen mogelijk
+maken.
+Als uitgangspunt is hierbij gekozen voor de door Stijnenbosch (p.199) en
+anderen (o.a. Hogewind, 1983) gekonstateerde regionale verschillen in ge-
+bruik van gezondheidszorgvoorzieningen. Dit gebruik zal in het onderstaande
+"medische konsumptie" worden genoemd.
+Medische konsumptie is niet gemakkelijk te definiëren, in feite omvat het
+al het menselijk gedrag dat gericht is op het verkrijgen en behouden van
+(een betere) gezondheid (het resultaat van dat gedrag behoeft overigens
+niet met deze intentie overeen te komen). Van der Ploeg (1980) onderscheidt
+de volgende aspekten aan medische konsumptie: gebruik van professionele
+gezondheidszorgvoorzieningen, gebruik van geneesmiddelen op recept en op
+eigen initiatief, gebruik van alternatieve gezondheidszorg, het nemen van
+preventieve maatregelen en communiceren over gezondheid (onder andere via
+de massa-media) . Hoewel het mogelijk het beste is al deze aspekten te be-
+:ien, vooral vanwege eventuele substitutiemogelijkheden, zal hier, in na-
+rolging van de meeste literatuur op dit gebied, het begrip medische konsump-
+tie worden gehanteerd als zijnde het gebruik van professionele gezondheids-
+zorgvoorzieningen. Met het oog op eventuele praktische implicaties van het
+onderzoek is dit het meest zinnig.
+Door het uitgangspunt te kiezen in ruimtelijke verschillen in medische kon-
+sumptie kan worden aangesloten bij de "welzijnsgeografie" van Smith (1977).
+Voor Smith moet het menselijk welzijn centraal staan in de sociale geografie
+en de taak van de geograaf ".. . . lies in the recognition that location in
+space is very much relevant to the individual's life chances" (p.14).
+Ruimtelijke verschillen in welzijn vormen dan ook een belangrijk objekt voor
+het sociaal geografisch onderzoek. Gezondheid en gezondheidszorg vormen on-
+tegenzeggelijk belangrijke onderdelen van het menselijk welzijn en het door
+Smith voorgestelde werkschema kan daarom worden gebruikt om het onderhavige
+onderzoek te plaatsen (zie figuur 2.1. op blz. 6. ) (Hierbij wordt afgezien
+van de kwestie of een medische konsumptie in plaats A die groter is dan die
+in plaats B duidt op een minder welzijn in plaats A of juist op een gelijk
+of groter Welzijn door die medische konsumptie).
+6
+Figuur 2.1. Schematische voorstelling van de door Smith voorgestelde
+werkwijze voor sociaal-geografisch onderzoek.
+Uit: D.M. Smith, 1977, p.11.
+Het werkschema kent de volgende stappen: beschrijving, verklaring, evaluatie,
+prescriptie en, eventueel, implementatie. Voor dit onderzoek ingevuld ont-
+staat in grote lijnen het volgende beeld:
+- beschrijving van verschillen in medische konsumptie;
+- verklaring van de waargenomen verschillen;
+- evaluatie van de verklaring, gaat het om verschillen in welzijn - te
+vertalen in behoeften - en zijn die verschillen te bestrijden;
+- prescriptie, hoe de gezondheidszorg te manipuleren om in de verschillende
+behoeften te voorzien.
+Nu brengt de term "behoeften" problemen met zich mee: niet zozeer cognitief,
+want iedereen kan zich er wel wat bij voorstellen alswel voor sociaal weten-
+schappelijk onderzoek. De grote vraag is welke behoefte moet worden gemeten
+en hoe. Op verschillende wijzen zijn menselijke behoeften uiteengelegd, waar-
+van ten aanzien van de gezondheidszorg kunnen worden genoemd: normatieve-
+versus ervaren behoefte (Koch & Mackenbach, 1984) en potentiële-, waargenomen-
+en vervulde behoefte (Stijnenbosch, 1983).
+Het laatst genoemde onderscheid vestigt de aandacht op het proces van behoef-
+tevervulling, het eerste op de kant van waaruit de behoefte wordt gemeten:
+het individu (ervaren behoefte) of de maatschappij, met name de medische stand
+(normatieve behoefte). Waar het hier om gaat is te benadrukken dat beide on-
+derscheiden erop wijzen dat zoiets als een "absolute behoefte aan gezondheids-
+zorg" meetbaar als de op een dag gevallen neerslag, niet bestaat.
+7
+In behoefte-onderzoek moet eigenlijk telkens worden aangegeven op welke
+behoefte wordt gedoeld en vanuit wiens kant bekeken.
+In de praktijk wordt de onmogelijkheid een absolute behoefte vast te stel-
+len omzeild door het gebruik van (sociale) indikatoren. Deze indikatoren
+zijn (meetbare) zaken waarvan wordt verondersteld dat ze in een kenbare
+verhouding staan met de behoefte aan medische zorg. Als voorbeeld kan leef-
+tijd worden genoemd: hoewel een bejaarde niet per definitie meer medische
+zorg behoeft dan een adolescent, is dit over het totaal der individuen wel
+het geval. Daarom wordt de regionale leeftijdsopbouw tegenwoordig gehan-
+teerd als kriterium bij de ruimtelijke allocatie van gezondheidszorgvoor-
+zieningen. In het uit te voeren onderzoek zal met dergelijke indikatoren
+gaan worden gewerkt.
+Hiermee wordt aangesloten bij wat in de sociale wetenschappen als "sociale
+indikatoren beweging" bekend staat. Smith (1979) kan als vertegenwoordiger
+van deze beweging worden genoemd: zijn voorstel is de ruimtelijke verdeling
+van stedelijke problemen (misdaad, gezondheid, wonen e.d.) met behulp van
+sociale indikatoren te bepalen. Hij maakt daarbij overigens wel weer onder-
+scheid tussen "subjektieve sociale indikatoren" ofwel de meningen van indi-
+viduen en "objektieve sociale indikatoren" ofwel geaggregeerde "harde" data
+met een territoriale basis. Smith vindt dat de sociale geografie het best
+kan werken met de laatst genoemde indikatoren. Hij erkent echter dat hier-
+aan enige belangrijke bezwaren kleven: de (harde) data zijn vaak incompleet,
+de probleemindikatoren zijn vaak meer of minder willekeurig gekozen en
+-wetenschappelijk gezien ongetwijfeld het grootste bezwaar- deze werkwijze
+leidt slechts zelden tot causale oorzaken van problemen; echt verklaren
+vraagt meer dan meten en in .kaart brengen.
+Smith stapt over deze bezwaren heen vanuit zijn denkbeelden over een
+maatschappelijk relevante geografie: niet de verklaring in wetenschappe-
+lijke zin van maatschappelijke problemen staat voorop, maar het pogen bij
+te dragen aan een oplossing ervan. Voor "zuiver wetenschappelijke-" en
+marxistisch georiënteerde geografen is dit een onaanvaardbaar standpunt
+(zie bijvoorbeeld Lee 1979), maar voor dit onderzoek niet.
+De hier gekozen probleemstelling vloeit immers rechtstreeks voort uit een
+praktijksituatie, terwijl de eventuele resultaten in de eerste plaats op
+hun praktische waarde zullen worden beoordeeld en niet zozeer op de weten-
+schappelijke waarde.
+Aansluiten bij de "sociale indikatoren beweging" is in het gezondheids- en
+gezondheidszorgonderzoek natuurlijk niet nieuw. Zo is door het Sociaal en
+Cultureel Planbureau (1976) een uitcrebreide lijst met indikatoren oocresteld
+"die de onderscheiden aspekten van het gezondheidsterrein indiceren..."
+(p. 20) . Deze lijst van indikatoren is voor een belangrijk deel al vertaald
+(geoperationaliseerd) naar variabelen, waarbij telkens is aangegeven in
+welke mate de operationalisatie betrouwbaar is en in hoeverre de benodigde
+gegevens beschikbaar zijn. Deze lijst is te beschouwen als een fonds
+waaruit naar behoefte indikatoren/variabelen kunnen worden geselekteerd
+dan wel verder kunnen worden ontwikkeld. Als zodanig zal dit hier waar
+mogelijk is worden gebruikt.
+Er wordt hier dus in belangrijke mate aangesloten bij de sociale geografie
+van Smith. Oók wat betreft het besef dat zelfs de meest precieze ruimtelijke
+analvse slechts een zeer beperkte bijdrage aan de oplossing van maat-
+schappelijke problemen kan leveren. "...Space ard distance may not matter
+quite as much as we are inclined to believe (1977, p.357).
+Maatschappelijk relevante geografie vormt slechts één onderdeel van een
+maatschappelijk relevante wetenschap; er zal altijd moeten worden samen-
+gewerkt met andere disciplines.
+8
+2.2.	Maatschappij, gezondheid en gezondheidszorg
+Aansluiten bij een maatschappelijk relevante geografie heeft als konsekwen-
+tie dat het te bestuderen geografische probleem in zijn maatschappelijke
+kontekst moet worden geplaatst, om een reëele binding tussen onderzoek en
+praktijk te bewerkstelligen.
+Er wordt aangesloten bij het in de sociologie regelmatig aan te treffen
+onderscheid tussen struktuur en kuituur. De (sociale) struktuur duidt op
+de ordening van de samenleving ofwel het "netwerk van sociale betrekkingen
+en sociale verhoudingen" (Van Doorn en Lammers, 1976, p.92). Kuituur kan
+worden omschreven als het geheel van konvergerende opvattingen (normen,
+waarden, verwachtingen e.d.) met een relatief autonoom karakter, die door
+een kollektiviteit worden aangehangen (idem, p.108).
+2.2.1. Struktuur: De Nederlandse verzorgingsstaat
+Beginnend bij de strukturele aspekten van de maatschappelijke kontekst moet
+de aandacht allereerst worden gericht op het begrip 'verzorgingsstaat',
+waarmee de Nederlandse samenleving zo vaak wordt betiteld. Voor dit begrip
+is een groot aantal definities in omloop die telkens een groter of kleiner
+aantal naties als verzorgingsstaat bestempelen. De oude definitie van Thoenes
+uit 1962 is hier echter nog goed bruikbaar: de verzorgingsstaat is "een maat-
+schappijvorm, die gekenmerkt wordt door een op democratische leest geschoeid
+systeem van overheidszorg, dat zich bij handhaving van een ondernemingsge-
+wijze produktie garant stelt voor het kollektieve sociale welzijn van haar
+onderdanen" (Stijnenbosch, 1983, p.26).
+Uit deze definitie spreekt een dualisme, overheidsgarantie versus kapitalis-
+tische produktie, dat ook in de gezondheidszorg is terug te vinden. Enerzijds
+namelijk, loopt de financiering van de gezondheidszorg voor het overgrote
+deel via een verzekeringsstelsel dat door de overheid is geschapen (Zieken-
+fondswet en Algemene Wet Bijzondere Ziektekosten), anderzijds worden de voor-
+zieningen privaat aangeboden: door kleine zelfstandigen (artsen, fysiothera-
+peuten e.d.) en groepen 'vrijwilligers': het partikuliere initiatief. Deze
+producenten van gezondheidszorg streven, zoals gebruikelijk in een kapita-
+listisch georganiseerde produktiewijze, een rendabele bedrijfsvoering na
+(die zich maar al te makkelijk vertaalt in groei van de organisatie). Dit
+betekent dat wat er aan aanbod is moet worden benut (bedbezettingl) en wat
+er nog niet is er moet komen. Dit laatste vanuit de voortdurende motivatie
+de zorg te verbeteren, en wie wil dat niet. De overheidsgarantie met betrek-
+king tot de kosten van de zorg maakt de markt voor de producenten uiteraard
+zeer aantrekkelijk. Dit heeft ondermeer tot gevolg dat bestudering van het
+gezondheidszorgsysteem vereist dat niet alleen naar akties van de overheid
+(wetgeving) op dit terrein wordt gekeken. De belangrijke rol die met name
+de belangenverenigingen ('koepels') van de verstrekkers in de besluitvorming
+en ontwikkeling van de gezondheidszorg spelen moet expliciet worden belicht.
+Stijnenbosch (1983) doet dit, uitgaande van de managerskonceptie van Pahl,
+door een institutioneel makronivo te onderscheiden waarop de beslissingen
+worden genomen over de allocatie van middelen over de bevolking van de
+Nederlandse verzorgingsstaat.
+Het Nederlandse gezondheidszorgapparaat heeft zijn huidige aanzien verkregen
+uit de samenwerking tussen overheid en de 'overkoepelingsinstituten'. Een
+samenwerking die in belangrijke mate is terug te voeren op de verzuiling van
+de Nederlandse samenleving. Er beginnen echter veranderingen op te treden.
+Deze veranderingen kunnen worden getypeerd door aan te sluiten bij de maat-
+schappijtypen die Adriaansens en Zijderveld (1981) onderscheiden met behulp
+van de mogelijke relaties tussen de drie in elke samenleving voorkomende
+'sferen'. (Zie figuur 2.2.). Deze drie sferen zijn: staat, maatschappij en
+individu.
+9
+Figuur 2.2. De drie sferen in
+STAAT
+de strikt publieke
+sfeer
+een samenleving en hun
+mogelijke relaties
+MAATSCHAPPIJ 'die öffentlich relevant gewordene Privatsphare'		INDIVIDU de strikt private sfeer
+	r <—> 2>	
+	7	
+Bron: Adriaansens en Zijderveld (1981, p.64).
+Er kunnen een viertal mogelijke relaties worden onderscheiden, waarvan er
+hier tvree van belang zijn, te weten: 1) de centripetale maatschappij; zo-
+wel staat als individu (primaire groep) richten zich op het 'maatschappe-
+lijk tussenveld' en 2) de centrifugale maatschappij; het maatschappelijk tus-
+senveld verliest aan invloed ten bate van staat en individu. Hoewel beide
+maatschappijtypen als extremen moeten worden gezien en beslist geen abso-
+lute 'omslagpunten' kunnen worden aangewezen, kan hier worden gesteld dat
+in de naoorlogse ontwikkeling van de verzorgingsstaat Nederland zich een
+overgang van een centripetale naar een centrifugale maatschappij heeft
+voorgedaan.
+De eerste decennia na de oorlog werden namelijk gekenmerkt door een zeer
+eendrachtige samenwerking tussen de 'toppen van de zuilen', tussen werkne-
+mers en werkgevers, en tussen overheid en partikulier-initiatief. Daar-
+bij is aan overheidszijde een sterke neiging om zoveel mogelijk aan het
+maatschappelijk tussenveld over te laten: niet alleen de uitvoering van het
+beleid maar ook de ontwikkeling ervan. Een groeiende welvaart maakte een
+dergelijke politiek financieel mogelijk. Aan de andere kant was de indivi-
+duele burger in belangrijke mate gericht op 'zijn' levensbeschouwelijke zuil:
+hij hoorde heel duidelijk bij een specifieke maatschappelijke groepering.
+Later komt hierin verandering. Er vindt een proces van ontzuiling plaats,
+de zuilen verliezen namelijk door de enorm toegenomen welvaart en de tot-
+standkoming van de verzorgingsstaat een zeer belangrijke funktie: onderlinge
+hulp en bijstand. Het individu trekt zich terug uit de zuil waartoe hij be-
+hoorde en daarmee voor een belangrijk deel uit het maatschappelijk midden-
+veld. De overheid wordt, naarmate de ekonomische groei begint te haperen,
+steeds meer gekonfronteerd met tegenstrijdige belangen en verdelingsvraag-
+stukken. Om ieders welzijn zoveel mogelijk te garanderen trekt ze beslis-
+singsbevoegdheden expliciet naar zich toe en er komen steeds meer wetten.
+Dit gaat ten koste van de autonomie van het maatschappelijk middenveld (al
+is de rol daarvan natuurlijk lang niet uitgespeeld).
+De geschetste ontwikkeling is terug te vinden in de gezondheidszorg (Boot
+en Knapen, 1983). In 1966 wordt de gezondheidszorg geïnventariseerd in de
+1Volksgezondheidnota'. De overheid spreekt zich daar uit vóór de bestaande
+autonome ordening van de maatschapppelijke krachten in de gezondheidszorg.
+Acht jaar later blijkt uit de 'Struktuurnota Gezondheidszorg 1974' dat de
+overheid de ordening van de gezondheidszorg tot haar taak rekent. Daartoe
+worden twee ordeningsprincipes gepresenteerd: echelonnering en regionalisa-
+tie, respektievelijk bedoeld voor de funktionele- en geografische ordening.
+Deze ordening wordt nader ingevuld met de in te voeren Wet Voorzieningen
+Gezondheidszorg. Daarin wordt een herstrukturering van de gezondheidszorg
+voorgestaan: versterking eerste lijn, meer zelf- en mantelzorg etc. en de
+planning geregeld. Die planning wordt in handen gelegd van provincies en
+gemeenten waarbij de Rijksoverheid richtlijnen geeft en het 'veld' (d.w.z.
+het partikulier initiatief, c.q. de belangenverenigingen en koepels) advi-
+seert.
+10
+Deze adviesfunktie duidt erop dat het maatschappelijke tussenveld nog steeds
+een belangrijke invloed heeft op de ordening van de gezondheidszorg. Maar
+die invloed is geringer dan tien jaar geleden werd verwacht (Boot en Knapen,
+1983, p.175). Samenvattend stellen deze auteurs: "De autonome ordening der
+maatschappelijke krachten van 1966 is in vijftien jaar overgegaan in een ge-
+politiseerde ordening volgens de WVG." (p.171).
+Deze politisering komt niet uit de lucht vallen. De behoefte van de overheid
+om meer greep te krijgen op de gezondheidszorg is een resultante van stij-
+gende kosten en een stagnerende ekonomie. De autonome ordening heeft een
+vrij onoverzichtelijk voorzieningenapparaat geschapen (de "lappendeken") dat
+een steeds groter beslag ging leggen op het BNP. Dit laatste is haast onver-
+mijdelijk omdat een marktregulerend prijsmechanisme ontbreekt, de gezond-
+heidszorg kent een "autonoom endogeen groeisysteem" (Stijnenbosch, 1983,
+p. 107). Een beperking van de kosten in de gezondheidszorg zoals momenteel
+wordt nagestreefd kan daarom niet aan de "autonome ordening" worden overge-
+laten. Vandaar de WVG, de Wet Tarieven Gezondheidszorg en het naarstig zoe-
+ken naar een stelselwijziging ziektekostenverzekering door de overheid.
+In de bovengeschetste struktuur van de Nederlandse gezondheidszorg blijkt
+vooral de aanbodkant aan de orde te zijn gekomen. Dit is zo omdat de vragers,
+de gebruikers, maar een zeer bescheiden rol spelen in die struktuur. Hetgeen
+voornamelijk moet worden toegeschreven aan de ongeorganiseerdheid van die
+gebruikers. Het valt op dat de overheid zich met haar beleid vooral richt op
+de aanbodskant, de struktuur. De vraagkant krijgt minder aandacht - de gebrui-
+ker wordt voor het eerst als aparte kategorie betrokkenen genoemd in de nota
+uit 1974. Dit is te begrijpen door te realiseren dat de vraag kultureel be-
+paald is en dat een kuituur veel moeilijker te beïnvloeden is door een over-
+heid dan een struktuur. In de volgende paragraaf wordt nader op dit kultuur-
+aspekt van de gezondheidszorg ingegaan.
+2.2.2.	Kuituur: opvattingen t.a.v. gezondheid en gezondheidszorg
+Ziekte, gezondheid en gezondheidszorg zijn kuituur bepaald. Weliswaar brengt
+een verkoudheid op elke plaats en tijd dezelfde ongemakken met zich mee, de
+reaktie daarop van het individu varieert met plaats en tijd. Duidelijk komt
+dit tot uiting in het artikel van Spruit (1978). Daarin wordt Margaret Mead
+geciteerd: "De opvattingen over gezondheid en ziekte zijn deel van de kijk
+van de mensen op de wereld en hun plaats daarin" (p. 55). In hun samenleving
+bepalen groepen mensen in een goeddeels onbewust proces hun houding ten op-
+zichte van ziekte en gezondheid. Freidson (1970) spreekt dan ook over "The
+social construction of illness" naar analogie van Berger en Luckmann's "The
+social construction of reality" (1966). In dat boek wordt een theorie gepre-
+senteerd waarmee het mogelijk wordt te verklaren dat een schijnbaar 'objek-
+tief' begrip als ziekte toch in belangrijke mate een 'subjektief' produkt
+is van interakterende individuen.
+Uit het bovenstaande kan worden opgemaakt dat het beeld van ziekte en gezond-
+heid in de westerse kuituur met de tijd aan verandering onderhevig is. Deze
+veranderingen worden door verschillende auteurs gekonstateerd en beschreven.
+Belleman (1977) spreekt over opgetreden "mentaliteitsveranderingen" in zijn
+poging de toegenomen vraag naar specialistische hulp te verklaren. Hiermee
+doelt hij op de groeiende bezorgdheid in de samenleving voor gezondheid, tot
+uiting komend in het ruimer definiëren van ziekte en een lagere tolerantie
+ten opzichte van ziekte.
+Steunend op de analyse van Garfield stelt Belleman dat er bij méér verschijn-
+selen - waaronder minder ernstige - van ziekte wordt gesproken. Dit heeft
+een toegenomen hulpvraag tot gevolg. Een hulpvraag die daarom ook een heel
+ander karakter heeft gekregen dan honderd jaar geleden. Voor de gezondheids-
+zorg heeft dit belangrijke konsekwenties zoals Philipsen (1978) aangeeft.
+Behalve de aloude zorg voor zieken en gebrekkigen, moet de arts nu ook de
+11
+psychosociale klachten behandelen en bovendien voor- en nazorg bieden.
+Moeilijker dan het konstateren is het verklaren van deze opgetreden veran-
+deringen. Er is uiteraard - gezien de verbondenheid tussen struktuur en
+kuituur - een relatie tussen de mentaliteitsverandering en de opkomst van
+de verzorgingsstaat. Geneeskundige hulp is immers van gunst of marktgoed
+geworden tot (burger)recht. Het is een vanzelfsprekende zaak geworden om
+voor alle ervaren problemen hulp te zoeken: het is toch een gezamenlijk
+verworven recht? Philipsen (1978) merkt echter terecht op dat dit een nood-
+zakelijke, maar geen voldoende voorwaarde is ter verklaring van de opge-
+treden kulturele veranderingen.
+Zelf wijst deze auteur erop dat de gemiddelde Nederlander tegenwoordig
+zo'n 70 jaar met zijn lichaam als psycho-somatische entiteit toe moet.
+In die 70 jaar worden tal van signalen betreffende moeheid, pijn, onbehagen,
+slijtage e.d. vanuit dat lichaam ontvangen. Slechts een deel van deze signa-
+len wordt aan de gezondheidszorg aangeboden: het "ijsbergfenomeen".
+Tegenwoordig komt een groter deel van die ijsberg "boven water", omdat vol-
+gens Philipsen: "De mens die zeventig jaar met zijn lichaam toe moet, heeft
+nu gezondheid tot hoogste goed verheven. Zijn lange leven doet hem vanuit
+zijn lichaam als psychosomatische entiteit meer signalen van pijn en onbe-
+hagen ontvangen en tegelijk dringen deze zich op door gebrek aan konkurre-
+rende idealen" (p.33). De door de verzorgingsstaat (mede) bewerkstelligde
+langere levensduur en bestaanszekerheid voor het individu, gekombineerd met
+een toenemende aan gezondheid gehechte waarde (haar "ideologische overwinning")
+worden als oorzaken voor de mentaliteitsverandering aangevoerd.
+Dit laatste wordt geïllustreerd door cijfers uit het Sociaal en Cultureel
+Rapport (1982, p.217). Bij de zaken die genoemd worden als zijnde "het be-
+langrijkste in het leven" had in 1966 "een goede gezondheid" nog konkurrentie
+te duchten van "een goed huwelijksleven" en in mindere mate van "een sterk
+geloof". Deze konkurrerende idealen zijn in 1981 ver achtergebleven bij de
+gezondheid: bijna de helft van alle ondervraagden vindt dat het belangrijkst
+in het leven.
+In meer abstrakte termen kan in navolging van Adriaansens en Zijderveld (1981)
+de gekonstateerde mentaliteitsverandering als uitvloeisel van het "immoralis-
+me" ethos worden beschouwd. Dit ethos-type dat volgens deze auteurs past bij
+de verzorgingsstaat als een handschoen wordt gekenmerkt door een verwerping
+van de oude, 'objektieve' waarden en normen en het benadrukken van het sub-
+jektieve, het relatieve van waarden en normen. Daarmee komt het individu
+en niet de gemeenschap in de schijnwerper te staan. Verbonden is het primaat
+van de konsumptie boven produktie. Juist dit konsumentisme past goed bij de
+verzorgingsstaat. De 'mentaliteitsverandering' t.a.v. gezondheid en gezond-
+heidszorg kan worden vertaald als zijnde een vorm van dit konsumentisme.
+In verband met de kulturele veranderingen wordt ook wel gesproken over de
+'medicalisering' van de samenleving. Hiermee wordt geduid op het toenemende
+belang van de professionele gezondheidszorg t.a.v. steeds meer aspekten van
+de samenleving. De gezondheidszorg ontfermt zich niet alleen meer over de
+zieken en gebrekkigen, maar spreekt zich uit over arbeidsomstandigheden, ver-
+zekeringen etc. Voor verschillende auteurs zijn het juist de professionele
+krachten in de gezondheidszorg die het meest bepalend zijn geweest voor de
+opgetreden mentaliteitsveranderingen. Zo is voor Freidson (1970) "the social
+construction of illness" in de eerste plaats bepaald door de professionele
+gezondheidszorgers.
+Illich (1976) is het hier van harte mee eens en gaat nog een stap verder door
+de werkprodukten van de professionelen zonder meer als schadelijk voor het
+individu te kwalificeren. Niet alleen voor zijn gezondheid maar voor zijn
+hele mens-zijn. Illich spreekt over klinische-, sociale- en strukturele
+iatrogenese (= door de geneesheer ontstaan). In wezen komt hier de kwestie
+van vraag- of aanbod bepaalde medische konsumptie al naar voren. Hierop zal
+in het onderstaande nog worden teruggekomen (paragraaf 2.3.).
+12
+Met betrekking tot de professionele zorgverleners kan nog op hun zeer be-
+langrijke subkultuur binnen de westerse kuituur worden gewezen. De zoge-
+naamde professionalisering wordt door Adriaansens en Zijderveld "....één
+essentieel kenmerk van de moderne verzorgingsstaat...;" (p.40) genoemd.
+De door de overheid gegarandeerde verzorging wordt door professionelen op
+autonome wijze gerealiseerd. De professionelen ontlenen veelal aan hun ken-
+nis van een bepaald aspekt van verzorging een zekere macht die zich uit in in-
+komen, onafhankelijkheid, aanzien e.d. Er kan gesproken worden over een
+aparte stand (c.q. de medische) kompleet met eigen kodes en een aparte taal.
+Het zorgvragende individu dat de kennis mist valt buiten deze professionele
+stand en zal dat meestal merken ook: hij is immers afhankelijk en ondeskun-
+dig. Een dergelijke "professionele dominantie" (Freidson) is in de gezond-
+heidszorg zeker aanwezig. Deze aan de feodale tijd herinnerde macht van de
+professionele stand roept natuurlijk weerstanden op. Behalve de afkeer van
+gezag dat het immoralistisch ethos eigen is, vormt ook de ontdekking dat
+de professionele deskundigheid zeker niet alomvattend is een belangrijke
+faktor voor alternatieve ontwikkelingen. Gedacht wordt hierbij aan zelfhulp-
+groepen, die oplossing van allerlei problemen niet door professionelen voor-
+gekauwd willen zien maar daadwerkelijk aan de oplossing willen werken.
+Aansluitend hierbij is het onderscheid dat Adriaanse e.a. (1981) maken tus-
+sen fundamentalisten en konsumentisten. De laatstgenoemde groep beschouwt
+ziekte als iets wat mensen min of meer toevallig overkomt en waarvan de ge-
+nezing louter een zaak is voor de professionele gezondheidszorg. De funda-
+mentalisten hierentegen zien ziekte als rechtstreeks gevolg van een onge-
+zonde leefwijze. Genezing en gezondheid in het algemeen zijn primair de ver-
+antwoordelijkheid van het individu. Dit is echter een onderscheid tussen
+extremen die in hun zuivere vorm niet voorkomen. In feite, aldus de auteurs,
+valt een voortdurende slingerbeweging tussen beide extremen waar te nemen.
+Na de tweede wereldoorlog is het aksent vooral op het konsumentisme terecht
+gekomen (vergelijk met boven), waarop nu echter een fundamentalistische reak-
+tie begint te volgen.
+Adriaanse c.s. beschouwen het door hun uitgevoerde onderzoek "Leeft Nederland
+Oké?" als uiting van die fundamentalistische reaktie. Het is namelijk onder-
+deel van de "nationale gezondheidsaktie Nederland Oké". Het gaat om een be-
+volkingsonderzoek waarin door middel van interviews, gehouden onder een
+steekproef van Nederlanders, de gezondheidsbeleving, de opvattingen omtrent
+de gezondheid, de leefwijze in relatie met de gezondheid en de samenhangen
+tussen die drie gemeten worden.
+Belangrijkste resultaten hiervan zijn, zeer in het kort: de door het meren-
+deel van de respondenten gerapporteerde goede gezondheid, het grote belang
+daarvan en de goeddeels gezonde leefwijze. Bovendien heerst vrij algemeen
+de overtuiging dat de mens zijn eigen gezondheid kan beïnvloeden (leefwijze),
+wat de onderzoekers vertalen in een sterkere neiging naar fundamentalistische
+opvattingen dan naar konsumentistische.
+De bevindingen van gepercipieerde goede gezondheid en eigen verantwoordelijk-
+heid ten -aanzien van de gezondheid staan wat paradoxaal tegenover het
+eerder gesignaleerde toegenomen gebruik van de gezondheidszorg. Afgezien van
+opgetreden vertekeningen in het onderzoek als gevolg van 'sociaal wenselijke
+antwoorden' kan deze paradox alleen verklaard worden door te wijzen op het
+grote belang van gezondheid voor het individu gekombineerd met de vanzelf-
+sprekendheid van het gebruik van gezondheidszorgvoorzieningen. De gevoelde
+eigen verantwoordelijkheid voor de gezondheid kan zich juist daardoor uiten
+in een toenemende medische konsumptie. Bovendien schept de professionele
+gezondheidszorg een deel van de eigen vraag, hetgeen ook onderdeel van de
+verklaring van de paradox kan vormen.
+13
+2.2.3.	Resumé
+Zowel struktuur als kuituur blijken in beweging. In de kuituur is een toe-
+nemende waarding voor gezondheid waarneembaar met mogelijk een groeiend
+verantwoordelijkheidsbesef en tegelijkertijd een groeiende medische kon-
+sumptie. In de struktuur is een toenemende politisering van de organisatie
+van de gezondheidszorg te konstateren ingegeven door de wens te komen tot
+kostenbeheersing. Struktuur en kuituur hangen natuurlijk sterk samen en
+kunnen alleen voor dit soort analytische doeleinden gescheiden worden. Die
+samenhang wordt door de overheid beseft: in het streven naar kostenbeheer-
+sing wordt niet alleen getracht de struktuur te reorganiseren maar ook de
+kuituur. Akties als Nederland Oké en het propageren van mantel- en zelfzorg
+kunnen in dit verband worden genoemd.
+De verbintenis van de hierboven beschreven struktuur en kuituur vormen de
+maatschappelijke kontekst waarbinnen het hier uitgevoerde onderzoek moet
+worden geplaatst.
+2.3.	Vraag en aanbod in de gezondheidszorg
+Al verschillende malen is de relatie tussen vraag en aanbod in de gezond-
+heidszorg aan de orde gekomen. In de literatuur wordt die relatie op uit-
+eenlopende wijzen beschouwd, veelal draaiend rond de vraag: bepaalt de
+vraag het aanbod of bepaalt het aanbod de vraag? (zie hoofdstuk 3) .
+Deze vraag staat in feite op hetzelfde niveau als de onderscheidingen tus-
+sen struktuur en kuituur, tussen objektief en subjektief en tussen katasko-
+pie en anaskopie. Tweedelingen die analytisch misschien noodzakelijk zijn,
+maar in de werkelijkheid niet bestaan. Het gaat telkens om twee zijden van
+één medaille. Diskussiëren over welke kant nu het juiste beeld van de werke-
+lijkheid is of zal opleveren is daarom zinloos. Beide kanten kunnen elkaar
+niet missen, een medaille met maar één kant bestaat niet.
+De neiging om voor één kant te kiezen vindt waarschijnlijk het ontstaan in
+de historie van de sociale wetenschappen. Veelal wordt namelijk onderscheid
+gemaakt tussen een kollektivistische traditie en een individualistische tra-
+ditie, aansluitend bij respektievelijk Durkheim en Weber. Zijderveld (1966)
+vertegenwoordigt de makers van dit onderscheid door te spreken over het "di-
+lemma in de sociale wetenschappen". Een dilemma duidt op een noodzakelijk
+te maken uitsluitende keuze. De aanwezigheid van zo'n dilemma kan echter
+worden ontkend door aan te sluiten bij Mead en zijn leerlingen. Zij leggen
+de nadruk op de interaktieprocessen tussen mensen waarin zowel individu als
+kollektiviteit worden gevormd. Hierop voortbouwend proberen Berger en Luckmann
+(1966) de relatie tussen objektief en subjektief te verklaren, als zijnde
+twee zijden van eenzelfde proces.
+Bij Belleman (1977) is - zonder bovenstaande theoretische notities - iets
+dergelijks aan te treffen voor de vraag en aanbod relatie in (een deel van)
+de gezondheidszorg. Het toegenomen gebruik van specialistische hulp probeert
+Belleman op verschillende manieren te verklaren. Hij konkludeert dat de on-
+derlinge verwevenheid tussen mentaliteitsveranderingen (vraag) en verande-
+ringen in de geneeskunde (aanbod) een betere verklaringsgrond vormt dan
+mogelijke veranderingen in bevolkingsopbouw en/of in morbiditeit. Deze ver-
+wevenheid is te vertalen in interaktieprocessen tussen hulpvragers en hulp-
+bieders. Simpel gezegd bepalen in die interakties de vragers wat (financieel)
+mag, de bieders wat (medisch) kan en beide wat ze willen. Daaruit resulteert
+een bepaalde hoogte van gebruik van medisch specialisten. Deze redenering
+geldt niet alleen voor deze vorm van medische konsumptie, maar voor alle
+vormen daarvan.
+Het ligt dan ook voor de hand dat een empirisch onderzoek naar medische kon-
+sumptie zich vooral zal richten op die interaktieprocessen. Daarmee wordt
+dan aangesloten bij bepaalde stromingen in de sociale wetenschappen, aan te
+duiden onder de verzamelnaam 'interaktionisme'. Dit interaktionisme beziet
+14
+en verklaart de gehele sociale werkelijkheid vanuit de interakties tussen
+individuen en tussen kollektiviteiten, zoals instituten en zelfs naties.
+Deze benadering van de werkelijkheid is vaak bijzonder overtuigend en
+biedt verklaringen waar op positivistische wijze verkregen causale rela-
+ties vraagtekens achterlaten.
+Er kleeft echter een groot bezwaar aan de interaktionistische benadering.
+Afhankelijk van de mening over het interaktionisme kan dit bezwaar op ver-
+schillende manieren worden vertaald. Kritici ervan stellen dat een uitge-
+werkte methodologie ontbreekt waardoor het interaktionistische empirische
+onderzoek niets bijdraagt aan de theorievorming en daar hooguit een atten-
+deerde bijdrage aan kan hebben. Vanuit een meer het interaktionisme welge-
+zind oogpunt kan evenwel worden gesteld dat op de methodologie niets is
+aan te merken, behalve dat ze niet aansluit bij de gangbare praktijk van
+theorie- en beleidvorming in de westerse samenleving.
+Hoe dit bezwaar wordt geformuleerd is in feite irrelevant, duidelijk is dat
+het onoverkomelijk is wanneer in navolging van Smith 'maatschappelijk rele-
+vant' gewerkt wil worden. Wil men ruimtelijke verschillen in welzijn neutra-
+liseren dan is er minder behoefte aan de exakte verklaring van die verschil-
+len dan aan richtlijnen of indikatoren die kunnen worden beïnvloed of waar-
+mee bij de allocatie van middelen rekening kan worden gehouden. Konkreet
+betekent dit hier dat de interaktionistische weg een te grote omweg vormt
+naar het praktische deel van dit onderzoek: het vaststellen van kriteria
+die in enigerlei vorm bij de planning van de gezondheidszorg kunnen worden
+gehanteerd. Vandaar dat hier wordt aangesloten bij de werkwijze van Smith
+en de 'sociale indikatoren beweging' en niet bij het interaktionisme. Het
+vraag en aanbod mechanisme zal niet in de eerste plaats als interaktiepro-
+ces worden beschouwd en zal ter verscherping van de analyse worden uiteen-
+gelegd. In het onderhavige onderzoek richt de empirische aandacht zich voor-
+al op de vraag. Niet, zoals duidelijk zal zijn, omdat de vraag de medische
+konsumptie verklaart, maar om richtlijnen voor een beleid ten aanzien van
+die vraagkant boven water te krijgen zonder vertroebeling door aanbodsfaktoren.
+15
+3. VERSCHILLEN IN MEDISCHE KONSUMPTIE: LITERATUUROVERZICHT
+Over medische konsumptie is al veel gezegd en geschreven. Zoveel dat het
+onmogelijk is hier een kompleet overzicht te geven. Het is echter wel mo-
+gelijk een zo'n kompleet mogelijke indruk van de belangrijkste literatuur
+met betrekking tot dit onderwerp samen te stellen. Dit is in het onder-
+staande gebeurd. Behalve een inleiding in het probleemveld beoogt dit
+hoofdstuk ook een aanloop te zijn ten behoeve van de te maken keuzen voor
+het empirische onderzoek.
+3.1.	Inleiding
+Een goede manier om een divers pakket literatuur overdrachtelijk te maken
+is er enige ordening in aan te brengen. Met behulp van onderstaand schema
+zal dit hier worden geprobeerd.
+Figuur 3.1.
+Schematische voorstelling van het vraagproces in de gezondheids-
+zorg, waardoor de mate van medische konsumptie wordt bepaald.
+Gezondheidszorgvoorzieningen
+Aanbod
+Bevolking _
+vraag
+c
+•H
+O)
+x?
+o
+UI
+c
+o
+konsumptienoodzaak
+--------------------------------------—-----------------------------,,
+gehonoreerde _________________ waargenomen Potentiële_____
+* vraag ("need")' vraag • vraag
+("demand") ("want")
+*■--- ■ > -------------------> >-------y--------)
+iconsumptiegeneigdheid
+gezondheidstoestand
+konsumptiemogelijkheid
+Dit schema is vooral gebaseerd op Cooper (1974) en Van de Ven e.a. (1980).
+Cooper maakt onderscheid tussen wat als drie momenten in het "vraagproces"
+naar gezondheidszorgvoorzieningen kan worden gezien, namelijk:
+- "want", de bij het individu aanwezige wil/behoeft naar een betere gezond-
+he id ;
+- "demand", de tot uiting gebrachte wil/behoefte (de waargenomen vraag);
+en
+- "need", de door de medische stand bepaalde noodzaak/behoefte (de geho-
+noreerde vraag).
+Van de Ven e.a. onderscheiden vijf kategorieën van factoren (variabelen)
+die de medische konsumptie beïnvloeden:
+a)	konsumptienoodzaak, de konsumptie die rechtstreeks voortkomt uit de
+"gezondheidstoestand", subjektief ervaren en/of objektief gekonstateerd
+van de bevolking.
+b)	konsumptiemogelijkheid, "...de toegankelijkheid van de verschillende
+vormen van medische zorg in materieel en immaterieel opzicht..."
+c)	konsumptiegeneigdheid, persoonskenmerken die de medische konsumptie
+medebepalen;
+d)	konsumptiebeinvloedend aanbod, de kenmerken van de gezondheidszorg die
+de medische konsumptie medebepalen;
+e)	konsumptiebeinvloedende regelingen, de invloed van wettelijke bepalingen,
+polisvoorwaarden e.d. op de medische konsumptie.
+Deze beide onderscheiden zijn in het schema samengenomen: konsumptiegeneigd-
+heid wordt in het "vraagproces" geplaatst tussen "want" en "demand" en
+konsumptiemogelijkheid tussen "demand" en "need".
+16
+Het is belangrijk te benadrukken dat het gepresenteerde schema géén causale
+verbanden in beeld brengt. Het is geen konseptueel model dat verwachte re-
+laties in de werkelijkheid weergeeft. Het is slechts één manier om de
+(wording van) medische konsumptie uiteen te leggen, met als doel de in het
+onderstaande besproken literatuur te plaatsen. Dat wil zeggen dat kan worden
+aangegeven op welk facet in de medische konsumptie de nadruk wordt gelegd.
+Dit kan met name uit de variabelenkeus worden afgelezen.
+3.2.	Medische konsumptie aanbod bepaald; de Leidse projektgroep
+In 1975 verscheen een belangrijk rapport: "Het ziekenhuis in de gezondheids-
+zorg" (Rutten, Van der Gaag en Van Praag) . Het was één van de eerste rappor-
+ten van de Leidse projektgroep Gezondheidsekonomie (o.l.v. prof. Van Praag)
+in een reeks die nog steeds doorloopt. In genoemd rapport wordt een ekonome-
+trisch model gepresenteerd waaruit blijkt dat het gebruik van ziekenhuis-
+bedden met name afhankelijk is van:
+- de leeftijdsverdeling van de bevolking
+- het beddenbestand
+- de huisartsendichtheid: hoe meer huisartsen, hoe minder beddengebruik
+- de verzekeringsvorm: ziekenfondsverzekerden maken meer gebruik van zie-
+kenhuisbedden dan partikulier verzekerden.
+Verschillen in gebruik van bedden kunnen dan ook tot deze variabelen worden
+teruggevoerd. Bikker (1980) komt in zijn model voor patiëntenstromen naar
+ziekenhuizen tot een vrijwel gelijkluidende konklusie.
+Worden deze modellen gerelateerd aan bovenstaand schema dan kan gesteld
+worden dat ze zich met name op de beide zijkanten richten: aanbods- en
+bevolkingskenmerken. Er wordt uitgegaan van konsumptienoodzaak. Naar het
+beleid toe wordt aanbodsbeïnvloeding als instrument ter manipulatie van de
+medische konsumptie voorgesteld. Deze konklusie wordt nog eens herhaald in
+het proefschrift van Rutten (1978). Rutten maakt onderscheid tussen verschil-
+lende fasen in de medische konsumptie, te weten:
+a)	het eerste medisch kontakt (met huisartsen)
+b)	de verwijzing als patiënt door de huisarts, en
+c)	de opname als patiënt.
+Alleen in fase a) spelen specifieke vraagfaktoren van de konsument een rol,
+daarna is de konsument als patiënt niet meer zo autonoom in zijn konsumptie-
+beslissingen. Met andere woorden de medische konsumptie is sterk afhankelijk
+van de aanbieders van medische zorg.
+Net als Rutten richten Posthuma en Van der Zee (1978) zich met name op het
+linkergedeelte van het schema: wat er gebeurt als de "need" is vastgesteld.
+Zij doen onderzoek naar het verwijsgedrag van huisartsen, waarbij gekeken
+wordt naar de grootte van de huisartspraktijk, afstand tot het ziekenhuis,
+urbanisatiegraad, regio, percentage bejaarden en aantal beschikbare bedden.
+Een belangrijke konklusie van dit onderzoek staat haaks op die uit het rap-
+port "Het Ziekenhuis in de Gezondheidszorg": "Hoe meer huisartsen in een
+gebied, hoe hoger de verwijscijfers". (dl 2. p. 59), en dus hoe meer opnamen.
+In de diskussie die tussen de Leidenaren en Posthuma en Van der Zee ontstaat,
+blijkt dat de tegenstelling van principiëler aard is. De laatstgenoemden
+stellen dat de (ekonometrische) makro-rekenmodellen van de Leidse projektgroep
+onvolkomen gespecificeerd zijn en daarom nooit mogen worden gebruikt ter
+sturing van de gezondheidszorg.
+Een dergelijk geluid wordt ook gehoord bij Hoogendoorn (1975) die met name
+vraagtekens plaatst bij de "ceteris paribus" clausule en het stilzwijgend
+uitgaan van verschillende causale relaties. Bovendien wijst hij erop dat
+mentaliteitsverschillen in het rekenmodel geen plaats hebben, terwijl ze
+volgens hem wel een belangrijle rol spelen in de medische konsumptie.
+17
+Ruijters en Slikker (1975) vallen vooral over het ontbreken van de regionale
+komponent in het model. Op meer en minder elegante wijze veegt Van Praag ge-
+noemde kritiek van tafel en handhaaft het vertrouwen in de ekonometrische
+modellen om de medische konsumptie (vooruit) te berekenen.
+Dit blijkt ook wel uit volgende publikaties uit Leiden: Hooijmans (1982 en
+1983), Hooijmans en Rutten (1982), Van der Gaag (1978) en Van Vliet en
+Van de Ven (1981 en 1983).
+Teruggrijpend naar het schema zijn er wel belangrijke verschillen te konsta-
+teren tussen de verschillende modellen. Zo wordt de medische konsumptie
+in de modellen van Hooijmans vooral berekend vanuit aanbodsfaktoren en een
+paar eenvoudig meetbare kenmerken van de bevolking (verzekeringsvorm, leeftijd-
+geslacht en bevolkingsdichtheid). Van der Gaag hierentegen betrekt in zijn
+model ook specifieke vraagfaktoren en daarmee komt het middendeel van het
+schema in beeld. De "medische behoefte" ("want") is volgens hem niet te meten
+en hij richt zich daarom op de waargenomen vraag ("demand"). Hij noemt vervol-
+gens drie kategorieën vraagbepalende faktoren:
+1)	bereikbaarheid
+2)	ziekte- en gezondheidsbeleving/perceptie
+3)	sociaal ekonomische status
+Hierbinnen vindt hij een aantal variabelen die de medische konsumptie beïn-
+vloeden: morbiditeit, levensproblemen, geslacht, behuizing, verzekeringsvorm
+en opleiding (in afnemend belang).
+Het door de Leidse projektgroep telkenmale waargenomen verschil in medische
+konsumptie tussen ziekenfondsverzekerden en partikulier verzekerden zette hen
+aan samen met het SWOKA dit verschil nader te onderzoeken. Dit betekende dat
+de pure aanbodsfaktoren en de eenvoudig meetbare bevolkingskenmerken worden
+aangevuld met faktoren die in het midden van het schema thuishoren. (Het schema
+steunt in belangrijke mate op deze uitbreiding in het onderzoek naar medische
+konsumptie; Van de Ven e.a. (1980).) In modelvorm wordt dit uitgewerkt door
+Van Vliet en Van de Ven (1981 en 1983).
+Dit model probeert alle aspekten van de medische konsumptie zoals die zijn weer-
+gegeven in het schema te vangen. Het model wordt geoperationaliseerd met behulp
+van variabelen en data uit een tweetal enquêtes (leefsituatie-onderzoek (1977)
+en Proef Onderzoek Medische Konsumptie). Als resultaat komt naar voren dat de
+medische konsumptie vooral wordt bepaald door de gezondheidstoestand, welke
+is gemeten met behulp van het aantal aandoeningen, de VOEG-skore, de geperci-
+pieerde gezondheidstoestand, tevredenheid met de gezondheid en aantal dagen
+ziek op bed. Het verschil in konsumptie tussen ziekenfondsverzekerden en
+partikulier verzekerden is terug te voeren op verschillen in gezondheidstoestand
+welke weer samenhangen met verschillen in opleiding, beroepsrisiko en woon-
+situatie .
+Resumerend kan worden gesteld dat in het werk van de Leidse projektgroep een
+ontwikkeling heeft plaatsgevonden van een vrij enge gerichtheid op aanbods-
+faktoren naar gerichtheid op het hele vraag- en aanbodgebeuren in de gezond-
+heidszorg. Voor een goed begrip van (verschillen in) medische konsumptie lijkt
+dit een positieve ontwikkeling. Wel blijft men in Leiden vasthouden aan de
+ekonometrische makromodellen, die zeker de inzichtelijkheid vergroten, maar
+waaraan ook belangrijke bezwaren kleven. Gedeeltelijk zijn dit nog dezelfde
+bezwaren die in het bovenstaande genoemd zijn: de (nog steeds) onvolkomen
+gespecificeerdheid, de aanname van causale relaties, de ceteris paribus
+clausule en het ontbreken van regionale differentiatie. Hier komt nog bij
+dat naarmate de modellen zich ontwikkelen het input-materiaal moeilijker
+te verzamelen en minder "hard" wordt.
+3.3.	De vraag naar diensten van de huisarts
+Een aparte vermelding verdient het proefschrift van Van der Zee (1982).
+18
+Van der Zee richt zich op het gebruik dat wordt gemaakt van de huisarts.
+Om dit gebruik te verklaren, moet volgens hem zowel naar aanbods- als
+vraagfaktoren worden gekeken. De beste weg hiertoe is onderzoek binnen
+een ruim aantal huisartsenpraktijken. Dit is echter een zeer kostbare
+en daarom onbereikbare aangelegenheid. De auteur ziet zich dan ook genood-
+zaakt een andere weg te kiezen en hij legt vraag en aanbod uiteen.
+Aan de vraagzijde richt hij zich uitdrukkelijk niet op de gehonoreerde
+vraag (de "need"). Bij de onderzoekingen naar de verklaring van de vraag
+is namelijk telkens de triviale konklusie naar voren gekomen dat de vraag
+naar medische voorzieningen wordt bepaald door de noodzaak tot medische
+konsumptie. De auteur probeert daarom de geuite klachten (de waargenomen
+vraag) te verklaren. Fysieke klachten worden bepaald door slechte gezond-
+heid en neurotische labiliteit. Deze beide komponenten worden met verschil-
+lende variabelen, afkomstig uit het LeefSituatieOnderzoek CBS (1977), in
+verband gebracht. De verklaarde variantie is echter laag. Desondanks wordt
+gepleit de gebruikte variabelen te blijven hanteren in verklaringsmodellen.
+Apart wordt aandacht besteed aan bevolkingsenquêtes met betrekking tot de
+gezondheid, zoals hier gebruikt en in het zojuist besproken werk van Van
+Vliet en Van de Ven (1981 en 1983). Met name wordt gewezen op de proble-
+men die ontstaan doordat gegevens van individuen moeten worden gekoppeld
+aan gemiddelde cijfers van de aanbodkant.
+Om de aanbödfaktoren met betrekking tot huisartsenhulp in beeld te krij-
+gen sluit Van der Zee aan bij Engelse onderzoeken. Het op initiatief van
+de arts tot stand gekomen kontakt en het verwijsgedrag wordt in relatie
+gebracht met praktijkgrootte, aard van de praktijk en situering ervan.
+Met name de rol die afstand tot de tweede lijnsvoorziening op het aantal
+verwijzingen speelt wordt door Van der Zee uitgewerkt, omdat hij een on-
+verwachte positieve relatie tussen beide vindt. De vraag kan gesteld wor-
+den welke invloed afstand in de Nederlandse situatie heeft. Dit leidt tot
+het begrip konsumptiemogelijkheid.
+3.4.	Medische konsumptie en konsumptiemogelijkheid
+Van de Ven c.s. (1980) noemen de volgende factoren die een rol spelen bij
+de konsumptiemogelijkheid: geldprijs/inkomen, tijdprijs en alternatieve
+opvangmogelijkheden. Ten aanzien van de eerste factor wordt gewezen op de
+eigen bijdrage en de verschillen in verzekeringsdekking.
+De geldprijs van de voorzieningen en het inkomen van de konsumenten speelt
+in Nederland een niet zo duidelijke, maar waarschijnlijk ook niet zo'n
+grote rol - nog niet. Dit wil ten aanzien van de konsumptiemogelijkheid
+echter niet zeggen dat de uitspraak van Morris (1980) niet kan worden
+onderschreven "......those whose needs are greatest don't necessarily
+receive the most or the best services. Free access to comprehensive care
+in the NHS does not itself assure fair shares of services or equity in
+benefits" (p.16).
+Bij de tijdsprijs wordt onder andere verwezen naar het artikel van Kruide-
+nier (1977) waarin wordt gekonstateerd dat de afstand tot het ziekenhuis
+van invloed is op het verwijspatroon en daarmee op de opnames: hoe verder
+van het ziekenhuis, hoe minder verwijzingen. Volgens Kruidernier zijn kon-
+sumptieverschillen tussen stad en platteland (urbanisatiegraad) voor een
+belangrijk deel op deze afstandsfaktor terug te voeren. Verder wordt een
+konstatering van Jessen (1974) aangehaald dat zich verschil voordoet tus-
+sen mannen in loondienst en zelfstandigen, in die zin dat de laatste ka-
+tegorie mannen het zich naar tijd gezien minder goed kan permitteren om
+naar de dokter te gaan.
+Als alternatieve opvangmogelijkheid wordt in de literatuur nogal eens de
+mantelzorg genoemd. Het blijft echter bij noemen: de specifieke invloed
+van mantelzorg op de medische konsumptie is niet bekend.
+19
+3.5.	Medische konsumptie en konsumptiegeneigdheid
+Algemeen bekend is dat in een situatie van onwelbevinden de ene persoon
+sneller bij de huisarts is te vinden dan de andere persoon. Maar hoe dit
+precies komt is in belangrijke mate nog onduidelijk. Van de Ven c.s. (1980)
+noemen in verband met deze konsumptiegeneigdheid de volgende variabelen:
+ziektebenadering, medische kennis en houding ten opzichte van preventie.
+Behalve misschien wat betreft de medische kennis die sterk zal samenhangen
+met de genoten opleiding (en daarmee met SES), zal het duidelijk zijn dat
+konsumptiegeneigdheid afhankelijk is van met name psychologische en socio-
+logische faktoren.
+Jessen c.s. (1974) wijzen op het verband tussen gezondheidsbeleving en
+medische konsumptie (huisartsenbezoek en medicijngebruik): naarmate de
+eerste slechter is, is de tweede groter. Overigens wordt benadrukt dat een
+goede gezondheidsbeleving ("subjectief") niet kan worden geïnterpreteerd
+als afwezigheid van medisch waarneembare klachten ("objektief"), en omge-
+keerd. Ten aanzien van het uitstellen van de medische konsumptie hebben
+Jessen c.s. het volgende gevonden: langdurig uitstellen (langer dan één
+maand) is verbonden met de volgende persoonskenmerken: oudere leeftijd,
+vrouwelijk geslacht, lagere opleiding, niet in loondienst werkzaam en een
+hoge mate van onwelbevinden.
+Mootz (1981) houdt zich in haar proefschrift expliciet bezig met konsumptie-
+geneigdheid. Zij vindt géén verband tussen de ernst van de ziekte en de
+konsumptiegeneigdheid; ook hier wordt de beleving van gezondheid en medische
+zorg belangrijker geacht. De -belangrijke- invloed van het persoonlijke
+netwerk van de patiënt op zijn medische konsumptie werkt eveneens via de
+gevoelsmatige kant en niet zozeer via de rationele: beschouwt en behandelt
+men de patiënt in de eerste plaats als zieke of niet. Mootz vindt met be-
+trekking tot de konsumptiegeneigdheid geen verschil tussen ziekenfonds-
+en partikulierverzekerden.
+Over deze onderzoeken naar konsumptiegeneigdheid kan konkluderend worden
+opgemerkt dat ze zeker van (groot?) belang zijn. Ze kunnen belangrijke data
+leveren voor verdere onderzoekingen of rekenmodellen en meer algemeen het
+inzicht in - verschillen in -.medische konsumptie vergroten. Voornaamste
+bezwaren zijn het mikroniveau, de beperktheid - het grootste deel van het
+schema wordt als gegeven aangenomen - en de moeilijke vertaalbaarheid van
+het gevondene in beleidsmaatregelen.
+3.6.	Medische konsumptie en gezondheidstoestand/konsumptienoodzaak
+De koppeling tussen gebruik van medische voorzieningen en de gezondheids-
+toestand van de konsument ligt voor de hand. Worden verschillen in konsump-
+tie gekoppeld aan verschillen in gezondheidstoestand dan wordt uitgegaan
+van konsumptienoodzaak. Uit het schema moge duidelijk zijn dat een derge-
+lijke koppeling niet 100% dekkend hoeft te zijn.
+Hoewel er ook bezwaren aan worden gesignaleerd vormen de sterftecijfers
+voor verschillende auteurs een belangrijke graadmeter voor de gezondheids-
+toestand, daarnaast worden ziekenhuisopnamen en arbeidsongeschiktheid ge-
+noemd (V.B.O. 1981, Mackenbach en Koch 1984). Het is echter aannemelijk dat
+genoemde graadmeters slechts uitingen zijn van achterliggende zaken die
+werkelijk de gezondheidstoestand van het individu bepalen. Hierbij wordt
+vooral gedacht aan de Sociaal Ekonomische Status en daarmee samenhangende
+zaken als beroepsrisiko's, leefgewoonten, fysieke omgeving e.d. Een over-
+zicht van de onderzoeken op dit gebied wordt gegeven door Zielhuis (1980) ,
+maar ook in het werk van Morris (1980), Mootz (1980) en het Vergelijkend
+Buurtonderzoek Amsterdam (V.B.O. 1981) worden relaties tussen dergelijke
+20
+variabelen en de gezondheidstoestand gelegd.
+Als algemene konklusie komt hierbij naar voren dat duidelijke aanwijzingen
+bestaan voor een verband tussen lagere SES en slechtere gezondheidstoestand.
+Deze samenhang kan het verschil in medische konsumptie tussen ziekenfonds-
+en partikulier-verzekerden (deels) verklaren (Mootz 1980). Zielhuis (1980)
+konstateert echter dat er nog veel kennis ontbreekt om de exacte invloed
+van de SES op de gezondheidstoestand te bepalen.
+Met de onderzoeken naar de gezondheidstoestand komt ook de ruimtelijke
+komponent in beeld. Niet de gezondheidstoestand van het individu staat in
+de literatuur centraal, maar die van bevolkingsgroepen onderscheiden naar
+SES en/of naar regio.
+3.7.	Medische konsumptie in de ruimte
+Zo doen Mackenbach en Koch (1984) het genoemde onderzoek naar de gezondheids-
+toestand om regionale financiële plafonds te kunnen vaststellen (Koch en
+Mackenbach, 1984) . De koppeling tussen gezondheidstoestand en behoefte aan
+medische zorg wordt door hun duidelijk gelegd. De auteurs willen een verdeel-
+sleutel ontwikkelen op basis van de volgende uitgangspunten:
+1) de toewijzing moet op objektieve wijze plaatsvinden; en
+2) rekening houdend met eventuele regionale behoefteverschillen.
+Onder behoefte verstaan zij de normatieve behoefte, dat wil zeggen vastgesteld
+door professionele zorgverleners. De door de bevolking ervaren behoefte, te
+meten via bevolkingsenquêtes, leent zich niet voor het nagestreefde objektie-
+ve allokatiemodel. Wil men verschillen in ervaren behoefte meten (om ze in
+de allokatie te betrekken) dan moet in ieder geval een direkte koppeling worden
+gemaakt met de waargenomen medische konsumptie, aldus Koch en Mackenbach.
+Konkreet betekent een en ander hier dat in het allokatiemodel geen gebruik
+wordt gemaakt van psychologische, sociale en/of kulturele kriteria. De ver-
+deelsleutel wordt - na korrekties voor transregionaal verkeer e.d. - uitein-
+delijk samengesteld op basis van omvang, leeftijd en geslacht van de popula-
+tie en morbiditeit (gemeten via sterfteverschillen) .
+Het model van Koch en Mackenbach houdt, gezien het bovenstaande slechts met
+een fraktie van het mogelijk aantal van invloed zijnde variabelen rekening.
+Collaris (1980) bijvoorbeeld stelt dat gevonden regionale verschillen niet
+kunnen worden verklaard door demografische faktoren alleen. Het lijkt niet
+juist de behoefte ofwel de te verwachten vraag te bepalen met variabelen die
+de waargenomen vraag niet geheel kunnen verklaren. Al moet hierbij worden op-
+gemerkt dat Koch en Mackenbach een werkbaar model hebben aangedragen, terwijl
+Collaris moet bekennen niet precies te weten welke variabelen dan wél allemaal
+een rol spelen. Rutten en Baay (1980) benadrukken het belang van regionale
+verschillen in aanbod van voorzieningen om de regionale konsumptieverschil-
+len te verklaren. Terwijl ook Hogewind (1983) de regionale konsumptie duide-
+lijk bepaald ziet door vraag- én aanbodfaktoren en ter verklaring van regio-
+nale verschillen in konsumptie de verschillen in regionaal aanbod belang-
+rijker acht dan die in de regionale vraag. Stijnenbosch (1983) probeert even-
+eens de in de ruimte uiteenlopende opnamecoëfficiënten te verklaren met be-
+hulp van zowel vraag- als aanbodfaktoren.
+Hoewel alle zojuist genoemde auteurs van mening zijn dat regionale verschil-
+len in medische konsumptie samenhangen met regionale verschillen in het aan-
+bod en niet louter op verschillen in de gezondheidstoestand van de regionale
+bevolking zijn terug te voeren, is het de vraag in hoeverre bij de regionale
+behoeftebepaling naar gezondheidszorgvoorzieningen die aanbodszijde moet
+worden betrokken. Koch en Mackenbach doen het niet. Ypema en De Haan (1983)
+in hun onderzoek naar regionale behoefte aan ambulante voorzieningen voor
+21
+geestelijke gezondheidszorg eveneens niet. De laatsten proberen de behoefte
+los te koppelen van het vraag- en aanbodmechanisme door aan de hand van de
+aanwezigheid van risikogroepen regionale risiko-coëfficiënten te bepalen,
+die als hulpmiddel bij de verdeling van middelen over de regio's kunnen die-
+nen. Hoewel op vrij simpele wijze aan de regio's een coëfficiënt kan worden
+toebedeeld, is het niet duidelijk hoe waardevol een en ander nu is: in de
+methodiek zitten wat zwakke plekken betreffende de data, de coëfficiënten
+zijn weinig differentiërend en tonen een sterk verband met de urbanisatie-
+graad. Of de behoefte wel is los te koppelen, met name van de vraag, vragen
+Ypema en De Haan zich dan ook op het eind af (p.39). Tevens kunnen gezien
+de inertie van de gezondheidszorgstruktuur, vraagtekens worden geplaatst
+bij het pure behoefte-onderzoek.
+Het VBO Amsterdam lijkt in dit verband realistischer. Daar wordt eerst ge-
+vraagd naar het voorkomen van verschillen in gezondheidstoestand per buurt.
+Vervolgens wordt getracht deze verschillen te verklaren met behulp van de
+volgende clusters van variabelen: bevolkingsdichtheid, alleenstaanden, hetro-
+geniteit, stabiliteit van de bevolking, sociaal economische status, woning-
+kwaliteit, fysisch milieu en huisartsendichtheid. Tot slot wordt dan gevraagd
+of die verschillen al dan niet via de gezondheidszorg zijn te beïnvloeden.
+Resumerend kan worden gesteld dat de ruimtelijke komponent in de literatuur
+over medische konsumptie vooral in verband met het verdelingsvraagstuk naar
+voren komt. Hierbij wordt uitgegaan van waargenomen konsumptieverschillen
+in de ruimte of er wordt een behoefte-/gezondheidstoestand onderzoek gedaan.
+In de VBO is een soort kombinatiepoging gedaan, maar hoe de relatie tussen
+beide precies ligt is niet geheel duidelijk. Wel duidelijk is dat beide werk-
+wijzen nog niet tot geheel bevredigende resultaten hebben geleid.
+3.8.	Konklusie
+Allereerst moet hier worden opgemerkt dat waar in het bovenstaande telkens
+over medische konsumptie is gesproken in de meeste gevallen slechts op het
+gebruik van een beperkt aantal voorzieningen is gedoeld. In de literatuur
+wordt medische konsumptie vooral gemeten aan de verwijzingen, de opnames in
+ziekenhuizen en de verpleegduur. Het is van belang attent te zijn op de ge-
+bruikte operationalisatie van medische konsumptie, zeker wanneer vergelij-
+kingen tussen verschillende onderzoeken worden gemaakt.
+Uit het bovenstaande overzicht van de literatuur kan nu worden gekonkludeerd
+dat de medische konsumptie op verschillende manieren is benaderd. Met behulp
+van een schema is getracht de verschillende benaderingen te plaatsen.
+Slechts in weinig onderzoek komt het gehele schema, het gehele vraag en aan-
+bodproces aan de orde; alleen de laatste modellen van de Leidse projectgroep
+gaan in die richting. Deze modellen missen echter de ruimtelijke komponent
+waarin het hier opgestarte onderzoek juist is geïnteresseerd.
+Voor die regionale komponent kan beter worden aangesloten bij Stijnenbosch
+en Hogewind, dus uitgaan van regionale konsumptieverschillen en die proberen
+te verklaren. Een belangrijk aanknopingspunt zal ook het VBO Amsterdan kun-
+nen worden dat weliswaar met kleinere (homogene?) ruimtelijke eenheden met
+gelijke urbanisatiegraad werkt dan dit onderzoek zal doen, maar verschillen-
+de variabelen aandraagt die in andere onderzoeken niet zo duidelijk aan bod
+komen. Te noemen zijn hierbij: de stabiliteit van de bevolking (migratiege-
+gevens), de ethnische samenstelling en het fysisch milieu (met name milieu-
+verontreiniging) .
+Dat specifieke vraagfaktoren een rol spelen in de medische konsumptie kan
+op grond van de literatuur wel worden onderschreven. Welke faktoren echter
+precies verantwoordelijk zijn voor de ruimtelijke konsumptieverschillen is
+nog niet duidelijk.
+INTERMEZZO
+Met deze konklusie dat vraagfaktoren inderdaad een rol spelen in de
+medische konsumptie is het eerste deel van de probleemstelling beant-
+woord. De op dit gebied verschenen literatuur heeft voldoende houvast
+geboden om tot dit antwoord te komen.
+Om de tweede vraag van de probleemstelling -wélke vraagfaktoren kunnen
+regionale verschillen in medische konsumptie verklaren?- te beantwoorden,
+schiet het literatuuronderzoek echter te kort. Daarom wordt in het
+volgende hoofdstuk een eigen empirisch onderzoek gepresenteerd, waarmee
+zal worden getracht enig licht op deze tweede vraag te werpen.
+Hiermee is een scheiding in het karakter van deze skriptie gemarkeerd.
+Veel meer dan in de voorafgaande hoofdstukken namelijk zullen in het
+navolgende keuzen worden gemaakt die tot op zekere hoogte arbitrair zijn.
+Er kan niet worden gepretendeerd dat de gekozen empirische weg de enige
+juiste of zelfs de beste weg is. Dit is een gevolg van het feit dat het
+onderzoekveld van medische konsumptie weliswaar enigszins is ontgonnen,
+maar nog lang niet in kuituur gebracht. Hier kan nog op vele manieren
+aan worden bijgedragen, waarvan het hier gepresenteerde onderzoek er
+slechts één is.
+22
+4. HET EMPIRISCHE ONDERZOEK
+Het literatuur-overzicht in het vorige hoofdstuk heeft duidelijk gemaakt
+dat medische konsumptie niet eenvoudig is te verklaren. Zeker is wel dat
+bepaalde bevolkingskenmerken, vraagfaktoren, een rol spelen bij de tot-
+standkoming van de konsumptie. In de literatuur worden verschillende
+vraagfaktoren genoemd. Door het ontbreken van een regionale komponent in
+de meeste gedane onderzoeken, is het echter niet mogelijk om op dit moment
+al vraagfaktoren die bij de regionale planning gehanteerd kunnen worden
+aan te geven.
+Hierom is het zinnig om een eigen empirisch onderzoek uit te voeren,
+waarin die regionale komponent heel nadrukkelijk aanwezig is. De opzet
+van een dergelijk onderzoek zal in dit hoofdstuk worden geschetst. Hiervoor
+wordt verwezen naar het bijgevoegde stappenschema (figuur 4.1.). In dit
+schema wordt een overzicht geboden van de werkwijze van het onderzoek.
+Dit schema zal hier worden gevolgd, de resultaten van het onderzoek zullen
+in het volgende hoofdstuk worden gepresenteerd.
+Een keuze die niet in het stappenschema is weergegeven, betreft het tijd-
+stip van meting van de verschillende variabelen. Dit is zo omdat bij de
+keuze van de meetjaren 1974 en 1982 geen onderzoektechnische overwegingen
+een rol hebben gespeeld, doch slechts pragmatische. Uitgaande van het feit
+dat het onderzoek gebaseerd zal zijn op sekundaire databronnen, is gekozen
+voor 1982 als meest recente datum, waarvan veel gegevens beschikbaar zijn
+en 1974 als jaar waarvan de eerste betrouwbare konsumptiegegevens via de
+ziekenfondsen verkrijgbaar zijn. Er zijn nu drie meetmomenten binnen het
+onderzoek, namelijk 1974, 1982 en de procentuele veranderingen tussen 1974
+en 1982.
+Dat er meerdere meetmomenten zijn aangebracht berust overigens wel op een
+onderzoektechnische reden. Er zal namelijk met een gering aantal cases
+worden gewerkt, die bovendien niet aselekt zijn gekozen. Om de resultaten
+minder afhankelijk van het toeval te maken is niet gekozen voor een dwars-
+doorsnede in de tijd, maar voor een longitudinale studie. Het bezwaar hier-
+van is dat de resultaten beïnvloed kunnen zijn door ontwikkelingen die
+buiten de waarneming van dit onderzoek vallen (strukturele veranderingen
+en/of wijzigingen in de omgeving van de cases) . Waar nodig zal op de
+mogelijke invloed van die ontwikkelingen worden gewezen.
+4.1.	Bepaling van het ruimtelijk analyseniveau
+Een eerste keuze betreft de bepaling van de ruimtelijke eenheid waarop
+gemeten zal worden. Hierbij dienen zich verschillende mogelijkheden aan:
+- Het provinciaal niveau heeft het voordeel dat veel gegevens beschikbaar
+zijn. Het nadeel is echter dat de analyse van de konsumptieverschillen
+erg grof blijft.
+- Hetzelfde geldt voor de COROP-regio's.
+- De gezondheidsregio's of subregio's daarvan hebben het voordeel dat ze
+in de planning van de gezondheidszorg een rol spelen en veel gegevens
+over voorzieningen en konsumptie voorhanden zijn. Belangrijk nadeel is
+dat andere gegevens m.b.t. de vraagfaktoren niet op dit niveau aanwe-
+zig zijn. Er zal dan van gemeenteniveau af moeten worden geaggregeerd.
+- Op het gemeenteniveau zijn meer gegevens beschikbaar dan op het niveau
+van gezondheidsregio's, maar minder dan op het provinciaal en COROP-
+niveau. Het grote voordeel van gemeenten is dat dit niveau een scherp-
+23
+stellen van de konsumptieverschillen mogelijk maakt. Dit levert een
+fijne analyse op, wat voor dit exploratieve onderzoek van doorslagge-
+vend belang is.
+Om enerzijds een grotere betrouwbaarheid van de onderzoekresultaten
+mogelijk te maken en anderzijds met het oog op de beschikbaarheid van
+de gegevens, is hier de beperking aangebracht slechts gemeenten met meer
+dan 20.000 inwoners in beschouwing te nemen. Tevens zijn de vier grootste
+gemeenten vanwege hun uitzonderlijke karakter buiten beschouwing gelaten.
+Het is voor het onderzoek niet nodig om de onderscheiden variabelen voor
+alle van de ongeveer 150 overgebleven gemeenten te meten. Er zal slechts
+een selektie van enkele gemeenten worden gemaakt waaraan het relatieve
+belang van de verschillende vraagfaktoren kan worden afgemeten, opdat in
+een later stadium de resultaten aan andere gemeenten kunnen worden getoetst.
+Hierbij zijn verschillende selektiekriteria denkbaar. Er is gekozen voor
+een zo groot mogelijke gelijkheid m.b.t. de bevolkingssamenstelling naar
+leeftijd en geslacht. Door deze faktoren uit te schakelen wordt een betere
+analyse mogelijk van de eventuele invloed van andere faktoren op de medische
+konsumptie. Immers, het is vrijwel zeker dat leeftijd en geslacht de me-
+dische konsumptie beïnvloeden. Bovendien wordt leeftijd al als kriterium
+in de planning gehanteerd. De in die planning gehanteerde leeftijdskatego-
+rieën, te weten: 0-14 jaar, 15-44 jaar. 45-64 jaar en 65 jaar en ouder,
+zullen hier voor de selektie worden gebruikt. Met name de twee oudere
+leeftijdskategorieën zullen vanwege hun belangrijke inbreng in de medische
+konsumptie als selektiekriterium gelden.
+Naast het selektiekriterium van de zo sterk mogelijk overeenkomende be-
+volkingspyramiden, is een zo groot mogelijk spreiding over het land van
+de aldus geselekteerde gemeenten nagestreefd. Dit laatste eveneens met het
+oog op het zo scherp mogelijk stellen van de verschillen tussen de gemeen-
+ten. Na toepassing van deze twee kriteria bleef een aantal groepjes van
+deze gemeenten over, die in aanmerking kwamen voor het onderzoek. De keus
+viel op Ermelo, Hoogezand-Sappemeer, Tilburg en Zaanstad.
+24
+Figuur 4.1.
+STAPPENSCHEMA WERKWIJZE ONDERZOEK
+25
+4.2.	De geselekteerde gemeenten
+De genoemde gemeenten voldoen redelijk aan het eerste selektiekriterium
+(zie figuur 4.2.) en goed aan het tweede (zie figuur 4.4.)
+Uit fig.2. blijkt dat in de leeftijdsklasse 65 jaar en ouder de
+verschillen tussen de gemeenten zeer gering zijn, het grootste verschil
+bedraagt 2,4%o. In de kategorie 45 - 64 jaar is dit 5,6%o. In de jongere
+leeftijaskategorieën zijn deze verschillen echter beduidend groter: 42,l%o
+in de kategorie 0—14 jaar, 39,6%o in die van 15 - 44 jaar. In Zaanstad
+is de verhouding tussen mannen en vrouwen precies gelijk, in Ermelo zijn
+vrouwen iets oververtegenwoordigd. Het grootste verschil bedraagt 11,5%° .
+Van de kaart is af te lezen dat de vier gemeenten redelijk gespreid zijn
+over het land. Duidelijk behoren ze alle vier tot andere regio's.
+4.3.	Verwachtingen ten aanzien van de medische konsumptie voor de
+geselekteerde gemeenten
+Om een goede interpretatie van de uitkomsten van het empirisch onderzoek
+mogelijk te maken, is het noodzakelijk na te gaan welke verschillen in
+medische konsumptie zijn te verwachten op grond van leeftijd en geslachts-
+opbouw en van het aanbod van gezondheidszorgvoorzieningen.
+4.3.1. Verwachtingen ten aanzien van medische konsumptie op basis
+van leeftijd- en geslachtsopbouw
+Bij het selekteren van de gemeenten is de leeftijd- en geslachtsopbouw
+als kriterium gehanteerd om de invloed ervan te neutraliseren. Om twee
+redenen moet worden gekeken of er desondanks een beïnvloeding van de
+medische konsumptie kan plaatsvinden.
+In de eerste plaats zijn de bevolkingspiramides niet exakt gelijk.
+In de tweede plaats is geselekteerd voor het jaar 1982 terwijl in het
+onderzoek ook voor het jaar 1974 zal worden gemeten.
+De vergelijking van de leeftijd- en geslachtsopbouw van de vier gemeenten
+kan geschieden aan de hand van figuur 4.2. en 4.3. Om verwachtingen
+ten aanzien van de medische konsumptie te formuleren is het zaak met
+namp te letten op die groepen in de bevolking waarvan bekend is dat
+zij relatief veel gebruik maken van gezondheidszorgvoorzieningen. Vier
+van dergelijke groepen zijn te onderscheiden: pasgeborenen, vrouwen
+van 20-45 jaar, ouderen (m.n. 65+) en vrouwen (t.o.v. mannen). De eerste
+twee van deze groepen komen in de vraagfaktoren (demografische faktoren)
+aan de orde. Dit betekent dat hier vooral is gekeken naar de verhouding
+mannen-vrouwen en het aandeel ouderen.
+Op basis hiervan wordt de verwachting uitgesproken dat Ermelo op grond
+van pure leeftijd- en geslachtsopbouw in 1974 een relatief hogere me-
+dische konsumptie zal hebben dan de andere gemeenten. De opgetreden ver-
+anderingen in de verschillende bevolkingspiramiden doen de sterkste
+toename in de medische konsumptie in de periode 1974 - 1982 verwachten
+in Tilburg en de minst grote toename in Ermelo.
+432 Verwachtingen ten aanzien van medische konsumptie op basis van
+het aanwezige aanbod van gezondheidszorgvoorzieningen
+r moet begonnen worden te vermelden dat bij de opzet van dit onder-
+k de beschikbaarheid van datamateriaal betreffende de gezondheids
+Z oorzieningen in Nederland is overschat. Aanbodgegevens zijn aan-
+Figuur 4.2. Bevolkingspyramiden van de geselekteerde
+gemeenten met elkaar vergeleken, 1982
+Figuur 4.3. Bevolkingspyramiden van de geselekteerde
+gemeenten met elkaar vergeleken, 1974
+..... Ermelo
+-----Tilburg
+----- Hoogezand - Sappemeer
+----- Zaanstad
+1982 CBS
+Ermelo
+Tilburg
+Hoogezand - Sappemeer
+Zaanstad
+1974 CBS
+27
+riguur 4.4. Ligging van de vier igeselekteerde gemeenten
+i-’
+28
+zienlijk moeilijker verkrijgbaar dan verwacht. Dit geldt zowel in de
+breedte als in de tijd en zowel voor de kapaciteit van de voorzienin-
+gen als voor de produktiviteit ervan. In de breedte betekent het dat
+bepaalde voorzieningen veel "onzichtbaarder" blijven dan andere; m.n.
+voor de extramurale sektor zijn weinig gegevens beschikbaar. In de
+tijd blijkt dat voor het merendeel een goede registratie een tamelijk
+recent verschijnsel is.
+Hieruit kunnen twee konklusies worden getrokken:
+Ten eerste, de verzameling van data betreffende het aanbod vergt min-
+stens evenveel aandacht en inspanning als in dit onderzoek aan de ge-
+gevensverzameling van de vraagfaktoren is besteed.
+Ten tweede is duidelijk dat het onderhavige onderzoek is gehandikapt
+door de gebrekkige aanwezigheid van aanbodgegevens.
+Op grond van de wel aanwezige aanbodgegevens (m.n. van intramurale
+voorzieningen) kunnen de volgende verwachtingen worden geformuleerd.
+De hoogste medische konsumptie wordt zowel in 1974 als in 1982 in
+Tilburg verwacht en de minste in Hoogezand-Sappemeer, dat geen zieken-
+huis bezit. In Zaanstad en Tilburg wordt in de periode 1974 - 1982 een
+sterkere stijging (of geringere daling) van de konsumptie verwacht
+dan in Ermelo en Hoogezand-Sappemeer.
+4.4.	De waargenomen medische konsumptie
+Naast kapaciteitsgegevens blijken ook produktiecijfers van gezondheids-
+zorgvoorzieningen (= medische konsumptie) moeilijk te bemachtigen. De
+konsumptiecijfers die voor de vier gemeenten wel beschikbaar zijn, zijn
+bijeengebracht in tabel 4.1. Er zijn zeven vormen van medische konsumptie
+onderscheiden, waarvoor per gemeente het gebruik per 1.000 van de bevol-
+king is aangegeven. Ter vergelijking zijn de cijfers voor de gehele
+Nederlandse bevolking in de tabel opgenomen.
+Tabel 4.1. Medische konsumptie; gebruik van verschillende gezondheidszorgvoor-
+zieningen per 1000 van de gemeentebevolking, 1974 en 1982.
+GEMEENTE	Ermelo		Hoogezand-£		Tilburg		Zaanstad		Nederland totaal	
+	1974	1982	1974	1982	1974	1982	1974	1982	1974	198.
+VOORZIENING										
+verwijskaarten huisarts*	432, 1	503,0	388,6	439,9	518,2	530,3	479,8	525,0	477,9	515,2
+totaal aantal i ngeschrevenen a.g.g.z.	-	7,0	-	21,7	-	18,9	-	12,6	-	11,7
+opnamen in ziekenhuizen	126,2	107, 3	84,0	93,8	112,1 .	123,7	102,2	115,2	103,9	11J.U**
+verpleegdagen* in ziekenhuizen	2239, 1	2388,8	1499,9	1619,2	1926,4	1831,0	1927,7	1879,9	2028,1	1850,11
+gemiddelde* verpleegduur	18,0	19,0	16,2	16,4	16,4	13,6	111,4	H, 1	18, ■>	14, •
+opnamen in verpleeghui!	-	1,6	-	2,4	-	2,4	-	3,9	-	•- 1
+dagbehandeling in verpleeghuis	-	0,0	-	0,3	-	0,4	-	0,6		
+* LISZ-gegcvens, ** gpjichat cijfer	cijfer	s dus alleen voor		ziekenfondsverzekerden			Bron:	L1SZ NZI NVAGG SMR		
+29
+Een eerste beschouwing leert dat er voor 1982 aanzienlijk meer cijfers
+beschikbaar zijn dan voor 1974. Dit betekent dat voorgestane vergelij-
+king tussen de twee jaren slechts voor enkele kategorieën is te rea-
+liseren. Dat is jammer, want het zal het trekken van betrouwbare eind-
+konklusies bijzonder bemoeilijken.
+Bovendien is het zo dat de verschillende konsumptiecijfers niet alle-
+maal even betrouwbaar zijn. Het meest betrouwbaar is het aantal zie-
+kenhuisopnamen. Het aantal ingeschrevenen bij de ambulante geestelijke
+gezondheidszorg hierentegen is dusdanig onbetrouwbaar (o.a. vanwege
+de belangrijke poliklinische kapaciteit in Ermelo die niet in het
+cijfer is meegenomen) dat het weliswaar nog wordt meegenomen in het
+onderzoek, maar er geen konklusies over zullen worden geformuleerd.
+Iets wat direkt opvalt in tabel 4.1. is het grote aantal ziekenhuis-
+opnamen en verpleegdagen aldaar voor de populatie van Ermelo. Hierom
+is in tabel 4.2. het opnamecijfer nader bestudeerd door het uit te
+splitsen naar verzekeringswijze.
+Tabel 4.2. Medische konsumptie, opnamen in ziekenhuizen uitgesplitst naar
+verzekeringswijze per 1000 van de gemeentebevolking, 1974 en 1982.
+GEMEENTE Ermelo Hoogezand-S. Tilburg Zaanstad Nederland totaal
+	1974	1982	1974	1982	1974	1982	1974	1982	1974	1982
+OPNAMEN ziekenfonds- verzekerden	124,6	125,6	92,7	98,9	117,4	135,5	104,8	133,1	108,6	122,2
+partiKulrer verzekerden	127,9	87,5	54,9	76,7	97,8	93,0	97,4	77,2	93,5	94,3
+totale po- pulatie	126,2	107,3	84,0	93,8	112, 1	123,7	102,2	115,2	103,9	±113
+4 ziekenfonds- verzekerden	52»	52»	77»	77»	73»	74»	65»	68»	69»	67»
+Bron: SMR
+LISZ
+eigen berekening
+♦ cijfer voor 1976: eerdere cijfers onbetrouwbaar
+in deze tabel kan worden waargenomen dat zich bijzonder grote verschil-
+len voordoen tussen ziekenfonds- en partikulier verzekerden. Iets wat
+in de literatuur veel aandacht heeft gekregen. Meer algemeen kan uit de
+cijfers worden gelezen dat ziekenfondsverzekerden en partikulieren een
+30
+verschillende tendens hebben gekend t.a.v. het aantal opnamen in zie-
+kenhuizen. (Een ontwikkeling die mogelijk vanuit een strukturele ont-
+wikkeling, b.v. verzekeringsbepalingen, verklaarbaar is).
+Duidelijker is dit weergegeven in tabel 4.3. waarin de procentuele
+toename in het gebruik van de voorzieningen waarvoor gegevens beschik-
+baar waren, staat weergegeven.
+Tabel 4.3. Medische konsumptie; toename m gebruik van verschillende
+voorzieningen in de periode 1974-1902 per gemeente.
+In procenten (1974 = 100%).
+gemeente	Ermelo	Hoogezand-S.	Tilburg	Zaanstad	Nederland
+VOORZIENING					
+verwijskaar- ten huisarts	16,4	13,2	2,3	9,4	7,8
+opnamen in ziekenhuizen	-15,0	11,7	10,3	12,7	8,8
+w.v. zieken- fonds	0,8	6,7	14,6	27,0	12,5
+w.v. parti- kulier	-31,6	39, 7	-4,9	-20,7	0,9
+verpleegdagen in ziekenhui- zen	6,7	8,0	-5,0	- 2,5	-8,9
+gemiddelde verpleegduur	5,6	1,2	-17,0	-23,4	-19,5
+Op basis van deze drie tabellen kunnen de in de vorige paragraaf
+geformuleerde verwachtingen worden getoetst. Het blijkt dat ze deels
+worden bevestigd en deels worden ontkend. De verwachting dat Tilburg
+en Zaanstad een wat hogere konsumptie hebben dan met name Hoogezand-
+Sappemeer, wordt door de meeste cijfers wel bevestigd. In Hoogezand-
+Sappemeer echter blijkt de medische konsumptie over de hele linie
+gestegen, iets wat niet met de verwachte ontwikkeling t.o.v. de andere
+gemeenten overeenkwam. De suggestie kan worden geopperd dat sprake is van
+een soort inhaaleffekt, die mogelijk vanuit verschillen in kulturele ontwik-
+keling verklaarbaar is. De opvallende positie van Ermelo is al genoemd.
+Al met al worden de verwachtingen ten aanzien van verschillen in me-
+dische konsumptie zoals die in de vorige paragraaf zijn geformuleerd
+maar ten dele door de beschikbare konsumptiegegevens bevestigd. Hoe-
+wel de verwachtingen slechts indikatief zijn opgesteld en daarom niet
+volkomen betrouwbaar, lijkt het in dit hoofdstuk gepresenteerde cij-
+fermateriaal overtuigend genoeg om te konkluderen dat verschillen in
+leeftijd- en geslachtsopbouw en in de kapaciteit van het aanbod aan
+gezondheidszorgvoorzieningen de waargenomen verschillen in medische
+konsumptie niet geheel kunnen verklaren. Om mogelijke (andere) ver-
+klaringsgronden te vinden zullen de hier gepresenteerde konsumptie-
+cijfers in verband worden gebracht met een aantal vraagfaktoren.
+31
+4.5.	De vraagfaktoren
+In deze paragraaf worden te onderzoeken vraagfaktoren gepresenteerd.
+Dit gebeurt aan de hand van bijgevoegd schema (zie bijlage). Dit schema
+moet worden gezien als het resultaat van een kombinatie van literatuur-
+onderzoek en brainstormen. Uit het literatuurschema (figuur 3.1.) zijn
+de drie aspekten die een belangrijke rol spelen in het vraagproces,
+overgenomen: konsumptiegeneigdheid, konsumptiemogelijkheid en konsump-
+tienoodzaak. Deze aspekten zijn via een aantal indikatoren gekonkreti-
+seerd. De indikatoren, ondergebracht in vier hoofdkategorieën, zijn
+vertaald in variabelen, die tenslotte in meetbare kategorieën zijn ge-
+operationaliseerd .
+De vertaling van indikatoren in variabelen is niet uitputtend maar
+uiteraard aangepast aan de schaal van het onderzoek en achterliggende
+theoretische notities. Tevens heeft de (vermoedelijke) beschikbaarheid
+van gegevens een rol gespeeld. Deze beschikbaarheid van gegevens staat
+natuurlijk in direkt verband met de wijze van dataverzameling. Op grond
+van tijd- en kostenoverwegingen is hier gekozen om gebruik te maken
+van sekundaire databronnen. Zowel bij het CBS als bij de betrokken ge-
+meenten, waar de meeste data vandaan moesten komen, was men zover het in
+hun vermogen lag, graag bereid medewerking te verlenen. Dit is dan ook
+niet de oorzaak geweest dat bepaalde gewenste data niet zijn gevonden.
+In de uiterst rechtse kolom van het schema is per gemeente de beschik-
+baarheid van de verschillende gegevens aangegeven (zie de legenda).
+Hierbij moet worden opgemerkt dat in de meeste gevallen de "zwakste
+gemeente" maatgevend is geweest. Als voor één gemeente een gegeven ab-
+soluut niet beschikbaar was, is voor de andere gemeenten niet verder
+gezocht en is in het schema voor alle gemeenten het ontbreken aangegeven.
+Samengevat: er zijn 79 operationalisaties onderscheiden. Voor 33 daarvan
+zijn er gegevens van 1974 en 1982 beschikbaar, voor 10 1974 óf 1982 en
+één ander jaar, voor 7 operationalisaties alleen 1974 of 1982 en voor
+6 één ander jaar. Van de overige 23 operationalisaties zijn er 7 met
+onderlinge verschillen in meetjaren tussen de gemeenten, terwijl er
+voor 16 geen gegevens beschikbaar zijn.
+Het gebruik van sekundaire databronnen brengt de volgende bezwaren
+met zich mee:
+1.	De gegevens zijn niet allemaal in de -voor het onderzoeksdoel-
+juiste vorm aanwezig (of in het geheel niet).
+2.	Alle data zijn op geaggregeerd niveau gemeten: het zijn totaalcijfers
+van een groep individuen die in een begrensd ruimtelijk gebied
+bijeen wonen. Konklusies kunnen alleen voor de gehele groep getrokken
+worden, en niet voor afzonderlijke individuen.
+3.	De verzamelde data zijn niet altijd in de tijd en/of in de ruimte
+vergelijkbaar.
+Genoemde bezwaren aan dit datamateriaal moeten echter worden beschouwd
+als de prijs van het binnen relatief kort tijdsbestek verzamelen van
+een groot aantal gegevens over zeer uiteenlopende zaken.
+4.6.	De te volgen methode: rangkorrelatiematen
+Wanneer wordt gezocht naar verbanden tussen de medische konsumptie in
+de gemeenten en verschillende kenmerken van die gemeenten en hun bevol-
+king (de vraagfaktoren), kan dat gebeuren door het berekenen van korre-
+laties.
+32
+De in de sociale wetenschappen meest gangbare korrelatiemaat Pearsons R,
+is in dit onderzoek onbruikbaar omdat deze maat een groter aantal cases
+vereist en een normaalverdeling van de populatie veronderstelt. Daarom
+zal in dit onderzoek worden gekozen voor niet-parametrische methoden,
+met name de zogenaamde rangkorrelatiematen. Zoals de naam al aangeeft,
+zijn deze maten gebaseerd op rangorden. Dit betekent dat alle verzamelde
+data moeten worden vertaald in rangordes.
+Voor een uitvoerige beschrijving van de maten zij hier verwezen naar
+Kendall (1975) en Siegel (1956). Hier zij er slechts op gewezen dat er
+twee verschillende rangkorrelatiematen zijn: Spearmans Rho (Rs) en
+Kendalls Tau. Beide zijn even goed bruikbaar maar onderling niet ver-
+gelijkbaar omdat ze uiteenlopende rekenprincipes hanteren. Hier zal
+voornamelijk gebruik worden gemaakt van Rs. Twee andere hier bruikbare
+maten zijn: Kendalls partiële rangkorrelatiekoëfficiënt en Kendalls
+konkordantie-koëfficiënt W.
+De eerste koëfficiënt berekent de sterkte van het verband tussen twee
+variabelen waarbij de mogelijke invloed van een derde variabele konstant
+wordt gehouden. Deze maat is gebaseerd op Tau. De konkordantiekoëfficiënt
+berekent niet het verband tussen twee variabelen, maar tussen een k-aantal
+variabelen en kan daarom worden gebruikt om een aantal variabelen samen
+te nemen. De W is terug te voeren op Rs: in wezen gaat het om de gemid-
+delde Rs.
+Op W na kunnen alle maten een waarde aannemen tussen -1 en +1. Bij -1 is
+er sprake van een volkomen omgekeerd verband (de rangordes zijn precies
+tegengesteld) , bij +1 is er een volkomen evenredig verband (de rangordes
+komen precies overeen) . Bij een waarde 0 is er geen enkel verband. In
+tegenstelling tot de andere maten neemt W waarden aan tussen 0 en +1. Bij
+0 is er geen verband, bij +1 is de rangordening volkomen overeenkomend.
+Het is logisch dat W niet negatief kan worden want zodra er meer dan twee
+rangordereeksen worden vergeleken, kunnen ze niet allemaal onderling
+volkomen tegengesteld zijn.
+Behalve voor de partiële korrelatiekoëfficiënt zijn er voor alle genoemde
+maten zogenaamde signifikantietests ontwikkeld. Met deze signifikantie-
+tests kan worden nagegaan of de gevonden korrelaties signifikant van
+0 afwijken. (Dit gebeurt via daarvoor bestemde tabellen.) Met andere
+woorden er wordt, met een betrouwbaarheid van 95%, nagegaan of de gevonden
+korrelaties door toeval tot stand (kunnen) zijn gekomen of dat er werke-
+lijk sprake is van een verband tussen de variabelen. Dit laatste is voor
+het onderzoek natuurlijk het meest interessant.
+4.7.	Samenhang in medische konsumptie
+De genoemde maten kunnen worden toegepast op de cijfers van de medische
+konsumptie voor de vier gemeenten. Doel hiervan is na te gaan of er
+zich hoge korrelaties tussen vormen van medische konsumptie voordoen of
+niet. Worden dergelijke hoge korrelaties gevonden, dan heeft dit de
+konsekwentie dat niet alle konsumptiegegevens met de vraagfaktoren in
+verband behoeven te worden gebracht, omdat dat geen nieuwe informatie
+zal opleveren. (Als a en b hoog korreleren en a korreleert hoog met c,
+dan is de korrelatie tussen b en c ook hoog.)
+Een eerste verband dat kan worden genoemd is de negatieve relatie
+tussen de gemiddelde verpleegduur en het aantal ziekenhuisopnamen. Dit
+verband laat zich in de 4 onderzochte gemeenten telkens weer vinden, maar
+is slechts één maal signifikant: namelijk voor het groeipercentage tussen
+1974 en 1982 voor de verpleegduur en het opnamecijfer van ziekenfondspa-
+tiënten. Hoewel dit betekent dat in principe één van beide variabelen
+33
+niet verder meegenomen behoeft te worden omdat ze toch hetzelfde meten -zij
+het precies omgekeerd-, zal dit terwille van de overzichtelijkheid wel ge-
+beuren. Gekonkludeerd kan echter worden dat het, althans in dit onderzoek,
+zo zal zijn dat wanneer een positieve korrelatie wordt gevonden tussen een
+vraagfaktor en het aantal opnamen, diezelfde vraagfaktor negatief zal kor-
+releren met de gemiddelde verpleegduur.
+Een tweede verband wordt gevonden tussen het opname-promillage in ver-
+pleeghuizen en de dagbehandeling in verpleeghuizen. Voor beide konsump-
+tievormen zijn slechts gegevens voor 1982 beschikbaar, maar deze data
+korreleren zo hoog positief met elkaar dat slechts één van beide met de
+vraagfaktoren moet worden gekonfronteerd om voor alle twee uitspraken
+te kunnen doen. In het vervolg zal daarom alleen nog maar naar het
+opname-promillage van verpleeghuizen worden gekeken.
+Een derde te noemen verband doet zich voor tussen de opnamecijfers in
+ziekenhuizen gedifferentieerd naar verzekeringsvorm. Het verband tussen
+de opnamen van ziekenfondsverzekerden, die van partikulieren en voor de
+populatie in zijn totaliteit is voor 1974 dusdanig sterk (W = 1) dat
+een onderscheid tussen deze drie cijfers niet nodig is. Voor 1982 is
+het verband weliswaar nog vrij sterk (W = 0,92), maar zal toch het op-
+nameci jf er van partikulieren apart worden bezien. De uitsplitsing tussen
+ziekenfondsverzekerden, partikulieren en totale populatie zal alleen
+worden gehanteerd als naar de ontwikkeling van het opnamecijfer in de
+periode '74 - '82 wordt gekeken. Dan namelijk is er nauwelijks verband
+tussen de verschillende cijfers te bespeuren.
+Hiermee zijn de belangrijkste verbanden tussen de vormen van medische
+konsumptie genoemd. Gesteld kan worden dat het ontbreken van veelvuldig
+voorkomende hoge korrelaties betekent dat het niet zo is dat in de ene
+gemeente de medische konsumptie in alle vormen groter is dan in de andere.
+Mogelijk is er sprake van substitutie tussen de verschillende voorzienin-
+gen. Wordt echter paarsgewijs vergeleken, dan worden geen verbanden
+gevonden die deze stelling ondersteunen. Een specifiek substitutie-onder-
+zoek zou op zijn plaats zijn.
+34
+5. RESULTATEN VAN HET EMPIRISCH ONDERZOEK
+In dit hoofdstuk zullen de resultaten worden weergegeven van de konfrontatie
+tussen variabelen van medische konsumptie en de vraagfaktoren.
+Gezien het grote aantal onderscheiden operationalisaties zal eerst een over-
+zicht worden gegeven van de gevonden verbanden tussen de verschillende vor-
+men van medische konsumptie en de operationalisaties van de vraagfaktoren.
+Dit overzicht is te vinden in tabellen 5.1. en 5.2. In tabel 5.1. staan de
+enkelvoudige korrelaties (Spearmans Rs.) tussen de medische konsumptie en de
+vraagfaktoren. Het gaat hier om signifikante korrelaties, d.w.z. korrelaties
+met een waarden van +1 of -1. Dat de korrelaties in deze tabel signifikant
+zijn betekent konkreet dat, om een voorbeeld te nemen, in de vier onderzochte
+gemeenten in 1974 met 95% zekerheid een verband bestond tussen het aantal
+geboorten in de gemeenten en het aantal verwijskaarten door de huisarts aan
+ziekenfondspatiënten verstrekt. Het gaat hier om een negatief verband zoals
+in de tabel tussen haakjes met een minteken is aangegeven. Negatief betekent
+dat naarmate het geboortecijfer in de gemeente lager was, het aantal verwijs-
+kaarten groter was. Op deze manier is geheel tabel 5.1. te lezen.
+Wat direkt in het oog loopt is de ongelijke verdeling van signifikante korre-
+laties over de verschillende vormen van medische konsumptie. Zo is de gemid-
+delde verpleegduur in ziekenhuizen met veel meer vraagfaktoren gekorreleerd
+dan bijvoorbeeld het aantal opnamen in ziekenhuizen, althans in 1982. De ta-
+bel laat zien dat in 1974 het aantal opnamen juist met meer vraagfaktoren is
+gekorreleerd dan de verpleegduur. Hieruit kan worden gekonkludeerd dat zich
+in de tijd weinig blijvende relaties tussen konsumptie en vraagfaktoren voor-
+doen, hetgeen de verklaring van de medische konsumptie bemoeilijkt.
+De onevenredige verdeling van korrelaties in de tijd zal voor een belangrijk
+deel kunnen worden toegeschreven aan toeval (het blijven immers maar vier
+cases waarvoor deze relaties zijn onderzocht) . Dit toeval kan echter twee
+kanten op gaan. Enerzijds zullen in tabel 5.1. signifikante korrelaties worden
+vermeld die eigenlijk door toeval tot stand zijn gekomen, relaties die op
+geen enkele manier zijn te verklaren of te begrijpen. Anderzijds zullen be-
+paalde korrelaties niet in tabel 5.1. terecht zijn gekomen door toeval. Hier-
+voor is het misschien goed om even naar tabel 5.2. te kijken. In tabel 5.2.
+zijn de niet-signifikante korrelaties tussen vraagfaktoren en medische kon-
+sumptie weergegeven. De opgenomen korrelaties in deze tabel zijn de hoogst
+mogelijke niet-signifikanten, d.w.z. dat R een waarde heeft van -0,8 of + 0,8.
+In tabel 5.2. komt een groot aantal vraagfaktoren uit tabel 5.1. terug.
+Soms voor dezelfde vorm van medische konsumptie maar in een ander jaar, soms
+voor een andere vorm van medische konsumptie in hetzelfde jaar als in tabel
+5.1.,	of zowel op een ander tijdstip als bij andere vormen van konsumptie.
+Op deze plaats zullen niet alle in de tabellen vermelde korrelaties
+worden besproken, hiervoor zij verwezen naar het uitgebreide onderzoeksver-
+slag. Hier wordt slechts aandacht besteed aan de vraagfaktoren die waar-
+schijnlijk de meeste verklaringskracht bezitten.
+Tabel 5.1. Enkelvoudige korrelaties (spearszans Rs) tussen enkele vormen van medische konsumptle en vraagfaktoren.
+Slgnifixar.te (Rs « +1) of vrijwel slgnifikanto (Rs = +. 0,95) verbanden.
+Variabelen van medische
+konsumptie
+vervijskaarten huisarts *
+1974
+1982
+1974 - 1982
+geboorten (-); nlet-Neder-
+landers (+);
+dagschool V.O. (+) ;
+huwelijksvruchtbaarheid (-);
+geboorten (-)i zuigelingen-
+sterfte (-); niet gelovigen (+):
+vestlgers (-); verhulsmobil1-
+telt (-)
+totaal aantal ingeschreven
+a.g.g.z.
+ziekenfondsverzekerden
+opnamen in ziekenhuizen
+totaal'
+gehuwden (-); ongehuwden (+)
+weduwstaat (-)i Industrie
+(-): diensten (+); bouw (+);
+woningbezettlng (+); beval-
+lingen zonder gen. hulp (-);
+dagschool V.0. (+);
+opnamen ziekenfondspatiënten
+in ziekenhuizen
+idem als totaal aantal zie-
+kenhuisopnamen
+idem als totaal aantal
+ziekenhuisopnamen
+AAW/WAO; ziekenfondsverzekerden
+(+); dagschool V.O. (-); opkomst
+stemmen (-); sportkeuringen (+);
+opnamen partikulieren in
+ziekenhuizen
+idem als totaal aantal zie-
+kenhuisopnamen
+afgckcurd sport (+);
+recreatiegebieden (+);
+eigen woning (+); bevallingen
+zonder gen. hulp (-);
+dagschool V.O. (-)
+verpleegdage^ in
+ziekenhuizen
+ziekenfondsverzekerden (-);
+bedrag VG (+);
+ziekenfondsverzekerden (-);
+afgekeiftrd dienst (+); ziekenfonds
+verzekerden (-); woning bezet-
+ting (+) ;
+gemiddelde verpleegduur in
+••Jekenhuizi-n*
+verhulsrooblliteit (-)
+gescheiden (-); echtschei-
+dingen (-); afgekeurd dienst
+(+); AAW/WAO (+) ; 11 B.U.O.:
+L.0. (+); landbouw (+); in-
+dustrieterrein (-); nieuw-
+AAW/WAO (-); ziekenfondsverzeker-
+den (-); opkomst stemmen (+);
+sportkeuringen (-);
+opnamen in verpleeghuizen
+bouw (+); verkeersongevallen
+(-); R-Katholiek (-); N-Her-
+vormd (+): Gereformeerd (+) ;
+Inwoners/km2 ________________
+gehuwden (+); ongehuwden (-);
+weduwstaat (+); huwelijken(-)
+eigen woning(-h woningbezet-
+tlng (-); eensgezinswoningen
+(-); bedrag VG (+) ; bevallin-
+gen bulten inrichting (-);
+niet-zelfstandige bej.(+).
+x alleen voor ziekenfondsverzekerden
+legenda:
+(♦) « positieve korrelatie
+i~) = negatieve korrelatie
+E- geen data beschikbaar
+36
+Tabel5.2. Enkelvoudige korrelatles (spearmans Rs) tussen enkele vormen van medische konsumptie on vraagfaktoren.
+Nlot-slgnlfikante , maar wel sterke verbanden (Ss = ± 0,8).
+Variabelen van medische
+konsumptie
+verwl jskaarten huisarts*
+1974
+1982
+1974 - 1982
+totaal aantal Ingeschreven
+a.g.g.z.
+vruchtbaarheid (-); echt-
+scheidingen (+); dagschool
+V.O. (+) ; LL B.U.O.iL.O. (-);
+landbouw (-); inwoners/kro^
+(+)> bebouwd opp. (+); in-
+dustrieterrein (+); R-Katho-
+lleken (+); N-Hervormd (-)i
+Gereformeerd (-); nlet-
+zelfstandige bej. (+);
+gescheiden (+); echtschei-
+dingen (+); afgekeurd dienst
+(-); AAW/WAO (-)j LL B.U.O.:
+L.O. (-)i lnwoners/km^ (+);
+bebouwd opp. (+); industrie-
+terrein (+)i nieuwbouw (-);
+bedrag SMZ (+); verkeerson-
+gevallen (+); R-Katholieken
+(+); N-Hervormd (-); Geref.
+(-); SO2 (+)
+weduwstaat (+);
+afgekeurd dienst (-); bij-
+stand (+)i industrie (+);
+diensten (-); bouw (-)j wer-
+keloosheid (+); opkomst stem-
+men (-); bevallingen zonder
+gen. hulp (+)i
+vruchtbaarheid (-); echtschei-
+dingen (+); huwelijken (♦); af- .
+gekeurd dienst (+); AAW/WAO (-); I
+woningbezcttlng (+); opkomst
+stemmen (+); vertrekkers ( + );
+sportkeuringen (-); nlet-zelf-
+standlge bejaarden (+);
+opnamen in ziekenhuizen
+(totaal)
+vruchtbaarheid(-)s geschei-
+den (+)i afgekourd sport
+(+)i ziekenfondsverzekerden
+(-)i LL B.U.O.:L.O. (-)i
+recreatiegebied (+)i motor-
+voertuigen (-); eensgezins-
+woningen (+); bedrag VG (+);
+sportkeuringen (-);
+gescheiden (+); huwelijken
+(+) ; echtscheidingen ( + ); SO2 8-):
+AAW/WAO (-)i LL B.U.O.: L.O.
+(-)i inwonors/km^(+)i recre-
+atiegebied (+)i industrie-
+terrein (+); nieuwbouw (-);
+bedrag SMZ (+)i verkeerson-
+gevallen (+); R-katholieken
+(+);N-Herv.(-); Geref. (-);
+gehuwden (-); AAW/WAO (+) ; LI. Bl’O:
+L.O. (-1; werkloosheid (+); mo-
+torvoertuigen (-)i bedrag VG (t):
+opkomut stemmen (-)1 niet-Neder-
+landers (+); vertrekkers <-) .
+sportkeuringen (+) :
+opnamen ziekenfondspa-
+tiënten in
+ziekenhuizen
+idem als totaal aatal zieken-
+huisopnamen
+idem als totaal aantal
+ziekenhuisopnamen
+weduwstaat (-); afgekeurd sport
+(+); niet-gelovigen (-); ver-
+huismobilitcit (+)> bevallingen
+buiten inrichting (-)
+opnamen partlkulieren in
+ziekenhuizen
+idem als totaal aantal
+ziekenhuisopnamen
+gehuwden (-); dagschool V.O.
+(+); industrie (-)> diensten
+(+); bevallingen zonder gen.
+hulp (-);
+gehuwden (-); ongehuwd (+)i mo-
+torvoertuigen (-); bedrag VG (+)j
+niet-Nederlanders (+);
+verpleegdagen in
+ziekenhuizen *
+ongehuwd (+); gehuwden (-) i
+weduwstaat (-)i huwelijken
+(-); afgekeurd dienst (+);
+industrie (-); diensten (+);
+bouw (+)) woningbezetting
+(+); verhulsmobiliteit (-);
+bevallingen zonder gen. hulp
+(-)»
+weduwstaat (-); bijstand (-);
+industrie (—)» diensten (+);
+bouw (+); werkloosheid (-);
+opkomst sterrenen (+); beval-
+lingen zonder gen. hulp (-);
+ongehuwd (+); gehuwden (-); af-
+gekeurd sport (-)i zuigelingen
+en sterfte (-)i verhulsmobiliteit
+(-); bevallingen buiten inrichting
+(+)
+gemiddelde verpleegduur in gehuwden (-)j werkloosheid
+ziekenhuizen * (”)> bedrag VG (+)
+bijstand (-)i eigen woning
+(+)i dagschool V.O. (-);
+werkloosheid (-); S02 (-);
+opkomst stemmen (+)i beval-
+lingen buiten inrichting
+(+)>
+huwelijken (r)i afgekeurd sport
+(-)i zuigelingensterfte ( ):
+niet gelovigen (+); verhuismobi
+liteit (-)j bevallingen buiten in-
+richting (+)
+opnamen in verpleeghuizen
+ziekenfondsverzekerden (+)i
+i alleen voor ziekenfondsverzekerden
+37
+5.1.	De meest belovende vraagfaktoren
+Na interpretatie van de in dit onderzoek gevonden korrelaties bleef er
+slechts een gering aantal vraagfaktoren over, die op dit moment nadere
+studie waard zijn. Deze worden hier in een viertal clusters besproken:
+burgerlijke staat, gezondheidstoestand, urbanisatiegraad en houding t.o.v.
+gezondheidszorg.
+5.1.1.	Burgerlijke staat
+De relatie tussen burgerlijke staat en medische konsumptie wordt op ver-
+schillende plaatsen in de literatuur besproken en/of onderzocht. Te noemen
+zijn hier Van de Ven e.a. (1980), Jessen (1974) en Van der Zee (1982).
+De richting die in deze onderzoeken wordt aangegeven is niet eenduidig.
+Bij Van de Ven wordt een beschermende invloed van het huwelijk tegenover
+ziekte naar voren gebracht. Jessen vindt echter in zijn onderzoek geen
+verschil tussen gehuwden en ongehuwden in de frekwentie van het huisartsen-
+bezoek. Van der Zee besluit na bestudering van de literatuur dat de burger-
+lijke staat alleen invloed heeft op de geestelijke gezondheid, zich ui-
+tend in een groter aantal psychische klachten van personen die getrouwd
+zijn geweest, dan van ongehuwde en gehuwde mensen.
+Het lijkt op grond van de resultaten uit dit onderzoek gerechtvaardigd de
+konklusie te trekken dat in de vier onderzochte gemeenten verschillen in
+medische konsumptie samenhangen met verschillen in de burgerlijke staat van
+de gemeentepopulatie. De richting van deze samenhang wijst naar een be-
+schermende invloed van het huwelijk. Met name voor wat betreft opnamen in
+ziekenhuizen zijn gehuwden wat beter af in de zin dat ze minder worden
+opgenomen (negatieve korrelaties) dan niet-gehuwden. Overigens zij erop
+gewezen dat het aantal in een jaar gesloten huwelijken géén remmende in-
+vloed heeft op de medische konsumptie. Net als echtscheidingen lijken
+huwelijken een dusdanig ingrijpende gebeurtenis in het leven van mensen
+te vormen, dat ze juist konsumptieverhogend werken, al zal dit effekt van
+huwelijken waarschijnlijk op geheel andere wijze moeten worden verklaard
+dan bij echtscheidingen.
+Voor de verklaring van een geringere medische konsumptie van gehuwden,
+moet waarschijnlijk worden aangesloten bij het begrip "sociale steun"
+(zie: Van der Vliert en De Boer, 1984) , ofwel bij het in andere kringen
+voor hetzelfde verschijnsel gebezigde begrip "mantelzorg". Gehuwde per-
+sonen zijn over het algemeen verzekerd van (emotionele) aandacht en ver-
+zorging, zowel preventief als curatief. Niet-gehuwde personen kunnen voor
+hetzelfde afhankelijk zijn van de professionele zorgverlening.
+5.1.2.	De gezondheidstoestand
+De relatie tussen gezondheidstoestand en konsumptienoodzaak is evident:
+minder gezonde personen zullen gemiddeld meer gebruik maken van gezondheids-
+zorgvoorzieningen. De gezondheidstoestand is daarom een veelvuldig terugke-
+rend fenomeen in de literatuur over medische konsumptie. Van Vliet en
+Van de Ven beschouwen op basis van hun onderzoeken (1981 en 1983) de gezond-
+heidstoestand als de belangrijkste bepaler van medische konsumptie. In die
+onderzoeken wordt de door de individuen zelf ervaren gezondheidstoestand
+gemeten. Hier is veeleer gepoogd de normatieve -d.w.z. door artsen vastge-
+stelde- gezondheidstoestand te meten (zie voor onderscheid ervaren vs.
+normatief Koch en Mackenbach, 1984). De in dit onderzoek gehanteerde varia-
+belen om de gezondheidstoestand te meten, medische keuringen, arbeidsonge-
+schiktheid en zuigelingensterfte, geven alle ongeveer dezelfde tendensen
+te zien. Name!ijk een positieve samenhang met het aantal opnamen van zieken-
+38
+huizen (en daarmee een negatieve met de gemiddelde verpleegduur) en een
+negatieve samenhang met het aantal verwijskaarten. De belangrijkste uit
+zondering hierop is het negatieve verband tussen het aantal arbeidsonge-
+schikten en opnamen in ziekenhuizen in 1982.
+Het geschetste beeld komt terug wanneer de verschillende variabelen worden
+samengenomen. Bij berekening van de konkordantie koëfficiënt W met als vraag-
+variabelen: sportkeuringen, A.A.W./W.A.0.'ers en zuigelingensterfte,
+worden met het aantal opnamen in ziekenhuizen vrij hoge korrelaties gevonden,
+met name voor de periode '74-'78. Toegespitst op de opname van ziekenfonds-
+verzekerden blijkt W nog hoger te worden. Er zijn met andere woorden aanwij-
+zingen dat de gezondheidstoestand, gemeten via genoemde variabelen, het op-
+namecijfer in de gemeenten met name voor ziekenfondspatiënten kan vóórspel-
+len. Dit geldt niet voor het aantal verwijskaarten van huisartsen, Wanneer
+deze konsumptiefaktor bij de drie variabelen wordt gevoegd, daalt de waarde
+van W sterk.
+5.1.3.	Urbanisatiegraad.
+Algemeen bestaat de opvatting dat naarmate de urbanisatiegraad hoger is,
+de medische konsumptie hoger is. Een opvatting die door verschillende onder-
+zoekers wordt gestaafd: Hogewind (1983), Van der Zee (1982), Posthuma en Van
+der Zee (1978), Kruidenier (1977), etc.
+In het vraagfaktorschema van dit onderzoek is geen faktor urbanisatiegraad
+onderscheiden. Toch bleek het zinnig in de weergave van de resultaten van
+het onderzoek te spreken over urbanisatiegraad. De nauw met de urbanisatie-
+graad verbonden variabele bevolkingsdichtheid (die wel in het schema voorkomt)
+is namelijk sterk verweven met andere variabelen die tesamen het begrip urba-
+nisatiegraad dekken. Met de data van de vier gemeenten worden namelijk sterke
+positieve samenhangen gevonden tussen bevolkingsdichtheid en verkeersongeval-
+len, zwaveldioxyde in de lucht, de ouderdom van het woningbestand, het aantal
+BLO-leerlingen, het aantal echtscheidingen, het bebouwd oppervlak en het in-
+dustrieel oppervlak. Genoemde variabelen korreleren uiteraard op ongeveer ge-
+lijke wijze met de medische konsumptie. Daarom kan deze cluster in zijn ge-
+heel worden bezien en benoemd met de term urbanisatiegraad.
+De met uit die cluster afkomstige variabelen gevonden korrelaties zijn welis-
+waar voor het merendeel niet signifikant, ze wijzen wel allen in dezelfde
+richting. De verwachte richting: een positieve samenhang met medische konsump-
+tie. Alleen met de gemiddelde verpleegduur wordt weer een negatieve samenhang
+gevonden.
+Mogelijk geven de in de cluster aanwezige variabelen ook een idee waarom de
+urbanisatiegraad een positieve invloed heeft op de medische konsumptie. Zo
+kan het grotere aandeel oudere (kwalitatief slechtere) woningen en het grotere
+aandeel BLO-'ers naarmate de urbanisatiegraad toeneemt, duiden op een wat la-
+gere sociaal ekonomische status in grotere steden. De omvangrijkere bebouwing,
+het relatief meer voorkomen van industrieterreinen, het groter aantal ver-
+keersongevallen en de hogere mate van luchtverontreiniging (SO2) kunnen een
+aanwijzing vormen voor de slechtere omgevingskenmerken in de grotere steden.
+Terwijl het grotere aantal echtscheidingen aldaar een groter aantal mensen
+met psychische nood doet voorkomen. De kombinatie van deze verschillende fak-
+toren doet de urbanisatiegraad een rol spelen in de hoogte van de medische
+konsumptie.
+5.1.4.	Houding t.o.v. gezondheidszorg
+Verschillende variabelen werden geacht de houding t.o.v. de gezondheidszorg te
+representeren. Alleen bij de variabele bevallingen is deze aanname door
+resultaten bevestigd. Al moet hierbij worden opgemerkt dat het mogelijk is
+dat de lokatie van de bevalling en de daarbij geboden hulp evenzeer een uit-
+drukking kunnen vormen van de geneigdheid van de gemeentelijke huisartsen om
+bevallingen "te doen" of door te verwijzen. Hiernaast is nog een verband denk-
+baar met verschillen tussen de gemeenten in het optreden van komplicaties bij
+bevallingen.
+39
+In hoeverre deze twee mogelijkheden de aangenomen relatie tussen de houding
+t.o.v. gezondheidszorg en plaats en hulp bij bevallingen verstoort is niet
+onderzocht, (de beide operationalisaties van deze variabele blijken overigens
+onderling niet te korreleren, positief noch negatief).
+De gevonden korrelaties met de medische konsumptie vertonen het verwachte
+beeld. De signifikante, negatieve korrelatie van het aantal bevallingen zonder
+geneeskundige hulp met het totaal aantal ziekenhuisopnamen in 1974 en met de
+ziekenhuisopnamen van partikulieren in de periode *74-'82, springen hierbij
+het meest in het oog. Hiernaast doet zich een signifikant verband voor tussen
+de houding t.o.v. de gezondheidszorg en het aantal opnamen in verpleeghuizen.
+Opmerkelijk is dat voor geen van de drie tijdsmomenten in het onderzoek een
+relatie wordt gevonden met het aantal verwijskaarten.
+Deze laatste konstatering kan als aanwijzing worden opgevat om vóór naar de
+onderlinge relatie tussen de vier genoemde vraagfaktoren te kijken en kon-
+klusies hiervoor te trekken, eerst de medische konsumptie nog eens te bezien.
+5.2.	Vormen van medische konsumptie: splitsen of één model
+In het voorgaande zijn de in dit onderzoek onderscheiden vormen van medische
+konsumptie al onderzocht op hun onderlinge relaties. Deze zijn slechts in
+geringe mate gevonden. Het is niet zo dat de ene gemeente voor alle vormen
+van medische konsumptie hogere waarden heeft dan de andere. Er zijn echter in
+de vier gemeenten ook geen aanwijzingen gevonden dat er van onderlinge substi-
+tutie tussen de vormen van medische konsumptie sprake zou zijn. Hierbij moet
+er echter nadrukkelijk op gewezen worden dat in dit onderzoek slechts een be-
+perkt deel van de medische konsumptie kan worden bezien: de extramurale kon-
+sumptie is grotendeels buiten schot gebleven. De enige vrij konsistente re-
+latie betreft de negatieve samenhang tussen verpleegduur en opnamen in zie-
+kenhuizen.
+Ondanks dit gebrek aan onderlinge samenhang is in het hier verrichtte onder-
+zoek weinig onderscheid tussen de verschillende vormen van medische konsump-
+tie gemaakt. Alle vraagfaktoren zijn namelijk met alle vormen van medische
+konsumptie in verband gebracht. Het is echter niet verwonderlijk dat uit de
+resultaten blijkt dat bepaalde variabelen wel met de ene vorm van medische
+konsumptie korreleren maar niet met andere vormen. Wanneer nu de konklusies
+getrokken gaan worden, moet goed in het oog worden gehouden voor welke vorm
+van medische konsumptie dit gebeurt. Dit heeft rechtstreekse implikaties voor
+de praktische aanwending van de resultaten. In individuele planningssituaties
+moet goed worden opgelet met welke variabelen rekening wordt gehouden. Wanneer
+in een regio de kapaciteit van verpleeghuizen moet worden beoordeeld, heeft
+het nauwelijks zin naar een gezondheidstoestand van de gemeentepopulatie,
+zoals die hier is geoperationaliseerd, te kijken, omdat die blijkens dit
+onderzoek nauwelijks een rol speelt bij opname in verpleeghuizen.
+Wanneer wordt gezocht naar het totaal-plaatje, naar een model dat het geheel
+aan gezondheidszorgvoorzieningen in een regio moet voorspellen, moet rekening
+worden gehouden met het gewicht van de verschillende vraagvariabelen. Varia-
+belen namelijk, die het aantal verwijzingen voorspellen, zullen minder zwaar
+moeten wegen dan variabelen die positief korreleren met het aantal opnamen.
+immers, verwijzen zal voor een belangrijk deel betekenen verwijzingen naar
+specialisten in een polikliniek, hetgeen in geld uitgedrukt minder belang-
+rijk is voor de medische konsumptie dan opnamen in ziekenhuizen.
+Er wordt hier met andere woorden voor gepleit in het vervolg op dit onder-
+zoek, medische konsumptie duidelijk gedifferentieerd te beschouwen of de
+verschillende vormen van medische konsumptie op enigerlei wijze van een
+gewicht te voorzien. In het laatste geval zou eventueel kunnen worden ge-
+tracht de gewogen vormen weer bij elkaar te brengen in één model.
+iJTJinru
+-
+40
+5.3.	Verhouding tussen de gevonden variabelen-clusters
+In de probleemstelling is gevraagd de gevonden vraagvariabelen zo mogelijk te
+voorzien van een gewicht. Uit de vorige paragraaf kwam naar voren dat voor
+een totaalbeeld van de medische konsumptie dergelijke gewichten onontbeerlijk
+zijn. Hier moet echter worden vastgesteld dat de gehanteerde methode niet
+toestaat gekwantificeerde gewichten aan de variabelen-cluster toe te kennen.
+Het probleem is met name dat de korrelatiematen het niet mogelijk maken meer
+dan één variabele tegelijkertijd konstant te houden. Er kunnen slechts partiële
+korrelaties worden berekend tussen twee variabelen onder konstanthouding van
+één andere. Berekeningen leveren op deze manier weinig op.
+Interpretatief kan evenwel iets meer worden gezegd over de onderlinge verhou-
+dingen tussen de vraagfaktoren. Hierbij wordt gerefereerd aan de in dit on-
+derzoek opgedane kennisz met betrekking tot de medische konsumptie in de vier
+gemeenten, waarbij met name de opmerkingen uit de vorige paragraaf een rol
+spelen. Zo ontstaat het onderstaande beeld.
+De urbanisatiegraad kan min of meer als een basisfaktor worden beschouwd.
+Een basisfaktor die in het algemeen positief korreleert met de medische kon-
+sumptie: een hogere urbanisatiegraad betekent in principe een hogere medische
+konsumptie in de verschillende vormen. Dit wordt verklaart door te wijzen
+op het feit dat de urbanisatiegraad een konglomeraat van faktoren omvat die
+een negatieve invloed hebben op de gezondheid. Hiernaast kan de notitie van
+Kruidenier (1977) worden aangehaald, die een positieve relatie onderkent aan
+urbanisatiegraad en de aanwezigheid van medische voorzieningen.
+De invloed van de urbanisatiegraad kan worden "verstoord" door andere varia-
+belen. Deze variabelen zijn niet voor alle vormen van medische konsumptie
+dezelfde. Zo blijken de hier besproken drie overige variabelen-clusters met
+name het aantal opnamen in ziekenhuizen te beïnvloeden. De variabelen burger-
+lijke staat, gezondheidstoestand (met name voor ziekenfondsverzekerden) en de
+houding t.o.v. gezondheidszorg (m:n. voor partikulierverzekerden) bepalen in
+feite het werkelijke aantal opnamen in ziekenhuizen. Hiermee kunnen zij mo-
+gelijk als van groter gewicht dan de urbanisatiegraad worden beschouwd in de
+voorspelling van het aantal opnamen per gemeente. De urbanisatiegraad hieren-
+tegen heeft meer gewicht in de voorspelling van het aantal verwijskaarten en
+het aantal verpleeghuisopnamen dan de andere drie variabelen-clusters. Het
+is echter mogelijk dat de twee laatstgenoemde vormen van medische konsumptie
+nog worden beïnvloed door andere faktoren. Hierbij valt te denken aan de in-
+vloed van de vruchtbaarheid op het aantal verwijskaarten en van de woonsitua-
+tie op de verpleeghuisopnamen.
+Hoe het gewicht van de variabelen in termen van kosten ligt is moeilijk te
+bepalen. Uitgaande van het feit dat opnamen in ziekenhuizen het meest kost-
+baar zijn, zou een zwaarder gewicht aan de variabelen burgerlijke staat en
+gezondheidstoestand kunnen worden toegekend. Hierbij moet evenwel rekening
+worden gehouden met de gemiddelde verpleegduur en het aantal verpleegdagen.
+Er bestaat immers een negatieve relatie tussen het aantal opnamen en de ge-
+middelde verpleegduur in ziekenhuizen. Voor de vier gemeenten is een tendens
+bespeurbaar van een samengaan van een hoger aantal verpleegdagen met een ho-
+ger opnamecijfer. Dit zou een bevestiging kunnen betekenen van de geopperde
+zwaardere gewichten voor de variabele gezondheidstoestand en burgerlijke staat.
+Het mag duidelijk zijn dat meer gefundeerde uitspraken over het onderlinge
+gewicht van de verschillende vraagvariabelen slechts mogelijk zijn indien
+met een groter aantal gemeenten wordt gewerkt. Dan kan gebruik worden gemaakt
+van andere statistische methodieken die beter voor dit doel zijn geschikt,
+met name kan hierbij gedacht worden aan een stapsgewijze regressie analyse.
+Wanneer de bevindingen uit dit onderzoek zullen worden getoetst aan een steek-
+proef van gemeenten kan een dergelijke analyse vrij eenvoudig worden meegenomen.
+41
+5.4.	Toetsbare hypothesen
+Het hier verrichte empirische onderzoek draagt een exploratief karakter.
+Doel is ondermeer uit een veelheid van vraagfaktoren (bevolkings- en om-
+gevingskenmerken) de voor de medische konsumptie meest invloedrijke te
+destilleren. Het geringe aantal cases, die bovendien selekt gekozen zijn,
+maakt het onmogelijk de bevindingen te generaliseren. Hiervoor is nader
+onderzoek noodzakelijk.
+Om een dergelijk toetsingsonderzoek houvast te geven, zijn de hier gevonden
+resultaten in hypothesevorm weergegeven:
+1.	Een hoger opnamepercentage voor ziekenhuizen betekent een lagere gemiddelde
+verpleegduur. (Dit brengt met zich mee dat faktoren die een positieve
+invloed hebben op het opnamecijfer negatief zijn verbonden met de verpleeg-
+duur) .
+2.	Een hogere urbanisatiegraad zal ceteris paribus een hogere medische kon-
+sumptie, uitgedrukt in verwijskaarten, opnamen in ziekenhuizen en in ver-
+pleeghuizen, betekenen.
+3.	Naarmate er meer gehuwden (samenwonenden) zijn, zal het aantal opnamen in
+ziekenhuizen en het aantal verpleegdagen afnemen.
+4.	Naarmate de gezondheidstoestand slechter is - d.w.z. meer (sport-)afgekeur-
+den, meer A.A.W./W.A.O.ers en een hogere zuigelingensterfte - zal het
+ziekenhuisopnamecijfer hoger zijn, met name van ziekenfondsverzekerden.
+5.	Hoe meer bevallingen buiten een inrichting en/of zonder geneeskundige
+hulp plaatsvinden, hoe lager het aantal ziekenhuisopnamen en verpleeg-
+dagen, met name voor partikulieren.
+Deze vijf hypothesen geven de belangrijkste bevindingen uit dit onderzoek
+weer. Dit wil echter geenszins zeggen dat een vervolgonderzoek zich persé
+moet beperken tot deze relaties. In tabel 5.1 zijn genoeg andere mogelijke
+relaties te vinden, die evenzeer kunnen worden getoetst, al zijn ze blijkens
+dit onderzoek minder waarschijnlijk. Relaties waar hierbij m.n. aan kan worden
+gedacht, zijn die tussen burgerlijke staat en de verpleeghuisopnamen, tussen
+de woonsituatie en opnamen in verpleeghuizen en tussen vruchtbaarheid en het
+aantal verwijskaarten.
+Bovendien behoeft verder onderzoek zich niet te beperken tot de hier gekozen
+vormen van medische konsumptie en tijdstippen. Integendeel, het zal toe te
+juichen zijn indien hierbij verbreding wordt aangebracht.
+42
+6.	SAMENVATTING EN KONKLUSIES
+Bij de regionale verdeling van middelen voor de gezondheidszorg worden momen-
+teel twee kriteria gehanteerd: de omvang van de bevolking en de regiona e
+leeftijdsopbouw. In de planningspraktijk wordt de behoeftedifferentiatie op
+basis van deze twee kriteria vaak als onvoldoende ervaren. Er is een behoefte
+te constateren naar meer van dergelijke kriteria die een regionale di eren
+tiatie mogelijk maken. Deze praktische planningsvraag vormde de aanleiding
+voor dit onderzoek.
+Dit onderzoek moest een begin vormen voor de vaststelling van dergelijke re-
+gionale kriteria. Hiertoe is getracht de volgende probleemstelling te beant-
+woorden:
+SPELEN SPECIFIEKE VRAAGFAKTOREN EEN ROL IN DE MEDISCHE
+KONSUMPTIE?
+ZO JA, IS HET MOGELIJK FAKTOREN AAN TE GEVEN EN ONDER-
+LING TE WEGEN DIE DE WAARGENOMEN REGIONALE VERSCHILLEN
+IN MEDISCHE KONSUMPTIE KUNNEN VERKLAREN?
+Er is begonnen deze probleemstelling tegen een theoretische achtergrond te
+plaatsen. Daarbij is allereerst aandacht besteed aan de relatie tussen so-
+ciale geografie en gezondheidszorg. Dit omdat het veld van de gezondheids-
+zorg een nieuw onderwerp binnen de geografie is. Anderzijds bleek echter
+dat vrij gemakkelijk aansluiting kan worden gevonden met sociaal geografisch
+werk omdat verschillen in de ruimte als uitgangspunt zijn gekozen. Met name
+is aangesloten bij de zogenaamde welzijnsgeografie van Smith en de sociale-
+indikatoren-beweging. Vervolgens is het onderwerp binnen zijn maatschappe-
+lijke kontekst geplaatst. Hierbij is onderscheid gemaakt tussen struktuur
+en kuituur. Er is vastgesteld dat beide in beweging zijn: de struktuur ken-
+merkt zich door een toenemende politisering (o.a. de W.V.G.), de kuituur
+door een toenemende waardering voor gezondheid en stijgende medische konsump-
+tie. Tenslotte is in dit theoretische hoofdstuk aandacht besteed aan de re-
+latie tussen vraag en aanbod in de gezondheidszorg. Hier komt naar voren dat
+de praktische vraagstelling achter het onderzoek gevolgen heeft voor de keu-
+ze van de te volgen wetenschappelijke weg. Eigenlijk wordt een onderscheid
+waargenomen tussen wetenschappelijke- en praktische waarde.
+In het derde hoofdstuk is een overzicht gegeven van de literatuur die versche-
+nen is rond het onderwerp medische konsumptie. De nadruk valt hierbij op
+Nederlandse onderzoekingen. Met behulp van een schema is getracht het vraag-
+proces weer te geven opdat de verschillende werken kunnen worden onderver-
+deeld. Verschillende begrippen die in het empirische onderzoek gebruikt
+zullen worden, worden hier geïntroduceerd. Er wordt gekonkludeerd dat slechts
+weinig onderzoeken het gehele vraag- en aanbod proces omvatten. Er worden
+altijd grenzen getrokken, ook ten aanzien van de vorm van medische konsumptie.
+De meeste onderzoeken hebben betrekking op het ziekenhuisopnamecijfer. Wel
+wordt uit die onderzoeken duidelijk dat specifieke vraagfaktoren (bevolkings-
+c.q. omgevingskenmerken) de hoogte van de medische konsumptie mede bepalen.
+Een andere konstatering die op basis van het literatuuronderzoek wordt ge-
+maakt is dat slechts weinigen zich met de ruimtelijke komponent van de me-
+dische konsumptie bezighouden. Hoewel duidelijk is dat zich in de ruimte aan-
+zienlijke verschillen voordoen in medische konsumptie, heeft slechts een
+handjevol onderzoekers hieraan aandacht besteed. Deze konstatering bepaalt
+in belangrijke mate de vorm van het eigen empirisch onderzoek.
+De opzet van dat empirisch onderzoek wordt uiteengezet in hoofdstuk 4
+Daar is het onderzoek in een stappenschema samengevat. Er wordt begonnen met
+de bepaling van het ruimtelijke niveau waarop het onderzoek zal worden uit
+gevoerd. Er is gekozen voor het gemeentelijke niveau. Vervolgens zijn gemeenten
+43
+gezocht die zo gelijk mogelijke bevolkingspiramiden kennen en zo goed
+mogelijk over het land verspreid liggen. Dit is gedaan om de analyse
+zo scherp mogelijk te kunnen maken: immers, leeftijd is al een kriterium
+in de planning en kan dus worden uitgeschakeld en het gaat hier met name
+om ruimtelijke verschillen. Deze selektie leverde de volgende vier gemeen-
+ten op: Ermelo, Hoogezand-Sappemeer, Tilburg en Zaanstad.
+Er is geprobeerd aan te geven welke verschillen in medische konsumptie
+verwacht zouden kunnen worden op basis van nog bestaande verschillen in
+leeftijd- en geslachtsopbouw en op basis van de aanwezigheid van gezond-
+heidsvoorzieningen. Dit laatste vanuit de wijd verbreide mening dat het
+aanbod een deel van zijn eigen vraag genereert. Deze verwachtingen ten aan-
+zien van de medische konsumptie zijn vervolgens gekonfronteerd met de wer-
+kelijke konsumptiecijfers. Hierbij is allereerst vastgesteld dat het ver-
+zamelen van produktiecijfers van instellingen binnen de gezondheidszorg
+een zeer moeilijke aangelegenheid is. Om een vergelijking in de tijd moge-
+lijk te maken, is ervoor gekozen twee meetjaren te nemen, 1974 en 1982.
+Het blijkt echter dat met name voor 1974 slechts weinig gegevens met be-
+trekking tot de medische konsumptie voorhanden zijn. Dit betekent een vrij
+zware handicap voor het onderzoek. Uit de konfrontatie tussen de verwachte
+medische konsumptie en de beschikbare konsumptiecijfers is wel naar voren
+gekomen dat verschillen in bevolkings- c.q. omgevingskenmerken (vraagfak-
+toren) een rol spelen bij het bestaan van verschillen in medische konsumptie.
+De vraagfaktoren die hierbij mogelijk een rol spelen zijn in schema gebracht
+en onderverdeeld in een viertal groepen, te weten: demografische faktoren,
+sociaal ekonomische status, fysieke/sociale omgeving en sociaal-kulturele
+faktoren.
+Voor een kleine tachtig operationalisaties is getracht data te verkrijgen.
+De resultaten hiervan zijn wisselend en per gemeente in het schema weerge-
+geven.
+Tenslotte is in hoofdstuk 4 aandacht besteed aan de te volgen statistische
+methode bij de konfrontatie van deze vraagfaktoren met de gevonden konsumptie-
+cijfers. Aangegeven is dat vanwege het geringe aantal cases aangesloten moet
+worden bij zogenaamde rangkorrelatiematen en dat de gevonden uitkomsten niet
+zijn te generaliseren voor geheel Nederland. Het onderzoek kan slechts uit-
+spraken doen over de vier onderzochte gemeenten.
+In het vijfde hoofdstuk worden de resultaten van het onderzoek gepresenteerd.
+Gevonden korrelaties tussen de vraagfaktoren en de vormen van medische kon-
+sumptie worden in een tabel gepresenteerd. Interpretatie van de gevonden
+korrelaties resulteert in een viertal vraagvariabelen-clusters die de meeste
+voorspellende kracht lijken te bezitten betreffende de hoogte van de medische
+konsumptie. Deze clusters zijn: burgerlijke staat, gezondheidstoestand, urba-
+nisatiegraad en houding t.o.v. de gezondheidszorg. Elk van deze clusters wordt
+afzonderlijk besproken.
+Om de onderlinge verhouding tussen de clusters na te gaan, ze met andere
+woorden gewicht toe te kennen, wordt om te beginnen nogmaals aandacht besteed
+aan de verschillende vormen van medische konsumptie. Er wordt gepoogd de vier
+variabelen-clusters op interpretatieve wijze onderling te plaatsen, nadat
+is vastgesteld dat de hier gehanteerde methodiek geen gekwantificeerde gewich-
+ten toestaat. Hiervoor zal vervolgonderzoek noodzakelijk zijn.
+Het ligt geheel in de lijn van dit onderzoek, dat exploratief van karakter is,
+dat de resultaten in een vervolgonderzoek zullen worden getoetst. Om een der-
+gelijke toetsing op eenvoudige wijze plaats te kunnen laten vinden, worden
+aan het eind van hoofdstuk 5 de bevindingen in hypothesevorm vertaald.
+Middels een steekproef onder de Nederlandse gemeenten kan dan worden
+44
+nagegaan in hoeverre de hier gevonden resultaten algemeen geldig zijn.
+Bovendien kan de dan toegepaste statistische methodiek het mogelijk maken
+kwantitatieve gewichten aan de verschillende faktoren te verbinden.
+Hiermee is de probleemstelling van dit werk zo goed als mogelijk beantwoord.
+Er is gekonstateerd dat specifieke vraagfaktoren een rol spelen in de me-
+dische konsumptie. Bovendien zijn via een empirisch onderzoek enkele van
+die vraagfaktoren naar voren gebracht. De oplossing van de praktische vraag-
+stelling achter dit onderzoek, namelijk de vaststelling van behoeftekrite-
+ria voor de planning van de gezondheidszorg, kan pas tot stand komen na de
+toetsing van deze resultaten.
+De overige bevindingen en opgedane ervaringen tijdens dit onderzoek laten
+zich het best in een aantal onderzoekvoorstellen weergeven. Deze voorstellen
+zijn in vier punten samen te vatten:
+1.	De bepaling van medische konsumptie. Het is gebleken dat medische kon-
+sumptie moeilijk is te vangen. Enerzijds ontbreken voor veel voorzie-
+ningen produktiecijfers, anderzijds is de relatie tussen de voorzie-
+ningen niet duidelijk. Er is daarom behoefte aan een inventarisatie
+naar beschikbare produktie- (ofwel konsumptie-)cijfers en aan onderzoek
+naar het al of niet voorkomen van substitutie-effekten en zo ja, in welke
+mate. In een later stadium kan worden gedacht aan de ontwikkeling van een
+konsumptiemodel dat de regionale konsumptie in één of enkele cijfers weet
+uit te drukken en waarmee regionale verschillen makkelijk en zuiverder
+zijn aan te geven.
+2.	De toetsing van de gevonden resultaten uit dit onderzoek. Het gaat hier
+om toetsing van de geformuleerde hypothesen op in de sociale wetenschap-
+pen gebruikelijke wijze. Het is denkbaar dat hierna, om het beeld nog
+meer te verscherpen, er variaties in de ruimtelijke schaal worden aan-
+gebracht (bijvoorbeeld naar gezondheidsregio's) of dat getracht wordt
+het aanbod in de verschillende ruimtelijke eenheden konstant te houden.
+Deze weg kan op vrij korte termijn duidelijk maken in hoeverre er bruik-
+bare planningskriteria te vinden zijn.
+3.	Onderzoek naar het voorkomen van "groot-konsumenten".
+Het is niet uit te sluiten dat regionale verschillen in medische konsump-
+tie worden veroorzaakt door slechts een klein deel van de respektievelijke
+populaties. Nagegaan kan worden of dit het geval is en zo ja, of deze
+grootkonsumenten of risikogroepen zijn te traceren. De aandacht kan hier-
+bij specifiek op een (aantal) diagnosegroep(en) worden gericht. Noodzake-
+lijk lijkt het hierbij wel het geaggregeerde niveau te verlaten en op zoek
+te gaan naar gegevens van individuen.
+4.	De medische konsumptie kan als resultaat van het interaktief proces tus-
+sen vraag en aanbod worden benaderd. Hierbij wordt er vanuit gegaan dat
+de hoogte van de medische konsumptie wordt bepaald in de konfrontatie (in-
+teraktie) tussen vragers naar en aanbieders van gezondheidszorg. Regionale
+verschillen in konsumptie moeten uit verschillen in die interaktieproces-
+sen worden verklaard, die meetbaar zijn door attitude-onderzoek onder
+vragers en aanbieders. Deze weg zal de kostbaarste zijn omdat ze
+de meeste tijd zal vragen en op korte termijn geen direkt resultaat in
+de vorm van planningskriteria zal opleveren. Hier staat tegenover dat ze
+waarschijnlijk het meest werkelijkheidsgetrouw is.
+45
+LITERATUUR
+ADRIAANSE, H; M.J. DROP; R. HALFSENS & H. PHILIPSEN (1981), Leeft Nederland
+Oké? Verslag van een onderzoek naar de beleving, opvattingen en gedra-
+gingen inzake gezondheid. R.U. Limburg.
+ADRIAANSENS, H.P.M. & A.C. ZIJDERVELD (1981), Vrijwillig initiatief en de
+verzorgingsstaat. Cultuursociologische analyse van een beleidsprobleem.
+Deventer.
+BELLEMAN, S.J.M. (1977), Ontwikkelingen in de vraag naar specialistische
+hulp; beschrijving en analyse. Nationaal Ziekenhuis Instituut, Utrecht,
+nr. 77.107.
+BERGER, P. & T. LUCKMANN (1966), The social construction of reality.
+Penquin books.
+BIKKER, J.A. (1980), Een model voor patiëntenstromen naar ziekenhuizen.
+V.U. Amsterdam, onderzoeksverslag 55.
+BOOT, J.M. & M.H.J.M. KNAPEN (1983), De nederlandse gezondheidszorg.
+Aula Pocket 712.
+COLLARIS, J. (1980), Regionale verschillen in medische consumptie van
+ziekenfondsverzekerden. In: Tijdschrift Sociale Geneeskunde, 58, supple-
+ment, p. 133-134.
+COOPER, M. (1974), Economics of need, the experience of the Britisch Health
+Service. In: M. PERLMAN (ed) : The economics of health and medical care.
+London.
+DOORN, J.A.A. VAN & S.C.J. LAMMERS (1976), Moderne sociologie, een systema-
+tische inleiding. Aula Pocket 29.
+FREIDSON, E. (1975), Profession of Medicine, a study of the sociology of
+applied knowledge. New York.
+GAAG, J. VAN DER (1978), An econometrie analysis of the dutch health care
+system. Leiden.
+GRUIJTERS, J.W. & D. SLIKKER (1975), Gezondheidszorg en "modellenbouw".
+In: Medisch Contact 30, p. 1048-1056.
+HOGEWIND, F.J. (1983), Regionale consumptie en regionale budgettering.
+Nationaal Ziekenhuis Instituut, Utrecht.
+HOOGENDOORN, D. (1975), "Het Rapport Van Praag". In: Medisch Contact 30
+p. 1045-1047.
+HOOIJMANS, E. (1982), Klinische en poliklinische verrichtingen volgens
+tarief 3, Leiden.
+HOOIJMANS, E. (1983), Schattingen van een model van de nederlandse gezond-
+heidszorg over de jaren 1974, 1975 en 1976.
+In: Gezondheid en Samenleving, 4, no. 2.
+46
+HOOIJMANS, E. & F.F.H. RUTTEN (1982), The impact of supply on the use of
+hospital facilities: differences between high and low income groups in
+the Netherlands. Leiden.
+ILLICH, I. (1978), Grenzen aan de Geneeskunde; het medisch bedrijf - een
+bedreiging voor de gezondheid? Wereldvenster, Baarn.
+JESSEN, J.L. e.a. (1974), Medische Consumptie, R.U. Groningen
+KENDALL, M. (1975), Rank Correlation Methods, fourth edition, second impres-
+sion. London.
+KOCH, W.A. & J.P. MACKENBACH (1984), Verdeelsleutels ter vaststelling van
+Regionale financiële plafonds in de gezondheidszorg. NIPG/TNO, Leiden.
+KOCH, W.A. & J.P. MACKENBACH (1984) , Een verdeelsleutel ter vaststelling
+van Regionale financiële plafonds. In: Tijdschrift voor Sociale Gezondheids-
+zorg, 62, p. 71-76.
+KRUIDENIER, H.J. (1977), Afstand tot ziekenhuis van invloed op verwijspatroon.
+Het verwijzen door huisartsen. In: Inzet, 1, p. 32-39.
+LEE, R. (1979), The economie basis of social problems in the city.
+In: D.T. HERBERT & D.M. SMITH (eds), Social problems & the city, geographi-
+cal perspectives. Oxford.
+MACKENBACH, J.P. & W.A. KOCH (1984), Regionale verschillen in sterfte, zie-
+kenhuisopnamen en arbeidsongeschiktheid. In: Tijdschrift voor Sociale Ge-
+zondheidszorg 62, p. 77-82.
+MAYER, J.D. (1982), Relations between two traditions of medical geography;
+health systems planning and geographical epidemiology.
+In: Progress in Human Geography, 6. p. 216-230.
+MOOTZ, M. (1980), Sociale Indikatoren, gezondheidstoestand en verzekerings-
+vorm. In: Medisch Contact, 28, p. 857-850.
+MOOTZ, M. (1981), De patiënt en zijn naasten. De invloed van houdingen in het
+persoonlijk netwerk van de patiënt op zijn medische consumptie. Den Haag.
+MORRIS, N. (1980), Social inequalities undiminshed. In: Tijdschrift Sociale
+Geneeskunde 58, supplement p. 13-18.
+PHILIPSEN, H. (1978), Omvang van de gezondheidszorg onder invloed van maat-
+schappelijke ontwikkelingen. In: C.W. AAKSTER & G. KUIPER (red.), Leerboek
+medische sociologie. Groningen/Deventer.
+PLOEG, H.M. VAN DER (1980), Persoonlijkheid en medische consumptie. Een on-
+derzoek naar de relatie van persoonlijkheidsfaktoren en de frequentie van
+huisartsbezoek. Lisse.
+POSTHUMA, B.H. & J. VAN DER ZEE (1978), Tussen eerste en tweede echelon
+(1-2). Nederlands Huisartsen Instituut, Utrecht.
+RUTTEN, F.F.H., J. VAN DER GAAG & B.M.S. VAN PRAAG (1975), Het ziekenhuis in
+de gezondheidszorg. Een ekonometrische analyse van het gebruik van zieken-
+huisbedden, Leiden.
+47
+RUTTEN, F.F.H. (1978), The use of health care facilities in the Netherlands.
+An econometrie analysis. Leiden.
+RUTTEN, F.F.H. & S.J.H. BAAY (1980), Ongelijkheid in de intramurale gezond-
+heidszorg. In: Tijdschrift Sociale Geneeskunde 58, supplement p. 122-127.
+SIEGEL , S. (1956), Nonparametric statistics for the behavioral Sciences.
+McGraw-Hill B.C.
+SMITH, D.M. (1977), Human geography, a welfare approach. London.
+SMITH, D.M. (1979), The Identification of problems in cities: applications
+of social indicators. In: D.T. HERBERT & D.M. SMITH (eds), social problems
+& the city, geographical perspectives. Oxford.
+SOCIAAL & CULTUREEL PLANBUREAU (1976), Naar sociale indikatoren op het ter-
+rein van de volksgezondheid. SCP-cahier 7.
+SOCIAAL & CULTUREEL PLANBUREAU (1982), Sociaal en Cultureel Rapport.
+Staatsuitgeverij.
+SPRUIT, I.P. (1978), Ziekte en gezondheid in niet-westerse culturen.
+In: C.W. AAKSTER & G. KUIPER, Leerboek medische sociologie.
+Groningen/Deventer.
+STIJNENBOSCH, M.H. (1983), Non-profit sector en intramurale gezondheidszorg:
+een sociaal-geografische analyse. UGS 29, Geografisch Instituut, RU Utrecht.
+VEN, W.P.M.M. VAN DE, F.A. NAUTA, R.C.J.A. VAN VLIET & F.F.H. RUTTEN (1980),
+Inventarisatie en achtergronden van de consumptieverschillen tussen zieken-
+fonds- en partikulier verzekerden. In: Gezondheid en Samenleving, 1,
+p. 224-252.
+VERGELIJKEND BUURTONDERZOEK AMSTERDAM (1981), deelrapporten 1,2 en 3.
+Amsterdam.
+VLIERT, E. VAN DE & F. DE BOER (1984), Sociale steun als determinant van
+gezondheid: suggesties voor verder onderzoek. In: Gezondheid en Samenleving.
+VLIET, R.C.J.A. VAN & W.P.M.M. VAN DE VEN (1981), Analyse van medische consump-
+tie en van verschillen tussen ziekenfonds- en partikulier verzekerden I.
+Een secundaire analyse van de L.S.O.-'77 enquête.
+COEPS/SWOKA, Leiden.
+VLIET, R.C.J.A. VAN & W.P.M.M. VAN DE VEN (1983), Analyse van verschillen in
+huisartsenhulp tussen ziekenfonds- en partikulierverzekerden.
+In: Economisch Statistische Berichten, p. 456-461.
+VLIET, R.C.J.A. VAN (1984), Nieuwe inventarisatie van verschillen in medische
+konsumptie tussen ziekenfonds- en partikulierverzekerden.
+In: Gezondheid en Samenleving, 5.
+YPEMA, E. & F. DE HAEN (1983), Verdelen naar behoefte. Een bijdrage tot kapa-
+citeitsnormering in de ambulante geestelijke gezondheidszorg. P
+NCGV-reeks 58, Utrecht.
+48
+ZEE, J. VAN DER (1982), De vraag naar diensten van de huisarts,
+Nederlands Huisartsen Instituut.
+ZIELHUIS, R. L. (1980), Sociale geneeskunde en sociale ongelijkheid in
+gezondheid. In: Tijdschrift Sociale Geneeskunde, 58, Supplement, p. 19-31.
+ZIJDERVELD, A.C. (1974), Institutionalisering. Een studie over het methodolo-
+gisch dilemma der sociale wetenschappen. Hilversum.
+DATA LEVERENDE INSTANTIES:
+- Centraal Bureau voor de Statistiek
+- Federatie van bureaus voor medische sportkeuring
+- Gemeenschappelijke Medische Dienst
+- Gemeente Ermelo; Hoogezand-Sappemeer; Tilburg en Zaanstad
+- Geografisch INformatieSYsteem, geografisch instituut, RU Utrecht.
+- Landelijk Informatie Systeem Ziekenfondsen
+- Ministerie van Defensie
+- Nationaal Ziekenhuis Instituut
+- Nederlandse Vereniging Ambulante Geestelijke Gezondheidszorg
+- Provinciale Werkgelegenheids Enquête Gelderland
+- Stichting Medische Registratie.
+DE VRAAGFACTOREN IN SCHEMA
+ASPECT INDICATOREN
+VARIABELEN
+OPERATIONALISATIE
+BESCHIKBAARHEID
+Er. Il-S TIL ZAAN
+A DEMOGRAFISCHE FACTOREN
+kn	I	Puur demografische	1. leeftijd	geneutraliseerd
+		bevolkingskenmerken	2. geslacht	geneutraliseerd
+			3. sterfte	3. aantal overledenen per 100 van de
+				bevolking x x x x
+			4. vruchtbaarheid	4.1. aantal levendgeborenen per 1000 van
+				de bevolking * * * *
+				4.2. geboorten per 1000 vrouwen van 15-45
+				jaar x x * *
+				4.3. geboorten per 1000 gehuwde vrouwen van
+				15-45 jaar x x x x
+			5. loop van de	5. saldo geboorte, sterfte on migratie
+			bevolking	per 1000 x * x x
+kg II Samenlevingsvorm
+1. hurgelljko staat
+2. huishouden
+1.1. aantal gehuwde personen per 1000 20*
+bevolking x
+1.2. aantal ongehuwde personen per 1000
+20* bevolking x
+1.3. aantal gescheiden personen per 1000
+20+ bevolking x
+1.4. aantal verweduwde personen per 1000
+20+ bevolking x
+1.5. gesloten huwelijken per 1000 ongehuwdel x
+1.6. uitgesproken scheidingen per 1000 ge-
+huwden x
+2.1. aantal alleenstaanden, on- en volledige
+gezinnen
+2.2, verhouding alleenstaanden versus In ge-
+zinsverband wonende personen
+2.3. gemiddelde gezinsgrootte
+2.4. gezinsfase?
+kn	III Gezondheidstoestand	1. resultaten medi-	1.1. verhouding goedgekeurde- en afgekeurde				
+		sche keuringen	jongens bij militaire dienstplichtkeu-				
+			ring	®	0	e	e
+			1.2. verhouding goedgekeurde- en afgekeurde				
+			personen bij medische sportkeuringen	X	X	X	X
+		2. arbeidsongeschikt-	2. aantal AAW-ers en WAO-ers per 1000 van				
+		heid	de bevolking van 15-64 jaar	e	e	6	
+		3. zuigelingensterfte	3, percentage baby's dat overlijdt in het				
+			eerste levensjaar	X	X	X	X
+ASPECT INDICATOREN
+VARIABELEN
+OPERATIONALISATIE
+BESCHIKBAARHEID
+Er. H-S TIL ZAAN
+B SOCIAAL ECONOMISCHE STATUS
+kra/kg	I	Financiële positie	1. inkomen 2. vermogen 3. inkonensbron 4. ziekteverzekering 5. eigendomstructuur woningen	1.1. gemiddeld inkomen per inkomenstrekker 1.2. gemiddeld inkomen per inwoner 2.1. gemiddelde omvang vermogen 2.2. gemiddeld vermogen per inwoner 3.1. aantal bljstand-genietenden per 1000 van de bevolking van 15 jaar en ouder 3.2. aantal WWv-genietenden per 1000 van de bevolking van 15 jaar en ouder 3.3. totaal aantal ultkering-gcnietenden per 1000 van de bevolking van 15 jaar en ouder 4. percentage ziekenfondsverzekerden 5. percentage woningen bewoond door de eigenaar	e e © e + + + e e	e e e e + + + ®	e e e e + + + X •	e e e e + + +
+km/kg	II	Opleiding	1. genoten oplei- dingsniveau 2. huidige oplei- dingsniveau	1. percentage personen van 25 jaar en ouder met een hogere opleiding 2.1. percentage jongeren van 10 tot 20 jaar dat een dagschool voor MAVO, HAVO of VWO bezoekt 2.2. verhouding aantal leerlingen B.U.O. en L.O.	x X	X X	X X	X X
+kz/kg/kn III		Arbeid	1. werkzam personen naar bedrijfstak 2. arbeidsposltlc	1.1. percentage werkzame personen in de landbouw en visserij 1.2. percentage werkzame personen in de industrie 1.3. percentage werkzame personen in do bouwnijverheid 1.4. percentage werkzame personen in de dienstverlening 2.1. verhouding aantal zelfstandigen ver- sus aantal personen in loondienst 2.2. aantal werklozen per 1000 van de bevolking van 20-59 jaar	® e ® X	® e t»	e ® ® o	e e ® <•
+BESCHIKBAARHEID
+Er. H-S TIL ZAAN
+ASPECT INDICATOREN
+VARIABELEN
+OPERATIONALISATIE
+C FYSIEKE/SOCIALE OMGEVING
+kg/kn	I	Ruimtelijke omgeving	1. bevolkingsdichtheid	2 1. aantal inwoner per km	X	X	X	X
+			2. grondgebruik	2.1. percentage bebouwd oppervlak in de				
+				gemeente	X	X	X	X
+				2.2. percentage bebouwd recreatiegebied				
+				in de gemeente	X	X	X	X
+				2.3. percentage bebouwd industriegebied				
+				in de gemeente	X	X	X	X
+kn	II	Milieuhinder	1. verontreiniging 1.	hoeveelheid SO2 in de lucht	e	e	e	e
+			2. gemotoriseerd ver- 2. voer	aantal motorvoertuigen per 1000 van de bevolking	X	X	X	X
+kn/kg in Woonsituatie
+1. woningbczettlng	1. gemiddeld aantal personen per woning	X	X	X	X
+2. woningtype	2. verhouding aantal eensgezinswoningen versus meergezinswoningen	e	©	e	©
+3. ouderdom woning	3.1. percentage woningen van voor do oorlog	A	A	e	A
+	3.2. perdentage nieuwbouwwoningen gebouwd na 1965 resp. 1970	e	e	©	©
+4. voorzieningen in	4.1. percentage woningen zonder douche	-	-	-	-
+de woning	4.2. percentage woningen zonder c.v.	-	-	-	-
+IV Overheidsbemoeienis
+1. gemeentebegroting
+1.1. uitgegeven bedrag aan volksgezondheid»
+per inwoner
+1.2. uitgegeven bedrag aan sociale- en
+maatschappelijke zorg per Inwoner
+1.3. uitgegeven bedrag aan cultuur en re-
+creatie per Inwoner
+V Ongevallen
+1. verkeersongevallen 1.
+2. bedrijfsongevallen 2.
+aantal slachtoffers van verkeerson-
+gevallen per 1000 van de bevolking
+aantal werkzame personen in bedrijfs-
+takken met hoog ongevallenrisico als
+percentage van het totaal aantal werk-
+zame personen
+km VI Bereikbaarheid
+1. locatie voorzie- 1.
+ningen
+2. mobiliteit bevol- 2.
+klng
+afstand in kilometers tot ziekenhuis *
+aantal personenauto's per 1000 van de
+bevolking *
+ASPECT INDICATOREN
+VARIABELEN
+OPERATIONALISATIE
+BESCHIKBAARHEID
+Er. H-S TIL ZAAN
+D SOCIAAL-CULTURELE FACTOREN
+kg/kn I Sociale integratie
+1. kerkelijke
+gezindte
+2. politieke
+gezindte
+3. ethnische samen-
+stelling
+4. migratie/
+mobiliteit
+5. verenigingsleven
+1.1.	aantal R-katholiekcn per 1000 van de bevolking	ft
+1.2.	aantal N-hervormden per 1000 van de bevolking	ft
+1.3.	aantal Gereformeerden per 1000 van do bevolking	*
+1.4.	aantal nlet-gelovigen per 1000 van de bevolking	«
+2.	opkomstpercentage kiezers bij verkie- zingen	X
+3.1.	aantal Mediterranen per 1000 van de be- volking	♦
+3.2.	aantal nlct-Nedorlandcrs per 1000 vim de bevolking	ft
+4.1.	aantal vostigors in de gemeente per 1000 van do bevolking	ft
+4.2.	aantal vertrekkers uit de gemeente per 1000 van de bevolking	ft
+4.3.	de verhulsmobllltelt per 1000 van de bevolking	X
+5. aantal personen met één of meer vereni-
+glngslldmaatschap per 1000 van de
+bevolking
+II Consumptiegewoonten
+1. voedingsgewoonten
+2. gebruik genot-
+middelen
+3. gebruik genees-
+middelen
+1. gemiddeld aantal calorieën per hoof oer
+dag '
+2.1. gemiddelde hoeveelheid tabak per hoofd
+per dag
+2.2. gemiddelde hoeveelheid alcohol per hoofd
+per dag
+3;1. jaarlijkse uitgaven aan geneesmiddelen
+die op recept zijn verstrekt
+3.2. jaarlijkse uitgaven aan "vrije" genees-
+middelen
+kn/kg III Gezondheidsgedrag
+1. sportbeoefening
+2. bevolkingsonder-
+zoek
+1.1. aantal leden van sportverenigingen per
+1000 van de bevolking
+1.2. aantal medische sportkeuringen per 1000
+van do bevolking » x
+2. deelname percentage aan baarmoeder-
+halskankeronderzock + +
+kg IV Houding t.o.v. 1. bevallingen
+gezondheidszorg
+2. woonplaats
+bejaarden
+1.1. percentage bevallingen dat buiten een
+inrichting heeft plaatsgevonden
+1.2. percentage bevallingen dat zonder ge-
+neeskundige hulp heeft plaatsgevonden
+2.1. percentage bejaarden dat nlet-zelf-
+standig woont
+2.2. aantal bejaardenwoningen per 1000 be-
+jaarden
+X X X X
+® ® ® ®
+e e © e
+LEGENDA
+Aspect:
+kg - koncumptlegenelgdheid
+*m • konsumptiemogelijkheld
+kn ’ konsuroptlenoodzaak
+Beschikbaarheid:
+- <■ in het geheel niet
++ - voor 1974 óf 1902
+x - voor 1974 én 1902
+8 = voor één ander jaar
+e = voor 1974 óf 1982 en één ander jaar

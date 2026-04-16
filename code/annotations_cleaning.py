@@ -34,6 +34,7 @@ def find_replace_in_file(file_path, old, new):
 
 
 def conll200_to_tags_dict(file_path):
+    """Reads the conll file and returns a dictionary with the tags as keys and the corresponding annotations as values."""
     tags_dict = {}
     with open(file_path, encoding="utf-8") as f:
         counter = 0
