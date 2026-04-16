@@ -1,6 +1,3 @@
-from collections import namedtuple
-from thefuzz import fuzz
-import re
 import pandas as pd
 import ast
 
@@ -134,33 +131,36 @@ def main():
     df_ref = pd.read_csv(GROUND_TRUTH_CSV, usecols=["thesisID", subject_col], encoding="latin-1")
     df_pred = pd.read_csv(PREDICTIONS_CSV, usecols=["thesisID", "subject_predicted"], encoding="latin-1")
 
-    # Match rows using thesisID
-    df_merged = pd.merge(df_pred, df_ref, on="thesisID", how="inner")
+    print(df_ref)
+    print(df_pred)
 
-    # Build output rows
-    rows = []
-    for _, row in df_merged.iterrows():
-        metrics = compute_subject_metrics(
-            subject_reference=row["subject"],
-            subject_predicted=row["subject_predicted"],
-            threshold=0.6
-        )
-        rows.append(
-            {
-                "thesisID": row["thesisID"],
-                "recall": metrics["recall"],
-                "precision": metrics["precision"],
-                "f1": metrics["f1"],
-                "jaccard": metrics["jaccard"],
-            }
-        )
+    # # Match rows using thesisID
+    # df_merged = pd.merge(df_pred, df_ref, on="thesisID", how="inner")
 
-    # Write output
-    df_out = pd.DataFrame(rows, columns=["thesisID", "recall", "precision", "f1", "jaccard"])
+    # # Build output rows
+    # rows = []
+    # for _, row in df_merged.iterrows():
+    #     metrics = compute_subject_metrics(
+    #         subject_reference=row["subject"],
+    #         subject_predicted=row["subject_predicted"],
+    #         threshold=0.6
+    #     )
+    #     rows.append(
+    #         {
+    #             "thesisID": row["thesisID"],
+    #             "recall": metrics["recall"],
+    #             "precision": metrics["precision"],
+    #             "f1": metrics["f1"],
+    #             "jaccard": metrics["jaccard"],
+    #         }
+    #     )
+
+    # # Write output
+    # df_out = pd.DataFrame(rows, columns=["thesisID", "recall", "precision", "f1", "jaccard"])
     
-    OUTPUT_CSV = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\subjective_labels_extraction\keyword_extraction\results\keyword_extraction_results" + f"_{subject_col}_{threshold}" + ".csv"
+    # OUTPUT_CSV = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\subjective_labels_extraction\keyword_extraction\results\keyword_extraction_results" + f"_{subject_col}_{threshold}" + ".csv"
 
-    df_out.to_csv(OUTPUT_CSV, index=False, encoding="latin-1")
+    # df_out.to_csv(OUTPUT_CSV, index=False, encoding="latin-1")
 
 
 if __name__ == "__main__":

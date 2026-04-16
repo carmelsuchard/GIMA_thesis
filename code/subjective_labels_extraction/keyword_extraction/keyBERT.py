@@ -107,7 +107,7 @@ FAILED_OUTPUT_PATH = ROOT / "code" / "subjective_labels_extraction" / "keyword_e
 # MODEL = KeyBERT(model="robbert-2022-dutch-sentence-transformers")
 MODEL = KeyBERT()
 
-def extract_keywords(text: str, top_n: int = 10) -> list[str]:
+def extract_keywords(text: str, top_n: int = 3) -> list[str]:
     print("Extracting keywords from text...")
     start_time = time.perf_counter()
     
