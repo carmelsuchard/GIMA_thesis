@@ -99,30 +99,33 @@ STRUCTURAL_STOPWORDS = [
 
 
 ROOT = Path(__file__).resolve().parents[3]
-TEXTS_DIR = ROOT / "code" / "data" / "texts"
+TEXTS_DIR = ROOT / "code" / "data" / "unlabeled_texts"
 IDS_PATH = ROOT / "code" / "data_cleaning" / "thesis_IDs.csv"
 OUTPUT_PATH = ROOT / "code" / "subjective_labels_extraction" / "keyword_extraction" / "keyword_extraction.csv"
 FAILED_OUTPUT_PATH = ROOT / "code" / "subjective_labels_extraction" / "keyword_extraction" / "keyword_extraction_failed.csv"
 
 # MODEL = KeyBERT(model="robbert-2022-dutch-sentence-transformers")
-MODEL = KeyBERT()
+MODEL = KeyBERT(model="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+# MODEL = KeyBERT()
 
 def extract_keywords(text: str, top_n: int = 3) -> list[str]:
     print("Extracting keywords from text...")
     start_time = time.perf_counter()
     
-    vectorizer = CountVectorizer(ngram_range=(1, 3), stop_words=DUTCH_STOPWORDS+STRUCTURAL_STOPWORDS)
+    vectorizer = CountVectorizer(ngram_range=(1, 2), stop_words=DUTCH_STOPWORDS+STRUCTURAL_STOPWORDS)
     keywords = MODEL.extract_keywords(
         text,
         top_n=top_n,
         vectorizer=vectorizer,
-        keyphrase_ngram_range=(1, 3),
+        keyphrase_ngram_range=(1, 2),
         stop_words=DUTCH_STOPWORDS+STRUCTURAL_STOPWORDS,
     )
 
     elapsed_seconds = time.perf_counter() - start_time
     print(f"Keyword extraction completed in {elapsed_seconds:.2f} seconds: {len(keywords)} keywords found.")
-    print("Extracted keywords and scores: ", keywords)
+    print("Extracted keywords and saliency scores:")
+    for keyword, score in keywords:
+        print(f"- {keyword}: {score:.4f}")
     return [keyword for keyword, _score in keywords]
 
 

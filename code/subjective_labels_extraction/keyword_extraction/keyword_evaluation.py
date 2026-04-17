@@ -1,8 +1,8 @@
 import pandas as pd
 import ast
 
-GROUND_TRUTH_CSV = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\data_cleaning\annotations_summary_manually_edited.csv"
-PREDICTIONS_CSV = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\subjective_labels_extraction\keyword_extraction\keyword_extraction.csv"
+GROUND_TRUTH_EXCEL = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\data_cleaning\annotations_summary_manually_edited.xlsx"
+PREDICTIONS_CSV = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\subjective_labels_extraction\keyword_extraction\keyword_extraction.csv"
 
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
@@ -128,39 +128,49 @@ def compute_subject_metrics(subject_reference, subject_predicted, threshold=0.6)
 def main():
     subject_col = "subject"
     # Read input files
-    df_ref = pd.read_csv(GROUND_TRUTH_CSV, usecols=["thesisID", subject_col], encoding="latin-1")
-    df_pred = pd.read_csv(PREDICTIONS_CSV, usecols=["thesisID", "subject_predicted"], encoding="latin-1")
+    df_ref = pd.read_excel(GROUND_TRUTH_EXCEL, usecols=["thesisID", subject_col], engine="openpyxl")
+    df_pred = pd.read_csv(PREDICTIONS_CSV, usecols=["thesisID", "subject_predicted"])
 
-    print(df_ref)
-    print(df_pred)
+    # Match rows using thesisID
+    df_merged = pd.merge(df_pred, df_ref, on="thesisID", how="inner")
 
-    # # Match rows using thesisID
-    # df_merged = pd.merge(df_pred, df_ref, on="thesisID", how="inner")
+    # Drop rows where either reference or prediction is missing/empty
+    df_merged = df_merged.dropna(subset=[subject_col, "subject_predicted"])
+    df_merged = df_merged[df_merged[subject_col].str.strip() != ""]
+    df_merged = df_merged[df_merged["subject_predicted"].str.strip() != ""] 
 
-    # # Build output rows
-    # rows = []
-    # for _, row in df_merged.iterrows():
-    #     metrics = compute_subject_metrics(
-    #         subject_reference=row["subject"],
-    #         subject_predicted=row["subject_predicted"],
-    #         threshold=0.6
-    #     )
-    #     rows.append(
-    #         {
-    #             "thesisID": row["thesisID"],
-    #             "recall": metrics["recall"],
-    #             "precision": metrics["precision"],
-    #             "f1": metrics["f1"],
-    #             "jaccard": metrics["jaccard"],
-    #         }
-    #     )
+    # Build output rows
+    rows = []
+    threshold = 0.6
+    for _, row in df_merged.iterrows():
+        metrics = compute_subject_metrics(
+            subject_reference=row["subject"],
+            subject_predicted=row["subject_predicted"],
+            threshold=threshold
+        )
+        rows.append(
+            {
+                "thesisID": row["thesisID"],
+                "recall": metrics["recall"],
+                "precision": metrics["precision"],
+                "f1": metrics["f1"],
+                "jaccard": metrics["jaccard"],
+            }
+        )
 
     # # Write output
-    # df_out = pd.DataFrame(rows, columns=["thesisID", "recall", "precision", "f1", "jaccard"])
+    df_out = pd.DataFrame(rows, columns=["thesisID", "recall", "precision", "f1", "jaccard"])
+    df_out[["recall", "precision", "f1", "jaccard"]] = df_out[["recall", "precision", "f1", "jaccard"]].round(2)
     
-    # OUTPUT_CSV = r"C:\Users\carme\OneDrive\Documents\Git_Repos\GIMA_thesis\code\subjective_labels_extraction\keyword_extraction\results\keyword_extraction_results" + f"_{subject_col}_{threshold}" + ".csv"
+    OUTPUT_CSV = r"C:\Users\5298954\Documents\Github_Repos\GIMA_thesis\code\subjective_labels_extraction\keyword_extraction\results\keyword_extraction_results" + f"_{subject_col}_{threshold}" + ".csv"
+    df_out.to_csv(OUTPUT_CSV, index=False)
 
-    # df_out.to_csv(OUTPUT_CSV, index=False, encoding="latin-1")
+    averages = df_out[["recall", "precision", "f1", "jaccard"]].mean().round(2)
+    print("Average metrics:")
+    print(f"Recall: {averages['recall']:.2f}")
+    print(f"Precision: {averages['precision']:.2f}")
+    print(f"F1: {averages['f1']:.2f}")
+    print(f"Jaccard: {averages['jaccard']:.2f}")
 
 
 if __name__ == "__main__":
